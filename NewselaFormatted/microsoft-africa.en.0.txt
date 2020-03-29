@@ -1,0 +1,60 @@
+Anand Mariappan spends his days at Microsoft building data-analysis tools largely designed for people like him.
+
+That is, office workers accustomed to high-resolution computer monitors, lightning-quick Internet and the creature comforts of a modern office park.
+
+In January, the 31-year-old software developer spent three weeks doing his best to help a different constituency: startups trying to get off the ground in Kampala, Uganda.
+
+There, things like optimizing an app's layout for the iPhone didn't have quite the same importance as ensuring the software could function smoothly if Internet service cut out.
+
+"Here, you have so many resources.
+
+Engineering talent, easily available Internet," Mariappan said.
+
+"In developed countries, you don't consider some of those factors."
+
+Mariappan's trip was part of Microsoft's 2-year-old, $75 million 4Afrika initiative.
+
+The MySkills4Afrika program has shuttled about 400 Microsoft employees on two- to three-week stints to customers in African countries to share their particular skills, from software development to marketing.
+
+Part business-development effort, part workforce-leadership training, part public-relations push, 4Afrika is billed as a program to bolster the capacity of the continent's companies and government entities to use technology.
+
+In the best-case scenario, it also improves Microsoft's image and expands the company's roster of customers.
+
+"It's not philanthropy, it is not a charity," said Fernando de Sousa, Microsoft's human resources chief for the Middle East and Africa and the program's founding manager.
+
+"We're investing in the continent in order to enable economic development."
+
+Microsoft's investment in Africa started, like that of many U.S. companies, in South Africa, long the continent's largest and most industrialized economy.
+
+The company was among the first U.S. company to return to South Africa after Congress lifted its trade sanctions amid signs of a thaw in the enforced racial abuse of apartheid.
+
+De Sousa joined Microsoft in South Africa in 1992 and was on the team that in 2005 put together a noncommercial strategy for the continent, focusing on how technology could help fulfill the United Nations' development goals for the continent.
+
+In 2013, Microsoft announced a three-year 4Afrika initiative, committing what de Sousa said is the largest development investment anywhere outside of China.
+
+"In the background there was the understanding that we needed to think about Africa in a different way," said de Sousa, who was born in Mozambique.
+
+The program hasn't been without its flops.
+
+The flagship piece of its early days, a push to spur adoption of a low-cost, Windows-powered smartphone, "did not do so well," said Winnie Karanu, a program manager with Microsoft in Kenya.
+
+That effort coincided with Microsoft's global struggles to increase its tiny smartphone market share amid fierce competition from Google and Apple.
+
+More successful, Karanu says, were training programs, internships for youth, a pilot program to use television white space to broaden the reach of the Internet, and the MySkills4Afrika program.
+
+Mariappan's work in Uganda centered on sharing his insight on Power BI, Microsoft's relatively new data analytics tool.
+
+He spent time with companies trying to make sense of sales data involving farm goods and helped a startup build mobile-payment tools.
+
+"My goal was to teach," he said.
+
+"But I learned a lot."
+
+Eileen Chou, a manager in Microsoft's information technology support group, spent three weeks in Kenya in October, working alongside a few other Microsoft employees to train the Kenya Red Cross' IT department in workflow methods and how to make use of a grant of Microsoft software.
+
+"We all kind of came to a realization that the core issues are very much the same," she said.
+
+"You always feel like you never have enough people to do everything; you always wear multiple hats."
+
+She added, "We all would do it again in a heartbeat."
+

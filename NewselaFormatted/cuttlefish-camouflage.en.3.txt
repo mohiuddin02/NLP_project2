@@ -1,0 +1,88 @@
+Sometimes engineers get ideas from the most unlikely places.
+
+3-D printing and cuttlefish don't seem to have anything in common.
+
+Yet the engineers who created a new 3-D printing process said they looked to the cuttlefish for inspiration.
+
+3-D printing is a new way to make all sorts of things, from jewelry to airplane engines.
+
+Instead of being two-dimensional or flat, objects can be printed as 3-D, or three-dimensional.
+
+First, an object is designed on a computer.
+
+Then the design is sent to a 3-D printer.
+
+3-D printers can turn plastic into objects of any shape.
+
+3-D printers used to be able to make only solid and hard objects, like car parts.
+
+Now, engineers have made a new type of printing process.
+
+It can be used to print soft 3-D materials.
+
+"This project was originally about camouflage," says Mark Guttag, the lead engineer of the new printer.
+
+Guttag studied the cuttlefish because it's good at camouflage, or blending into its surroundings.
+
+The cuttlefish is not a fish; it is a sea animal related to the octopus.
+
+Cuttlefish have large, stretchy bodies and tentacles around their mouths.
+
+They often hide from predators by changing their skin color to blend in.
+
+Most interesting to the engineers is that the cuttlefish can change the feel, or texture, of its skin.
+
+Guttag and an engineering professor, Mary Boyce, were inspired by the cuttlefish.
+
+They wanted to create surfaces that can change textures, just like the cuttlefish.
+
+The engineers developed a 3-D printing process that uses polymers.
+
+Polymers are the tiny pieces that make up plastics and are used in a variety of materials.
+
+The engineers used hard and soft polymers.
+
+The 3-D printer puts the hard polymers into the softer, squishy polymer material.
+
+Then the two are squeezed.
+
+The engineers found that this makes the smooth surface of the soft polymer become like the hard polymer.
+
+The hard polymer can be smooth, bumpy or rough.
+
+This can make the soft polymer material become smooth, bumpy or rough.
+
+When the two polymers are no longer squeezed, the material returns to its original smooth texture.
+
+Shengqiang Cai is an engineer at the University of California in San Diego.
+
+He was not part of the cuttlefish study but is very interested in what the scientists did.
+
+He thinks it could help engineers make many new, interesting materials.
+
+He also thinks it will help scientists understand how animals like cuttlefish change their patterns.
+
+Once the material is created by the 3-D printer, its polymers are usually stuck in a fixed order.
+
+Guttag and Boyce have thought of some ways to get different types of surfaces.
+
+Engineers can use stretched pieces of hard polymers instead of round ones.
+
+Then, they could make surfaces that are both smooth one way and rough the other way.
+
+Also, if the polymers are squeezed differently, it can produce a different surface.
+
+If they are lightly squeezed, the surface feels one way.
+
+Squeeze them a little harder, though, and it could cause the tiny pieces of polymers to rotate.
+
+This will create a different surface and feel.
+
+The engineers have discovered their new changeable surface is useful in other ways, too.
+
+It can make an object move through the air more easily.
+
+It can even make some objects reflective and waterproof.
+
+The new type of 3-D printing could bring new possibilities to many different businesses.
+

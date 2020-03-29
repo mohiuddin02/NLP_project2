@@ -1,0 +1,72 @@
+SA has announced new evidence that could confirm the presence of liquid water on the Red Planet, increasing the possibility that astronauts journeying to Mars could rely on the planet's own water for their drinking needs.
+
+"Liquid water is a sexy topic, and we're like the thousandth time someone has discovered water on Mars," Lujendra Ojha, the Georgia Tech Ph.D. candidate who led the research that was announced Monday, told The Washington Post.
+
+There's a good reason that liquid water is so "sexy": Mars is now the only planet in our solar system to show evidence of the stuff on its surface, other than our own.
+
+Other worlds have it in subsurface oceans, or scattered around as vapor in the atmosphere.
+
+But Mars is the only place where we have solid evidence for liquid that sits right there in the open air.
+
+While it would be a major leap to suggest that Mars might harbor life - even microbial life - liquid water at least makes it possible that parts of the planet are habitable.
+
+(New NASA research says Mars once had a large ocean.)
+
+The study builds on research from last April, when scientists using data from the Curiosity rover noted that the planet had the seasonal potential for liquid water.
+
+We know that because of the extremely low pressure on Mars, water has a boiling point of just a few degrees Celsius, after which it evaporates.
+
+The April study noted the presence of perchlorates - a kind of salt - which could make the boiling point of Mars's water much higher, theoretically allowing it to remain liquid.
+
+They posited that the planet's temperature would be right for liquid, perchlorate-filled water to form every day during winter and spring.
+
+In theory, water that periodically turned liquid before evaporating could form geographic features often spotted on the planet that look like the slow crawl and retreat of dark, damp sand, which are called recurring slope lineae (RSL).
+
+In the new study, published Monday in Nature Geoscience, a different group of researchers took the search for perchlorates one step further: They went looking for them in the very RSL features thought to be formed by salty liquid.
+
+They found perchlorates in abundance - and it seems like they have been getting hydrated.
+
+Ojha and his colleagues used the Mars Reconnaissance Orbiter (MRO) to check out the chemical composition of the wet-looking streaks.
+
+They used a technique called spectroscopy, which keeps track of what spectra of light an object absorbs in order to make conclusions about its composition.
+
+With this technique, scientists can identify glass, ice and other substances from miles above the surface.
+
+"We're going to places where we thought we were seeing the presence of water and finding chemical evidence of perchlorates," Ojha said.
+
+And the correlation goes further than that: The hydrated salts seem to disappear in areas where RSL weren't forming anymore, or were shrinking.
+
+"We're observing the leftover molecules of water in the salt," Ojha said.
+
+"We're finding evidence that they're getting hydrated."
+
+Morten Bo Madsen of the University of Copenhagen - who co-authored the April study, but was not involved in the latest work - said the new results were significant.
+
+"(The) flow of liquid salty water is no longer just a possibility; it does actually occur," he told the Post.
+
+"The results shows that liquid does indeed flow on Mars today."
+
+Ojha's work confirms that hydrated salts seem very likely to have something to do with the formation of the wet-looking streaks on Mars.
+
+But there's more work to do to confirm the presence of liquid water itself.
+
+Ojha pointed out that the MRO's resolution is too low to pick up many of the smaller "wet" features on Mars, and that a new orbiter could get even more information, especially since the MRO only allows us to examine Mars's surface at what Ojha believes is the driest point in the day.
+
+Eventually, the hope is that a rover can take a closer look at the streaks themselves.
+
+If liquid is truly forming on the surface because of these salts, it's still extremely volatile, it should evaporate at just 20 degrees Celsius or so.
+
+But it could create pockets of the planet where microbes can survive, even today.
+
+And in theory, it could be extracted and used by astronauts on a Mars mission.
+
+Perchlorates could be helpful in their own right, too.
+
+They can be used to make rocket propellant.
+
+"If we ever go there, we could probably utilize this.
+
+We wouldn't have to bring tons of water," Ojha said.
+
+"This stuff seems like science fiction, but in 100 years or so it could be fact."
+

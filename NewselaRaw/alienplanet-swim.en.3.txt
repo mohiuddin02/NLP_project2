@@ -1,0 +1,31 @@
+The tiny cuttlefish. The huge stingray. The squid. What would these different sea creatures look like if they were to develop in the oceans of an alien world? A new study says they would probably look a lot like the ones on Earth.
+
+The study looked at the motion of certain sea animals that are not related to each other. Scientists found that their swim strokes follow a similar ratio. They think this shows a case of convergent evolution. Convergent evolution is when two totally different species develop similar traits as they both adapt to living in similar environments.
+
+For example, the bony cuttlefish is a very different from the squid. But they both developed their swim strokes in the same way. The study was published in a scientific journal called PLOS Biology. Some think the study could help engineers build robots that swim better.
+
+## Fin Swimmers Move Differently
+
+Work done before this study has found that there are sea animals that swim in much the same way.
+
+A team of scientists at Northwestern University were studying the black ghost knifefish. That is when they first began to wonder about common rules of movement. The black ghost knifefish lives in streams in South America and swims by moving the fin on the underside of its body in a wave-like motion. This is different from how trout or salmon move. These fish sweep a tail, and the back part of their bodies, back and forth. Instead, the knifefish causes a wave to ripple down its thin fin, which runs most of the length of its body.
+
+Sea creatures that move like this are called fin swimmers. Some have a single fin running along the length of their bodies. Others have a pair, one on each side.
+
+## How Can They Swim So Fast?
+
+The scientists studied the way the knifefish moved. The fish could move fastest when two waves of motion could fit across the length of its fin. They wondered whether there might be a common rule across different species.
+
+The scientists studied 22 very different species of finned swimmers. They wanted to find out if there was a pattern to how they moved. They even trimmed the fin on a swimming robot to see whether that made any difference.
+
+They found that there was indeed a pattern in the motion of the sea creatures. Still, it was not quite what they expected. As it moved, each animal seemed to follow a pattern. The fraction of the length of each rippling wavelength to the height of each wavelength was about 20 to 1. In other words, each full back-and-forth wiggle of the fish's fin was 20 times as long as the wiggle was wide. For each species they studied, including skates, rays, the black ghost knifefish, the cuttlefish and the Persian carpet flatworm — the fish all swam the same way.
+
+## The Same Rules Apply On Alien Planet
+
+This way of moving has developed over and over again in different species. The scientists think this is because this pattern works for the sea creatures. It lets them swim faster and better. There could be a thousand more finned-swimming species that have the same ratio, the authors of the study said.
+
+If alien creatures were to be found on another planet using a fin to swim, the fish would probably swim in a similar way, said Malcolm MacIver, a bio-engineer at Northwestern University.
+
+"There's only a certain number of ways in which animals can move" well, MacIver pointed out. If those alien animals were moving through liquid water on another planet, then the same rules apply. "Water's water," he said.
+
+The study could help scientists build underwater robots that swim better, the researchers added. Such skills are important, for example, when sending underwater vehicles to deal with oil spills. Of course, those vehicles cannot yet swim with the level of skill that animals can.

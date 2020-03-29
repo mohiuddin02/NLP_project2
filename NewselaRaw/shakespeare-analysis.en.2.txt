@@ -1,0 +1,31 @@
+New research has found that an old play was probably written by William Shakespeare.
+
+"Double Falsehood" is a play said to have been written by the 16th-century poet and playwright. However, for almost 300 years there has been some dispute about who wrote the play. The new research says it is almost certainly the work of Shakespeare.
+
+Shakespeare appears to have had some assistance in the project from John Fletcher. He lived in Shakespeare's time and is thought to have co-written three plays with Shakespeare near the end of Shakespeare's life. One of those plays was similar to "Double Falsehood."
+
+Nevertheless, "the entire play was consistently linked to Shakespeare with a high probability," the authors of the new study wrote.
+
+## Computers Scanned Millions Of Words
+
+Those findings came after two researchers used computers to study the play's language. They counted every single pun, put-down or preposition. The researchers' method was an extreme form of the practice of "stylometry," a practice that has long been used by scholars of literature. They used computers to pore through millions of sentences of text.
+
+The computers were aided by programs called machine-learning programs. The programs let the computers quickly learn types of language that show up regularly. The repeated language becomes an author's "signature." When the authorship of a book or play is in doubt, computer stylometry can compare authors' "signatures" to that of the disputed work. The result is a scientific basis for deciding who the author was.
+
+In the end, two professors from the University of Texas in Austin declared that the author of "Double Falsehood" was Shakespeare. It was not written by Lewis Theobold, a devoted follower of Shakespeare, they said.
+
+## There Were Suspicions
+
+Theobold was a Shakespeare scholar and collector of manuscripts. He published the play in 1728. Theobold claimed it came from three original manuscripts written by the Bard. The Bard was Shakespeare's nickname. Those manuscripts, however, were said to have burned in a library fire. In the absence of proof, scholars became suspicious that Theobold was only pretending that the play was written by Shakespeare.
+
+University of Texas professors Ryan L. Boyd and James W. Pennebaker conducted the study. The computers they used studied 54 plays — 33 by Shakespeare, nine by Fletcher and 12 by Theobold. The machines computed each play's average sentence length. They calculated how difficult the writing was, as well as the psychological elements of its language. The computers also figured out the frequent use of unusual words.
+
+Boyd and Pennebaker said the study showed evidence that the work was not a fake by Theobold.
+
+## Writing Is A Personality Portrait
+
+Being able to create a writer's signature opens up new ways of proving who wrote something, according to Boyd and Pennebaker. But they emphasized that it can also be used to provide a "better understanding" of who a person was and how they thought.
+
+Boyd and Pennebaker pointed to research that has been around for a while. It shows that the way writers use language, the words they choose, and even the length of their sentences, shows things about how a writer thinks and acts. A deep study of a writer's verbal output can "paint a very rich picture of who that person is, how he or she thinks, and what he or she thinks about," they wrote.
+
+For Shakespeare, much of whose life remains a mystery, the study offers a bit of information: his frequent use of prepositions suggests he was very educated in grammar. His heavy use of "social content words" (instead of words related to thinking or feeling) suggests he was more attentive to how people in society acted and was less concerned with the way people thought or felt, the authors wrote.

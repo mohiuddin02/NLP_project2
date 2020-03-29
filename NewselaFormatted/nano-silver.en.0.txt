@@ -1,0 +1,122 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg" />CHICAGO — Silver has long been known for its ability to kill some of the nasty microbes that can make people sick.
+
+In hospitals, it's used to help burn victims, to combat germs on catheters and even to wipe out dangerous "superbugs" that have grown resistant to traditional antibiotics.
+
+Now, capitalizing on consumers' fear of germs, companies are adding tiny, powerful silver particles to cutting boards, underwear, yoga mats, running shirts, socks and an expanding array of other "antibacterial" goods.
+
+Such products are made possible by recent advances in technology that allow manufacturers to create nano-sized silver and incorporate it into various materials.
+
+(A nanometer is one-billionth of a meter; a human hair is about 80,000 to 100,000 nanometers wide.)
+
+But some scientists and environmental watchdog groups say putting nanosilver to widespread use may pose risks, as no one knows how chronic exposure to the particles may affect human health or the ecosystem in the long run.
+
+They also worry that silver may lose its power to fight infections if bacteria become more resistant, a phenomenon already seen with other antibiotic drugs and with triclosan, an ingredient added to antibacterial soaps, cosmetics and other commercial goods.
+
+"Some humans are quite frightened of bacteria, and the tendency to overuse silver is likely," said Samuel Luoma, an emeritus researcher with the U.S. Geological Survey and the author of "Silver Nanotechnologies and the Environment," a report published by the Pew Project on Emerging Nanotechnologies.
+
+"What concerns me is the explosion of products which we don't know are effective and that are not necessary," Luoma said.
+
+"It's important to prove it's worth taking the risk before we put it in the environment."
+
+The U.S. Environmental Protection Agency recently began requiring manufacturers of nanosilver to register their products, saying the particles could pose different risks than conventional silver.
+
+But critics, including the Natural Resources Defense Council, say the agency's process is flawed because it allows the products to be sold commercially several years before safety studies are completed.
+
+Consumers, meanwhile, often can't tell whether products contain nano-sized silver because nanomaterials aren't required to be labeled.
+
+"The presence of nanotechnology in consumer products has gone underground," said Emma Fauss, who in 2008 compiled an inventory of commercial nanotechnology products for the Pew project.
+
+"Manufacturers shy away from labeling things in their products unless it's trendy.
+
+There's a perception that if it's labeled, it could be dangerous."
+
+Silver kills germs when it oxidizes and releases silver ions, which are lethal to bacteria and yeast.
+
+Ancient civilizations used the metal to treat open wounds, and American pioneers tossed silver coins into water storage barrels to keep water fresh.
+
+Nanoparticles of silver, which can occur naturally, are more powerful than bigger particles because their large surface area relative to their mass increases the number of ions released.
+
+The silver industry says concerns about nanosilver are unfounded, pointing to silver's history as an effective antibiotic agent and noting that most applications use very small quantities.
+
+It also says nano-sized silver isn't new and has been in continual use for more than a century.
+
+Nanoscale silver products have been safely used in swimming pools and drinking water purification since the 1970s, said Rosalind Volpe, executive director of the Silver Nanotechnology Working Group.
+
+"It's the most sustainable and by now the most researched and safest biocide technology on the market," said Carlo Centonze, CEO of the Swiss company HeiQ, which produces nano-sized silver, primarily for use in medical products.
+
+Some manufacturers also argue that treating textiles with silver nanoparticles benefits the environment by reducing the need for washing, allowing cleaning at lower temperatures and making the products more durable.
+
+In general, experts agree that humans can safely tolerate fairly high doses of silver.
+
+What's new is that over the past decade nanoparticles have been manipulated and put in places where silver has never been before.
+
+Some scientists and environmental health groups fear that the very properties that make these particles useful — their vanishingly small size and high surface area — may have unintended consequences once they get into the human body and the environment.
+
+Both animal studies and computer models have found that nanoparticles, including nanosilver, can spread throughout the body into organs and tissues.
+
+"Nanoparticles are little bundles of pure metal that can dissolve within the body if taken up as a particle," said Luoma.
+
+"To me," he added, "the big risk is to ingest or breathe nanosilver when we don't know for sure if there's a unique risk in this form."
+
+Like other germ-killers, including antibiotics, nanosilver also could upset the delicate balance of bacteria inside the digestive tract, said Marina Quadros, associate director of the Virginia Tech Center for Sustainable Nanotechnology.
+
+"Under the right conditions, silver nanoparticles are very effective in killing bacteria, both the good and the bad," she said.
+
+Beyond the possible impact of nanosilver on human health, environmental concerns loom large.
+
+"There is clear evidence that silver, and in particular nanosilver, is toxic to aquatic and terrestrial organisms" and to cells from mammals in laboratory research, the EPA stated in a 2010 report.
+
+Potential sources of nanosilver pollution include landfills, wastewater treatment plants and industrial facilities.
+
+Several lab studies also have found that nanosilver can leach out of products when washed.
+
+"If we start using tons of silver nanoparticles and a lot more are going down the drain, then we might start to have an effect we haven't seen in the past," said Amy Pruden, a professor of civil and environmental engineering at Virginia Tech who is investigating whether silver nanoparticles in waste streams can stimulate antibiotic resistance in microbes.
+
+Some studies have found that nanosilver in wastewater tends to be transformed into silver sulfide, a much less toxic substance, said Mark Wiesner, director of the Center for the Environmental Implications of Technology at Duke University.
+
+Researchers there also found that the vast majority of nanosilver that enters a wastewater treatment center is removed from the water as it sticks to bacteria that feed off organic matter.
+
+But these bacteria, Pruden said, eventually settle out to form biosolids, or "sludge," that is applied as fertilizer to agricultural land.
+
+Nanosilver in the sludge could affect the soil bacteria responsible for cycling nitrogen and carbon, she said.
+
+Pesticides, which include chemicals that kill bacteria, must be registered with the EPA before they can be sold or distributed.
+
+But until recently, the agency did not consider nanosilver to be different from regular silver.
+
+That allowed a variety of nanosilver products to enter the market based on the toxicity data for conventional silver.
+
+The EPA now reviews nano-sized silver separately, recognizing that nano-sized particles have different characteristics and may have different effects on human and environmental health.
+
+Since 2011, the agency has "conditionally approved" two pesticide products containing nanosilver as the active ingredient.
+
+Environmental health organizations complain that the conditional approval process allows products to be marketed several years before all the safety studies have been submitted, potentially putting consumers at risk.
+
+Last year, the Government Accountability Office reported that the EPA couldn't reliably or systematically track how many products had been conditionally registered or whether the safety studies were submitted.
+
+In its response, the EPA said it was working to improve its oversight, including designing an automated data system.
+
+For consumers, the safety picture on nanosilver is murky to say the least.
+
+Products launched before the change in EPA rules remain on the market, and little information is available on how much silver a product contains and what size it might be.
+
+When the European Commission tried to investigate the safety, health and environmental effects of nanosilver, it had difficulty reaching any conclusions.
+
+"A specific human risk assessment for silver nanoparticles is not feasible as information on possible long-term effects are lacking," its report stated.
+
+Until such data are collected, some argue that nanosilver shouldn't be used in consumer products, in part to preserve silver's ability to fight infections.
+
+Germany's risk management agency cited that reason in arguing that silver should not be used as an antimicrobial ingredient on a large scale, with the exception of medical applications.
+
+"Silver was and continues to be a valuable tool," said Andrew Maynard, director of the University of Michigan Risk Center.
+
+"There is a real fear that if we are indiscriminate with use, we could accelerate resistance."
+
+But Maynard also said people may have taken the assumption of harm too far, in the absence of more concrete evidence.
+
+Using nanosilver in a product may make sense if it serves a medical purpose and proves effective, he said.
+
+"Rather than a marketing ploy, it should be something that will benefit people," Maynard said.
+
+"We've survived for many years without having antimicrobial shirts and tools."
+

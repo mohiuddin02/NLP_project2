@@ -1,0 +1,31 @@
+If finned swimming animals evolved in an ocean on an alien world, what would they look like? Quite possibly a lot like the ones on Earth, a team of researchers says.
+
+A new study that examined certain swimming species' motion in the ocean found a surprising and elegant ratio embedded in the way they move. This ratio, described in the journal PLOS Biology, reveals a surprising case of convergent evolution over a diverse array of unrelated animals — and could help engineers build better swimming robots.
+
+Previous work has found that there are striking similarities in the way that animals move through fluids (whether water or air). It's part of a trend toward understanding the detailed physics of how animals move — perhaps with the intent to use these rules of movement to design more agile robots, said Jack Costello, a marine biologist at Providence College in Rhode Island who was not involved in the paper.
+
+"I do think it's part of a growing wave of understanding biological motion. … For many years people have been satisfied with generalities about thrust production," said Costello, who has researched shared patterns of movement across swimming and flying species.
+
+A team of researchers at Northwestern University first began to wonder about common rules of movement after studying the black ghost knifefish. The black ghost knifefish lives in freshwater streams in South America, and it moves around primarily using an undulating fin attached to its underside. This is unlike more well-known fish like trout or salmon, which sweep a tail (and the rear portion of their bodies) back and forth. Instead, the knifefish causes a wave to undulate down its thin fin, which runs most of the length of its body.
+
+There's a whole host of sea critters who move like this, called fin swimmers; some have a single fin running along the length of their bodies, while others have a pair, one on each side. Sometimes (in the case of the cuttlefish, a relative of the squid) it makes them look like they're wearing a fluttering tutu.
+
+During their previous work on the ghost black knifefish, the scientists noticed that the fish's maximum speed occurred when a total of two waves of motion could fit across the length of its fin, and they wondered whether there might be a common rule across different species.
+
+The scientists studied 22 very different species of finned swimmers, using video recordings, lab studies and computer modeling to determine what pattern, if any, might exist. They even trimmed the fin on a fin-swimming robot — which looks something like a torpedo with a ribbon strung underneath — to see whether that made any difference.
+
+They found that there was indeed a pattern in their motion — though it wasn't quite what they expected. As it moved, each animal seemed to follow a specific pattern: the ratio between the length of each undulating wavelength and the amplitude (or height) of each wavelength was about 20 to 1. That is, every full back-and-forth wiggle of the fish's fin was 20 times as long as the wiggle was wide. For each species they studied, including skates, rays, the black ghost knifefish, the cuttlefish and the Persian carpet flatworm—that ratio remained 20 to 1.
+
+"We found in every animal for which data are available, our prediction was correct," said Neelesh Patankar, a mechanical engineer at Northwestern and one of the lead authors on the work.
+
+This pattern persisted through three different phyla, and included invertebrates and invertebrate animals. The researchers think that this pattern of movement has independently arisen at least eight times, because it's the pattern that maximizes the swimmer's ability to move efficiently with speed. There could be a thousand more finned-swimming species that have the same ratio, the authors said.
+
+"Physics puts constraints on the kinds of solutions nature can have and survive," Patankar said.
+
+And if complex alien life were ever to be found on another planet using a fin to swim, this same ratio would probably emerge, said Patankar's co-lead author, Malcolm MacIver, a bio-engineer at Northwestern.
+
+"There's only a certain number of ways in which animals can move effectively," MacIver pointed out. If those alien animals were moving through liquid water on another planet, then the same fluid constraints apply. "Water's water," he said.
+
+The findings could help scientists learn how to better build underwater robots that swim quickly and efficiently, the researchers added. Such skills are critical, for example, when sending underwater vehicles to deal with oil spills — and they can't yet swim with the level of precision that these animals can.
+
+"There's a real need for underwater robots that can move with more agility," MacIver said.

@@ -1,0 +1,94 @@
+Simulators aren't just for pilots anymore.
+
+Doctors at the University of Minnesota are using simulators to improve their surgical skills.
+
+They use these 3-D tools to practice for difficult cases, such as brain tumors.
+
+And they are working with medical device companies.
+
+The goal is to develop new software to train the next generation of doctors.
+
+It may be the biggest change in medical training since the early 1900s.
+
+The researchers hope to build lifelike models.
+
+They will allow medical students to get hands-on experience.
+
+They'll be able to learn from their mistakes without harming patients, said Dr. Robert M. Sweet.
+
+Dr. Sweet runs the University's Medical School Simulation Programs.
+
+Soon, surgeons will be able to make custom models of their patients' diseased organs.
+
+Surgeons are doctors who perform operations on patients.
+
+They will eventually practice tricky operations before ever cutting the patient open.
+
+"Have you ever seen a pitcher not warm up before their first pitch, or a musician not warm up before they go on stage?
+
+Never!"
+
+Sweet said.
+
+"Why would a surgeon be any different?"
+
+An added benefit: Simulators collect information that can be used to study ways of doing surgery and find common mistakes.
+
+For instance, a 2011 study using simulated training found a "hangover effect."
+
+That is, doctors who had gotten drunk the night before an operation did worse.
+
+Simulators came along about 15 years ago.
+
+Before, the only way for doctors to get hands-on experience was to cut into living patients.
+
+They had to work under the watchful eye of an older surgeon.
+
+Sweet, 44, said the idea for simulator training came to him as he was learning surgery.
+
+"Being from the video game generation, I thought that there might be a good way to do it with a video game," he said.
+
+Sweet dropped by the school's technology lab and they built one.
+
+But early simulators were crude compared to the ones being developed now.
+
+Yunhe Shen is a professor at the University.
+
+He is in charge of developing code that provides users with instant feedback.
+
+It imitates what surgeons would feel and see if they were operating on a live patient.
+
+Simulators could play a big part in doctor training.
+
+Medical residents are doctors who have finished medical school and are training in hospitals to get more experience.
+
+But, residents are limited in the number of hours they can work.
+
+This is to avoid mistakes from being too tired.
+
+Practicing on simulators can help.
+
+Dr. Travis Pagliara, a third-year resident, said the machines are incredibly lifelike.
+
+"I'm moving in every direction of space, whether I twist my wrist, whether I push in, pull back, both hands are doing things separately," he said.
+
+How he moves his body affects what happens on the screen.
+
+Pagliara trained on a simulator before he stepped into the operating room.
+
+Then Pagliara had to do an operation for the first time.
+
+Sweet watched over him during it.
+
+Sweet said most first-timers last less than a minute before he has to take over.
+
+"Travis blew me away," Sweet said.
+
+He said Pagliara had natural skill.
+
+But, he added that the simulator made an important difference.
+
+Travis agreed.
+
+"I wouldn't have lasted 15 seconds if I hadn't done that," he said.
+

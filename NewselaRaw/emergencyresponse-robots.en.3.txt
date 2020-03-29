@@ -1,0 +1,35 @@
+Robots are machines that are made to do some human tasks. Sometimes they help in small emergencies, but they are not much help in major emergencies. Robots have a hard time getting from place to place and they are not very coordinated. Most of them can do only one thing at a time.
+
+Four years ago, some robots were sent to help workers at a nuclear plant in Japan. The factory, which made nuclear power, was hit by a tsunami. A tsunami is an enormous sea wave that can come up on land and destroy anything in its way.
+
+As a result of the tsunami, radioactive material was released from the power plant. It is very dangerous and can make people sick. But the robots were not much help. They mostly sat around because humans could not communicate with them to give instructions. It left humans to do the hazardous work.
+
+## Robot Competition Coming Up
+
+Since then, robots have become more advanced. Soon, the world will see these new robots in action.
+
+The U.S. government is hosting an event to see who has made the most advanced robot. Twenty-five teams will face each other next month to win cash prizes. The prizes total $3.5 million.
+
+The winning robots will complete eight different tasks in a short amount of time. They will perform in an area that is made to look like a disaster has struck. Also, they will have a hard time communicating with their operators, just like in a real disaster.
+
+## In Over Their Remote-Controlled Heads
+
+When robots arrived in Japan four years ago, they faced a terrible situation. The nuclear plant was contaminated by radiation and filled with seawater. The water destroyed the emergency electricity supply. Without electricity, it was impossible for the nuclear reactors to cool down. Over the next three weeks, there were nuclear meltdowns, gas explosions and radiation leaks. All of these things made a bad situation even worse.
+
+Emergency workers realized the robots needed something to protect them from radiation. They added radiation shielding to the robots. But, the shielding made the robots have problems communicating with their operators. Eventually, the robots were able to examine some of the damage and help with cleanup. However, they were not very useful when the situation was at its most dangerous.
+
+## Sit, Stand, Don't Fall
+
+In past contests, the robots were made to do many things. They had to press an emergency shutoff switch. They had to get up from a sitting position and travel 33 feet without falling. They also had to pass over a hurdle and turn a switch in a complete circle. The final competition will have challenges that are a little different. This way, the teams can demonstrate that their robots can work under pressure.
+
+Under the rules, robots may not be recharged while competing. Teams are not allowed to hold them up with safety ropes. If a robot falls and cannot get up, the team will have to start over.
+
+During the competition, each team will operate out of a garage far from where the robots are. The only information teams will have about their robot will come from the robot's sensors.
+
+## Better Robot Technology Needed
+
+Gill Pratt works for the U.S. government department that is running the contest. He says Japan was a turning point. Pratt says it made experts realize they had to come up with better robots. "We know that we have to develop technology to help us to address these kinds of disasters."
+
+Still, robots have a long way to go.
+
+It will take many years for scientists to develop robots that can really help in emergencies like the one in Japan. In the meantime, the competition next month will keep robots moving in the right direction.

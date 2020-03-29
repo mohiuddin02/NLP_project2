@@ -1,0 +1,57 @@
+LOS ANGELES — Students at Cal State Los Angeles are breeding fruit flies to learn how mutations, such as curved wings, are passed to future generations. At other campuses, they are monitoring the blood pressure and heart rate of subjects on a treadmill.
+
+These are fairly common lab experiments, except for one thing: They are being conducted via computer.
+
+At colleges and universities across the country, students increasingly are using online simulations and other technologies to replicate the hands-on experience of a typical lab. Some say the online labs improve on traditional labs.
+
+Spurred by the popularity and potential cost savings of online learning, virtual labs have infiltrated nearly every scientific field. Some are dismayed by this development. Critics insist that scientists need to learn practical skills through conventional lab work in order to conduct more advanced research.
+
+## Virtual Vs. Traditional Labs
+
+Supporters of virtual labs say they're not suggesting that the experiences of a traditional lab should be abandoned. But, they say, virtual labs can be a valuable tool to teach basic science, while allowing campuses to reduce staff and equipment costs.
+
+The California State University system, the largest in the nation, is planning to dramatically expand the use of virtual labs for general education science courses. These courses are typically for non-science majors who are required to take a course with lab work to graduate.
+
+Last spring, a project at Cal State LA compared the success of students participating in traditional labs with those using an all-online format and a "flipped" lab model, where online students met in the classroom every two weeks.
+
+Students in the flipped model maintained their interest and got better grades, the study found. Perhaps equally important, the virtual labs made the flipped model able to accommodate more students and was less expensive to operate.
+
+A typical introductory biology course might include eight lab classes with 192 students, said Robert Desharnais, who directs Cal State's Virtual Courseware Project.
+
+With virtual labs, the university can double the number of lab sessions available, he said.
+
+## Poly's Weekend Lab Sessions
+
+The state's public colleges lost billions of dollars in state funding during the economic downturn. As jobs were lost and California took in less money in taxes, the state cut the amount it gave to its university system. Governor Jerry Brown has called on educators to make up for the lost money in part through greater use of new technologies.
+
+"When we look at the rapid growth in the number of students versus science lab facilities, it's just not enough," said Gerry Hanley, who is in charge of academic technology services for the Cal State system. "Students end up taking these courses later or delaying graduation."
+
+Those bottlenecks led Cal Poly Pomona officials to schedule a full day of lab classes on Saturdays and Sundays. The weekend sessions quickly filled up, said Sepehr Eskandari, chairman of the biological sciences department.
+
+The Pomona campus now offers 26 biology lab classes each week. "You can imagine the wear and tear on physical resources," Eskandari said.
+
+This fall, Cal Poly Pomona is experimenting with virtual labs in some of those classes.
+
+## An Exercise In Evolution Online
+
+Computer simulations are now the standard for a vast array of research, Hanley said. For example, they are used to study the effect of earthquakes.
+
+In a biology lab at Cal State LA, students recently conducted a group exercise in evolution online. They designed experiments to test theories of natural selection. The computer program allowed them to change physical traits, such as the size of a bird's beak, introduce predators and change the environment. The program then provided instant feedback.
+
+"The idea that virtual labs are a poor substitute" for the work that students will go on to do as professionals "is not actually true anymore," Hanley said.
+
+Cal State officials hope that creating better access to lab courses will help students like senior Gerrymi Bernardo. He is a design major who had to wait to take the class in his final quarter.
+
+"As a working student, it's really convenient being able to do this at home on my own time," said Bernardo, 22.
+
+## But Not "Dissecting Stuff"
+
+Stephanie Ugalde said the virtual lab left her "disappointed not to be dissecting stuff."
+
+"The computer shows you pictures and graphs, but it would be good to go out and see actual variations," said Ugalde, a food science major.
+
+Some researchers worry that cash-strapped colleges are too ready to embrace online classes despite little research on their effectiveness.
+
+Paulo Blikstein directs the Transformative Learning Technologies Lab at Stanford University. His group is working to combine technology with a more hands-on experience. Students use robotic equipment located off-site that can be remotely controlled with a computer or smartphone. They can, for example, send a command to a robot to add a chemical to a petri dish and capture the results on a time-lapse video.
+
+"The problems with virtual labs, many times, is that it's too clean and too simplified. And then students understand it's not really happening, but just a simulation," Blikstein said. "We're finding that affects their motivation."

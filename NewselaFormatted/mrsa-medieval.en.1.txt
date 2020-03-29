@@ -1,0 +1,72 @@
+Researchers in England have rediscovered an ancient medicinal potion that appears to fight a very modern problem.
+
+The elixir works against a deadly drug-resistant bacterial infection called Methicillin-resistant Staphylococcus aureus.
+
+Better known as MRSA (pronounced mersa), it is very difficult to treat.
+
+Let's imagine that during a nighttime escape through Sherwood Forest, the legendary English outlaw Robin Hood scratched his eye on a branch and developed an infection.
+
+In nearby Nottingham, he might well have asked an herbalist about it.
+
+The early pharmacist would fetch a brass vessel, brew a remedy of bile from a cow's stomach and Allium — a plant from the garlic family — and create an ointment to treat the patient's inflamed eye.
+
+Until recently, the recipe for that medieval remedy lay unnoticed in the brittle pages of a thousand-year-old text.
+
+Titled "Bald's Leechbook," the early book is shelved in the library of the University of Nottingham's Institute for Medieval Research.
+
+Leafing through the book, Viking studies professor Christina Lee wondered what its ancient recipes revealed about medieval medical knowledge.
+
+She pondered how, a thousand years ago, healers and herbalists chose their treatments and if they had guessed right.
+
+Lee translated the recipe for the eye ointment from the original Old English recipe in "Bald's Leechbook."
+
+She then asked chemists at her university's Center for Biomolecular Sciences to make up the treatment and test to see if it worked.
+
+Lee's request came at an important time for Nottingham's Freya Harrison, a biologist who studies microscopic life forms, who was looking for inspiration.
+
+Lee's idea allowed Harrison and her team to reach deep into the past in search of undiscovered or underappreciated antibiotics.
+
+Scientists in Harrison's lab followed the recipe precisely, cooking four separate batches of the ointment.
+
+They also devised a control experiment using the same quantity of distilled water and brass to mimic the brewing container, but without the vegetable ingredients.
+
+In a lab, the scientists made the MRSA bacteria grow out of control.
+
+They applied the ancient ointment and discovered the thousand-year-old recipe had a powerful killing effect.
+
+Only about 1 in 1,000 bacterial cells survived.
+
+Later, in infected wounds in mice, the remedy killed 90 percent of MRSA bacteria.
+
+Harrison says she was "absolutely blown away" with the antique recipe's effects.
+
+She had assumed it might show "a small amount of antibiotic activity," but not to this extent.
+
+Researchers have found some of its elements — copper and bile salts in particular — to have some effect on bacteria in the lab.
+
+And plants in the garlic family are known to make chemicals that interfere with bacteria's ability to damage infected tissues.
+
+But compared with the control substance, the combination of these elements in this ancient formulation was powerful, Harrison said.
+
+The eye salve had the power even to get through the sticky coating and kill the dense clusters of MRSA, which are resistant to most antibiotics.
+
+It was only when Harrison's lab diluted the ointment to see whether it would continue to kill bacteria that they figured out how it worked.
+
+The diluted salve wasn't strong enough to kill the MRSA, but it interfered with communication among its cells.
+
+This is a key finding because those signals switch on genes that allow bacteria to damage infected tissues.
+
+Blocking this signaling is a promising way to treat infection.
+
+"We know that MRSA-infected wounds are exceptionally difficult to treat in people and in mouse models," said Kendra Rumbaugh.
+
+She carried out the testing of Bald's remedy on MRSA-infected skin wounds in mice.
+
+"We have not tested a single antibiotic or experimental therapeutic that is completely effective," added Rumbaugh, a professor of surgery at Texas Tech University's School of Medicine.
+
+But she said the ancient remedy was at least as effective — "if not better than the conventional antibiotics we used."
+
+The collaboration between Old English remedies and microbiology has given rise to a new program at Nottingham.
+
+Called AncientBiotics, researchers will study remedies that combine the ancient arts and modern sciences.
+

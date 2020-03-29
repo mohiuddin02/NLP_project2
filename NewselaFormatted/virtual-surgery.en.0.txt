@@ -1,0 +1,106 @@
+Simulators aren't just for pilots anymore.
+
+In complex cases ranging from enlarged prostates to brain tumors, physicians at the University of Minnesota are using virtual-reality simulators more and more to perfect their surgical techniques.
+
+And, in what may be the most significant change in surgical training since the early 1900s, they are working with local medical device companies to develop new generations of software to train the next generation of medical students.
+
+The researchers hope to build anatomical models so lifelike that medical residents will get hands-on experience and learn from their mistakes without harming patients, said Dr. Robert M. Sweet, director of the University's Medical School Simulation Programs.
+
+As the technology improves, Sweet said, surgeons will be able to use medical imaging devices like MRIs to create custom, virtual models of their patients' diseased organs — and eventually practice tricky procedures before ever cutting the patient open.
+
+"Have you ever seen a pitcher not warm up before their first pitch, or a musician not warm up before they go on stage?
+
+Never!"
+
+Sweet said.
+
+"Why would a surgeon be any different?"
+
+An added benefit: Simulators collect data that can be used to research surgical techniques and detect common errors.
+
+For instance, a 2011 study using a virtual reality trainer for laparoscopic surgery found a "hangover effect" — degraded performance by surgeons who had drunk to the point of intoxication the night before an operation.
+
+The team of scientists, physicians and computer experts who are driving the effort say the U and its partners in the Minnesota medical device industry are uniquely positioned to become leaders in the field.
+
+The U developed the software, for example, for American Medical Systems, a Minnetonka, Minn., company that built a simulator for urology cases, which is being adopted globally.
+
+And it is among just 10 centers worldwide whose residents are working to refine their neurosurgery skills with a device under development by the Canada National Research Council.
+
+Until simulators came along about 15 years ago, the only way for surgeons to get hands-on experience was to cut into living patients under the watchful eye of a mentor.
+
+Sweet, 44, said the idea for simulator training came to him as he was learning prostate surgery during his third year of residency at the University of Washington.
+
+"Being from the video game generation, I thought that there might be a good way to do it with a video game," he said.
+
+Sweet dropped by the school's Human Interface Technology lab and they built one.
+
+But early simulators were crude compared to the ones being developed now.
+
+Sweet attributes some of the improvements to information in the University's "one-of-a-kind" Human Tissues Properties Database.
+
+"When a patient dies, we get consent to harvest little bits of tissue.
+
+Not whole organs, just little bits of tissue.
+
+And we rapidly run them through tests.
+
+Mechanical testing.
+
+Electrical testing.
+
+Thermal testing.
+
+Optical testing.
+
+You need to understand the object you're simulating," he said.
+
+Sweet oversees the University's training center, called SimPORTAL, and its research unit, called the Center for Research in Education and Simulation Technologies (CREST).
+
+Yunhe Shen, an assistant professor with a background in biomedical engineering, is in charge of developing algorithms that provide users with instant feedback that mimics what surgeons would feel and see if they were operating on a live patient.
+
+Simulators could play a growing role in doctor training, now that medical residents are limited in the number of hours they can work to avoid fatigue-related errors.
+
+Dr. Travis Pagliara, a third-year resident, said the machines are incredibly lifelike.
+
+"I'm moving in every direction of space, whether I twist my wrist, whether I push in, pull back, both hands are doing things separately," he said.
+
+"It's an actual interaction with my body with what happens on the screen."
+
+Pagliara, 29, had trained on a simulator before he stepped into the operating room to work under Sweet's supervision on his first real case of benign prostatic hyperplasia.
+
+Normally, Sweet said, first-timers last less than a minute before he has to take over.
+
+"Travis blew me away," Sweet said, praising Pagliara's natural skills but adding that the simulator made an important difference.
+
+Travis agreed.
+
+"I wouldn't have lasted 15 seconds if I hadn't done that," he said.
+
+Residents in neurosurgery get to train on a simulator called NeuroTouch Cranio, which was developed by the Canadian National Research Council for surgeons to practice with a device that uses sound waves to liquefy brain tumors and then sucks away the debris.
+
+"They have more self-confidence and maybe more importantly, they learn their own limitations," said David Hananel, associate director of the medical school's simulation programs.
+
+"We actually are trying to teach them the errors, the mistakes, the things that shouldn't be done.
+
+Let them do it, see the consequences, and then show them how to recover."
+
+Dr. Daniel Guillaume, a neurosurgeon and associate professor at the U, said the 3-D graphics in NeuroTouch visually mimic what surgeons see in the operating room.
+
+The tactile feedback is very good, so tumors feel different from brain tissue, he said.
+
+"Before this kind of thing came along, the only way to teach people to operate was in the operating room on a human who's alive, because cadavers don't have the same tissue property," Guillaume said.
+
+"So this is actually better than a cadaver and it's safer than operating on a patient."
+
+Hananel said the market for simulators, simulator training and lifelike body parts has been slow to develop in private industry and is still relatively small, but the military has shown a strong interest.
+
+Three years ago the U won an $11.2 million contract to research combat-medicine simulators and training methods.
+
+And the University's simulation center is now developing an artificial airway to train for intubation procedures, a project that's on track for commercialization.
+
+Hananel said he envisions a full-body simulator that residents and practicing physicians could use to practice any number of procedures.
+
+The technology exists to pull it off, he said, but it's a mammoth engineering project that would take a lot of time and money.
+
+"So we have a 10-year vision of where we need to go," Hananel said.
+

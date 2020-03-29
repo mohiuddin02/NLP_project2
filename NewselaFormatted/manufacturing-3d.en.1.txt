@@ -1,0 +1,100 @@
+For decades, aerospace manufacturers like Pratt & Whitney have fabricated engine parts by tooling, lathing, milling and forging.
+
+Now, they're printing.
+
+Unlike that laser printer at home, there is no toner, no paper and no "PC Load Letter" errors.
+
+Instead of ink, these printers — called 3-D printers — use lasers to heat granules of plastic or metal to build up three-dimensional parts, layer by layer.
+
+The end product could be any solid design, however complex.
+
+Aerospace manufacturers are extending the limits of this technology to make parts for their latest commercial engines.
+
+This process is letting manufacturers design components that would have been impossible to mill or forge in yesterday's aerospace factories, while saving money.
+
+In some cases, the process makes parts lighter.
+
+And for 3-D printing the fact that the emerging technology has passed through the testing fires of a jet engine is a good sign.
+
+Tom Maloney of the Connecticut Center for Advanced Technology, which aids manufacturers who want to use the technology, said, "It's definitely progress … even call it a milestone."
+
+Pratt & Whitney put more than two dozen 3-D-printed components on its latest PurePower geared turbofan engine, said Thomas Prete, the company's head of engineering.
+
+More are expected.
+
+Pratt's main competitor, GE Aviation, is using 3-D printing to make complex fuel nozzles for an engine.
+
+Prete said that Pratt's designers can now make a single part in one process that otherwise would have been a time-consuming combination of five or 10 pieces that needed to be attached and heat-treated.
+
+That improvement alone saves time and money.
+
+But the main advantage, Prete said, is that engine designers can do things that would have been impossible.
+
+In the past, an engineer could design something that might have been too complicated to make.
+
+With the new technology, it's just as easy to make something complex as it is to make something simple.
+
+It's like firing up the inkjet to print out a copy of "The Mona Lisa" compared to using it to print a solid color.
+
+It doesn't take more time or more ink to print out the one that is significantly more complex.
+
+And a wide, practical view of the technology, to the military, is the ability to print replacement parts, supplies and perhaps even structures for military bases with just a machine and a supply of material.
+
+That ability could transform an aircraft carrier into a "floating factory" that could supply replacement parts to a broken tank or an aircraft.
+
+Pratt bought a fleet of 3-D printers in 1988 to design prototype engine parts.
+
+The machines spat out plastic prototypes for testing and development and, once they were deemed to be of optimal design, engineers milled or forged a metal version.
+
+In the past four or five years, as technology has advanced, Pratt adopted metal 3-D printing prototyping.
+
+This speeds things up and saves money.
+
+Pratt wouldn't reveal which specific parts were being printed because the information is proprietary.
+
+But Prete said that some of the 25 parts are simple, such as brackets, and others are more complicated components in the engine's air pathway, a high-temperature and constant-stress area of the engine.
+
+Industrializing the technology to the point that it will withstand the jet engine environment has been quite the process, experts say.
+
+Materials and processes must be unimpeachable and consistent.
+
+Costs need to make sense economically, and output needs to keep up with traditional manufacturing methods.
+
+For Pratt, 3-D printing parts at production speed is the next big step.
+
+The company is determining how many machines it needs, how they need to be arranged, and how to get to optimal output.
+
+In November, GE Aviation acquired a Cincinnati-based 3-D printing firm.
+
+Months ago, GE announced that it would be 3-D printing the fuel nozzles on its commercial LEAP engine.
+
+When the parts were manufactured traditionally, they were made of 18 parts fused together.
+
+Now they are made as one part and come out 18 percent lighter.
+
+Additive manufacturing and subtractive manufacturing are the yin and yang of making things.
+
+Think of additive like building something with Lego blocks; you put small pieces together to make something larger.
+
+Subtractive manufacturing, which includes milling and lathing, is more like sculpting — you start with a block or marble, and chip and shave away until a statue, or engine part, emerges.
+
+Much of manufacturing currently falls in this second category, but that's changing.
+
+In 2012, the 3-D printing industry expanded 28.6 percent to a $2.2 billion slice of the economy, according to an analysis released in May by Wohler Associates.
+
+By 2021, the firm expects the industry to be worth $10.1 billion.
+
+Putting these components into jet engines is just what the advanced manufacturing industry has been waiting for: a serious proving ground that shows that mainstream manufacturers have figured out how to make the materials and the process work.
+
+It's one thing to print a toy, and it's another thing altogether to manufacture a metal part that will hold up under thousands of degrees of temperature, constant stress and years of operation.
+
+Experts say that the technology is finding a way into big industrial uses now because of research into metals and materials for 3-D printing, as well as explosive growth in supercomputing power.
+
+With 3-D printing maturing to the point where critical parts can be made with the press of a button, the military is nearing its dream of using 3-D printers as a mobile factory.
+
+Lt. Cmdr.
+
+Michael Llenza of the U.S. Navy wrote in a May article in the Armed Forces Journal that possibilities for 3-D printed products include, but are not limited to, vehicles parts, [drones](https://www.newsela.com/?tag=drone), ammunition, shelters, prosthetics, skin and bone grafts, and food.
+
+Yes, a 3-D-printed pork chop.
+

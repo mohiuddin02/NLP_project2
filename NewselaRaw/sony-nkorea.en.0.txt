@@ -1,0 +1,55 @@
+WASHINGTON — With U.S. intelligence analysts quietly pointing to North Korea as having a hand in the destructive hack of Sony Pictures Entertainment computers, Obama administration officials scrambled Thursday to consider what, if anything, they should do in response.
+
+Options are limited, partly because the United States already imposes strict sanctions on North Korea's economy and because the country's leader, Kim Jong-un, relishes confrontation with the West. White House officials are wary of playing into an effort by nuclear-armed North Korea to provoke the United States into a direct confrontation.
+
+"How do you sanction the world's most heavily sanctioned country?" asked John Park, a specialist on Northeast Asia at Harvard University's John F. Kennedy School of Government.
+
+Hackers caused tens of millions of dollars in damage last month to Sony Pictures' computers, destroyed valuable files, leaked five unreleased films and exposed private employment information including 47,000 Social Security numbers.
+
+In response to the cyber attack and a threat against movie theaters, Sony canceled the Christmas Day release of "The Interview," a comedy starring Seth Rogen and James Franco that depicts a fictional assassination of Kim.
+
+The Obama administration has stopped short of saying openly that North Korea was involved in the intrusion. Such an allegation would probably bring about calls for a response, and with an unwillingness to lay out its evidence, lack of available economic punishments and little desire for acts of war, the White House so far appears reluctant to make a public accusation.
+
+Spokesman Josh Earnest would say only that the White House considers the breach of one of Hollywood's largest studios to be a "serious national security matter."
+
+The administration is considering a range of options, he said, but wants to take care not to respond in a way that legitimizes those behind the attack. The attackers might try to provoke the United States to "enhance their standing," Earnest said, indirectly nodding to North Korea's appetite for needling other countries.
+
+An unwillingness to go public leaves the United States with few choices.
+
+One possibility would be to unleash the United States' own hackers in the military's Cyber Command to disable the computers that launched the attack and stop them from doing more damage. But to do that runs the risk of damaging computer systems in China, where, experts say, North Korea bases some of its cyber capabilities.
+
+Such a counterattack would probably be done in secret and not announced. Earnest would not rule it out, however.
+
+Senator John McCain, Republican from Arizona, who called Sony's decision to cancel the movie's release "profoundly troubling," has long demanded the U.S. step up cyber operations and said the Obama administration was slow to respond to the attack.
+
+Earnest insisted that responses under consideration may be ones "that we wouldn't want to telegraph in advance."
+
+To name North Korea publicly, the United States would also need strong evidence linking the country to the attack, and administration officials gave somewhat differing accounts about the degree of its involvement.
+
+One senior administration official, speaking anonymously to discuss internal assessments, said intelligence agencies have linked North Korea to the breach, but gave no details about how closely it was involved.
+
+The Federal Bureau of Investigation (FBI) had not confirmed that the North Korean government, directly or through a second source, was behind the hacking operation, said federal law enforcement officials, including bureau agents.
+
+"We are still working it," said one official, speaking confidentially because the case is underway. "We are not close yet to drawing any conclusions. Frankly, we've been surprised by the reports that say we are," the official said.
+
+Proving that North Korea was involved won't be easy. The attack was reportedly routed through servers in Singapore, Thailand and Bolivia. Experts believe that North Korea lacks the capability to infiltrate Sony's computers on its own and would have required the assistance of mercenary computer hackers, and possibly disgruntled Sony insiders.
+
+Though most citizens in isolated, impoverished North Korea have no access to computers or the Internet, a small stable of highly skilled hackers are believed to work for the country. Computer attacks are a useful tool for North Korea's aims of provocation because they are inexpensive to carry out and can be plausibly denied, experts said.
+
+North Korea is "really working on their cyber capability; it gives a poorer nation international reach," retired Brigadier General Michael McDaniel, a former Pentagon official, said.
+
+The public information linking North Korea to the attack is largely circumstantial.
+
+In June, the nation called the plot of "The Interview" an "act of war." After the attack on Sony began, though, North Korea said it had no part. Still, it lauded the hacking as a "righteous deed of supporters and sympathizers."
+
+North Korea has a history of lashing out at those who criticize or ridicule it. Last year, South Korea concluded the North was behind a hack of banks and media outlets known as critical of North Korea.
+
+"The hacking code that was used in the attack on Sony was very similar to the code that North Korea has used in cyber attacks on South Korea, so I believe it was them," said Kim Seung-joo, a professor at Korea University Graduate School of Information Security.
+
+North Korea might have simply cooperated with whoever carried out the attack. "It's likely that they were involved and somehow initiated it, but the damage that Sony sustained was beyond North Korea's interest and capabilities," said Leonid Petrov, a Korea studies researcher at Australian National University.
+
+President Barack Obama, in an interview Wednesday on ABC News, acknowledged that the attack against Sony shows the United States has more work to do to strengthen its information security.
+
+He said the FBI should know more about the attacks in coming days.
+
+"We will be vigilant," Obama said. "But for now, my recommendation would be that people go to the movies."

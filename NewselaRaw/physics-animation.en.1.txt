@@ -1,0 +1,65 @@
+In a small office in Glendale, California, Ron Henderson methodically jotted down equations on a whiteboard.
+
+The equations in question were Isaac Newton's Three Laws of Motion. They, the physicist explained, would provide the mathematical building blocks for the task at hand: constructing a three-dimensional, bubble-like sphere.
+
+Henderson could easily have been preparing a lesson at Caltech, where he once taught. Instead, he was at DreamWorks Animation's campus, doing his part to bridge the divide between art and science.
+
+Animated films — movie-length cartoons — used to be entirely drawn by hand. Now artists create them on a computer. For complicated effects, understanding the underlying science is very helpful.
+
+## Doing The Bubble Math
+
+Artists working on the upcoming movie "Home" will have to create a lot of soap bubbles, which in the film are inhabited by a race of tiny aliens called the Boov. What Henderson was explaining was the math underlying a program that will be used to make those bubbles look realistic.
+
+To give them visual references, Henderson and his team began by studying drawings and photos of soap bubbles last year. He invited a fellow physicist from San Jose State to give a lecture titled "Bubble Science."
+
+The physicist, Alejandro Garcia, took a low-tech approach. He arrived at the studio with boxes of liquid soap and party bubbles, using a plastic wand to fashion large bubbles for an audience of artists and technicians.
+
+"He did cool things that we're not doing, like what happens when you make a soap bubble out of hydrogen and set it on fire?" Henderson said, chuckling. "What does that look like?" The bubble made a loud boom and burst into a fireball when an assistant took a Tiki torch to it.
+
+That's the kind of thing that happens when the scientific set makes the move to the movies.
+
+"What we're doing here is creating tools for artists," Henderson said. "I think it's going to be a success."
+
+## Pushing The Animation Boundaries
+
+Henderson, 47, is one of a growing number of high-level physicists, engineers and other scientists who have left their old careers to work in the movie business.
+
+Demand for their services has grown as animated movies push the boundaries of what can be created on a computer screen. Artists at DreamWorks, Pixar and other studios increasingly rely on the services of people such as Henderson. The scientists use their expertise to help artists create realistic-looking water, fire, dust and other elements.
+
+"The physics behind what's happening in these movies is incredibly complicated," said computer scientist Paul Debevec. "You need real scientists to understand what's going on."
+
+Although they typically get paid more in the film business, Henderson says money isn't the main draw. For most, it's the excitement of working on movies and the challenge of finding solutions to technical problems.
+
+## Collaboration Of Science And Art
+
+DreamWorks has one of the largest groups of scientists in the animation industry.
+
+"We have sculptors and painters working side by side with software developers and particle physicists," said Dan Satterthwaite, the studio's human resources director.
+
+The company's research and development group has about 120 members with degrees in fields such as cognitive science, astrophysics, aeronautical engineering, chemistry, mathematics and computer science. Nearly a dozen of them are former employees of NASA's Jet Propulsion Laboratory.
+
+The studio has even hired biologists to advise animators on how to correctly illustrate the branch structure of a tree.
+
+Henderson finds working at DreamWorks fulfilling on a personal level.
+
+"Science can be a very lonely activity," he said. "I wanted to use my background in computational physics, but I wanted to have the experience of working with people and being able to see the results of what I did."
+
+Seeing "Shrek" also piqued his scientific curiosity about the new medium of computer-generated imagery, or CGI, that was changing how movies were made.
+
+"What astonished me was how much detail and motion there was in every frame, the motion of the trees, the grass and all the other elements," he said. "I didn't think it was possible."
+
+## Each Film Is Visually Unique
+
+Much of Henderson's focus at DreamWorks is on what he calls improving the "scale of production." Because there are so many shots in a single movie — one film might have 700 scenes with fire, for example — Henderson and his team spend much of their time trying to devise more efficient ways of creating effects.
+
+Then there is the technical challenge of creating something visually unique for each film: for example, the frost in "Rise of the Guardians," the stylized cannon fire in "Kung Fu Panda 2" or the ice-breathing dragon in "How to Train Your Dragon 2."
+
+His latest challenge was creating the bubble-like spheres in "Home," which will provide the unique look to spaceships in the movie.
+
+Turns out, creating a computer animation image of a bubble on a flat surface is one thing. Wrapping that image around a floating soccer-ball-like sphere is a much trickier problem of math and physics.
+
+Henderson tapped into his knowledge of how fluids behave to devise a new way to suggest flow on a sphere. The method he came up with is a variation on a numerical weather-prediction model.
+
+The fact that few moviegoers will appreciate the technical achievement doesn't bother him — the work is its own reward.
+
+"Doing something where you can clearly see the results of your work, and where you feel you are providing a unique benefit to the artists — that's what keeps me coming here every day," he said.

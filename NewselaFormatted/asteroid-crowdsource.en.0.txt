@@ -1,0 +1,58 @@
+With nothing less at stake than the future of planet Earth, NASA has decided to crowdsource ideas to detect and track asteroids that have the potential to wipe out life as we know it.
+
+After a previously undetected, 65-foot-wide asteroid exploded over Russia in February 2013, unleashing the force of 500,000 tons of TNT, NASA launched a series of contests for smart folks around the globe to come up with ways to keep an eye on asteroids that could threaten Earth.
+
+Currently, NASA estimates that only 1 percent of the millions of asteroids hurtling around our solar system have been found.
+
+So NASA calls the series of contests that make up the Asteroid Grand Challenge "a broad call to action" to defend Earth against any number of asteroids that could be bearing down on us right this instant.
+
+"Good ideas can come from anywhere," said Ben Burress, a staff astronomer at Oakland's Chabot Space &amp; Science Center, which is not affiliated with NASA's Asteroid Grand Challenge.
+
+"There are millions of asteroids we don't know about, so the idea of more information really is better.
+
+Are we going to be hit?
+
+Yes.
+
+The question is, when and by how big of an asteroid?"
+
+In a video announcing the series of contests, a NASA narrator says, "Asteroid hunting is an activity everyone can get involved with, whether it's writing computer code, building hardware, making observations through a telescope.
+
+Survival is its own reward.
+
+It's up to each of us to protect our planet from asteroids."
+
+And in a throw down to all citizens of Earth, the narrator says, "The dinosaurs would have cared if they knew about this problem."
+
+With NASA out of the business of launching humans into space — and asteroid killer and action star Bruce Willis on the bench — "Earth's defense," as NASA calls it, is left in the hands of mere mortals.
+
+NASA first invited what it calls "citizen scientists" to join the search for killer asteroids in March at the South by Southwest festival in Austin, Texas, during a session titled, "Are We Smarter than the Dinosaurs?"
+
+On Friday, NASA ended the third contest of its competition to create an algorithm to detect hidden asteroids.
+
+No fewer than 422 people from 63 countries — from Argentina to Zimbabwe — submitted algorithmic solutions.
+
+NASA spokeswoman Sarah Ramsey could not immediately say whether any entries came from the brightest algorithm-writing minds in Silicon Valley.
+
+In all, NASA plans to award $35,000 this year to people who can figure out how to identify hidden asteroids.
+
+The algorithm contests are managed by NASA's Center of Excellence for Collaborative Innovation.
+
+The center uses the NASA Tournament Lab and its partner, the Harvard Business School, for its algorithmic and software development contests.
+
+"For the past three years, NASA has been learning and advancing the ability to leverage distributed algorithm and coding skills through the NASA Tournament Lab to solve tough problems," the lab's director, Jason Crusan, said in a statement.
+
+"We are now applying our experience with algorithm contests to helping protect the planet from asteroid threats through image analysis."
+
+This year, NASA hopes to receive algorithms from citizen scientists that will enable it to find and track asteroids, identify their size and shape and whether they represent threats to Earth — then come up with ways to prevent them from hitting and wiping out plants, animals and humans.
+
+"This is a big global problem that needs everybody to solve," Ramsey said.
+
+"We can't do it alone.
+
+That's the whole point of the grand challenge."
+
+NASA plans 10 contests this year.
+
+Asked how long the entire Asteroid Grand Challenge will last, Ramsey said, "Until the problem's solved."
+

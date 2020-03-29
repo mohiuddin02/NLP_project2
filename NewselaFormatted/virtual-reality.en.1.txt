@@ -1,0 +1,98 @@
+"Virtual reality" is the term for a three-dimensional computer-generated environment, an imaginary world that "virtually includes" users.
+
+Despite all its possibilities, virtual reality (VR) is still primarily associated with games.
+
+Put on a helmet where VR systems are being demonstrated, and chances are you will be immersed in a video game.
+
+Most likely you will find yourself in a spaceship cockpit, or driving a racing car or dodging bullets in a shooting game.
+
+Sounds like fun, but virtual reality, despite all the hype, is not yet ready for prime time, for video games or anything else.
+
+The hardware remains big and clunky, and the typical fast-action VR environment still makes too many people sick to their stomachs.
+
+While they work to iron out those problems, VR makers like Oculus are also exploring additional uses for VR other than video games.
+
+At a consumer electronics show in Las Vegas this week, those who donned the Oculus Rift headset, which resembles ski goggles, were transported to an alternative reality where a menacing T-Rex awaited.
+
+If they leaned in, they could almost feel its breath on them.
+
+In the same demonstration, people were virtually lifted to the top of a skyscraper; if they walked to the edge and leaned over, they could see bustling traffic hundreds of feet below.
+
+The effect triggered the fear of heights in more than one show attendee.
+
+In another demonstration, a fight scene between two robots played out in 360-degree video, inviting users to look left, right and behind them to follow the action.
+
+The presentation was designed to demonstrate the range of possibilities for VR.
+
+"We've said from the beginning we're big gamers, and we started Oculus to deliver consumer VR and revolutionize games," said Nate Mitchell, an Oculus vice president.
+
+"But it may well end up being that VR is more about film than games."
+
+VR's greatest potential could turn out to be in movies — but it could also turn out to be best suited for video games after all, or for military simulation training.
+
+The company is working with outside developers on content for all three formats.
+
+Most Hollywood studios are deeply involved in exploring the possibilities of virtual reality entertainment.
+
+The Sundance Film Festival, to be held in Utah this month, said it has selected at least 13 short VR movies for presentation.
+
+The VR maker Jaunt has developed a 3-D camera that records in 360 degrees so users can make their own virtual reality films.
+
+The company has already released two videos of concerts that give users a 360-degree view of the concert stage.
+
+Another company, AltspaceVR, is building virtual reality software for meetings and conferences.
+
+In the AltspaceVR app, users appear as an avatar — that is, an image or figure that represents them.
+
+The app uses the head-tracking capabilities of virtual reality headsets to determine where a person is looking and how his or her head is moving, and translates that into the avatar's movements.
+
+It also simulates being in an actual physical space with other people by allowing users to hear someone better if that person's avatar is closer.
+
+Getting really close to someone's avatar lets users whisper.
+
+"We think VR has this opportunity to be a new communications medium," said AltspaceVR Chief Executive Eric Romo.
+
+"There's a lot of things you can do with nonverbal communication inside virtual reality that are not really possible on other platforms."
+
+On the phone, users can't tell whether the person on the other end of the line is paying attention, and in group conference calls, people tend to accidentally talk over one another.
+
+AltspaceVR tries to overcome these problems by allowing people to communicate things without talking.
+
+"In VR, I can have that information — I can see it," Romo said.
+
+"So we can communicate in this more natural way than we could on chat or telephone."
+
+It will be awhile before companies hold staff meetings via virtual reality avatars — if indeed they ever do.
+
+Other workplace uses for VR are more immediate.
+
+Dan Ward, co-founder of mobile app development company Detroit Labs, believes the coming year will see various industries use VR for training.
+
+For example, VR could be used in combat simulation for the military, or in natural disaster drills for police, firefighters and paramedics.
+
+"In the past, we've spent billions of dollars re-creating situations for people to train in," Ward said.
+
+"But these VR head units are able to trick the mind really well, and we all know that a lot of training is mental, so there's a massive opportunity here."
+
+Another VR headset maker, Sulon Technologies, has developed software that allows users to walk around a life-sized virtual engine.
+
+Sulon founder and CEO Dhan Balachand said it could change the way product-design teams work, by allowing them to see products and parts before committing to manufacturing.
+
+The company also foresees its Cortex headset changing the way people buy cars.
+
+Users who put the headset on will see a car materializes before them, and will be able to change its color and add or remove features.
+
+Although hopes for affordable VR are building, there are not yet any high-definition consumer headsets on the market.
+
+While various headset makers, including Oculus and Samsung, have released consumer headsets in limited quantities, these products are still very much in the developmental phase.
+
+With so few people owning headsets, it is difficult to get anyone to make VR films.
+
+Mitchell isn't worried, though.
+
+"Obviously, it's way too early for a $50 million blockbuster VR film because there's no way to sell it to people yet," he said.
+
+"But I think in the next few years we'll get there.
+
+It's still early days."
+

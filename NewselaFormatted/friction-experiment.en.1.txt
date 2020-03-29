@@ -1,0 +1,70 @@
+Both help and hindrance, friction is part of our everyday lives.
+
+It is the drag against your car's tires that wears them out and sends you more often to the gas station to fuel up.
+
+It is also the force that makes the brakes work, so you can stop the car.
+
+Although most of us take friction for granted when we hit the pedal, many of its details are still a mystery, even to scientists.
+
+A recent study helped to broaden scientists' understanding by examining the way atoms work in friction.
+
+An atom is the smallest part of an element that has the qualities of that element.
+
+Scientists measured the role that the placement of atoms plays in determining the strength of friction between two surfaces.
+
+Jay Weymouth, a scientist at the University of Regensburg in Germany who participated in the study, said that we all know that the amount of friction depends on direction.
+
+"It's easier to pet a cat in one direction than another," he said.
+
+What is new is that the scientists were able to measure the degree to which direction affects friction at the tiny atomic level, and to describe it.
+
+Friction is the force working against the movement of one object against another.
+
+It is known that it generally increases with pressure.
+
+By looking at surfaces under a microscope, we can see that even seemingly smooth ones, such as a wooden table or a window pane, are really jagged and rough.
+
+The microscopic bumps on one surface drag and catch the ones on the surface moving across it.
+
+This causes atomic bonds to break and form and break again, and sets the atoms moving, which generates heat.
+
+All of this causes the system to lose energy, which slows the motion between the two surfaces.
+
+For example, when you walk on a sidewalk, molecules in the rubber soles of your shoes catch on the molecules in the cement, resisting motion.
+
+But, without this resistance, you would not be able to walk at all.
+
+Your shoes would slide backward with every step you took, as if you were imitating Michael Jackson's Moon Walk.
+
+While this description generally holds true, many facts about friction remain unknown.
+
+"We've got these nice little high school formulas that work in a lot of basic cases," Weymouth said.
+
+But, he added, scientists are still very bad at predicting what the friction will be between two random surfaces.
+
+So, Weymouth and his team aimed to get a better understanding of what happens to atoms in friction.
+
+"We're trying to simplify it down to the smallest physical system we can really reasonably measure—that's one atom against another," he said.
+
+The researchers slid a tiny tip made of tungsten metal and coated with a thin layer of silicon against a surface of pure silicon crystal coated with hydrogen.
+
+Crystals are a solid material whose atoms are arranged in a highly organized pattern.
+
+[ ](https://en.wikipedia.org/wiki/Atom "Atom")When the tip slid against the crystals, they separated into pairs of atoms, and as the tip slid over them, the pairs rocked back and forth, generating energy.
+
+The energy put out by this rocking motion was the amount of friction between the materials.
+
+The researchers found that the amount of friction depended strongly on whether the tip was dragged along the direction in which the pairs were oriented, or against it.
+
+"Experimentally this has not been done before," Weymouth said.
+
+"People have probed the directional dependence of friction, but never on a single atom level."
+
+Beyond adding to the overall picture of how friction works on a basic level, the research could help to improve the efficiency of machines that lose energy to friction.
+
+Philip Egberts and Robert W. Carpick at the University of Pennsylvania are two scientists who were not involved in the study but wrote an essay when it was published, explaining its possible long-term importance.
+
+The knowledge gained from the study might eventually help humans understand enough about friction to be able to predict and control it, they said.
+
+A better understanding of friction will benefit applications ranging from the study of geological faults that cause earthquakes to the prediction of wear in automobile parts and other machine parts, they said.
+

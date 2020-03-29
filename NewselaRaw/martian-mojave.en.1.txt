@@ -1,0 +1,65 @@
+MOJAVE NATIONAL PRESERVE — Out in the desert 14 miles south of Baker, Calif., molecular biologist and businessman J. Craig Venter is field-testing a new technology. It will, he says, revolutionize the search for extraterrestrial life.
+
+Venter says his invention will detect and decode DNA hiding in otherworldly soil or water samples — proving once and for all that we are not alone in the universe. Even more amazingly, he claims it also will beam that information back to Earth and allow scientists to reconstruct living copies in a biosafety facility.
+
+"We can re-create the Martians in a P-4 spacesuit lab, if necessary," the 67-year-old says matter-of-factly.
+
+It may sound outrageous, but Venter's notion of biological teleportation has captured the attention of scientists at NASA's Ames Research Center in Silicon Valley. Half a dozen Ames emissaries are on hand to assist in the field test. They include experts in astrobiology, geology and planetary and environmental science.
+
+## Mission To Mars
+
+The prospect of building a device that could land on Mars, or one of Saturn's moons, and analyze samples without having to return to Earth is enticing: Such a device would save billions of dollars. It also would eliminate the potential risks of bringing home alien diseases, said Ames Director Simon "Pete" Worden.
+
+"The next mission to Mars will be in 2020," Worden said. "That mission may well have this (technology) on it."
+
+The Mojave Desert has long played the role of stand-in at Mars exploration rehearsals.
+
+Such was the case when a team from NASA and the J. Craig Venter Institute trudged through the desert last weekend, flipping over rocks. They were, as Ames planetary scientist Chris McKay put it, in search of a bacteria with "super powers."
+
+The bacteria they were looking for is a green crud called Chroococcidiopsis, which can be found covering the bottom of quartz rocks. Chroococcidiopsis is highly resistant to radiation and extreme temperatures. And the stuff refuses to die when deprived of air and water.
+
+Scientists believe this is the sort of thing that may be hiding out on other worlds, so the team plans to use it in their terrestrial test run.
+
+"We're in love with this organism," McKay said. "It's the closest thing we have to Martians."
+
+## A Technology For Two Worlds
+
+The game plan was to load samples of the bacteria into a genetic sequencer. This will determine the unique order of four repeating nucleotides, or chemical "letters," in the bacteria's genome.
+
+Once that's accomplished, the bacteria's DNA sequence will be uploaded to the cloud, then downloaded by scientists at Venter's company, Synthetic Genomics Inc.
+
+In the Mojave, all this work is taking place in a massive trailer and requires a team of scientists. If it's ever used on Mars, the technology is going to have to be roboticized and shrunk to a fraction of its current volume.
+
+"It needs to be the size of a shoe box," McKay says.
+
+The desert field experiment was a test for the unit that would in theory  travel to Mars to send back information. But Venter said the technology to receive that information exists as well. That device, which downloads a DNA sequence and prints out the nucleic acids that correspond to the sequence, will be available for sale in 2014.
+
+This technology will have many uses on Earth, Venter said.
+
+The U.S. government could use it to identify biological agents in the field — perhaps dropping a sequencing unit from an aircraft. Scientists would be able to identify the organisms in the safety of their lab thousands of miles away. Additionally, health agencies could use it during major outbreaks of viruses.
+
+Venter says the receiving unit ultimately will be the size of a computer printer. With it, consumers will be able to "download" vaccines and produce insulin, among other medicines.
+
+"We hope to sell a lot of these machines," he says.
+
+## Digging Deeper To Find Life
+
+As daylight faded and the scientists wrapped up their day's work, Venter cranked up music, sent for pizzas in Baker, and kicked off a spur-of-the-moment party. The main topic of conversation: life elsewhere in the universe.
+
+"They sent (NASA's Mars rover) Curiosity to the last place on Mars where they would find life," complained one scientist.
+
+"And it has a tiny drill," lamented another.
+
+Venter said the key to finding evidence of life on Mars would be digging deep into the planet, perhaps as deep as a kilometer or more, where water may exist.
+
+"I would not bet on finding any microbes on or near the surface of Mars," he said.
+
+But why stop with the Red Planet? A biological transporter should be sent to the Saturnian moons Titan or Enceladus, one expert argued. Enceladus is thought to have liquid water beneath its frozen surface, and it spews ice into space. That ice ultimately becomes part of Saturn's rings.
+
+"I could think of a lot more interesting places to go than Mars," Venter said.
+
+Data from the Kepler space telescope suggest that every fifth star in our galaxy has a planet that might hold liquid water — a key ingredient for life. That means billions of planets in the Milky Way have the potential to be inhabited by living organisms, scientists say.
+
+In the face of such odds, Venter said, he's astounded that some people dismiss the idea of life beyond Earth.
+
+"And people think I have a big ego," he said, shaking his head.

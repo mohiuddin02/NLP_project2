@@ -1,0 +1,39 @@
+Robots can be helpful tools when humans want to visit places that are hard to get to, like the moon or Mars. Now, scientists have built a robot to explore a new and challenging frontier: colonies of adorable penguins.
+
+A team led by scientists from the University of Strasbourg in France have designed a rover that looks like a fluffy penguin chick. With this disguise, the machine can more easily get close to real birds that live in colonies in Antarctica.
+
+When humans study animals in the wild, it is better to stay out of the way and let the robots do the work.
+
+Animals often get stressed when human researchers get close. Their hearts beat much faster because they are alarmed. There are negative consequences for both the birds and the research when this happens.
+
+## Getting Up Close Is Challenging
+
+Wild animals show stress and escape behavior when humans approach them. The penguins may even have a harder time breeding after the humans leave. It is difficult for scientists to collect quality data about penguins when they act like this.
+
+The challenge is that human researchers usually have to get very close to penguins to collect the data that they need — sometimes within 2 feet (60 centimeters). This means that to get information, they have to disturb the birds.
+
+One solution is to send in a wheeled robot penguin to do the work.
+
+Researchers are studying how king penguins on an island in Antarctica react to both humans and robots. When a human gets in a penguin's personal space, the bird's heart rate shoots up much faster than it does when a robot is around. The bird also continues to show the effects of a human scare much longer, too.
+
+"Human approaches led to an excess in (heart rate) approximately four times larger than that due to rover approaches," the team from France wrote.
+
+When a king penguin feels threatened, it will usually shuffle away from the scary object while holding onto its egg or baby chick. Scientists found that when a rover approached the penguin, the bird would move away an average of 3 inches (8 centimeters). But when the humans approached, the penguins moved a whopping 17 inches (43 centimeters).
+
+## Personal Space Invasion
+
+When the penguins shuffle away, they move into the spaces of other nearby penguins. This can create problems. Penguins are territorial, so when other birds get close to them and their own colonies, they may become aggressive and fight.
+
+The rover is not perfect. However, it is an improvement to human researchers because it is less disturbing for the birds. Scientists found similar reactions when using a robot with emperor penguins in another area of Antarctica.
+
+Of the 158 birds that were tested with the robot, 28 percent "reacted with alertness," 47 percent did not seem to notice at all, and 25 percent were curious about the rover and moved closer to check it out.
+
+Then scientists used a friendlier version of the robot with the emperor penguins. The rover was disguised as a fuzzy baby penguin on wheels. The adorable spy was even more successful than the plain-looking robot.
+
+"When the rover was camouflaged with a penguin model, all adult and chick emperor penguins allowed it to approach close enough for an electronic identification," the scientists wrote. Penguin chicks and adults even tried to talk to the "baby" rover.
+
+## More Animal-Like Robots
+
+The researchers also tested the robot with elephant seals to see how these animals would react. These seals did not seem to notice when the rover came close to their heads or tails. That is a good sign because elephant seals usually do not react kindly when someone is approaching its backside.
+
+Robots like these hold potential for research into the lives of animals since they are less disturbing than a human researcher. And who knows? Maybe rovers in the future might be able to follow around swimming and flying creatures as well.

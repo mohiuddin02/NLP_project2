@@ -1,0 +1,53 @@
+Timothy Cade had only owned his hoverboard for three days when it exploded under him.
+
+"Hoverboard is on fire," he says in a video taken right after he jumped off the burning piece of equipment. "What is going on dude?"
+
+## Up In Flames
+
+The bow-shaped board does not really "hover," but is instead more akin to a cross between a skateboard and a Segway. It flamed and popped angrily.
+
+His mother ran out with a box of baking soda. Though baking soda is recommended for extinguishing grease fires, it didn't help the hoverboard situation. The toy hissed and boomed, then the battery pack went shooting out of it. Flames engulfed the board.
+
+"You would not expect a fire like that to come out of a little thing like that," Cade told his local TV station, WKRG.
+
+But they do. Not just out of Cade's board, but at least 10 others. What was once the hottest toy of the holiday season has become something of a hot mess.
+
+## Government Investigates
+
+Airlines have banned hoverboards until they can figure out what's going on. Online retailers like Amazon and Overstock will no longer be selling some brands. The U.S. Consumer Product Safety Commission is a government agency that regulates the sale and manufacture of thousands of different products for sale, from cribs to cars. It announced this week that it will be investigating the trendy toys in an effort to pin down the source of reports of 29 emergency room visits and at least 11 fires related to hoverboards, according to The New York Times.
+
+The problem, it seems, is the batteries.
+
+More specifically, it's the re-chargeable lithium-ion batteries in the foot rests of the rolling electric scooters. There are hundreds of companies making hoverboards — not all of them strictly abiding by safety standards. When it comes to lithium ion batteries, a few shortcuts can have explosive results.
+
+## Tricky Batteries
+
+That's because of how batteries work. A battery is essentially a high school chemistry experiment in a small metal tube: two metals immersed in an electrolyte fluid and partitioned by an all-important separator. The anode (the negatively charged end of the battery) accumulates electrons, the tiny negatively charged particles that form an electric current. The electrolyte fluid allows ions — atoms lacking one electron — to gather in the cathode (the positively charged end).
+
+The electrons want to balance things out by flowing to the cathode, but they have no way of getting there thanks to the separator. When you put the battery in a flashlight and flip the switch, the current is allowed to flow through and complete the circuit. The bulb lights up. When you put the battery in a hoverboard and turn it on, it does the same thing and zooms off.
+
+Lithium ion batteries can also reverse the process. When you recharge one, the reaction flows the other way: the anode re-accumulates electrons, the difference in charges reappears. They are lightweight and endlessly reusable, which makes them appealing for electronics ranging from cellphones to electric cars.
+
+## "It Will Go Off"
+
+But the electrolyte solution used in these batteries is highly flammable, explained Wired, a technology magazine. Because batteries can overheat, it's so important that the separator keep things, well, separate. If a current were able to flow within the battery, it could spark and cause a fire.
+
+If there is a problem with the battery, "it will go off at some point," Jay Whitacre, a materials science researcher at Carnegie Mellon University, told Wired. Small problems with the making or materials of the batteries "lead to the plus/minus sides of the batteries being shorted with each other after a small amount of use." It causes the batteries to heat up to the point where the electrolytes boil, he said. Then, the battery casing can burst, causing a "significant fire," he said.
+
+Lithium ion battery explosions are by no means unique to hoverboards. IPods, which also use this type of battery, have gone up in flames, too.
+
+## You Don't Crash An iPod
+
+But batteries in hoverboards face problems that an iPod does not. For one thing, no one is standing on iPods while smashing into walls at high speeds. The wear and tear and feats of bro-iness to which hoverboards are subjected makes their batteries more likely to get damaged.
+
+For another, hoverboards also are pretty much unregulated, much to the dismay of U.S. Consumer Product Safety Commission chair Elliot Kaye.
+
+Speaking to the New York Times, Kaye explained that hoverboard manufacturers, many of them in China, use irregular manufacturing practices. They also skirt around trade regulations when their boards get shipped overseas.
+
+## "The Injuries Start Mounting"
+
+"They don't all look the same inside," Kaye said. "It looks like there might be overcharging, too many batteries stacked together in ways that lithium ion batteries are not meant to be stacked."
+
+Since there are no rules on how hoverboards must be made, it's easy for manufacturers to get away with poor products, he said.
+
+"People just put it out there," Kaye told The Times, "and then we're left to pick up the pieces when the injuries start mounting."

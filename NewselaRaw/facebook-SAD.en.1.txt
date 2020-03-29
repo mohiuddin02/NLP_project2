@@ -1,0 +1,59 @@
+LOS ANGELES — Blame your Facebook account if you feel down on a bright, sunny day, according to new research. Too many of your friends may be posting emotionally negative messages.
+
+In a paper published Wednesday, scientists argued that the hugely popular social networking site exerts an emotional "spillover" effect. The research may carry significant consequences for an increasingly interconnected world.
+
+By analyzing more than a billion Facebook status updates, the authors concluded that emotionally positive posts gave rise to more positive posts by friends. On the other hand, negative posts spawned more negative posts. The paper was published in the journal PLOS ONE.
+
+"It was actually a very large effect. Every message that you post causes your friends to post an additional one to two messages that have the same emotional content," said lead study author James Fowler. He is a professor of medical genetics and political science at the University of California, San Diego, School of Medicine.
+
+## Rainy And Sunny Posts
+
+How do Fowler and other researchers know this?
+
+Researchers said they first used weather records to determine which updates were posted in cities experiencing rain. Then they used text analysis software to determine if posts expressed positive or negative emotions. Finally, they compared the rainy-day posts with non-rainy-day posts.
+
+They found that rain increased the number of negative posts by 1.16 percent and reduced the number of positive posts by 1.19 percent.
+
+But it didn't end there. The study's authors claimed that those negative posts influenced Facebook friends in cities even with dry weather.
+
+According to researchers, negative posts in general caused 1.29 more negative posts by friends. Positive posts led to an extra 1.75 positive posts.
+
+"What people feel and say in one place may spread to many parts of the globe on the very same day," the authors wrote.
+
+Although positive posts had a slightly bigger influence than negative posts, these findings raised concerns, researchers said.
+
+## Some Scientists Hit "Dislike"
+
+The findings suggest that emotions might ripple through social networks to create clusters of happy and unhappy people.
+
+"As a result, we may see greater spikes in global emotion," they said. These spikes could cause increased instability in everything from political systems to financial markets.
+
+Fowler and study co-author Dr. Nicholas Christakis have written numerous papers on the topic of social contagion. Their work suggests even that obesity, being grossly fat, can be spread through "social ties." Christakis is  a physician and sociologist at Yale University.
+
+Their work has generated numerous newspaper headlines, but it's also been criticized by outside experts.
+
+Charles Mansk, a professor of economics at Northwestern University, said it's difficult to determine how reliable the study is.
+
+Russell Lyons, a professor of mathematics at Indiana University, criticized the authors' 2007 obesity paper. He called it "deeply flawed."
+
+Lyons said he hasn't had the time or information necessary to examine the methods of the current paper, but remained skeptical.
+
+"I don't think I've seen any particularly convincing and interesting recent research on social contagion," he said.
+
+"The information presented in this paper is certainly not convincing," he wrote.
+
+## Sharing Their Emotions
+
+In the Facebook study, the researchers said they examined posts from users in 100 U.S. cities from 2009 to 2012.
+
+To ensure anonymity, they did not view any of the names or actually read the posts.
+
+A lot of research has been done on the spread of emotions among humans, and its basis in evolution.
+
+This previous research has argued that emotions play a special role in bonding. Humans are naturally inclined toward expressing their emotions rather than concealing them.
+
+"Human laughter, for example, is believed to have evolved from the 'play face' expression seen in other primates in relaxed, social situations," authors wrote. These expressions and positive emotions strengthen social relations by producing pleasurable feelings in others. They also reward the efforts of others and encourage social contact.
+
+Fowler said that scientists and policymakers should consider using social networks to improve mental and physical health.
+
+"We should be doing everything we can to measure the effects of social networks and to learn how to magnify them," he said. This would create an epidemic of well-being.

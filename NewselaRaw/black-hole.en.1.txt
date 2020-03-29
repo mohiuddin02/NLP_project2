@@ -1,0 +1,43 @@
+LOS ANGELES — Black holes are regions of space with a gravitational pull so powerful that everything around them gets sucked into them, including light. Astronomers have known for years that hyper-dense black holes also shoot matter into the universe.
+
+These high-speed streams are known as relativistic jets, but nobody knew exactly what type of material the jets were spewing.
+
+Now, that mystery may have been solved.
+
+Writing in the journal Nature, a team of scientists said it found traces of nickel and iron in the powerful jets shooting out of 4U 1630-47, a small black hole just a few times the mass of our sun. Their discovery may help solve a scientific puzzle that has lingered for decades.
+
+## Finding The Positive In A Negative
+
+"It was one of the unsolved questions about relativistic jets produced in the vicinity of black holes," said Avi Loeb, chair of the department of astronomy at Harvard University. "What is their composition?"
+
+Everyone was in agreement that the jets would contain electrons, which have a negative charge. But the jets did not have a negative charge overall, which suggested there was something else with a positive charge that canceled it out.
+
+Some models of the jets suggested they were shooting lightweight electrons and positrons away from the black hole and into the universe. Positrons are positively charged and are the opposite of electrons.
+
+Other scientists thought the jets were made of much heavier normal matter.
+
+"Until now, it wasn't clear whether the positive charge came from positrons, the antimatter 'opposite' of electrons, or positively charged atoms" of normal matter, said study coauthor James Miller-Jones. "Since our results found nickel and iron in these jets, we now know that ordinary matter must be providing the positive charge."
+
+It takes a lot more energy to move normal matter than it would to move lightweight electrons and positrons. For this reason, the authors suggest that the high-speed jets are carrying more energy away from the black hole than was previously known.
+
+## Solving Another Mystery?
+
+The study also sheds light on another scientific debate — exactly where the jets emerge from. It has been unclear whether the jets are caused by the spin of the rotating black hole, or if they come from the disk of matter that surrounds the black hole.
+
+"Our results suggest it's more likely the disk is responsible for channeling the matter into the jets, and we are planning further observations to try and confirm this," Miller-Jones said in the statement.
+
+To come to these conclusions, the researchers looked at radio waves and X-rays that were emitted by black hole 4U 1630-47. Different things have different characteristic radio wave and X-ray patterns associated with them. These are known as their signatures. These signatures fall within the complete range or spectrum of possible wave and ray patterns.
+
+The first time the researchers looked, the radio wave spectrum suggested the jets were not on, and the X-ray spectrum did not reveal anything unusual.
+
+"The jets are not always on," Miller-Jones said. "It depends a little bit on how fast the black hole is feeding." Black holes can expand — or "feed" — by sucking in matter around them.
+
+## A Whopping Speed
+
+But the second time the team looked, the radio waves seemed to indicate the jets were on. At the same time, the X-ray spectrum picked up the characteristic signatures of iron and nickel. That signal, however, was off just a bit.
+
+The scientists believe the signatures were slightly skewed because of a Doppler-like effect in space.
+
+"Just like a sound wave gets higher as it moves toward you and lower as it moves away from you, we saw the same effect," Miller-Jones said. "The energy was shifted a little bit to higher energies when it was moving toward us, and lower when it was moving away from us."
+
+One especially cool result of this effect is that it allowed the researchers to determine how fast the material in the jets was moving. Their finding? A whopping 123,000 miles per second, or about 66 percent of the speed of light.

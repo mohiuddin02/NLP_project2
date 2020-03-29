@@ -1,0 +1,29 @@
+Sometimes engineers get good ideas from the most unlikely places. 3-D printing and cuttlefish don't seem to have anything in common. Yet a new 3-D printing process uses the marine creature as inspiration.
+
+3-D printing is a new technology where objects are made from three-dimensional models designed on a computer. It is changing many industries, from jewelry to airplane engines.
+
+Until now, 3-D printers were able to make only solid objects, like car parts. Engineers are now developing a material that is soft and can change shape.
+
+## Project Started To Study Camouflage
+
+"This project was originally about camouflage," says Mark Guttag, a Ph.D. student at Massachusetts Institute of Technology who conducted the study. He researched cuttlefish because they are skilled at camouflage, or disguising themselves. They have large, elongated bodies and tentacles around their mouths. They often hide from predators by altering skin color and patterns to closely blend in with their surroundings. Even more intriguingly, they can match their skin's texture to the surfaces of their surroundings. The cuttlefish is not a fish; it belongs to a scientific class known as cephalopods. Octopuses and other cephalopods similarly camouflage themselves.
+
+Guttag and his research partner, Mary Boyce, an engineering professor at Columbia University, wanted to create their own artificial surface with adjustable textures. They decided to try to copy the cuttlefish.
+
+## Polymers: Firm Or Squishy
+
+To do so, they developed a 3-D printing process that uses polymers. Polymers are the building blocks for many plastics and are used in a variety of materials.
+
+The engineers used two types of polymers: one rigid, one soft. The 3-D printer adds the rigid polymers into a bed of the squishy, softer polymer material. When the two are squeezed, the engineers found that the naturally smooth surface of the soft material takes on the texture of the rigid polymer. The rigid polymer can be smooth, ridged or bumpy, or it can even form more complicated patterns. This, in turn, can make the soft material smooth, ridged or bumpy. When the two polymers are no longer squeezed, the material returns to its original smooth texture.
+
+Shengqiang Cai is an engineer at the University of California in San Diego. He was not involved with this study, but he said that Guttag and Boyce's material is "innovative and inspiring." Cai said this method for making changeable surfaces could have many important uses in engineering. It also help us to better understand biology and how animals like cuttlefish change their patterns.
+
+Once the material is printed, its polymers are stuck in a fixed order and cannot change positions. Guttag and Boyce, however, have proposed a number of ways for achieving different types of surfaces from the same sheet of printed material. They could, for example, use stretched rigid polymers rather than round ones. Scientists could then make surfaces that are smooth going one way but ridged going in the opposite direction.
+
+## Pressure Makes Surface Feel Different
+
+Additionally, some rigid polymers might be able to produce surfaces that feel different depending on the strength of pressure applied. If they are lightly squeezed, they could feel one way. Squeeze them a little harder, though, and it could cause the polymers to rotate relative to one another, creating a different surface and feel.
+
+Guttag and Boyce's research used only small amounts of rigid polymers, measuring about a centimeter in diameter. The bed of soft material was about a meter in length. They believe the printing process could be smaller or bigger, depending on what the material will be used for.
+
+The team also discovered their modifiable surfaces could do other unusual things. They could make objects more or less aerodynamic, reflective or water-repellent. With this new type of 3-D printing, transformable plastics might be the next big thing for many new and exciting industries.

@@ -1,0 +1,31 @@
+Talk about reading between the lines! Scientists wielding X-rays say they can, for the first time, read words inside the charred, rolled-up scrolls that survived the catastrophic eruption of Mount Vesuvius nearly 2 millennia ago.
+
+The findings, described in the journal Nature Communications, give hope to researchers who have until now been unable to read these delicate scrolls without serious risk of destroying them.
+
+The scrolls come from a library in Herculaneum, one of several Roman towns that, along with Pompeii, was destroyed when Mount Vesuvius erupted in A.D. 79. This library, a small room in a large villa, held hundreds of handwritten papyrus scrolls that had been carbonized from a furnace-like blast of 608-degree-Fahrenheit gas produced by the volcano.
+
+"This rich book collection, consisting principally of Epicurean philosophical texts, is a unique cultural treasure, as it is the only ancient library to survive together with its books," the study authors wrote. "The texts preserved in these papyri, now mainly stored in the Officina dei Papiri in the National Library of Naples, had been unknown to scholars before the discovery of the Herculaneum library, since they had not been copied and recopied in late Antiquity, the Middle Ages and Renaissance."
+
+So researchers have tried every way to read these rare and valuable scrolls, which could open a singular window into a lost literary past. The problem is, these scrolls are so delicate that it's nearly impossible to unroll them without harming them. That hasn't kept other researchers from trying, however — sometimes successfully, and sometimes not.
+
+"Different opening techniques, all less effective, have been tried over the years until the so-called 'Oslo method' was applied in the 1980s on two Herculaneum scrolls now in Paris with problematic results, since the method required the rolls to be picked apart into small pieces," the study authors wrote.
+
+Any further attempts to physically open these scrolls were called off since then, they said, "because an excessive percentage of these ancient texts was irretrievably lost by the application of such methods."
+
+This is where a technique like X-ray computed tomography, which could penetrate the rolled scrolls, would come in handy. The problem is, the ancient writers used ink made of carbon pulled from smoke residue. And because the papyrus had been carbonized from the blazing heat, both paper and ink are made of roughly the same stuff. Because the soot-based ink and baked paper have about the same density, until now it's been practically impossible to tell ink and paper apart.
+
+But a team led by Vito Mocella of the Institute for Microelectronics and Microsystems in Naples, Italy, realized they could use a different technique called X-ray phase-contrast tomography. Unlike the standard X-ray CT scans, X-ray phase-contrast tomography examines phase shifts in the X-ray light as it passes through different structures.
+
+Using the technique, the scientists were able to make out a few words and letters from two scrolls, one of them still rolled.
+
+Reading these scrolls is difficult; computer reconstructions of the rolled scroll reveal that the blast of volcanic material so damaged its once-perfect whorls that its cross section looks like a half-melted tree-ring pattern. The paper inside has been thoroughly warped, and some of the letters on the paper probably distorted almost beyond recognition.
+
+Nonetheless, the researchers were able to read a number of words and letters, which were about 2 to 3 millimeters in size. On an unrolled fragment of a scroll called "PHerc.Paris. 1," they were able to make up the words for "would fall" and "would say." In the twisted, distorted layers of the rolled-up papyrus called "PHerc.Paris. 4," they could pick out individual letters: alpha, nu, eta, epsilon and others.
+
+The letters in "PHerc.Paris. 4" are also written in a distinctive style with certain decorative flourishes that seemed very similar to a scroll called "PHerc. 1471," which holds a text written by the Epicurean philosopher Philodemus. The researchers think they were written in the second quarter of the first century B.C. (75-50 B.C.)
+
+If they are right, "then the papyrus is quite likely to contain a text by Philodemus," the study authors wrote. "Thus, this study, without compromising the physical integrity of the roll, has not merely discovered traces of ink inside it, but has also helped identify with a certain likelihood the style of handwriting used in the text, along with its author."
+
+Ultimately, the researchers wrote, this work was a proof of concept to give other researchers a safe and reliable way to explore ancient philosophical works that were until now off-limits to them.
+
+"This pioneering research opens up new prospects not only for the many papyri still unopened, but also for others that have not yet been discovered, perhaps including a second library of Latin papyri at a lower, as yet unexcavated level of the Villa," the study authors wrote.

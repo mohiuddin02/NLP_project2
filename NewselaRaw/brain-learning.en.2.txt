@@ -1,0 +1,49 @@
+Anyone who's ever learned music probably remembers reaching a point when they just played without "thinking" about the notes.
+
+A study published Monday in the journal Nature Neuroscience reveals why this might be. The study shows that disconnecting thinking from action goes a long way in learning motor tasks. Motor tasks are skills that require muscles to work together to accomplish an action.
+
+The findings could help reveal why children learn some tasks faster than adults and point toward methods to help adults learn faster and to make classrooms better for learning.
+
+## Practice Versus Performance
+
+Volunteers spent several weeks practicing and learning musical patterns. Throughout the study, their brains were scanned by brain researchers at the University of California at Santa Barbara. Then the scientists looked at the process of how certain parts of the brain, called modules, appeared to work together or became disengaged from each other.
+
+The module controlling movement is called the motor module. This module and the one controlling sight, called the visual module, worked together a great deal. For example, slow sight-reading eventually became speed-playing. The people in the study used other regions of their brains to work out the problem, too. That was true for fast learners and slow learners, according to the study.
+
+But what appeared to set the fast learners apart from the slow learners was how soon they let go of the parts of the brain dedicated to planning and problem solving.
+
+"Any athlete will tell you this: If you're skilled at something and you start thinking about it, especially at a detailed level, you're just dead in the water," said UC Santa Barbara neuroscientist Scott Grafton, who has puzzled over motor learning for 20 years. "Golfers talk about this all the time. It's OK for practice, but not for performance conditions."
+
+## Mapping The Brain
+
+This time, Grafton collaborated with a scientist named Danielle Bassett who works at the University of Pennsylvania's bioengineering department. Her specialty is called complex systems theory.
+
+Bassett broke up the brain images into 112 pieces and reorganized them into complicated grids to reveal how the different pieces interacted. Then she analyzed changes over time, and how that predicted differences in learning.
+
+Bassett's reshuffling approach revealed a more detailed map of the brain. The pieces of the brain participate in different activities, including recruitment, integration and shifting allegiances over time.
+
+"If people are learning and changing their behavior, then there must be something that's changing in their brain," Bassett said. "The brain can't be constant. It has to be changing in some way."
+
+## Disconnect And Learn
+
+In the early practice sessions, the motor module and the visual module remained integrated across all subjects. But soon, they became more independent.
+
+"That actually makes a lot of sense," Bassett said. "The task required motor-visual integration at the beginning, because you see a set of musical notes and then you have to play them with your fingers. ... But then, as people learned the pattern over and over again, they seemed to not necessarily need that coupling anymore."
+
+Still, that change in integration didn't explain differences in learning among the volunteers. "It's just consistently seen across everybody," said Bassett. "But this disconnection of the rest of the brain is very strong in good learners and very weak in poor learners. That seems to be really important."
+
+The disconnection that appeared to be driving the difference in learning came mainly from the frontal and anterior cingulate cortex. Those parts of the brain are associated with cognitive control. They help identify strategies and plans of action.
+
+"These are important probably early on in learning, but you actually need to get them disconnected if you want to complete learning," Bassett said.
+
+That result might offer an explanation for why children consistently learn certain tasks faster, including music. Research has shown that the areas of the brain involved in executive function, which deals with gathering information and responding to that information, are not fully developed and connected in children.
+
+## Wanted: Younger Research Subjects
+
+Bassett said she would like to extend the research to younger people. The original participants at UC Santa Barbara were college-aged. She also wants to look at other types of learning that are more complicated. And among adults, it could be possible to force these areas apart, through such tools as magnetic stimulation, Bassett said.
+
+Eventually, the study's methods could help people figure out what kind of classroom environment encourages children to learn faster, she added.
+
+Even more fundamentally, the mathematical modeling used in the study could change the way neuroscientists map the brain.
+
+"What complex systems theory does is it allows you to look at the entire data set, the entire system" all at the same time to look for an important feature, Bassett said.

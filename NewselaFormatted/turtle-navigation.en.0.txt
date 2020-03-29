@@ -1,0 +1,56 @@
+It's a sea turtle mystery that has stumped scientists for decades: How does the female sea turtle, which travels across thousands of miles of open ocean each year, still manage to navigate back to the same beach where she hatched to lay her eggs?
+
+Keep in mind that there are no visual guideposts in the open ocean where sea turtles spend most of their lives.
+
+It is vast and featureless — an expanse of blue.
+
+And yet every two to three years, sea turtles dig their nests at the same location where they once crawled out of their own leathery eggs — a behavior known as natal homing.
+
+Scientists have hypothesized that sea turtles may rely on information in the Earth's geomagnetic field to help them find their way back to their birth beach, but they had never been able to find any evidence to support this hypothesis.
+
+Until now.
+
+In a paper published Thursday in Current Biology, researchers show that subtle changes in the Earth's magnetic field affect where loggerhead sea turtles bury their eggs on the Florida coast, providing the first clue that what's known as the geomagnetic imprint hypothesis may be correct.
+
+Since the mid-1990s, scientists have known that sea turtles are capable of deriving navigational information from the Earth's geomagnetic field — a field we humans cannot sense without the use of scientific instruments.
+
+The magnetic field around the Earth looks similar to the magnetic field around a bar magnet.
+
+Its intensity is strongest at the poles, and weakest at the equator.
+
+It also intersects the Earth at different angles, which are known as inclination angles.
+
+"Turtles have evolved a way to use the inclination angle of the geomagnetic field, and its intensity to give them almost an internal GPS," said J. Roger Brothers, a graduate student at the University of North Carolina and the first author on the paper.
+
+To see whether female turtles rely on this navigational tool to find their home beaches, the researchers looked at 19 years of data collected by the Florida Fish and Wildlife Conservation Commission on loggerhead nesting sites on the Atlantic Coast of Florida (which also happens to be the largest sea turtle rookery in North America).
+
+Because the Earth's magnetic field is in constant flux, the researchers hypothesized that in years when the magnetic signatures of adjacent beaches moved closer together, there should be more nests on the same stretch of beach.
+
+In years when the magnetic signatures move farther apart, the nests should be more spread out.
+
+And in fact, that's exactly what they found.
+
+At times and places where the magnetic signatures converged, scientists found an average increase of 35 percent in nesting density.
+
+At times when the signatures diverged, nesting density decreased an average of 6 percent.
+
+But there are still many more questions to be answered.
+
+For example, researchers do not know what mechanism the turtles are using to detect the geomagnetic field.
+
+"Most likely they have tiny magnetic particles in their brains or in their bodies that act like a compass, but conclusive evidence is lacking," Brothers said.
+
+Kenneth Lohmann, the senior author of the paper and Brothers' adviser at UNC, explains that part of the reason these magnetic receptors are so hard to find is because they may be scattered throughout large volumes of tissue.
+
+"Whereas receptors for senses such as olfaction and vision must make contact with the external environment, magnetoreceptors might be located almost anywhere inside an animal's body," he wrote in a News and Views article in Nature in 2010.
+
+Brothers also noted that while loggerhead turtles may use geomagnetic fields to help them get back home to lay their eggs, it does not appear they are relying on the information alone.
+
+"We don't expect that these turtles are coming to the magnetic signature regardless of what else is going on," he said.
+
+"If a condo is built there, they will usually decide to go nest somewhere else."
+
+Going forward, Brothers would like to see similar studies done on other animals that exhibit natal homing — for example, salmon, sharks, migratory birds and elephant seals.
+
+"Our hope is that this analysis will open the door to figuring out how all the other animals are doing it," he said.
+

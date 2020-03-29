@@ -1,0 +1,65 @@
+The United States has used secret unmanned airplanes to kill hundreds of suspected terrorists across the world. The aircraft, known as drones, can fire missiles, gather information or observe people and places.
+
+These remote-control planes are a touchy subject. Critics say that bombs dropped from drones have caused the deaths of many innocent civilians.
+
+Yet there are no such worries about using the aircraft to catch animal poachers.
+
+One American man is now testing a plan using [drones](https://www.newsela.com/?tag=drone) to halt illegal rhinoceros hunting. Hundreds of the endangered animals are killed for their horns every year.
+
+## Booming Business
+
+South Africa lost 13 rhinos in Kruger National Park in just one week early in May.  It is estimated that one animal is being killed every 11 hours in that country alone.
+
+Demand for rhino horn has increased greatly in recent years. Criminal gangs are offering as much as $30,000 per pound for the horns.
+
+They are sold in parts of Asia where ground-up horns are believed to be a cure for a lot of illnesses, including cancer, leaving these impressive animals in great danger. Hunters have already killed 350 rhinos in South Africa this year. Last year, 668 endangered rhinos died for their horns.
+
+## Eyes In The Sky
+
+Professor Tom Snitch thinks that using drones could be a very valuable tool in catching the poachers.
+
+Snitch works at the University of Maryland. He has experience using satellite imagery to solve problems. He feels he might be able to use his mapping knowledge to help crack down on poachers.
+
+The exact details of his plan are secret. The huge Kruger game preserve is home to lions, elephants, buffalos, leopards and rhinos, and measures 220 miles across. If the rhino poachers knew where Snitch was setting up, they could just hunt somewhere else in the vast park. Snitch will begin working over the next few days on a private farm next to the reserve.
+
+## Math, Science And Saving Rhinos
+
+Snitch says his project is a modest one. He will use small, hand-launched Falcon UAVs (unmanned aerial vehicles). These drones weigh about 12 pounds and have a range of about six miles.
+
+The team hopes to use technology to make sure they launch their drones in the right places. Their goal is to use patterns to predict where the poachers will be. Then Snitch will quickly alert game wardens to catch the hunters.
+
+## Data Crunching
+
+The project will gather information about previous poachings, then put it into a mathematical formula. This data will include the weather, the number of poachers working and exactly where they were in the park.
+
+"We statistically re-create the environment of when the incident happened," Snitch explained.
+
+"Was it a full moon? No moon? Was the wind out of the east? Was it raining? What time did it happen? What day of the week? What else was going on?
+
+"We start layering in this data. And then you put animal movement patterns on top of it," the animal lover added. "On nights where this happened, where were the rangers deployed? Where do we think these people came from?"
+
+This analysis, as well as their eyes in the sky, may help the team catch the rhino poachers before they act.
+
+## Fight For The Future
+
+Snitch hopes that his work will persuade the South African government to use drones to protect animals in the years ahead.
+
+"As soon as we demonstrate this, I believe the South African parks will come and say, 'OK, you took the risk. You showed it can work. Now we want to get involved,' " he said.
+
+Wildlife groups also say they're eager to use the technology to work against poachers. Carter Roberts, president of the World Wildlife Fund (WWF), said that conservationists want to fight back and not just "document the demise of nature."
+
+"We're not winning this battle," Roberts explained. "It's become a huge crisis, and the bad guys are extremely sophisticated. They have night-vision goggles. They've got helicopters. They have all kinds of funding and resources, and we need to up our game to combat what we're dealing with."
+
+What's needed is up-to-the-minute information on both the animals and the poachers, Roberts explained. That, plus a software system that enables people "to get to the right place at the right time," he added.
+
+## Ancient Survivor Not Dying "On Our Watch"
+
+The people who are working to protect rhinos say there's something majestic and ancient about the huge beasts. They've also worked hard to restore populations of the animal that nearly died out 100 years ago.
+
+"We don't want it to be on our shoulders, to be the ones responsible for the extinction of a species that's been on Earth for millions of years," Matt Lewis, an African animal expert, said.
+
+"I think we should just pull out all stops and say this cannot happen on our watch, and we cannot let rhinos go extinct. We cannot be the ones to let that happen," Lewis continued.
+
+Maybe professor Snitch's remote-controlled airplanes will be a big factor in the rhino's desperate fight for survival.
+
+##

@@ -1,0 +1,120 @@
+It's a lot more complicated than selling picks and shovels to gold miners, but the idea's the same.
+
+As airplane manufacturers Boeing and Airbus, as well as their emerging challengers, charge into a new world where wings and jet bodies are built from carbon-fiber composites rather than metal, only a few suppliers can provide the key tools they all need.
+
+Elite engineering firm Electroimpact of Mukilteo, Wash., is perfecting sophisticated robotic technology to secure its premier place among those toolmakers.
+
+Inside a building just west of Paine Field in Everett, Wash., one of the industry's most advanced machines for laying down carbon composites zipped back and forth recently across a spinning drum, laying down half-inch-wide ribbons of black fiber as it demonstrated how it can build up a contoured section of airplane fuselage at a dizzying speed.
+
+The machine will soon be shipped to South Korea, where it will fabricate the cone-shaped final fuselage segment for Boeing's 787 Dreamliner.
+
+But Todd Rudberg, Electroimpact's project manager, hopes Boeing, too, will buy this automated fiber placement, or AFP, machine to build the giant carbon-fiber composite wing of its soon-to-be-launched 777X airliner.
+
+"777X is the Holy Grail right now," Rudberg said.
+
+"We're competing mightily for that."
+
+Electroimpact started out designing and building automated drilling and fastening machines, and made its name integrating those into complete factory systems that assemble metal wings for Airbus in Wales and composite wings for Bombardier in Northern Ireland.
+
+With about 610 employees worldwide, 480 or so at its Mukilteo headquarters, Electroimpact also has ongoing projects with Embraer in Brazil and Comac in China.
+
+To retain its lead role as a toolmaker to the aerospace giants in the new era of carbon-fiber composite jets, Electroimpact is busily diversifying beyond machines that assemble parts to machines that build composite parts.
+
+AFP technology is no more than about 10 percent of Electroimpact's business right now, but it's cutting edge and set to grow.
+
+What makes Rudberg's machine special is that its circular robotic head, carrying multiple creels of carbon-fiber ribbon, can move around any complex shape with pinpoint accuracy and at unheard-of speeds.
+
+First, a laser projector measures the contours of the surface upon which the fiber is to be laid and a computer works out the complex three-dimensional moves needed to tailor the layers according to the engineering specs.
+
+Then, in a mesmerizing industrial dance, the head moves back and forth, laying down shorter and longer strips of fiber, each heated to a fiery glow at the point of application, while the surface to be covered rotates as needed.
+
+As it zipped around during the demo, the machine's readout showed a top speed of 595 pounds of carbon fiber laid down per hour.
+
+That is "a very large number, probably the fastest we've seen," said Jeff Sloan, editor-in-chief of the trade magazine High Performance Composites.
+
+In current real-world applications, an average lay-down speed of 90 pounds per hour would be fast, he said.
+
+Bill Hasenjaeger, product marketing manager with CGTech, of Irvine, Calif., which makes the software for AFP technology, said reliable precision — which he's seen in previous Electroimpact AFP machines — is more important than top speed.
+
+"If it's really that fast and retains the accuracy, reliability and repeatability I've experienced with Electroimpact, that's a pretty darned impressive number," he said.
+
+Ben Hempstead, chief of staff at Electroimpact, insists the company's AFP technology can't be matched by competitors.
+
+"You won't see this anywhere else on the planet," Hempstead said.
+
+Competitors include long-established U.S. companies such as Cincinnati Machine or Ingersoll, as well as expanding multinationals such as M. Torres of Spain, which in 2012 bought Bothell, Wash.-based Pacifica Engineering and plans to open an Everett manufacturing plant this year.
+
+In Wichita, Kan., Electroimpact AFP machines have displaced Ingersoll's to build the big cockpit-and-forward-fuselage section of the 787.
+
+Airbus is using them in Kinston, N.C., to fabricate A350 fuselage panels.
+
+Rudberg, 46, is a University of Washington physics graduate and now a 20-year Electroimpact veteran.
+
+He said he's keen to have his AFP machines employed to make wing skins and the two wing spars — long beams, each more than 100 feet long, that run the length of the wing at the front and at the rear.
+
+The Electroimpact machine could fabricate each of those spars each as a single piece without any joins, an "uninterrupted beautiful structure," he said.
+
+The smallest version of the custom-built AFP machine, the one used in the recent demo, costs $5 million.
+
+Electroimpact has built bigger models for making larger structures that run up to $25 million.
+
+For the 777X, Boeing might need four to six machines to make the wing skins and an equal number for the spars, Rudberg estimated.
+
+Hempstead said Boeing will need a separate plant to build the composite 777X wings, which he says will be so big they'll need to be made near the jet's final assembly line.
+
+If, as some insiders expect, Boeing decides to do all the 777X work in Everett, that may give next-door neighbor Electroimpact an added advantage over its competitors.
+
+"We want to fill that factory with AFP equipment," said Hempstead.
+
+"If it was in Everett, it would be great.
+
+(Boeing) could visit every day."
+
+Meanwhile, Electroimpact is already making equipment for all the world's major plane makers, with some projects more secret than others.
+
+In one building, Electroimpact assembles individual AFP heads on a small production line.
+
+In contrast to the high-performance, customized, complete AFP machines, these separate AFP heads can be attached to the arm of an off-the-shelf industrial robot, a much less expensive, flexible solution for less complex jobs.
+
+In another building, two 17-ton, $5 million twin-tower drilling and fastening machines should be ready to ship to Belfast before Christmas for the ramp-up of the Bombardier CSeries wing production.
+
+Right beside the AFP demo, the drilling and fastening system for making the Airbus A350 wing looks well advanced.
+
+No photos allowed.
+
+And passing by another building, one can glimpse a robotic wing-assembly system for a project that Electroimpact declines to identify.
+
+But founder and CEO Peter Zieve offered a hefty clue when he disclosed that the company has a project with Embraer of Brazil, a "military airplane, very big for them."
+
+That can only be a reference to the KC-390, a military transport aircraft Embraer is developing that can perform as a refueling tanker as well as transporting troops and cargo and will be sold as a C-130 Hercules replacement.
+
+Zieve also has his eye on longer-term, strategic expansion, specifically in China.
+
+On one floor where his engineers work to design their systems, hanging from the ceiling are the national flags of the countries where their projects are located.
+
+Under the red flag of China, some 20 engineers, including four from China, are working on projects for the Chinese state-owned airplane manufacturer Comac.
+
+Electroimpact will supply the integrated wing-assembly system for Comac's C919 narrow-body jet family, which is similar in size to Boeing's 737 models.
+
+Yang Bai, a materials engineer, showed a Chinese flag arm patch on his Electroimpact T-shirt.
+
+Zieve said he hired the Chinese-born engineers with very specific requirements: They had to have an engineering degree from a Chinese university, plus another from a U.S. university, and they had to want to eventually return to China permanently.
+
+His plan is to train them in the Electroimpact way, "Then they can go back and carry this project with them."
+
+He envisages an Electroimpact engineering office in Xi'an, providing on-site support for the machines installed at Xi'an Aircraft for assembly of the C919 wing.
+
+Though many countries dictate that some portion of the manufacturing work must be done locally, the Chinese insisted upon an unusual C919 contract clause, Zieve said.
+
+All the Electroimpact machines must be not only designed but also built in the U.S., he said.
+
+That means more work for Mukilteo.
+
+With all those projects in the works, would Electroimpact have room to add a huge 777X tooling project?
+
+Zieve said his facilities in Mukilteo are overcrowded, and so he's seeking planning permission to add two big new buildings to the six he already has on the campus.
+
+Intriguingly, he mentioned that as soon as his next building is ready, he'll empty out the largest of the existing buildings so it can be "filled with a huge Boeing project."
+
+He wouldn't say which one.
+

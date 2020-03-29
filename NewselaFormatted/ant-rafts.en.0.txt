@@ -1,0 +1,68 @@
+Fire ants may be famous for their vicious sting, but they're also remarkable builders, able to quickly assemble a working raft out of their own bodies and sail through dangerous flood waters.
+
+But their secrets of living masonry have remained shrouded from view.
+
+Now, scientists have peered into the heart of such fire-ant rafts and discovered how the individual insects link together to create these remarkably strong yet lightweight structures.
+
+Such insight, described in a paper in the Journal of Experimental Biology, may one day help engineers build self-healing buildings and bridges.
+
+The towers, bridges and boats that ants build are remarkable in part because they're strong and light and they adapt to their surroundings, and because ants are both the construction workers and the raw materials.
+
+Ants use their bodies like the beams in a building; instead of screwing or nailing those beams together, they reach out and touch each other.
+
+"It's like their bodies are covered in Velcro," said study co-author David Hu, a mechanical engineer at the Georgia Institute of Technology.
+
+Researchers are just beginning to probe the complexity of ants' architectural designs.
+
+A recent study found that ants place their defenseless babies at the bottom of a raft to make it more buoyant overall.
+
+But it's hard to see the complex internal structure of these rafts when all those ant bodies are blocking the view.
+
+The researchers could instead use a CT scanner, which uses X-rays to look through the structure — but those are medical devices built for human scales, and the ants' legs are so thin that they can't be seen.
+
+Instead, researchers at Georgia Tech managed to capture this complex structure using a micro CT scanner, which is typically used to image the tiny 3-D structure of bones.
+
+Scientists put 110 live ants in a beaker of water, swirled it around so they would start to form tiny rafts, flash-froze them in place and then examined them under the scanner.
+
+They did this four times, for a total of 440 ants and a total of 2,640 legs (given that each ant has six limbs).
+
+They found, to their surprise, that 99 percent of the 2,640 legs had made a connection.
+
+Only 26 remained dangling.
+
+These ants sure knew how to get a grip on each other.
+
+"We were surprised at how effective they are at finding links," Hu said.
+
+"We thought oh, maybe half the ants would be linked."
+
+The scientists also found that the ants positioned themselves perpendicularly to their peers because it makes the raft more adaptable, allowing it to expand and contract when needed.
+
+Not all ants were created equal.
+
+While most of the ants could have a maximum of five connections, some ants were about three times larger and could support 20 connections.
+
+With "more parking spots for little legs," as Hu put it, their enormous bodies acted as hubs for limbs.
+
+These structural nodes, where many beams in a structure converge on a single point, also exist in buildings as key points of strength.
+
+Even though the ants were reaching out to their compatriots, they didn't hold them close — they purposely kept them at arms' length.
+
+By creating these big spaces between each connected ant, the insects were effectively making their raft more porous, and thus less dense.
+
+So even though an ant's body is denser than water, the rafts are only a fifth as dense and thus can easily float on the surface.
+
+"In some ways they're building a whole new kind of material," Hu said.
+
+"The individuals are just ants but how they're arranged affects its material properties."
+
+The structure was quite a bit like bone in that way, Hu said: very porous and light, but still very strong.
+
+Hu says they want to explore the structures of much larger ant clumps and towers.
+
+Those structures can include 10,000 to 100,000 ants, not just 110 at a time.
+
+Self-healing buildings and ships, able to quickly respond to changes in their environment, may sound like technology from the future — or just straight out of science fiction.
+
+But "from the ants' perspective, this is an ancient thing," Hu said.
+

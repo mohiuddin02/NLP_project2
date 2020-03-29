@@ -1,0 +1,31 @@
+Toys that talk back are one of the hottest holiday gifts this year. Hackers may soon be going after these toys too, to steal information from children.
+
+People who study Internet security discovered that the system behind Hello Barbie is not secure. Hello Barbie is a talking doll that works by connecting to the Internet. The researchers reviewed the toy to see if it was safe for kids. On Friday, they said that it was not safe when it connected to the Internet. Sending information online made it easy for hackers to get personal information about kids from the toy.
+
+Martin Reddy works for ToyTalk, the company that built the toy's talking parts. He told The Washington Post that ToyTalk had already fixed a lot of the safety problems the researchers found. The researchers said they told ToyTalk about the problems in November, and they were fixing them.
+
+## Toys Can Put Information On Internet
+
+One of the researchers said that any toy that connects to the Internet could let other people listen to children or get their information. He said that it is important to be careful about information the toy has. Once information is on the Internet, it cannot be taken back.
+
+After a parent sets up the toy, a child can press a button on the doll and talk to it. The child's voice is sent over the Internet to ToyTalk. Then, a computer sends a message back to the doll, and the doll talks back to the child.
+
+Before Hello Barbie will work with the Internet, a parent has to set it up. The parent must set up the app and agree to Hello Barbie's rules.
+
+## It's Risky Before Password Is Set
+
+Researchers say that every doll comes with the same password. Before a parent changes the password, a hacker could figure out what it is. If the hacker has the password, he or she could steal information, such as a recording of the child's voice.
+
+The researchers also said that a hacker could make an Internet network that the app would connect to. The network is an easy way for a hacker to steal information.
+
+ToyTalk's Reddy said that these hacks are not easy to do. The hacker can do these only while the parent is setting up the app. After the app and the doll are connected, the hacker cannot get information like passwords or the child's voice recording. A hacker cannot change what the doll says.
+
+## Companies Say They Will Keep Kids Safe
+
+ToyTalk and Mattel want customers to know they take privacy seriously. ToyTalk gives rewards to people who find privacy problems in their software and help fix them. 
+
+ToyTalk and Mattel tell buyers they will do what they can to keep kids' information safe. But the companies said that it's not possible to make sure nobody ever gets kids' information. 
+
+When companies do not keep their promises, the government can punish them. There are laws that give the government extra power to protect kids' personal information. 
+
+David Vladeck is a law professor at Georgetown University. He used to work for the FTC, a part of the U.S. government responsible for protecting people being harmed by companies. He says the FTC will probably take a close look at toys like Hello Barbie. "It has always taken its responsibility to protect children very seriously," he said.

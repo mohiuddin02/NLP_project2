@@ -1,0 +1,78 @@
+Drones are suddenly everywhere.
+
+The pilotless aircraft have shown up in American television thrillers like "24" and "Homeland."
+
+They have been considered by the giant online retailer Amazon as a way to deliver packages, they have seen action in disaster zones in Haiti and the Philippines, and they have hovered menacingly over French nuclear power plants.
+
+This once secretive technology now seems to be very much out in the open and all over the place.
+
+Drones will only become more common now that policymakers in the United States and Europe have committed to giving them full access to civilian airspace.
+
+So it is more important than ever to quickly identify and address the unique challenges they present to civil liberties and privacy.
+
+For starters, drones are significantly changing the way information is collected, and in more and more new ways.
+
+Until now, most non-military drones have been equipped only with high-resolution cameras, offering police officers, search-and-rescue teams, journalists, filmmakers and inspectors of crops and infrastructure a bird's-eye view of their surroundings.
+
+However, that is about to change.
+
+Manufacturers are experimenting with drones equipped with thermal cameras, which pick up body heat, allowing for night vision and the detection of hidden people or animals.
+
+They are also working on drones that will be able to recognize individuals by using facial-recognition software.
+
+In addition, some operators have become interested in using drones equipped with multiple sensors to collect so-called "big data," or large collections of data that can be analyzed for patterns.
+
+Meanwhile, drones are becoming smaller, allowing them to infiltrate spaces that normally would not be reachable.
+
+They can peek through windows, fly into buildings and sit, undetected, in corners or other small spaces.
+
+Their size and silence means they potentially can be used for spying, which has raised concerns about industrial espionage, sabotage and terrorism.
+
+The next drone that flies over a French nuclear power plant might be too small to be noticed.
+
+The price of drones is also plummeting.
+
+Already, a basic model costs no more than a few hundred dollars.
+
+Commercial operators, who want to maintain good customer relations, have an interest in using drones responsibly.
+
+Private individuals, however, are likely to have fewer reservations about using them to spy on neighbors, family members or the general public.
+
+Some action to protect privacy is necessary, but it is still not clear what is the best approach to take.
+
+Simply banning drones would deprive society of the many benefits they have to offer.
+
+There are many dangerous, dirty or dull duties they are perfectly suited for.
+
+In addition, they are much cheaper to operate and maintain than manned aircraft.
+
+The use of drones for crop dusting, pollution monitoring or search-and-rescue operations is unlikely to raise serious concerns.
+
+Other applications, especially by police, journalists and private citizens, clearly could.
+
+The sheer variety of the technology's potential applications makes it almost impossible to regulate with one-size-fits-all legislation alone.
+
+Instead, interested parties at all levels need to carefully consider the potential impact on privacy, data protection, and ethics on a case-by-case basis.
+
+Well-meaning drone operators need to consider carefully how their activities might violate privacy and breach civil liberties.
+
+They should take steps to minimize these effects, to the best of their abilities.
+
+Government agencies, public organizations and businesses should publish guidelines on drone use, as they have done for other technologies.
+
+The guidelines governing the use of closed-circuit televisions employed for building security purposes could serve as a good starting point.
+
+Such existing regulations would have to be supplemented, however, to account for the different types of data a drone can collect.
+
+Drone manufacturers need to play their part as well.
+
+Among other things, they should provide guidance to assist users — especially private citizens — in operating their products within the bounds of the law.
+
+Serial numbers should be included on all drones, so individual drones are traceable.
+
+Civil authorities should consider how existing laws on privacy, data protection, trespassing, and harassment could be used to prosecute drone operators who violate privacy and other human rights.
+
+The challenge is both urgent and complex.
+
+The rights of citizens need to be protected before the market for drones really takes off.
+

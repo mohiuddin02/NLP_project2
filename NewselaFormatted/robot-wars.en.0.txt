@@ -1,0 +1,94 @@
+The hulking, 15-foot-tall robot rests on its tank treads in a West Oakland warehouse, waiting for the coming war against its powerful nemesis across the sea.
+
+It looks fearsome.
+
+One arm is a missile launcher and the other a cannon.
+
+Some of that is bluster: It lumbers around at 2 miles per hour, powered by a lawn mower engine.
+
+But its inventors, Gui Cavalcanti and Matt Oehrlein, have already signed it up for a historic duel.
+
+To win they will need to spend the next year transforming their creation into a more nimble fighting machine.
+
+This is not exactly the promised future of robotics, which is increasingly being applied to help humans with manufacturing, health care, humanitarian aid and getting around.
+
+But Cavalcanti and Oehrlein, 29-year-old co-founders of Berkeley-based MegaBots Inc., are hoping to fulfill another human desire: ferocious, gladiator-style entertainment.
+
+"There's an entire group of gamers who've been waiting for this their entire lives," Cavalcanti said after climbing down from the contraption's cockpit inside the American Steel Studios in Oakland.
+
+"People like combat, and people really like high technology.
+
+This is a perfect blend.
+
+We want to make an entertainment spectacle."
+
+The engineering duo and their third co-founder, Brinkley Warren, released a video recently calling for help to give their machine an overhaul so it can defeat a rival built four years ago by Japanese company Suidobashi Heavy Industry.
+
+The location and timing of the battle is still to be determined.
+
+MegaBots initiated the challenge, and Suidobashi accepted last month, but the American startup and its paintball-shooting machine are not quite ready for the speed and crushing hand-to-hand combat skills of the Japanese model, Kuratas, which sits on a wheeled tripod and carries a high-powered Gatling gun.
+
+So the MegaBots team announced a Kickstarter campaign, earning more than half of its $500,000 goal in the first 48 hours.
+
+It took about 3 1/2 months and $200,000 in hardware to assemble the current version of the machine, known as Mk II, which they showed off at the Maker Faire in San Mateo in May.
+
+The machine is what's called a "mech" and was inspired by the MechWarrior video games its inventors played when they were kids.
+
+It needs a gunner and a human pilot, who shifts the robot to slouching mode for high-speed driving and moves it upright for battle.
+
+"Right now, it has more in common with a vehicle than a robot," Cavalcanti said.
+
+"The lower half is almost entirely manual.
+
+But the final version of the robot will be much more autonomous."
+
+A partnership with San Rafael-based Autodesk, which makes engineering and construction software, inspired the co-founders to move MegaBots to the Bay Area this spring from Somerville, Massachusetts.
+
+They found the co-working studio in West Oakland, a hub for large-scale mechanical artistry, and used Autodesk's waterfront facility in San Francisco to weld the weaponry.
+
+"It's hard to build really big robots in Boston," Oehrlein said.
+
+"It's a pretty old city, the real estate is expensive and you just can't find big warehouses with cranes.
+
+Those facilities exist in the East Bay pretty abundantly."
+
+The team also wanted an abundant supply of tech talent as the company scales up and expands.
+
+Their Kickstarter campaign is to raise money for improvements, including "shock-mounted steel armor we need to survive multi-ton punches" and "hydraulic actuators to handle the additional weight of our armor and weapons."
+
+"Our robot is sort of built for range combat," Oehrlein said.
+
+"It can't really take a punch or swing a punch."
+
+They also need five times the horsepower to handle a more sophisticated hydraulic system.
+
+They have found partners, including NASA, which has technology that can make the cockpit safer, and extreme vehicle fabricator Howe &amp; Howe Technologies, which is helping design a faster-moving track base.
+
+Cavalcanti and Oehrlein dropped out of their promising careers at big-name robotics companies to make their dream creations.
+
+Cavalcanti worked for Google-owned Boston Dynamics, which just recently awed and frightened YouTube viewers with a new video showing its humanoid robot walking through the woods.
+
+Oehrlein worked for the Detroit research lab of Eaton Corp., helping to design high-end hydraulics for military construction and transport vehicles.
+
+"We both worked on really high-end technology that never saw the light of day," Oehrlein said.
+
+"Giant fighting robots is way more public."
+
+Cavalcanti's expertise is in mechanical engineering, and Oehrlein in control systems and electronics.
+
+Warren handles business development and finding a place for the firm in the entertainment industry.
+
+They are already envisioning a global network of arenas devoted to their new battle sport, a kind of international robot Olympics that is part Ultimate Fighting Championship (the mixed martial arts competition) and part Formula 1 racing.
+
+Each country will arm its own robot army.
+
+But don't worry, say Oehrlein and Cavalcanti, it will always remain pure sport.
+
+If robots one day wage war on Earth, they will more likely be advanced versions of today's killer drones, not lumbering humanoid machines.
+
+"Ours is a bigger target than a tank, slower than a tank, and it can fall over," Cavalcanti said.
+
+For a real military, it's "the worst possible design."
+
+But for a gladiator fight, watch out, Kuratas.
+

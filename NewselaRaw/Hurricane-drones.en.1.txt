@@ -1,0 +1,51 @@
+ORLANDO, Fla. — A bunch of Coyotes will be let loose in hurricanes this year. Their mission will be to improve hurricane forecasts.
+
+The small pilotless aircraft, or [drones](https://www.newsela.com/?tag=drone), were developed after Hurricane Sandy and will be tested for the first time this hurricane season. They'll be launched into the eye of tropical systems to detect barometric pressure changes.
+
+What they find should help the National Hurricane Center get a better handle on how strong a storm could become. Hurricane season runs from June to November.
+
+"It's an innovative way to measure the atmosphere," said Jason Dunion, a hurricane researcher for the National Oceanic and Atmospheric Administration (NOAA).
+
+## Small But Mighty
+
+The Coyotes weigh about 7 pounds and have a 5-foot wingspan. They'll be dropped out of chutes in NOAA's WP-3 hurricane hunter aircraft while 10,000 to 12,000 feet above the ocean.
+
+The drone's spring-loaded wings will lock into place and its small electric motor will spin up, allowing it to fly at speeds of up to 70 mile per hour. Then the little plane will do what no other aircraft can: spend up to two hours spiraling around the core of a hurricane, allowing forecasters to receive detailed information about its inner workings.
+
+"You're getting a longer snapshot of how pressure changes within the eye" of a storm, Dunion said.
+
+While being remote-controlled, the Coyote also will be flown into a hurricane's eye wall, a ring of clouds surrounding the eye. Unlike the calmness of the eye of the hurricane, the eye wall is the most destructive area of the hurricane, with the heaviest rain and strongest winds. The goal is to find the strongest winds there. That, too, should help the hurricane center improve its predictions about just how strong a hurricane will become.
+
+Additionally, forecasters hope the Coyote will help them better anticipate when a hurricane might rapidly strengthen. That kind of rapid increase can be devastating if the hurricane is near land.
+
+## Coyotes Take The Tough Assignments
+
+Manufactured by Sensintel of Tucson, Arizona, the Coyotes cost about $70,000 apiece. Yet two or three of them might be sent into a single storm with no expectation of seeing them again.
+
+Dunion said the benefits will be worth it. He said the small plane can fly right above the ocean surface in a storm's eye, which is far too dangerous for any aircraft with people aboard.
+
+In the process, the Coyote will help scientists better understand how a tropical system feeds on heat from the ocean's surface.
+
+"The thermodynamics of the ocean near a storm's eye is not something we sample very often," Dunion said. "It's hard to sample."
+
+To intercept storms that could hit the U.S. coastline, NOAA this summer plans to station Coyote-carrying WP-3s in St. Croix, in the U.S. Virgin Islands.
+
+## Working In Tandem
+
+Along with several other planes, the Coyotes will become part of a coordinated aerial attack on a hurricane.
+
+Among the other planes:
+
+—Air Force Reserve hurricane hunters will feed storm information directly to the hurricane center. At the same time, NOAA's WP-3s will provide atmospheric information and conduct research missions. NOAA's Gulfstream IV high-altitude jet will investigate the upper fringes of storms to get a read on steering currents.
+
+—Two NASA Global Hawks, large jet-powered drones that can remain aloft more than 30 hours, will monitor hurricane systems from their earliest beginnings until they make landfall. NASA's WB-57, a converted 1950s-era light bomber, will study the upper reaches of a storm.
+
+—NOAA also plans to dispatch drones to capture ocean temperatures and determine how much heat is available to feed storms.
+
+Combined, the vehicles should provide a top-to-bottom view of a hurricane, said Erica Rule, a NOAA spokeswoman. They will make possible "a complete picture of what's happening."
+
+Before the Coyote, a small drone called an aerosonde was flown into Hurricane Ophelia while it threatened North Carolina in 2005. That aircraft, however, had to be launched from land, then fly out to the storm.
+
+Because it will be deployed from a hurricane hunter plane already in a storm, the Coyote can remain aloft longer and collect more information.
+
+"This is just over-the-top technology," Rule said.

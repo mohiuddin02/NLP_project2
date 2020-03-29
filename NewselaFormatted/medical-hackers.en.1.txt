@@ -1,0 +1,102 @@
+Chris Carroll won't forget the first time he saw someone hack into an insulin pump and make it deliver a deadly dose.
+
+The pump wasn't connected to anyone.
+
+Still, Carroll, a 34-year-old from Austin, Texas, got the point: The danger was real.
+
+It hit home, too.
+
+Carroll has Type 1 diabetes and wears a pump that delivers insulin directly into his body.
+
+More and more medical devices and hospital equipment are becoming connected to the Internet or networks.
+
+That means they may become targets for criminals or hackers trying either to harm the users or make points about their own technological skills.
+
+"The health care industry is not technically prepared to combat against cyber criminals' basic cyber-intrusion tactics," an April report from the cyber division of the FBI says.
+
+It also says the industry is not as prepared for cyber attacks as the financial institutions and and retailers.
+
+"Therefore the possibility of increased cyber intrusions is likely."
+
+Experts also are worried about the potentially deadly results of unsecured systems being violated accidentally.
+
+As people become more dependent on medical devices that share information, the chance increases that their codes could be scrambled, causing malfunctions.
+
+"I think the thing we really have to worry about the most," said Frank Painter, a health care technology consultant, "is an unsecure system being able to be violated by accident."
+
+The technology magazine Wired reported in April that an information security official from Essentia Health found that cyber intruders can take over drug infusion pumps — which deliver antibiotics and chemotherapy directly into patients — defibrillators and X-rays.
+
+They can even change temperature settings on medical refrigerators that store drugs and blood.
+
+The security official, Scott Erven, had access to a chain of health care facilities in the Midwest over two years for the study, Wired reported.
+
+Erven couldn't be reached for a comment for this article.
+
+As hospitals move patient records to network databases, the financial incentive for hackers is huge.
+
+The FBI report notes that even partial electronic health records are selling for $50 each on the black market.
+
+Social Security cards and credit card numbers only fetch $1 apiece.
+
+Electronic health records contain comprehensive patient information.
+
+This allows all the patient's health care providers to share that information.
+
+These records are attractive targets to hackers because they can be used to sell drug prescriptions.
+
+Michael Carome, the director of health research at Public Citizen, a consumer rights group in Washington, said the risk of private medical information leaks was hard to quantify.
+
+But "it is a concern and it should be on the radar screen of public health officials and those who are responsible for security."
+
+Since the Affordable Care Act encourages physicians to adopt electronic health record keeping for their patients, greater security provisions are needed, Carome said.
+
+The FBI report cites research from the SANS Institute, a private company that specializes in Internet security training.
+
+SANS concluded that some systems and devices were compromised for extended periods, and that companies, when notified of the vulnerabilities, did not repair them.
+
+"The time to act is yesterday," the report says.
+
+Carroll is familiar with manufacturers' indifference to security concerns.
+
+After he saw the insulin pump hacking demonstration, he contacted his own pump provider.
+
+"Both of the people I talked to had no idea this was possible, and had no answer regarding plans to fix the issue," he said.
+
+"They tried the whole, 'Well, even if it's possible, no one would do it.'"
+
+So far Carroll's pump manufacturer has been right.
+
+The Food and Drug Administration's (FDA) website says the agency isn't aware of any patient injuries or deaths related to hacking.
+
+Still, at least some users think the risks are real.
+
+As early as 2007, then-Vice President Dick Cheney had the wireless function on his heart defibrillator disabled.
+
+He feared it put him at risk of a terrorist attack.
+
+But most people don't face the same level of personal risk.
+
+"I hold no delusions of grandeur that I'm important enough for people to go after, but I do know that some people try these types of things just for the hell of it," Carroll said.
+
+Typically, problems with medical devices are identified by or reported to the FDA.
+
+But the quickly growing number of new devices calls into question the FDA's capacity to monitor medical devices.
+
+"There are so many different kinds of inventions and devices doing so many different things, the FDA really can't legislate down to the line and code of security for every situation," said Painter.
+
+Painter also said the FDA's general standards were sufficient.
+
+The responsibility for ensuring device security lay with the manufacturers, he said.
+
+"Good designers can build good, safe, secure designs in the first place, pretty simply.
+
+So if they did that, it would preclude somebody from doing something bad."
+
+In an email, the FDA referred to an online statement about when it allows devices to be marketed.
+
+They let the devices be sold "when the probable benefits to patients outweigh the probable risks."
+
+Like Painter, the FDA maintains that ultimately it is the manufacturers' responsibility to find risks associated with medical devices.
+
+This includes "risks related to cyber security."
+

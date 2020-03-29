@@ -1,0 +1,31 @@
+ORLANDO, Fla. — Armed with a supercomputer capable of conducting 213 trillion calculations per second and an amped-up weather model, the National Hurricane Center hopes to improve tropical predictions up to 15 percent this season.
+
+The two powerful forecasting tools should allow the center to better determine how storms are structured, key information that signals where a storm might aim and how strong it might get.
+
+"If you don't have the structure of the storm right, it's hard to tell how it will interact with its environment," said James Franklin, the hurricane center's top hurricane specialist.
+
+A primary goal will be to improve intensity forecasts, an area where the hurricane center has struggled for decades. Enter the Hurricane Weather Research and Forecasting model, or HWRF.
+
+Although in operation for the past six years, this season it has been enhanced to accept massive amounts of atmospheric information.
+
+And that's already paid off, as the upgraded model has shown a slight improvement over its previous version in predicting the intensity of the four storms that have emerged so far, said Dennis Feltgen, hurricane center spokesman.
+
+Meanwhile, the problem-solving power of a supercomputer in Reston, Va., nicknamed "Tide" and a backup in Orlando named "Gyre" has been more than doubled, from 90 trillion to 213 trillion calculations per second. To give some perspective: To travel 1 trillion miles, you would have to circle the Earth at the equator 40 million times.
+
+The combination of HWRF and Tide alone should significantly sharpen intensity projections, Franklin said. But the quest doesn't end there. For the first time this year, the HWRF has been programmed to ingest Doppler radar data transmitted by the National Oceanic and Atmospheric Administration's WP-3 aircraft.
+
+The radar should capture a three-dimensional view of how a storm is structured. In turn, the HWRF should be able to analyze how much thunderstorm activity is around the core and whether a system might weaken or burst with strength, Franklin said.
+
+"Hurricanes are about arrangements of thunderstorms, how they interact with each other, how they distribute heat," he said. "If you can put that kind of structure into the model, it will better project intensity."
+
+Better projections are crucial because forecasters still are unable to anticipate when a system might rapidly bulk up. If it does so just before landfall, coastal residents could be caught by surprise as they were in 2004, when Hurricane Charley burgeoned from Category 2 to 4 in the five hours before striking southwest Florida.
+
+Conversely, the hurricane center has overestimated a system's power. For example, in 2006, Tropical Storm Ernesto was predicted to hit South Florida as a hurricane yet arrived as a weak tropical storm.
+
+The hurricane center has steadily honed its track forecasts to the point that five-day projections are as accurate as three-day forecasts were in 2000. Even so, the combination of HWRF and the supercomputer should improve path projections between 5 and 15 percent this year, Franklin said.
+
+In addition to tropical forecasts, the upgraded HWRF and supercomputer should bolster other types of predictions, from excessive heat warnings in South Florida to blizzard threats in North Dakota, NOAA officials said.
+
+The forecasting improvements were spurred by Superstorm Sandy, which devastated the U.S. coast last October. In the aftermath, Congress allotted $24.3 million as part of a disaster relief bill. Additional funds are to be spent for another massive upgrade by 2015, when the supercomputers are to be able to conduct almost 2,000 trillion calculations per second.
+
+"This is historic in terms of capacity increase," said Louis Uccellini, director of the National Weather Service. "I believe we will have more accurate forecasts, especially for extreme events."

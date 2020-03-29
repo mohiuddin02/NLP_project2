@@ -1,0 +1,88 @@
+Forget the Beach Boys, Michael Jackson and Madonna.
+
+The most important cultural shift in American pop music began with the explosion of rap in the early 1990s.
+
+The Beatles and the Rolling Stones didn't spark the British Invasion of the 1960s, but they did fan its flames.
+
+And don't buy snobs' complaints about the homogenization of pop.
+
+With the exception of a brief period in the 1980s, there's been plenty of diversity in the charts.
+
+These are the conclusions of engineers and biologists who analyzed 17,000 digitized songs from Billboard's Hot 100 to produce an evolutionary history of American popular music — no listening required.
+
+Their results were published Wednesday, May 6 in the journal Royal Society Open Science.
+
+The team used computers to assess and organize songs into aural styles, much as paleontologists pore over fossils to put creatures in their rightful place on the tree of life, said Armand Leroi, an evolutionary biologist at Imperial College London who helped oversee the research.
+
+With digitization, "culture can — and should — be studied scientifically," Leroi said.
+
+Evolutionary biology, with its focus on diversity, offers a perfect pathway into a quantitative study of the arts, he said.
+
+"Why are there so many creatures?"
+
+he mused.
+
+"Why are there so many songs?"
+
+To trace the evolution of pop, Leroi and his co-authors used 30-second snippets of 17,904 songs that appeared on the Billboard Hot 100 list from 1960 to 2010.
+
+This digital music library represented 86 percent of all the singles that made it on the Hot 100 list during that 50-year span.
+
+But rather than focus on the kind of qualitative descriptions listeners might attach to their favorite songs — "hard rock," "folk" or "electronic," for example — the researchers cataloged quantitative features that corresponded to chords, rhythms and tonal qualities.
+
+They assigned each song to one of 13 style groups, based on the patterns they found.
+
+To double-check their classifications, they looked at how users of Last.fm, an online music discovery service, had labeled the tracks.
+
+By and large, the judgments of the computer and the humans matched up.
+
+Songs that the algorithms classified as Style 2, for example, had received Last.fm tags such as "hip-hop," "rap" and "old school."
+
+Songs computer-sorted into Style 8 had been described by listeners as "new wave," "dance" and "electronic."
+
+Once they had everything organized, Leroi said, the researchers could start asking interesting questions about the songs.
+
+Like evolutionary biologists charting the differences among species, they wondered about diversity in pop music: Do multiple styles coexist on the charts, or has music homogenized?
+
+Music fans often lament that the great, diverse music of their youth has been reduced to "kiddie pap" by corporations and the likes of "American Idol" producers, Leroi said.
+
+However, the team's data suggest that diversity actually has persisted over time — except over one stretch around 1986, when everyone went nuts for synthesizers and drum machines.
+
+"Everything sounds like Duran Duran for a while," he said.
+
+Another biologically inspired question the team asked was whether music styles evolved slowly or in large leaps.
+
+By calculating rates of change between songs over time, the researchers pinpointed three periods of rapid evolution: 1964, 1982 and 1991.
+
+By far, the largest and most important of the three was the explosion of hip-hop in 1991.
+
+"That surprised me," Leroi said.
+
+"Being a victim of boomer ideology, I would have guessed it was 1964," the year of the British invasion.
+
+Looking more closely at the works of the Beatles and the Rolling Stones, the researchers discovered that those pivotal bands didn't initiate the widespread changes associated with the music of their era.
+
+Rather, they accelerated those musical changes by popularizing new trends.
+
+Leroi said it was exciting to get a glimpse of music history that didn't depend on subjective recollections and storytelling.
+
+"You can say, 'This is really when it happened,'" he said.
+
+"It's not just, 'Things were really cool at CBGB's or on the Sunset Strip back then.'"
+
+The study authors — including music informatics expert Matthias Mauch of Queen Mary University of London as well as a bioinformatics expert from Imperial College and a data scientist from Last.fm — wrote that they would like to extend their analysis further back to "at least the 1940s, if only to see whether 1955 was, as many have claimed, the birth date of Rock n' Roll."
+
+Leroi, who spends most of his time studying aging processes in a species of worms called C. elegans, recently wrote an essay for the New York Times that praised the rise of "a new cultural science" based on data rather than anecdote.
+
+"Quantification has triumphed in field after field of the natural and social sciences," he said.
+
+"It will here, too."
+
+In an interview, he said the members of his research team could have focused on many subjects in the humanities, but that they chose to mine the Billboard Hot 100 in large part because it is indeed so popular.
+
+"I guess we could have done a couple of centuries' worth of novels.
+
+But somehow it's not as exciting as 50 years of pop music," he said.
+
+"It's wonderful to be able to look at it in a scientific way."
+

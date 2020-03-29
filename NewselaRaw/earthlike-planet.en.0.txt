@@ -1,0 +1,43 @@
+LOS ANGELES — Sifting through observations from tens of thousands of distant stars, astronomers say they have discovered the first definitive Earth-size planet that orbits in a habitable zone where water could exist in liquid form — a necessary condition for life as we know it.
+
+Experts don't know if the planet, described in Friday's edition of the journal Science, actually has water or a protective atmosphere. They don't even know its mass. But they said the landmark discovery raises the distinct possibility that a bumper crop of Earth-like planets is waiting to be found much closer to home, including around temperamental stars that until recently were considered inhospitable to life.
+
+"This is really a tip-of-the-iceberg discovery," said study co-author Jason Rowe, an astronomer at the SETI Institute in Mountain View, Calif., who spent a year analyzing data gathered by NASA's Kepler Space Telescope. They're still looking for more in the Kepler data — but after finding the planet known as Kepler-186f, "we can infer that other ones are likely to exist. And that's going to be the job of future missions to find (them)."
+
+Scientists who were not involved in the paper lauded the find.
+
+"This is an historic discovery of the first Earth-size planet found in the habitable zone around its star," University of California, Berkeley, astronomer Geoffrey Marcy wrote in an email. "This is the best case for a habitable planet yet found. The results are absolutely rock solid."
+
+If such exoplanets do turn out to be common among the distant stars Kepler studies, astronomers should be able to find plenty of them closer to home, the thinking goes. Future NASA missions like the James Webb Space Telescope will enable scientists to determine which planets have the strongest signs of water and life-friendly atmospheres.
+
+The discovery marks a milestone in the quest to find planets that are not just Earth-size, but truly Earth-like, said Doug Hudgins, NASA's program scientist for the Kepler mission in Washington.
+
+Out of 1,800 or so confirmed planets, fewer than two dozen sit in the habitable zone where it's not too hot for water to boil off into space and not too cold for it to remain in a permanent deep-freeze. And none of them are as close in size to Earth as Kepler-186f, whose diameter is only 10 percent larger.
+
+Size is a critically important factor, scientists said: If a planet is about 50 percent wider than Earth, and it's packing a lot of mass, its gravity could attract a hydrogen-helium envelope, shrouding the surface in a gassy atmosphere that's too thick for Earth-like life.
+
+Kepler-186f may be close to Earth size, but it's hardly close by. It sits some 490 light-years away in the constellation Cygnus, and circles its home star, Kepler-186, in just 130 days.
+
+That star is an M-dwarf, smaller, dimmer and cooler than our sun. So even though Kepler-186f sits close enough to fit inside the orbit of sun-seared Mercury, it is still safely ensconced in a habitable zone.
+
+Scientists have argued that M-dwarf stars may not be particularly hospitable places for life, since they tend to emit more flares and damaging radiation than G-type stars like our sun. But Kepler-186f appears to sit out of harm's way because it's at the outer edge of its habitable zone. As a result, it highlights the diversity of habitable planets, expanding the definition beyond worlds circling Earth-like stars.
+
+"I believe that planets are very diverse and a whole range of them could be habitable," said Sara Seager, an astrophysicist at the Massachusetts Institute of Technology who was not involved in the study.
+
+That's an encouraging sentiment, given that planets like Kepler-186f could be easier to find than planets exactly like Earth. Before it was hobbled last year by a broken gyroscope that robbed it of its ability to focus on a point in space, the Kepler telescope stared at a patch of roughly 150,000 stars and waited for dips in the starlight as planets passed in front.
+
+Close-in planets with shorter orbits complete these transits more often, which makes them easier to find. Around our sun, those planets would be baked. Around a red dwarf like Kepler-186, the climate could still be mild.
+
+M-dwarf planets are also easier to find because their planets block relatively more of their light. And given that M-dwarf stars account for 70 percent of the stars in the Milky Way, there could be billions of Earth-sized planets throughout the galaxy, waiting to be discovered.
+
+NASA's Transiting Exoplanet Survey Satellite, set for launch in 2017, could look for such planets closer to home. And the infrared-sensitive James Webb Space Telescope, the successor to the Hubble Space Telescope, will be able to isolate the signature of water and other molecules necessary for life in the atmospheres of nearby planets.
+
+In that context, Kepler-186f is a sign that scientists are homing in on the answers to fundamental questions about life in the universe.
+
+"Whether we are an extremely rare fluke — a phenomenon that only happens once in a universe — or in a galaxy teeming with life is a very basic question not only of science, but of our existence," said Dimitar Sasselov, a planetary astrophysicist at the Harvard-Smithsonian Center for Astrophysics who was not involved in the paper. It's "the first time in human history we have a good shot at answering that question, and that's very exciting."
+
+The SETI Institute is dedicated to the search for intelligent life on other planets, and identifying potentially Earth-like planets closer to home would mean that the radio signals our civilization sends into the universe could reach our theoretical neighbors sometime soon, Rowe said.
+
+If humans ever develop high-speed interstellar travel — a big if, to be sure — those planets would probably be the best ones to visit, scientists said.
+
+"I think everybody has their own end goal," Seager said

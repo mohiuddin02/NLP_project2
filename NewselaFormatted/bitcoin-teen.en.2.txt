@@ -1,0 +1,116 @@
+Evan Neal isn't your typical 16-year-old.
+
+For one thing, he contributes a few        hundred dollars toward his father's monthly electric bill to cover the cost of running his energy-hungry computer equipment.
+
+It's all part of the latest business venture launched by the tech-savvy high school junior.
+
+Evan uses his high-powered computers to get newly created bitcoins through a process known as bitcoin mining.
+
+Bitcoin is a paperless and coin-less currency that is earned and spent over the Internet.
+
+Bitcoin miners earn bitcoins by using special computer software to solve complex math problems.
+
+"It's definitely entertaining," Evan said.
+
+"I see it as an experience."
+
+A profitable experience, that is.
+
+Evan figures he has made more than $2,000 in profits even after paying some hefty expenses.
+
+Among those costs, are buying special computer hardware and contributing $200 to $300 each month to his dad's electric bill.
+
+He's also giving part of his profits to his co-investors, who include four high school friends who each gave him $125 or more to buy equipment.
+
+Bitcoin mining isn't Evan's first business venture.
+
+When he was 11, Evan started a business called Dream Programming.
+
+For $25, he would remotely log on to people's computers, which were running too slow, and help them perform better.
+
+Since then, Evan has started a series of businesses.
+
+They include a power-washing and deck-refinishing service and buying electronic devices in bulk and reselling them on Amazon.com.
+
+He also repairs computers for another business.
+
+Evan's father, Dave Neal, described a recent busy weekend of work for Evan.
+
+He did bitcoin mining, a power-washing job and a computer repair job.
+
+Dave Neal has been involved in seven startups.
+
+Today, he's managing partner at The Startup Factory, which helps companies to grow.
+
+He's impressed by how much his son has immersed himself in the ins and outs of bitcoin.
+
+Evan has taught himself about the business and legal details, as well as the technical angle.
+
+"It's really interesting to watch somebody in your own household participate in such a cutting-edge thing," Dave Neal said.
+
+"He's 16, but it feels to me he is pretty much an expert in the field."
+
+Bitcoins aren't backed by any government or controlled by a central agency.
+
+Critics are wary of bitcoin and say it say it isn't based on anything.
+
+The digital currency has become controversial because people who use it aren't identified by name, and the secrecy makes it attractive for criminals and drug dealers.
+
+But the digital currency became more accepted after federal officials said there are actual uses for bitcoins.
+
+It also has attracted big investors.
+
+Bitcoins are accepted as payment by businesses such as Overstock.com and online game company Zynga.
+
+The value of a bitcoin has varied considerably, soaring above $1,000 last year.
+
+As of Tuesday afternoon, a bitcoin was worth $625, according to Preev, a website that tracks its value.
+
+Evan dipped his toe into bitcoin mining about a year ago.
+
+He heard about it from some friends, but soon discovered that if he wanted to make money at it, he would need more computer power.
+
+To understand why, you need to know how bitcoin works.
+
+Bitcoin traces its beginnings to a scientific paper published in 2008.
+
+No one has come forward as its creator, but he or she — or they — operate under the name Satoshi Nakamoto.
+
+Because bitcoins are all-digital, security is a prime concern.
+
+Digital currencies are worthless if they can be copied, which is where mining comes in.
+
+Miners use specialized computer hardware to confirm purchases.
+
+More importantly, they add a new layer of security to what is known as the block chain.
+
+The block chain is a record of every bitcoin sale and makes sure they can't be copied.
+
+Campbell Harvey is a business professor at Duke University.
+
+He compares the block chain to a series of vaults that are linked together.
+
+Miners, said Harvey, "are sealing off this vault with a computer program."
+
+Harvey explained, "The reason you have to do this is so that nobody can hack it.
+
+You would need 25,000 of the world's fastest supercomputers to get into this block chain," something he said is just not possible.
+
+Miners who manage to solve a difficult mathematical puzzle and create the vault first are rewarded with newly created bitcoins.
+
+Miners face heavy competition to be the first to solve puzzles.
+
+Currently, 25 bitcoins are handed out as rewards about every 10 minutes.
+
+Many miners, including Evan, join online pools of miners who combine their computing power and share in the rewards.
+
+Evan estimates he has mined about 4.5 bitcoins so far.
+
+The competition among bitcoin miners has pushed some to spend money on better computer equipment.
+
+Better computers solve the math problems faster, which is why Evan is about to start on his third round of computer upgrades.
+
+Evan admits that the ever-rising cost of hardware may end up pushing him out of the bitcoin mining business.
+
+On the other hand, he said, "I could also expand in a way that I'm the person pricing other people out."
+

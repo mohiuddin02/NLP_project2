@@ -1,0 +1,33 @@
+A team of astronomers peering deep into the heavens has discovered the earliest, most distant galaxy yet, spotted a record-breaking 670 million years from the Big Bang.
+
+The findings, described in Astrophysical Journal Letters, reveal a surprisingly active, bright galaxy near the very dawn of the cosmos that could shed light on what the universe, now 13.8 billion years old, was really like in its young, formative years.
+
+"We're actually looking back through 95 percent of all time to see this galaxy," said study coauthor Garth Illingworth, an astronomer at the University of California, Santa Cruz. "It's really a galaxy in its infancy ... when the universe was in its infancy."
+
+Capturing an image from a far-off light source is like looking back in time. When we look at the sun, we're seeing a snapshot of what it looked like eight minutes ago. The same principle applies for the light coming from the galaxy known as EGS-zs8-1, except our snapshot of this distant galaxy is extremely vintage — roughly 13.1 billion years old.
+
+EGS-zs8-1 is so far away that the light coming from it is exceedingly faint. And yet, compared with other distant galaxies, it's surprisingly active and bright, forming stars at roughly 80 times the rate the Milky Way does today. This precocious little galaxy has built up about 8 billion suns' worth of mass, more than 15 percent of the mass of the Milky Way, even though, as it appears to astronomers, it has been around for a mere fraction of the Milky Way's more than 13 billion years in business.
+
+"If it was a galaxy near the Milky Way (today), it would be this vivid blue color, just because it's forming so many stars," Illingworth said.
+
+One of the many challenges with looking for such faint galaxies is that it's hard to tell if they're bright and far, or dim and near. Astronomers can usually figure out which one it is by measuring how much that distant starlight gets stretched, "redshifted," from higher-energy light such as ultraviolet down to optical and then infrared wavelengths. The universe is expanding faster and faster, so the farther away a galaxy is, the faster it's going, and the more stretched, or "redder," those wavelengths of light will be.
+
+The astronomers studied the faint light from this galaxy using NASA's Hubble and Spitzer space telescopes. But EGS-zs8-1 seemed to be too bright to be coming from the vast distances that the Hubble data suggested.
+
+To narrow in, they used the MOSFIRE infrared spectrograph at the Keck I telescope in Hawaii to search for a particularly reliable fingerprint of hydrogen in the starlight known as the Lyman-alpha line. This fingerprint lies in the ultraviolet part of the light spectrum, but has been shifted to redder, longer wavelengths over the vast distance between the galaxy and Earth.
+
+It's a dependable line on which to base redshift (and distance) estimates, Illingworth said — and with that settled, the team could put constraints on the star mass, star formation rate and formation epoch of this galaxy.
+
+The telltale Lyman-alpha line also reveals the process through which the universe's haze of neutral hydrogen cleared up, a period called the epoch of reionization. As stars formed and galaxies grew, their ultraviolet radiation eventually ionized the hydrogen and ended the "dark ages" of the cosmos.
+
+Early galaxies—such as EGS-zs8-1 — are "probably the source of ultraviolet radiation that ionized the whole universe," Illingworth said.
+
+Scientists have looked for the Lyman-alpha line in other distant galaxies and come up empty, which might mean that their light was still being blocked by a haze of neutral hydrogen that hadn't been ionized yet.
+
+But it's hard to say with just isolated examples, Illingworth pointed out. If scientists can survey many galaxies from different points in the universe's very early history, they can have a better sense of how reionization may have progressed.
+
+"We're trying to understand how many galaxies do have this line — and that gives us some measure of when the universe itself was reionized," Illingworth said. "One (galaxy) is interesting, but it's when you have 50 that you can really say something about what galaxies were really like then."
+
+As astronomers push the limits of current telescopes and await the completion of NASA's James Webb Space Telescope, set for launch in 2018, scientists may soon find more of these galaxies even closer to the birth of the universe than this new record breaker.
+
+"You don't get to be record holder very long in this business," Illingworth said, "which is good because ultimately we are trying to learn about the universe. So more is better."

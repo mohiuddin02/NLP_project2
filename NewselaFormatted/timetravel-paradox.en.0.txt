@@ -1,0 +1,104 @@
+On June 28, 2009, the world-famous physicist Stephen Hawking threw a party at the University of Cambridge, complete with balloons, hors d'oeuvres and iced champagne.
+
+Everyone was invited but no one showed up.
+
+Hawking had expected as much, because he only sent out invitations after his party had concluded.
+
+It was, he said, "a welcome reception for future time travelers," a tongue-in-cheek experiment to reinforce his 1992 conjecture that travel into the past is effectively impossible.
+
+But Hawking may be on the wrong side of history.
+
+Recent experiments offer tentative support for time travel's feasibility—at least from a mathematical perspective.
+
+The study cuts to the core of our understanding of the universe, and the resolution of the possibility of time travel, far from being a topic worthy only of science fiction, would have profound implications for fundamental physics as well as for practical applications such as quantum cryptography and computing.
+
+The source of time travel speculation lies in the fact that our best physical theories seem to contain no prohibitions on traveling backward through time.
+
+The feat should be possible based on Einstein's theory of general relativity, which describes gravity as the warping of spacetime by energy and matter.
+
+An extremely powerful gravitational field, such as that produced by a spinning black hole, could in principle profoundly warp the fabric of existence so that spacetime bends back on itself.
+
+This would create a "closed timelike curve," or CTC, a loop that could be traversed to travel back in time.
+
+Hawking and many other physicists find CTCs abhorrent, because any macroscopic object traveling through one would inevitably create paradoxes where cause and effect break down.
+
+In a model proposed by the theorist David Deutsch in 1991, however, the paradoxes created by CTCs could be avoided at the quantum scale because of the behavior of fundamental particles, which follow only the fuzzy rules of probability rather than strict determinism.
+
+"It's intriguing that you've got general relativity predicting these paradoxes, but then you consider them in quantum mechanical terms and the paradoxes go away," says University of Queensland physicist Tim Ralph.
+
+"It makes you wonder whether this is important in terms of formulating a theory that unifies general relativity with quantum mechanics."
+
+Recently Ralph and his PhD student Martin Ringbauer led a team that experimentally simulated Deutsch's model of CTCs for the very first time, testing and confirming many aspects of the two-decades-old theory.
+
+Their findings are published in Nature Communications.
+
+Much of their simulation revolved around investigating how Deutsch's model deals with the "grandfather paradox," a hypothetical scenario in which someone uses a CTC to travel back through time to murder her own grandfather, thus preventing her own later birth.
+
+(Scientific American is part of Nature Publishing Group.)
+
+Deutsch's quantum solution to the grandfather paradox works something like this: Instead of a human being traversing a CTC to kill her ancestor, imagine that a fundamental particle goes back in time to flip a switch on the particle-generating machine that created it.
+
+If the particle flips the switch, the machine emits a particle—the particle—back into the CTC; if the switch isn't flipped, the machine emits nothing.
+
+In this scenario there is no a priori deterministic certainty to the particle's emission, only a distribution of probabilities.
+
+Deutsch's insight was to postulate self-consistency in the quantum realm, to insist that any particle entering one end of a CTC must emerge at the other end with identical properties.
+
+Therefore, a particle emitted by the machine with a probability of one half would enter the CTC and come out the other end to flip the switch with a probability of one half, imbuing itself at birth with a probability of one half of going back to flip the switch.
+
+If the particle were a person, she would be born with a one-half probability of killing her grandfather, giving her grandfather a one-half probability of escaping death at her hands—good enough in probabilistic terms to close the causative loop and escape the paradox.
+
+Strange though it may be, this solution is in keeping with the known laws of quantum mechanics.
+
+In their new simulation Ralph, Ringbauer and their colleagues studied Deutsch's model using interactions between pairs of polarized photons within a quantum system that they argue is mathematically equivalent to a single photon traversing a CTC.
+
+"We encode their polarization so that the second one acts as kind of a past incarnation of the first," Ringbauer says.
+
+So instead of sending a person through a time loop, they created a stunt double of the person and ran him through a time-loop simulator to see if the doppelganger emerging from a CTC exactly resembled the original person as he was in that moment in the past.
+
+By measuring the polarization states of the second photon after its interaction with the first, across multiple trials the team successfully demonstrated Deutsch's self-consistency in action.
+
+"The state we got at our output, the second photon at the simulated exit of the CTC, was the same as that of our input, the first encoded photon at the CTC entrance," Ralph says.
+
+"Of course, we're not really sending anything back in time but [the simulation] allows us to study weird evolutions normally not allowed in quantum mechanics."
+
+Those "weird evolutions" enabled by a CTC, Ringbauer notes, would have remarkable practical applications, such as breaking quantum-based cryptography through the cloning of the quantum states of fundamental particles.
+
+"If you can clone quantum states," he says, "you can violate the Heisenberg uncertainty principle," which comes in handy in quantum cryptography because the principle forbids simultaneously accurate measurements of certain kinds of paired variables, such as position and momentum.
+
+"But if you clone that system, you can measure one quantity in the first and the other quantity in the second, allowing you to decrypt an encoded message."
+
+"In the presence of CTCs, quantum mechanics allows one to perform very powerful information-processing tasks, much more than we believe classical or even normal quantum computers could do," says Todd Brun, a physicist at the University of Southern California who was not involved with the team's experiment.
+
+"If the Deutsch model is correct, then this experiment faithfully simulates what could be done with an actual CTC.
+
+But this experiment cannot test the Deutsch model itself; that could only be done with access to an actual CTC."
+
+Deutsch's model isn't the only one around, however.
+
+In 2009 Seth Lloyd, a theorist at Massachusetts Institute of Technology, proposed an alternative, less radical model of CTCs that resolves the grandfather paradox using quantum teleportation and a technique called post-selection, rather than Deutsch's quantum self-consistency.
+
+With Canadian collaborators, Lloyd went on to perform successful laboratory simulations of his model in 2011.
+
+"Deutsch's theory has a weird effect of destroying correlations," Lloyd says.
+
+"That is, a time traveler who emerges from a Deutschian CTC enters a universe that has nothing to do with the one she exited in the future.
+
+By contrast, post-selected CTCs preserve correlations, so that the time traveler returns to the same universe that she remembers in the past."
+
+This property of Lloyd's model would make CTCs much less powerful for information processing, although still far superior to what computers could achieve in typical regions of spacetime.
+
+"The classes of problems our CTCs could help solve are roughly equivalent to finding needles in haystacks," Lloyd says.
+
+"But a computer in a Deutschian CTC could solve why haystacks exist in the first place."
+
+Lloyd, though, readily admits the speculative nature of CTCs.
+
+"I have no idea which model is really right.
+
+Probably both of them are wrong," he says.
+
+Of course, he adds, the other possibility is that Hawking is correct, "that CTCs simply don't and cannot exist."
+
+Time-travel party planners should save the champagne for themselves—their hoped-for future guests seem unlikely to arrive.
+

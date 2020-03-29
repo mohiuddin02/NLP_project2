@@ -1,0 +1,27 @@
+LOS ANGELES — Using a brand-new technique, scientists using NASA's Kepler Space Telescope have found 715 confirmed planets huddling around 305 stars, nearly triple Kepler's previous total of 246 confirmed planets in the Milky Way galaxy. Nearly 95 percent of them are smaller than Neptune, and four of them are in their star's habitable zone, the region where liquid water — a necessary ingredient for life as we know it — could exist.
+
+Even though the planet-hunting telescope's crucial pointing ability was crippled last year, data mined from the spacecraft are still turning up a trove of strange and wonderful worlds, researchers said — bringing them ever closer to finding "Earth 2.0."
+
+"We've been able to open the bottleneck to access the mother lode and deliver to you more than 20 times as many planets as have ever been found and announced at once," said Jack Lissauer, a planetary scientist at NASA Ames Research Center who co-led one of two papers on the discovery published in the Astrophysical Journal.
+
+The research, which covers the first two years of data after Kepler's 2009 launch, has turned up a smorgasbord of smaller planets — and all in multi-planet systems. The scientists increased the number of confirmed Earth-sized planets by 400 percent, super-Earths by 500 percent and Neptune-sized planets by 200 percent. The number of Jupiter-sized worlds, on the other hand, rose by a mere 2 percent.
+
+This highlights the transition away from the massive gas giants that characterized Kepler's first finds and more toward planets that are in the right size range to potentially host life as we know it.
+
+"Certainly it will have ramifications for any mission that finds planets," Kepler project scientist Steve Howell said of the findings.
+
+Kepler gets better at finding smaller planets with longer periods over time, because it has more time to search for the tiny shadows they cast as they pass in front of their home stars. This mission collected about four years of data before two of its reaction wheels failed, crippling the spacecraft. (Plans to repurpose the spacecraft, called K2, are currently in the works.)
+
+Even though the Kepler mission has found 3,601 candidate planets, only 246 had been previously confirmed. That's because it takes a lot of extra, painstaking work to ensure that the dips in light that Kepler picks up really are from a planet and not a false positive, such as a binary system of two stars that regularly block each other's light.
+
+The new method researchers used to find and confirm these 715 planets relies on the idea that planets seem to cluster in systems with other planets, rather like our own.
+
+"Multiplicity is not random," Lissauer said, calling it "a powerful technique for wholesale planet verification."
+
+Two teams of researchers were able to devise a probability-based method that focused on these multi-planet systems, making the largest single exoplanet haul since the first one was discovered in the 1990s. It nearly quadruples the number of confirmed planets found with Kepler (from 246 to 961) and doubles the overall number of confirmed planets to about 1,700. (Many exoplanets have also been discovered using another technique called the radial velocity method, which looks for the gravitational influence of a planet on its star.)
+
+"I'm super excited about this," said Sara Seager, a planetary scientist at the Massachusetts Institute of Technology who was not involved in the work. The multi-planet systems will help scientists understand our own solar system's development, she said. For example, many of these systems seem to have multiple planets clustered in an orbit smaller than Venus, or even Mercury. Why are our own solar system's inner members relatively spaced out?
+
+The findings will also shed light on strange planets like mini-Neptunes, which have no analog in our own solar system, and sharpen scientists' search for Earth-sized, potentially Earth-like planets, scientists said.
+
+"Nature wants to make small planets," Seager said.

@@ -1,0 +1,39 @@
+SAN JOSE, Calif. — The beauty of virtual reality (VR) is that it can transport you to new places. Putting on a headset allows you to step through a digital door into different worlds.
+
+That door has opened even wider this month, as two major companies in the VR industry revealed their new technology. Oculus published more information about its VR headset earlier this month, while Sony provided more details about the launch of their own VR headset, known as Project Morpheus.
+
+When this technology becomes available to buyers in 2016, it will redefine the next generation of video games. Yet, before 2016 arrives there are still a few problems this technology faces.
+
+Jack McCauley is the inventor of the Oculus headset. Oculus began in 2012 and since then, it has established itself as a VR industry leader. The company was purchased by Facebook for $2 billion last year.
+
+McCauley guided the development of the Oculus headset and fixed many problems with head tracking and the liquid crystal display (LCD) screens they use in the device. However, many of the problems with virtual reality remain.
+
+## Some Users End Up Feeling Ill
+
+The VR headsets have been known to make their users nauseous. McCauley said this feeling occurs because of the difference between what your eyes are seeing and what your ears are feeling. Your eyes and ears work together to keep your body balanced and grounded. If one of them experiences something the other does not, it can sometimes make you feel ill. When it is done correctly, VR can produce a wonderful sense of speed and power. When it is done incorrectly, however, VR can make a user sick. McCauley is positive that Oculus can solve this problem.
+
+There is also a problem with the pixels. Pixels are the smallest form of any digital image. It takes many pixels to create a single image. Because the headset screen is so close to a player's eyes, they can see the individual pixels that make up the image, thereby ruining the experience of a clean digital immersion into another world.
+
+All of these problems with VR technology are two-fold. There are issues with both the hardware of the headsets and the software of the computer programs. Game developers must therefore learn new game-making techniques to reduce motion sickness and improve the gamer experience.
+
+This will take some time as developers need to try and figure out what impresses gamers and what makes them sick. Nick Whiting is a game programmer at Epic Games, where he works on VR technology. In Epic's "Showdown" game, Whiting said his team found it is best to have an object near the user at all times to give them a frame of reference in the virtual world. That object could be a soldier who is being shot down, or it could even be a trash can flipped in the air. Therefore, a focus on how the camera moves and how studios stage a virtual scene is becoming increasingly important.
+
+## Some Existing Games Work Well, Some Don't
+
+Because of that, game developers will need to think of ways to guide a player's eyes and make them watch important scenes. Spatial 3-D audio will certainly be used. This is a technology that uses the VR headset to make users believe they are in a three-dimensional world, hearing things beyond what they can see. This will be used in conjunction with physical touch signals from controllers to bring users into a virtual world. A rumble from a controller can make a player's brain believe their hand bumped a table or perhaps fired a gun.
+
+Because some styles of games don't currently work well with VR, some popular video games might  have to change considerably to work with the new technology, while older ones might be reimagined into new versions. Flight and racing games lend themselves nicely to VR, because the VR users are in the same physical position as their players in the digital world. Yet the same cannot be said for first-person shooters, which currently move too quickly for VR.
+
+"I don't think those genres will be cut off from VR, but they'll have to be reinvented," said Richard Marks, the senior director of research and development at Sony Computer Entertainment America.
+
+Shooter games will have to slow down to make themselves more realistic.
+
+## VR Is Promising For Architecture, Music
+
+Beyond gaming, there is also the potential to use VR technology to bridge the gap between people who live long distances apart. One benefit of virtual reality is that it gives players a sense of presence. Two people can be hundreds of miles away, but in the virtual world, they can feel like a friend is next to them.
+
+Whiting and McCauley also see promise in the worlds of architecture and music. For example, instead of an architectural firm showing clients models or images of buildings being designed, the customer can put on a headset and go on a virtual tour, seeing exactly what the space would look like. They can easily change the material of a floor from wood to carpet, and they can offer feedback.
+
+There's even the possibility of seeing concerts in virtual reality so viewers can feel as though they were at the venue.
+
+"A lot of VR is being in those cool spaces," Marks said. "You can be instantly transported to new worlds."

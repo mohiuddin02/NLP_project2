@@ -1,0 +1,71 @@
+Digital technology is moving from our desktops onto our bodies. There are music players that match your tunes to your heart beat and mood sweaters that change color depending on your emotional state.
+
+There are even fitness bracelets, anklets and necklaces to track your calorie burning.
+
+At Chaotic Moon Studios in Austin, Texas, developers and engineers are working on a product to compete with Google's upcoming eyewear that can log onto the Internet. They're also designing other wearable projects for several other customers of the mobile software firm, from applications to full-blown products.
+
+Chaotic Moon co-founder William "Whurley" Hurley said wearable technology will have as much of an impact as smartphones did a few years ago.
+
+## A Tech Fashion Show
+
+"It's just like when the iPhone came out and there was this mad gold rush. It's gonna be the same thing," Hurley said.
+
+Mutual Mobile, also in Austin, is working on Google Glass applications for a variety of clients. Google Glass is the name of Google's eyewear. Doctors might use the glasses to pull up patient information. Warehouse employees could use them to look at real-time inventory or scan bar codes.
+
+"People are starting to get into it," said Sam Gaddis. He is the company's chief marketing officer.
+
+Gaddis says sensors that can measure a variety of information are becoming so cheap. That helps spur the development of connected devices.
+
+Mutual Mobile has hosted "hackathons" to encourage its developers to see what they can invent.
+
+After one recent event, its developers created a football with a sensor that can detect the quality of the throw. They also made a boxing game that measures how often you've hit the target.
+
+Experts say that wearables are the next big thing in tech.
+
+"I think we're going to see some very, very big leaps in just the next year," tech [entrepreneur](https://www.newsela.com/?tag=entrepreneur) Manish Chandra said. He was at a wearable technology conference and fashion show in San Francisco. Hundreds of developers, engineers and designers were at the show.
+
+## "Augmented Reality"
+
+Wearable technologies have long been a sideshow to mainstream laptop and smartphones. Now Google Glass and rumors of Apple's iWatch are popularizing the field. Analysts forecast swift growth. Last year the market for wearable technology totaled almost $9 billion. That should climb to $30 billion by 2018, said analyst Shane Walker at IHS Global Insights. Wearable technology includes everything from hearing aids to wristband pedometers.
+
+Hurley said Google's public relations campaign for its glasses made people invest in wearables.
+
+"And that's what's been missing for the last 20 years in this area, is people actually funding these projects," he said. "So now we're getting all these clients because there's all this injection of funding."
+
+Gaming will also be affected. Look at products like the Oculus Rift, a virtual reality headset that enables 3-D gaming. Virtual reality technology makes you feel like you are in the middle of an artificial world.
+
+At Austin's recent Captivate tech conference, Robin Arnott was showing off a program he'd created for the Rift. Users strap on the headset. Then the program uses their vocal tones to display a series of tunneling images, creating fantastical visual effects.
+
+Arnott called it a "meditation experience." He hopes to release it with the device in another year or so.
+
+"It's like you chase yourself down the rabbit hole," he said of the program.
+
+Arnott described devices like Google's glasses, which overlay the Internet on top of the real world, as "augmented reality." Wearables "extend your abilities as a human, just as your phone does," he said.
+
+## Adapting To Wearables
+
+As wearable technologies proliferate, humans will need to adapt, said Georgia Institute of Technology professor Thad Starner. He advises Google on its glasses.
+
+The glasses are lightweight frames equipped with a hidden camera and tiny display that responds to voice commands. Starner has worn his for several years.
+
+The devices will cause a huge change, said Starner, eventually offering "capabilities that people haven't thought of before."
+
+Wearable computers are designed to be in the background, secondary to the wearer's attention, he said.
+
+Bringing technology closer to your body makes the experience less noticeable, he added. "It's more an extension of yourself," he said.
+
+But there are sure to be cultural and social issues. Google Glass — and some emerging competitors — have raised concerns of people who don't want to be secretly videoed or photographed. And what about interacting?
+
+## The Cyborgs Are Coming
+
+"Do you really want a touch screen on the front of your T-shirt? Is it socially acceptable to be poked all over your body for somebody to use your wearable computer?" asked Genevieve Dion, who directs a fashion and technology lab at Drexel University.
+
+The answer, for some, is no.
+
+In a newly released survey, 42 percent of workers said they would not be willing to strap on wearable tech for their jobs. Older and more traditional employees were more reluctant than their younger counterparts. The survey by Cornerstone OnDemand polled 1,029 Americans aged 18 and over in August, and had a 3.1 percent margin of error.
+
+Then there's an issue of bandwidth, said Ritch Blasi, who researches the wearable technology market. Right now, there simply isn't enough network service to support universal and constant wireless use, he said. But that, too, will catch up.
+
+"It almost makes you think everyone is going to turn into a cyborg," he said, referring to a fictional, high tech comic book superhero.
+
+And will they? "When you look at the world and everything people are doing?" Blasi said. "I think the answer to that is yes."

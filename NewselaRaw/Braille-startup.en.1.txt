@@ -1,0 +1,47 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg" />SANTA CLARA, Calif. — Last December, seventh-grader Shubham Banerjee asked his parents how blind people read.
+
+His dad, who works for a computer company, told his son to "Google it."
+
+So Shubham did, and with a few Internet searches he learned about Braille, the writing system of raised dots used by the blind. He also read about Braille printers, which, to the middle-schooler's shock, cost thousands of dollars.
+
+One school science fair victory, $35,000 of his parents' savings and a visit to the White House later, Shubham today is the founder of a business. Shubham's company, Braigo Labs, aims to be the first manufacturer of low-cost, portable Braille printers.  Braille is printed with raised dots on paper, which blind people read with their fingers.
+
+## He Is Always Thinking
+
+On Tuesday, Intel, one of the world's largest computer chip makers, announced that it has invested in the teenager's company. This makes Shubham the world's youngest owner of a tech startup to receive venture capital funding. Venture capital is a type of funding given to a new company to get it off the ground.
+
+"It was curiosity," explained Shubham, now 13 and an eighth-grader at Champion School in San Jose. "I'm always thinking up something. If you think it can be done, then it can probably be done."
+
+What started as a home-built Lego project for a school science fair has transformed into a family run startup. His mom, Malini Banerjee, serves as the president and CEO. His dad, Neil Banerjee, is on the board of directors and is Shubham's chauffeur and chaperone to press events, interviews and business meetings.
+
+## From Kitchen Table To Place In History
+
+The money from Intel will allow the family to hire engineers and product designers, enabling Shubham to concentrate on school. Shubham's father had been thinking about dipping into his retirement savings to fund the company before Intel offered the money. Intel declined to disclose how much it is giving Shubham's company.
+
+"It's a classic Silicon Valley story, isn't it?" said Neil Banerjee, who works as director of software operations for Intel. Silicon Valley is the nickname of an area in Northern California where many high-tech companies are located. "Everyone else started in a garage, but (Shubham) started at the kitchen table."
+
+The investment also earns Shubham a place in history. He is two years younger than Nick D'Aloisio of Britain, the British tech whiz kid who received venture capital funds for his startup Summly, a news reading app, in 2011 when he was 15. According to business groups and media organizations that track these kinds of investments, Yahoo later bought Summly for a reported $30 million.
+
+## New Printer Will Help More People Read
+
+Shubham published the code for the software on the Web, so other developers can use it, but the family has taken out a patent for the printer. Intel engineers, including his dad, helped Shubham build a working model of the printer, which is run with a new Intel chip.
+
+Organizations for the visually impaired welcome an affordable Braille printer, which they say could give blind people better access to literature and news. They also say it would improve Braille literacy rates. Only about 8.5 percent of the 60,000 blind schoolchildren in the country can read Braille, according to the American Printing House for the Blind.
+
+"There is absolutely a need," said Gary Mudd, a spokesman for the Printing House for the Blind. "Being blind is sometimes very expensive."
+
+Braille printers start at about $2,000 for an individual and go up to at least $10,000 for schools and businesses. Braigo plans to sell its printer for about $350.
+
+"We had no idea that someone could reinvent a Braille printer and bring the cost down by an order of magnitude," said Mike Bell, Intel vice president and general manager of the company's New Devices Group. "We think this has big potential to help a lot of people."
+
+## "Believe In Your Child"
+
+Because Braigo uses Intel technology, it is an obvious investment for the company's venture fund. Possibly the biggest challenge facing Braigo, though, is whether it can get enough customers. The National Federation of the Blind estimates that fewer than 10 percent of blind people can read Braille. And with more advanced technology available, including electronic Braille screens and text-to-speech functions on smartphones, some experts expect the demand for Braille printers will drop.
+
+"The number of potential sales are quite limited because there aren't that many people who read Braille," said Ike Presley. He is the national project manager for the American Foundation for the Blind. "We don't know what the demand will be for hard copy Braille five to 10 years from now."
+
+In five to 10 years, Shubham will be in college. But whether or not the company survives, the experience is almost certainly something his parents will treasure.
+
+"He would stay up until 2 a.m., and I would be like, 'Give it up Shubham, just give it up,'" Malini Banerjee said. "He would keep building and breaking things and I would get so discouraged, asking, 'Why is he wasting his time?'"
+
+But now she tells every mom, "Believe in your child."

@@ -1,0 +1,47 @@
+LOS ANGELES — Pity the poor male common Mormon swallowtail butterfly. His potential female mates bear four different color patterns, only one of which looks familiar. The rest look suspiciously like other species, and poisonous ones at that.
+
+That deception is good news for 75 percent of the Papilio polytes ladies, who can avoid predators that have learned not to dine on the real toxic butterfly. They're a classic example of "parasitic" mimicry. A strictly one-sided affair, their mimicry benefits only the imitator, and leaves the male and the masculine-colored female at risk.
+
+Biologists have studied mimicry cases since the dawn of Charles Darwin's theory of evolution. This is because they provide a field test for the process of natural selection. In a nutshell, natural selection is the process by which organisms that are better suited to their environment survive, while others do not.
+
+Organism is a broad term that covers all living things, including animals, plants, and single-celled life forms. Organisms often develop their advantageous traits through mutations, or changes, in the structure of their genes. The slow changes to an entire species that come out of this process of natural selection is known as evolution.
+
+## Remains A Mystery
+
+But while mimicry has long been studied, it remains something of a mystery just how it becomes restricted to females of a species.
+
+Scientists suspected the handiwork of a "super gene."
+
+"They figured that this is a cluster of tightly linked genes, and each individual gene was doing some subset of that color pattern, but they were so close together that they would all be inherited as a single unit," said University of Chicago evolutionary biologist Marcus R. Kronforst, who has studied butterflies for decades. "That's where the name 'super gene' came from. They just couldn't imagine that a single gene could do all this."
+
+Researchers had found evidence of a unified gene cluster in one butterfly species. So Kronforst sought out the super gene of the Mormon swallowtail by mating butterflies of different wing patterns and mapping genes and gene expression of some 500 offspring.
+
+"We essentially expected to see the same thing, that there would be a cluster of very tightly linked genes," Kronforst said. "But that's not what we found. In this butterfly, in this one species at least, it is just one gene. And it's doublesex. That's the name of the gene."
+
+## The Signaling Gene
+
+Doublesex happens to be the signaling gene that selectively drives the gender divide in certain cells — though it is not the one that actually determines gender for the organism.
+
+"It's not on the sex chromosomes," said Kronforst, who published his research team's findings online Wednesday in the journal Nature. "It reads a message from the sex chromosomes and then it forms two different types of proteins. There's a male type of protein and a female type of protein, and that's what tells the other cells in the body: You are male and you are female."
+
+When he looked more closely at the mimetic, or mimicking, females, Kronforst found that doublesex was holding on to about 1,000 base pair mutations. Base pairs are sets of complimentary molecules. What he saw was similar to the way super genes lock up groups of mimicry genes.
+
+"It basically locks all of the mutations into one unit so they can't recombine," Kronforst said.
+
+Exactly what mutations may be responsible for which colors remains a mystery that Kronforst plans to explore.
+
+Other broad questions remain too. "If mimicry is helping these females survive, why on Earth aren't the males getting the same advantage?" Kronforst said. "We simply do not understand the answer to that question."
+
+## Counterbalancing Selection?
+
+And how does the non-mimicking female pattern survive? "If she really was that bad off, that copy of the gene would simply disappear from the population," Kronforst said. "The individuals that were mimetic would do so much better that she would just disappear. But that pattern hangs on. There's also something that's keeping the males in the non-mimetic pattern that we still don't understand."
+
+Kronforst believes that counterbalancing selection may be at play — some advantageous trait is paired with the seemingly disadvantageous one, and both are conserved. In humans, that counterbalancing arrangement pairs sickle cell with malaria resistance.
+
+"Basically what the butterflies have done is they have grabbed this mechanism that they already use to tell males from females, and they're using it again to tell females that you'll like A, B, C or D," Kronforst said.
+
+In other words, doublesex is not only forming male and female proteins, it is also selecting one of four color patterns.
+
+Kronforst wants to find out how the gene operates in other species that have similar male-female mimicry differences. What other characteristics might it drive? Does it change flight patterns as well?
+
+"It's possible that this gene is doing lots of other stuff," Kronforst said.

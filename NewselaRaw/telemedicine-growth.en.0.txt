@@ -1,0 +1,73 @@
+WASHINGTON — Samantha Cunningham was halfway through a five-hour road trip to a music festival in Bradley, California, when she realized she'd left her asthma inhaler back home in Sacramento.
+
+Her options seemed limited: go back, pick it up and be late for the concert; pay a $100 minimum fee to get a new prescription at a walk-in clinic; "or go without the inhaler and hope that they had a rescue machine at the festival on the off chance I had an asthma attack, which, of course, wasn't a very inviting prospect," Cunningham said.
+
+Then a friend on the trip suggested she try American Well, a service that allows smartphone or Web device users to have a video consultation with a physician.
+
+After downloading the phone app and entering her personal information, Cunningham, 23, was soon discussing her predicament face to face with Dr. Minoti Parab, a family doctor in Charlotte, North Carolina, who sees only "telemedicine" patients like Cunningham on her home computer.
+
+The app download and visit with Dr. Parab took about 30 minutes and cost $49 — far less than a traditional office visit.
+
+When it was over, Cunningham had a prescription for a new inhaler that she filled at a pharmacy in Bradley before arriving — on time — for the concert. "It was really a perfect solution," she said.
+
+It's also a perfect example of how telemedicine — using electronic technology to provide remote patient care and to exchange medical information — is transforming health care delivery.
+
+Along with American Well, companies like Teladoc, Doctor on Demand and Specialists on Call host video consultations with off-site doctors, serving consumers, employers, insurers and hospitals. Large hospital systems, like the University of California, Davis Medical Center in Sacramento, also use telemedicine technology to make their specialists available by video to other hospitals.
+
+Increasingly, technology is providing the solutions.
+
+Robots help treat emergency room patients and allow off-site neurologists to diagnose and recommend life-saving medication for stroke victims. New phone apps let users conduct full eye exams and make detailed retinal screenings with their smartphones. Other phone-based technology allows therapists to monitor the moods of mental health patients on a computer screen dashboard and text them instructions or warnings as needed.
+
+These and other innovations are expanding the possibilities of "virtual medicine," yet another moniker — along with mHealth, eHealth and telehealth — for treating patients from afar.
+
+Telemedicine technology has the potential to one day save more than $40 billion annually by cutting nearly two-thirds of unnecessary emergency room visits, and save nearly $20 billion a year by replacing one-third of physician visits, according to a July report by investment bank RBC Capital Markets.
+
+The report was released the same day that RBC recommended that investors buy Teladoc stock in its initial public offering. Dr. Steve Waldren, who directs the Alliance for eHealth Innovation at the American Academy of Family Physicians, couldn't vouch for the RBC estimates, but he said the growing telemedicine trend will improve access to care and save money along the way.
+
+"I really agree with the market analysis that telemedicine over the next decade-plus is going to be a huge business," Waldren said. "It can decrease the total cost of care. It can increase the satisfaction of patients and it can improve the quality of care."
+
+The current $250 million U.S. market for telemedicine services is expected to top $20 billion over the next decade, as patients get more comfortable with the technology and it becomes the norm for less severe ailments, according to the RBC report.
+
+The market could reach $50 billion as more hospitals and insurers use the technology to monitor higher-cost patients like the elderly and those with multiple chronic conditions.
+
+"The basic economics of virtual medicine are just kind of punch-you-in-the-face clear and obvious," said David Francis, Nashville, Tenn.-based managing director for health care information technology and consumer health research at RBC Capital Markets.
+
+"Being able to shift a payment that ought to be somewhere in the $40 to $50 range out of an environment that's anywhere from $200 to $2,000 is an absolute layup for anyone who is at risk financially in the health care market," Francis said.
+
+If Medicare expands telemedicine coverage for its enrollees, the market potential grows even larger.
+
+Currently, Medicare pays for some telemedicine services for rural patients, but only if provided at approved sites like medical facilities that can access doctors remotely.
+
+By paying the distant provider the same amount that an in-person office visit would cost — and a fee for use of the site — "Medicare's total payments are thus higher for telemedicine services than for equivalent services delivered conventionally," the Congressional Budget Office noted in a recent analysis.
+
+A number of bipartisan proposals in Congress would expand access to and reimbursement for telemedicine services under Medicare. But the measures have been stalled because the CBO can't effectively gauge the cost of such a coverage expansion.
+
+That's because it's unclear if new telemedicine coverage would cause program usage and spending to increase.
+
+"Without other constraints, the added convenience for enrollees of receiving telemedicine rather than face-to-face care could increase their demand for and use of Medicare-covered services," the CBO said.
+
+"That's the conundrum we're in," said Gary Capistrant, chief policy officer at the American Telemedicine Association, which is lobbying Congress to expand Medicare's coverage of telemedicine services. To give the CBO a better idea of the potential costs involved, Capistrant wants the Department of Health and Human Services to conduct more demonstration projects.
+
+One area that lawmakers and health advocates want to focus on is "telestroke" care, where caregivers at one facility can confer with a stroke specialist at another location using audiovisual tools like smartphone apps, computer-based technology or the RP-VITA robotic device from InTouch Health and iRobot.
+
+With these tools, distant neurologists, working with on-scene caregivers, can determine the type of stroke and recommend treatment, if necessary, with tissue plasminogen activator, or tPA, a clot-busting medicine that greatly improves the chances of recovery if provided quickly.
+
+Expanding Medicare's reimbursement for telestroke care would help save federal health programs $119 million a year on rehabilitative services and long-term care, according to research by the American Heart Association and the American Stroke Association. That's after accounting for the increased cost of more telestroke consultations and greater use of tPA.
+
+In a nation already short of neurologists, the technology helps put more specialists in more places.
+
+Dr. Til Jolly is chief medical officer at Specialists On Call, whose 200-plus neurologists, psychiatrists and intensive care doctors provide on-demand video consultations to hospitals in 33 states.
+
+"The numbers don't lie," he said. "There are not going to be all these physicians we need in all the places we need them, so we have to figure out a better way."
+
+While videoconferencing is the bread and butter of the telemedicine movement, the use of mobile apps is the new frontier and seems well-suited for mental health applications.
+
+Centerstone, a mental health services provider in Columbus, Ind., reported a 40 percent decrease in hospitalizations and emergency room usage among 65 patients who were given several health-monitoring devices, including a phone app, Ginger.io, which analyzes smartphone data to predict when the patients are symptomatic and then notifies their case managers.
+
+"They really liked the apps and in the end they seemed to feel like they had much better control over and understanding of their illnesses," said Bob Siegmann, Centerstone's senior vice president for health care integration and collaboration.
+
+But because the apps were provided along with other enhancements, like extra discretionary cash and greater access to case managers, it's hard to gauge the apps' actual contribution to the final results, said John Torous, a clinical fellow in psychiatry at Harvard Medical School.
+
+That lack of solid clinical research on the growing number of mobile phone apps for behavioral health should give therapists pause, Torous said.
+
+"It's hard for clinicians right now to decide what are the good apps and the bad apps," Torous said. "We're not thinking of them medically and asking the medical questions: What are the risks and benefits of use? And how well does it work in a real clinical population? For most of these things, we just don't know."

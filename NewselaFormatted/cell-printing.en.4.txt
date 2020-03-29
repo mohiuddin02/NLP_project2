@@ -1,0 +1,128 @@
+Woodblock printing was developed more than 1,800 years ago in China.
+
+It is a form of printing that uses blocks of wood with raised surfaces in a pattern.
+
+Woodblock printing is like using a rubber stamp.
+
+The woodblock is covered in ink and then pressed against paper.
+
+It leaves behind a picture or words.
+
+Not long ago, scientists discovered that the ancient printing system can be a useful tool.
+
+In today's laboratories it can be used to work with living cells.
+
+A cell is the smallest unit of living things on Earth.
+
+Both plants and animals are made of cells.
+
+Scientists usually use inkjet printers when working with living cells.
+
+Live cells are useful in testing new drugs or studying diseases.
+
+The inkjet printers squeeze the tiny, living cells out into patterns for lab experiments.
+
+But that system has some problems.
+
+So scientists have turned to Chinese woodblock printing.
+
+Woodblock printing is helpful to scientists for many reasons.
+
+It makes it easier to keep cells alive during experiments.
+
+Woodblock printing also gives scientists more choices.
+
+They can print a mixture of animal cells in many different shapes.
+
+And they can print them on just about any surface.
+
+Inkjet printing involves squeezing fluid filled with cells.
+
+Those cells are "the ink."
+
+The cells are placed onto a surface in a pattern.
+
+Scientists have used inkjet printing when they're trying to set down a layer of cells — like a layer of a cake.
+
+But it's hard to get the cells to lie flat in layers of single cells.
+
+Inkjet printing makes it difficult to put the cells exactly where you want.
+
+It can also kill cells.
+
+Up to half may die.
+
+So a team of scientists from Texas and Taiwan turned to Chinese woodblock printing.
+
+The study was led by scientist Kai Zhang.
+
+He said that woodblock printing is a technology "that revolutionized the printing world."
+
+The scientists designed woodblock-like stamps made out of silicone.
+
+Little hooks were placed along the sides of the stamps.
+
+Scientists then pushed liquid filled with cells through the stamp's design.
+
+Pressure was used to suck the cell through to the other side of the stamp.
+
+The hooks catch a single cell as it flies by.
+
+Think of the cell as a baseball and the hook as a catcher's mitt.
+
+The cell flies into the hook just like a baseball falls into a mitt.
+
+Once a hook is filled, the other cells pass by.
+
+They fill other empty hooks.
+
+The mold is then pressed onto a surface and then lifted away.
+
+This leaves behind a pattern of cells.
+
+By using the silicone stamps, scientists were able to work with HeLa cancer cells.
+
+They placed the HeLa cells in organized grids.
+
+The HeLa cells were the first ones ever grown in a lab.
+
+They were taken from a patient named Henrietta Lacks.
+
+She later died of cancer in 1951.
+
+Scientists noticed that her cells were different.
+
+They could be kept alive and grow.
+
+Her cells have been used by scientists in experiments all around the world.
+
+Printing the HeLa cells allows scientists to look at how cancer spreads through the body.
+
+Neurons were also used while working with the woodblock stamps.
+
+Neurons are cells that send information to and from the brain.
+
+Scientists placed neurons into a grid shape.
+
+Then they watched how they share information.
+
+They hope this will let them understand how brain diseases work.
+
+The scientists call this new type of printing block-cell printing.
+
+They found that it could be done in just half an hour.
+
+Unlike inkjet printing, it doesn't kill any of the cells being used.
+
+There are some drawbacks.
+
+Block-cell printing cannot print several layers of cells.
+
+Printing also takes longer than with an inkjet printer.
+
+But it could be cheaper, the scientists said.
+
+The materials to make each stamp's mold cost roughly $1.
+
+An inkjet cell printer can cost thousands of dollars.
+

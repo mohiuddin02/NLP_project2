@@ -1,0 +1,69 @@
+On June 28, 2009, the world-famous physicist Stephen Hawking threw a party. He had balloons, snacks and drinks. No one showed up. Hawking had expected that, because he sent out invitations after his party had ended. Hawking called it a welcome party "for future time travelers." He was joking, but it was also an experiment to prove that time travel is impossible.
+
+Hawking may be wrong. New experiments say time travel could be possible — at least in the world of math. Proving that time travel is possible would change classical physics. It could also allow for super-fast types of computers that use quantum physics, also called quantum mechanics.
+
+Briefly, classical physics deals with the big things, like the Sun and Moon. It also deals with fast things, like light. Quantum mechanics takes a look at things even smaller than atoms — the sub-atomic level or electrons. For instance, a ray of light is actually made up of tiny packets of energy.
+
+## The Quantum World Is Tricky
+
+At the tiniest quantum level, strange things seem to happen. Because quantum things are so tiny, you cannot look at them without affecting them. The light and photons (light particles) used to watch an electron would move the electron. And sometimes the more you try to measure things that are quantum size, the less you know.
+
+Quantum mechanics gives scientists answers that are not fixed. They are a set of probabilities, or possibilities. And all exist at the same time.
+
+Some think time travel is possible because physics says so. It should be possible based on Einstein's theory of general relativity. His famous theory describes gravity as the bending of space and time, which are one thing called "spacetime."
+
+To understand that, imagine you and a friend stretch a blanket out between the two of you. That blanket is "spacetime." Space and time are part of the same fabric. Then someone drops a marble onto the blanket. The blanket sinks a bit. The marble is like a planet, or anything with mass.
+
+The mass of planets affects and bends spacetime. This has big effects for time. Events that happen at the same time for one observer could happen at different times for another.
+
+## CTC: Closed Timelike Curve
+
+So, what does this mean for time travel? Instead of the marble bending spacetime, imagine a powerful gravitational field. One example would be a spinning black hole. It is powerful enough to suck up planets and light. It could make spacetime bend or curve. If it curves back on itself, it could close and form a loop. This is called a "closed timelike curve," or CTC. People could use this loop, or tube, to travel back in time.
+
+Hawking and many other physicists don't like the idea of CTCs. Anything traveling through one would create paradoxes. Even if you can go back in time, how can you come back to the future and have it be the same?
+
+Think about science fiction movies. When someone travels back in time their actions change the future. They may even prevent themselves from being born.
+
+In 1991, physicist David Deutsch put out a theory to fix paradoxes caused by CTCs. He said the answer was at the tiniest quantum level. The key was fundamental particles, like quarks. Physicists believe these fundamental or elemental particles are the smallest parts of matter. Quarks are inside protons. Now, quarks may be made of smaller parts or not, but we can't see that far. Deutsch's theory sends these particles back in time.
+
+## "The Grandfather Paradox"
+
+Recently, Ralph and his student Martin Ringbauer tested Deutsch's model of CTCs. They investigated how Deutsch deals with the "grandfather paradox." In this imaginary situation someone uses a CTC to travel back through time. Her goal is to murder her own grandfather. In turn, this prevents her own birth.
+
+Here is how Deutsch fixes the grandfather paradox:
+
+Obviously, Deutsch can't send a human back in time to kill her grandfather. Instead he imagines a particle going back in time. Its goal is to flip a switch on the machine that created it. If the particle flips the switch, the machine shoots a particle — the particle — back into the CTC. If the switch isn't flipped, the machine shoots out nothing.
+
+It is not certain the particle will be shot out. It is only one probability, or chance. Deutsch assumes that tiny quantum particles are stable and fixed. He calls them "self-consistent."
+
+If the particle were a person, she would be born with only a one-half probability of killing her grandfather. In turn, her grandfather would have a one-half probability of not being killed by her. That's good enough of a chance to escape the paradox. You could have existed with one-half probability of going back and killing your grandfather. This strange solution agrees with the laws of quantum physics.
+
+## Powerful Quantum Computers?
+
+Ralph and Ringbauer simulated Deutsch's model. They used pairs of light particles (photons). They didn't actually send a photon through a CTC. "Of course, we're not really sending anything back in time," Ralph says.
+
+But they say it is mathematically the same. The second photon is meant to be a past version of the first. It is like they created a clone of a person. Then they ran him through a time-loop simulator. By the end of the experiment, the second photon should end up being identical to the first photon as it was at the beginning of the experiment. Essentially the past version turns into the present one over time.
+
+The second photon meets the first — itself from the future. At that point they are as different as a woman and her grandfather. Then the fake CTC goes on. At the end of it the second photon is identical to the first. Which means, it could not go back in time and meet its old self. The loop works without paradox.
+
+Ringbauer says their test could have huge effects for computing. It could allow for cloning of fundamental particles. Quantum mechanics had seemed to not allow this.
+
+Quantum computers could be much faster than regular computers. Typical computing uses either 0's or 1's. Quantum computing can use either ones and zeros, or both at the same time.
+
+It could also enable quantum encryption. When you log into your email, your password is encrypted using traditional math. But scientists are working on encryption using the principles of quantum mechanics. Quantum computing might also allow for the breaking of codes.
+
+CTCs would make quantum computing even faster, says physicist Todd Brun. "But this experiment cannot test the Deutsch model itself." A real CTC would be needed for that.
+
+## CTCs In Real Life? Probably Not
+
+Deutsch's model isn't the only one, though. In 2011 physicist Seth Lloyd tested a simpler model of CTCs. It solves the grandfather paradox using quantum teleportation and post-selection. Quantum teleportation is a bit like the teleporter in Star Trek, when Scotty beams Spock up from other planets. But that's where the similarity ends. Quantum teleportation only beams around the tiniest bits of information.
+
+Post-selection is the ability to make a computation accept only certain results and ignore others. In this way, post-selection could allow for a choice of which type of state can be teleported. The states that would be teleported are those that have been post-selected to be self-consistent. But it's decided before being teleported.
+
+Deutsch's theory has a problem that Lloyd solves. Deutsch's time traveler returns to a new history and new universe.
+
+Deutsch's traveler "enters a universe that has nothing to do with the one she exited," Lloyd says.
+
+Lloyd fixes this with post-selection. It lets the traveler return "to the same universe that she remembers."
+
+Lloyd admits how wild the idea of CTCs is. "I have no idea which model is really right. Probably both of them are wrong," he says. Of course, he adds, Hawking could be correct, "that CTCs simply don't and cannot exist." Time-travel party planners probably should not wait for guests from the future to arrive.

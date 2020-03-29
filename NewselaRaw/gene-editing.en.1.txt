@@ -1,0 +1,53 @@
+"We are close to be being able to alter human heredity," scientist and Nobel prize winner David Baltimore said Tuesday, Dec. 1. Baltimore was speaking at a much-anticipated human gene editing summit taking place in Washington, D.C. 
+
+Gene editing is a process in which the human genome — the body's collection of genes — is tweaked through additions, subtractions or alterations. Recent technological advances have made it an increasingly realistic possibility. Scientists at the week's conference gathered to consider the possible repercussions of its use, and to try to hash out when and how it should be used.
+
+## "Human Enhancement"
+
+"When will we be prepared to say we are justified to use gene editing for human enhancement purposes?" Baltimore asked.
+
+Part of the problem is defining "enhancement" and deciding if it would be a move in the right direction, as the word would suggest. 
+
+Does enhancement merely refer to things like boosting muscle tone or achieving other desirable traits like perfect musical pitch? Or does the term also encompass steps to guarantee better health by preventing disease? 
+
+Scientists at the week's conference disagree over whether certain types of gene-editing would be important for helping patients. One prominent researcher claimed the technology would not often be needed. Another described serious current medical needs for it. 
+
+## Life-Threatening Conditions
+
+Baltimore chaired the three-day summit. He believes the determining factor in deciding whether gene editing is appropriate is whether a particular change would improve a patient's health or would merely be optional. "To my mind enhancement is really optional," he says. "You are not solving a life-threatening issue." 
+
+Making a change to the PCSK9 gene, for example, would lower the risk of cardiovascular disease and for someone with high LDL — the bad kind of cholesterol — it could be the difference between life and death, he says. In that case the intervention would be clearly worth doing, and not simply a medically unnecessary enhancement. 
+
+Whether or not to engage in future "improvements" that are considered more optional, however, is a question that remains murky.
+
+## Technology Improving Quickly
+
+Take the DEC2 gene. Tweaking it could make a person function like the rare individuals who are born with a variant that allows them to function well with just a few hours of sleep. The trait is not necessary for most people, but it could be useful for a soldier in the battlefield, for example. 
+
+Ultimately, enhancements of many kinds will "definitely" happen in the future, says Fyodor Urnov of Sangamo BioSciences, a company that is now working on gene editing. The bigger question, he says, is when they will happen.
+
+The development of cheaper, more efficient and more precise gene editing techniques is forcing researchers to consider these questions quickly. Most notably, researchers are eyeing CRISPR, short for "clustered regularly interspaced short palindromic repeats." CRISPR is a powerful technology that allows editing of multiple genes at once in animal, plant and human cells. 
+
+## Controversy Brews
+
+CRISPR could provide a greater understanding of the human body and help patients in need of medical care. The method has already sparked controversy, however.
+
+Last spring researchers in China announced that they had used CRISPR to alter the genomes of nonviable human embryos that could not develop into babies. The Chinese scientists concluded that the method is not yet accurate enough to be utilized in human embryos. Their experiment also appeared to introduce unexpected changes to other parts of the genome that has not been deliberately gene edited. 
+
+Ultimately, the week's summit may provide some guidance on the use of both CRISPR and other older gene editing technologies. Meanwhile, the National Academies of Sciences is considering guidelines for the use of gene editing on nonhuman species.
+
+## Individual Change Vs. Future Generations
+
+At issue during the week's conference is when and how to use gene editing on humans. Gene editing could include altering genes in one person — say to treat leukemia in one patient or make a cosmetic change. More controversially, it could also include making changes that would then alter the genome for an individual's children, grandchildren and the following generations, with potentially unknown repercussions. The latter kind of gene editing is known as germ line editing.
+
+Most scientists at the week's meeting are enthusiastic about using gene editing to cure diseases in individual patients. However, they remain more wary of making changes that would have lasting repercussions in future generations. 
+
+Yet, one prominent scientist argued that there is a real and medically sound need for germ line editing. There are patients who could be helped immensely, who cannot easily be helped by more conventional methods, he said.
+
+## Do We Need Guidance Or New Laws?
+
+Considering the range of opinions at the conference, the need for guidance on these issues is undeniable. However, guidance is not law, it is simply a set of commonly followed recommendations — which may actually be a good thing. Guidance can remain more nimble than law and it is easier to reach an agreement among scientists working in the area than among individuals who do not work in the field, Baltimore says. 
+
+There is currently no international organization that would be an obvious fit to enforce international regulations on gene editing. In the absence of such an organization, scientists and others can look for guidance and perhaps reach agreement by considering the issues raised by earlier technologies, such as stem cell research. The specifics can then be left up to regional medical authorities to sort out. 
+
+Lab scientists, patients, doctors and others will all be carefully watching what comes next.

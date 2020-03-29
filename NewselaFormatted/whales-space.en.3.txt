@@ -1,0 +1,72 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/sat-vs-aerial-photo.jpg" />Scientists are searching for whales from space.
+
+A satellite has spotted 55 whales hanging out in the waters off Argentina.
+
+It helped that these particular whales are quite easy to spot from space, said Peter Fretwell of the British Antarctic Survey.
+
+The whales are called southern right whales.
+
+They got the name because the big, slow whales were once considered the "right" ones to hunt.
+
+They were so easy to hunt that their numbers dropped to just 300 by the 1920s.
+
+There had been 55,000-70,000 of them in the days before whaling.
+
+Right whales spend a lot of time resting lazily near the surface of calm ocean water.
+
+But that also makes them easy to find by satellite.
+
+Fretwell wrote about using satellites in a paper published Wednesday in the journal PLOS One.
+
+He argues that it's possible to track whales by satellite.
+
+It's also easier than traditional whale tracking.
+
+The traditional way of tracking involved standing on the bridge of a ship and looking out into the ocean.
+
+Or, trackers could glide over the water in an airplane.
+
+But both tracking styles are expensive and take great amounts of time, said Fretwell.
+
+They're also often inaccurate.
+
+Pictures taken by satellite are more correct and cover a wider area, he said.
+
+If this works, he said satellites can be used to track other types of animals.
+
+Fretwell and his fellow scientists purchased a huge picture taken in September 2012 by the WorldView2 satellite.
+
+It covers 70 square miles.
+
+It included an area off the Argentine coast where southern right whales are known to breed.
+
+They also raise their young there from July through November.
+
+The researchers looked at the same picture in different wavelengths.
+
+One was even able to see 50 feet beneath the ocean.
+
+They were able to spot 55 objects that were probably whales.
+
+Another 22 were possibly whales.
+
+They spotted another 13 whale-shapes underwater.
+
+The pictures are far from crystal clear.
+
+And the researchers admit that the satellite system is not perfect.
+
+After all, it is possible that a flock of birds or a large rock could be mistaken for a whale.
+
+What looks like a single whale could actually be a mother whale with a calf.
+
+These uncertainties should go away with time, scientists say.
+
+New satellites will take higher quality pictures.
+
+That will allow scientists to spot whales with greater confidence, the paper said.
+
+Scientists already have used satellites to count populations of penguins in Antarctica, as well as seals.
+
+The key is not the size of the animal but how much it stands out, he said.
+

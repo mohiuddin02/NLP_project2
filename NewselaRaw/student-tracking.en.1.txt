@@ -1,0 +1,61 @@
+WASHINGTON — Does your school know exactly where you are? In class? On the bus? Paying for lunch in the cafeteria?
+
+Principals in thousands of the nation's schools know the answer. They get the information from radio chips embedded in student ID cards or biometric scanners that identify a student's fingerprint, the iris of an eye or a vein in a palm.
+
+Schools use them to take attendance, alert parents where their children get off the school bus or speed up lunch lines.
+
+But those tools, which are supposed to make schools safer and more efficient, have become controversial. Several states are now banning or restricting their use in schools, as worries increase over student privacy and computer security.
+
+## Some States Begin To Push Back
+
+This year, Florida became the first state to ban the use of biometric identification in its schools. Kansas said the information cannot be collected without student or parental consent. New Hampshire, Colorado and North Carolina said their state education departments cannot collect and store biometric data in student records.
+
+New Hampshire and Missouri lawmakers said schools cannot require students to use ID cards equipped with radio frequency identification (RFID) technology. RFID technology tracks students by means of badges or tags with embedded computer chips. The chips either broadcast a radio signal or are read when students go near a radio-frequency reader. These tags also are used by government and businesses for security and to track packages.
+
+The laws reflect a growing worry among parents and lawmakers about the new technology. They are questioning how it's being used, what student data is being collected and stored, and how the information is protected.
+
+## Fast-Moving Technology
+
+In all, 36 states considered 110 possible laws this year on the collection and security of student data, according to Data Quality Campaign, a group in favor of using data to improve student achievement. At least 39 of the proposed laws dealt with biometric data, and 14 of them passed.
+
+"Technology is moving so fast," said Paige Kowalski, who works for Data Quality Campaign. "I think that's why you're seeing these new laws. I think people are nervous about it. It's new. It's different from when we were kids."
+
+She said, "I think there's a desire to use (technology), and a desire to slow down. We want to know exactly how it's being used … so we don't sacrifice too much privacy."
+
+Nobody knows exactly how many schools use biometric or RFID technology, but many of them have been using the devices for at least a decade.
+
+Jay Fry, the head of identiMetrics, said biometric identification is used in more than 1,000 school districts in 40 states from Alaska to Long Island, New York.
+
+In cafeterias, for example, schools can replace traditional student ID cards with machines that can read small portions of a fingerprint. The machine cannot capture a child's entire fingerprint, Fry said.
+
+"It's more secure from a privacy standpoint than a student ID, which has a name, picture and school on it," he said.
+
+## How Much Monitoring Is Too Much?
+
+Fry came up with the idea of using biometrics in schools in 2002 when he was a middle school principal in Illinois. Students too often lost their lunch money or their IDs and too many were left without enough time to get and eat their lunches. "You can't lose your finger," he said.
+
+Elizabeth Hunger is with the Security Industry Association. She said that RFID technology is more common in schools where students' badges are read at school doors, on buses, or at school events so educators know who is where.
+
+Hunger said that RFID technology is just one part of school security, along with video cameras and trained staff members.
+
+But some lawmakers question whether schools really need these kinds of tools to follow kids around. They worry that they are yet another example of government monitoring.
+
+A Missouri law restricts how school districts can adopt RFID technology and allows parents to keep their children from carrying RFID cards in districts that use them.
+
+"This is a technology that is very difficult to limit and to secure," said State Senator Ed Emery, who sponsored the law. "If a private company wants to do it, fine. But it's not something you should mandate on children."
+
+## Data Safety Is A Big Concern
+
+Florida State Senator Dorothy Hukill stepped in when a local school system began scanning the students' retinas on school buses without their parents' permission. The retina is a layer of tissue lining the inner eye.
+
+Calling it "an overreach," Hukill proposed the law to ban the use of biometric identification in Florida schools.
+
+"You don't need to collect biometric information to buy a hot dog in the school cafeteria or check out a library book," she said.
+
+Hukill said she is not opposed to technology, but she is concerned about the security of data. "And once you collect the information," she said, "there is no rolling back."
+
+State legislators have continued to restrict the technology, despite assurances from tech companies that student information is safe.
+
+Kowalski of the Data Quality Campaign does not want lawmakers to outlaw the use of the technology. Instead, she suggested that lawmakers focus on letting parents know how the technology is being used, what data is collected and what safeguards are in place to protect students' privacy.
+
+"Were you as a lawmaker to prohibit it, you may be taking something useful away," she said.

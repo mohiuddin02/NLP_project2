@@ -1,0 +1,78 @@
+Jellyfish may not look like the most athletic of swimmers, but they're remarkably efficient in the water.
+
+Aspects of their body design could work well in the air too.
+
+A team from New York University has designed a flying jellyfish-like robot that uses four flapping wings to keep itself aloft.
+
+The unconventional robot was recently described at the American Physical Society's Division of Fluid Dynamics meeting in Pittsburgh, Pa.
+
+There, scientists discussed how the jellyfish robot could lead the way for flying mini-robots to be used in search-and-rescue and military operations.
+
+The robot might even work as a sensor to detect environmental conditions.
+
+"I wanted to think of something very different," said Leif Ristroph, a mathematician at New York University.
+
+"So I actually tried about five or 10 different schemes, all of which failed except this one."
+
+And that was the jellyfish.
+
+Engineers are trying to build all sorts of robots based on the wing motions of such animals as birds, bats, hummingbirds and butterflies.
+
+Those working on the smallest robots tend to rely more on insect-like designs.
+
+That's because bugs have already mastered the mechanics of flight on a tiny scale.
+
+The vast majority of flying animals and insects rely on the same flying technique, with the same weaknesses: wings that sweep back and forth in a sort of S-shape.
+
+Only a few creatures, including dragonflies, move their wings in the simple up-down motion that many people expect.
+
+Designs modeled after animals and bugs with wings are "a great place to start in terms of building a flying machine," said Ristroph.
+
+"But there are some technical problems with it."
+
+One problem is wind.
+
+Bugs with flapping wings have to spend a lot of time dealing with a violent environment, sensing every gust of wind and then adjusting accordingly.
+
+It takes a lot of work, and it's unstable.
+
+Researchers wanted to build something that can be small, simple and still remain stable in the air without too much thinking.
+
+The jellyfish, in some ways, appears ideal for this task since they are very simple creatures.
+
+They not only don't have brains, but they are mostly made up of water with a small amount of a thick jelly-like substance.
+
+Jellyfish are also invertebrates, which means they don't have a backbone.
+
+They also don't have bones and the complex joints that come with them.
+
+Their bodies resemble an umbrella or a bell-shaped figure with tentacles dangling down.
+
+A large mouth, where food comes in and waste goes out, is located at the bottom of the bell shaped figure.
+
+The jellyfish's simple body structure has its advantages when it comes to building flying robots on both a large and small scale, because they vary so much in nature.
+
+Lion's Mane jellyfish can exceed 7 feet in diameter.
+
+The Irukandji jellyfish, on the other hand, can be less than an inch wide.
+
+The scientists' flapping-wing robot is three inches wide and weighs less than one ounce.
+
+With four wings like flour petals that flap up and down, it moves more like a moth than jellyfish, who move with the ocean's current and by squeezing water in and out of their bells.
+
+So far the robotic flying jelly still has to be attached to a power source and can't yet be steered, but that doesn't mean they don't work.
+
+Just the opposite.
+
+The first round of robot jellyfish models show that such a design can indeed work, perhaps for more sophisticated flying machines and on much smaller scales.
+
+The design could be useful for the military, Ristroph said, though he was more excited about how everyday people can use the robot.
+
+Theoretically, he said, mini flying jellies could be tossed into the air from a building and float around as environmental sensors and record data and adjust their position when necessary.
+
+"It's an excellent example of bio-inspired engineering," said Caltech University professor John Dabiri, who attended the Pittsburgh meeting and is an expert on how jellyfish swim.
+
+"The final product doesn't copy the jellyfish body design, but it does achieve a similarly stable motion," Dabiri said.
+
+"Although it doesn't look like the jellyfish that inspired it, I'm sure they would be proud."
+

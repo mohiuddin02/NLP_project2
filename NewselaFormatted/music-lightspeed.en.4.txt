@@ -1,0 +1,118 @@
+When you email someone, your message has to travel from your computer to theirs.
+
+It does so very, very quickly.
+
+Suppose you were in San Francisco.
+
+Suppose the other person was in New York City.
+
+Your message would take only around a second to travel across the country.
+
+However, that isn't fast enough for some musicians.
+
+They dream of a day when notes will travel across the Internet at super-fast speeds.
+
+People all over the world would then be able to perform music together online.
+
+They would be able to play with each other as if they were in the same room.
+
+Their computers would link them.
+
+Right now, that's not really possible.
+
+There are big problems when musicians in far-apart places try to perform together online.
+
+Musicians in one place have to wait to hear the notes musicians in another place have played.
+
+Playing together is very difficult.
+
+So musicians are excited by a new effort to make sending music notes much faster.
+
+The plan is to make them so fast that they approach light speed.
+
+Light travels at about 186,000 miles a second.
+
+Nothing in the universe can go faster than that.
+
+Scientist Brighten Godfrey is leading the new plan.
+
+The goal is a smoother, faster Internet.
+
+Godfrey's team imagines instant-messaging chats that don't slow down.
+
+They also imagine videos that don't freeze.
+
+Musicians could do much with faster speeds.
+
+Players in Hawaii and Antarctica could perform together perfectly.
+
+A group of computers linked is called a network.
+
+Messages that pass between the computers are signals.
+
+They can be words, pictures or sounds.
+
+Signals travel the Internet about 10 times slower than the speed of light.
+
+Often, they are 100 times slower.
+
+Godfrey hopes to figure out just what is slowing them down.
+
+Right now, a signal takes a second to travel from San Francisco to New York.
+
+If it were traveling at the speed of light, it would take just 27 milliseconds.
+
+A millisecond is one-thousandth of a second.
+
+Now, musicians in the same town can jam together online.
+
+However, it's far tougher if they are further apart.
+
+A concert last month at Stanford University showed what might be possible.
+
+It made use of the university's fast Internet connection.
+
+Musicians in different places were able to play together.
+
+Thirteen musicians took part.
+
+They were at Stanford, and in Santa Barbara, California; Virginia and Mexico.
+
+All were linked together by Chris Chafe.
+
+He is a scientist and a musician.
+
+Musicians in one place listened to the sounds from far away.
+
+Then they answered with their own sounds.
+
+They didn't have to wait very long.
+
+The sounds from Virginia reached Stanford in just 46 milliseconds.
+
+The sounds from Mexico took the same amount of time.
+
+Santa Barbara is close to Stanford.
+
+Sounds from there took only 7 milliseconds to reach Stanford.
+
+The show seemed like a miracle.
+
+It was almost as if everyone was in the same room.
+
+Chafe said the concert was possible for two reasons.
+
+First, Stanford's Internet connection is very fast.
+
+Second, the music was slow.
+
+Other kinds of music would be more difficult to play.
+
+Still, the concert showed what the future might bring.
+
+Thirty years ago, no one dreamed "we'd be where we are," said Godfrey.
+
+"Now we are trying go beyond where we are," he said.
+
+Godfrey's team hopes "to truly bring the whole world together."
+

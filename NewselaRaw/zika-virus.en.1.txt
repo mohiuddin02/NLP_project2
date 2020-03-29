@@ -1,0 +1,39 @@
+Thousands of Brazilian babies born last year had abnormally tiny heads and potentially crippling brain damage. In 2015 the country reported nearly 3,000 cases of the incurable condition, called microcephaly — about 20 times more than the prior year. In the nation's northeast, where most of the cases occurred, government officials have already declared a state of emergency. Now international researchers and Brazilian authorities are rushing to help reduce the problem.
+
+The trouble is they are not sure exactly what is causing the phenomenon or how to address it. They do have one strong suspect, however: a mosquito-borne disease called Zika that usually causes short-term rashes and joint aches. Zika is currently plaguing the same areas in Brazil. 
+
+There is also already evidence the virus can cross the placental barrier separating the fetus from the mother's body. In the Brazilian state of Paraiba, Zika has been detected inside the wombs of two women with microcephalic fetuses. 
+
+What is more, viruses closely related to Zika have the ability to reproduce themselves once they reach the body's central nervous system, so Zika may be able to as well. Such an ability would provide some indication of how the viruses cause microcephaly in the first place.
+
+## The Disease Is Spreading 
+
+Zika disease, however, has never been known to cause microcephaly before. Typically, microcephaly is caused by exposure to toxic substances during pregnancy, genetic abnormalities or diseases during pregnancy like rubella or herpes. 
+
+Then again, scientists know very little about Zika. In fact, until 2007 there were only occasional cases of people infected with the virus, with small outbreaks in Africa and Southeast Asia since the disease was first discovered in 1947 in Uganda.
+
+Now, the Zika virus is rapidly advancing across new terrain. In May 2015, Brazil reported its first case of Zika. By December 2015 the virus had made its way into several countries in Central and South America, such as Colombia and Mexico, and even showed up on the island of Puerto Rico. 
+
+The rapid spread suggests a change in the Zika virus, one which scientists are racing against the clock to pinpoint. Worryingly, Zika has also been linked with the future development of Guillain–Barré syndrome, a disease that can lead to paralysis.
+
+Researchers know a virus like Zika is capable of mutating — changing its structure —to become more fit. Essentially, mutation might allow it to transmit more easily from one host to another in order to survive. 
+
+Scott Weaver is an expert on mosquito-borne diseases now working at the University of Texas Medical Branch (UTMB) at Galveston. He believes it is possible the Zika virus mutated in recent years to have a higher level of viremia, or more virus present in any given drop of blood. Such a mutation would allow Zika to be transmitted at a greater rate because it would increase the chances of a mosquito picking up the virus and transmitting it to another person after biting an infected human.
+
+## Testing Antibodies In Umbilical Cord
+
+Once inside a woman's body, the mutated virus might also become more likely to cross the placental barrier, simply because of its higher concentration. Weaver and his team are studying the virus now in the hopes of pinning down just what is going on.
+
+However, that work will not determine if Zika is definitely fueling the microcephaly cases. For that, still other researchers at UTMB are attempting to shore up the connection between Zika and microcephaly. Two UTMB researchers, Nikos Vasilakis and Shannan Rossi, were in Brazil over Christmas helping to set up ways to test umbilical cord blood for signs of Zika at birth.
+
+The signs they are looking for lie in the newborns' antibodies. A type of blood protein, antibodies are produced by the body in reaction to the presence of bacteria, germs or other harmful alien substances. They serve as the body's defense system, and their structure varies depending on what they are trying to counteract. Antibodies can remain in the body long after a disease has been eradicated.
+
+Scientists have one big problem: The antibodies for Zika virus look very much like those for dengue or yellow fever, two disease that are common in Brazil. For that reason, it is hard to tell if a pregnant woman has contracted Zika or had one of those other diseases in the past. 
+
+However, lab testing of antibodies in umbilical cord blood may provide an answer. Scientists will look for particular kinds of antibodies — called immunoglobulin M antibodies, or IgM — which only show up in response to a recent exposure to a virus. Their presence would indicate the fetus had been infected with Zika and that it happened recently.
+
+Theoretically, those tests too might pick up similar-looking dengue virus and confuse the results. However, Weaver says, the chance of such a false positive is slight because it is very uncommon for fetuses to become infected with dengue. 
+
+Even without such testing there is already some indication the Zika–microcephaly connection is more than just geographical coincidence. There have been reports of Zika being detected in the blood tissue of a microcephalic baby from the northern Brazilian state of Pará. In addition, some mothers of children born with microcephaly remembered having a rash during pregnancy — a possible symptom of Zika. 
+
+However, this information is not enough to prove a connection. In Brazil further investigations continue even as the government rolls out public health education and mosquito control efforts. If the new cord blood information and other research soon firms up the Zika–microcephaly connection, perhaps that will spur scientists to develop a vaccine for Zika. Such a vaccine could possibly be developed by adapting one already in use for Zika's cousin, dengue.

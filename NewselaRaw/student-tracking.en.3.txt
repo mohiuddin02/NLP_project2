@@ -1,0 +1,45 @@
+WASHINGTON — Does your school know where you are? In class? On the bus? Paying for lunch in the cafeteria?
+
+Principals in thousands of schools know the answers. The information comes from computer technology that can track students throughout the school day.
+
+Schools use the devices to take attendance. They let parents know where their children get off the school bus. They can even speed up lunch lines.
+
+Student tracking technology is supposed to make schools safer and run better. However, the devices have come under attack. Several states are now outlawing or limiting their use in schools.
+
+## Some Schools Are Saying No
+
+This year, Florida became the first state to stop biometric technology in schools. Biometrics recognizes a person by scanning a fingerprint, eye or palm. Other states have passed similar laws. Kansas said that a student or parent must give permission for that information to be collected. New Hampshire, Colorado and North Carolina said schools cannot store the information in student records.
+
+New Hampshire and Missouri lawmakers said schools cannot force students to use ID cards with radio frequency identification (RFID) technology. RFID technology tracks students through badges or tags with radio chips in them. The chips are either read by a scanner or send out a radio signal. The U.S. Postal Service uses RFID for tracking packages.
+
+The laws reflect a growing worry among parents and lawmakers. They are questioning what information is collected about students and how that information is protected.
+
+## "People Are Nervous About It"
+
+This year, 36 states talked about passing laws about the devices, said the Data Quality Campaign. It is a group that supports the new devices. The possible laws would stop or limit the technology. Fourteen laws were passed that involved biometric information.
+
+"Technology is moving so fast," said Paige Kowalski, who works for Data Quality Campaign. "I think that's why you're seeing these new laws. I think people are nervous about it. It's new. It's different from when we were kids."
+
+Kowalski said there is a desire to use technology, but some people want to take it slow. "We want to know exactly how it's being used … so we don't sacrifice too much privacy."
+
+Jay Fry is the head of identiMetrics, a biometric technology company. He said biometric technology is used in more than 1,000 school districts in 40 states.
+
+He said the technology is safer than a student ID, which includes the student's name, picture and school.
+
+Fry came up with the idea in 2002 when he was a middle school principal in Illinois. Students often lost their lunch money or their IDs, which could be picked up by other people. "You can't lose your finger," he said.
+
+## School Safety Versus Privacy
+
+But some lawmakers question whether schools really need to keep such close track of students.
+
+"This is a technology that is very difficult to limit and to secure," said State Senator Ed Emery of Missouri. Emery helped pass a law that limits how school districts can use RFID. Parents in Missouri can now choose to keep their children from using RFID. He said RFID technology is not something you should force on children.
+
+Florida State Senator Dorothy Hukill proposed the law that prevented the use of biometric technology in Florida schools.
+
+She said students should not need it to buy a hot dog or check out a library book.
+
+Hukill said she is not opposed to technology, but she is concerned about keeping information about students safe.
+
+Rather than outlawing the technology, Kowalski of Data Quality Campaign said that lawmakers should make sure that parents know how it is being used. They should know what information is collected about their children and how that information is protected.
+
+If lawmakers were to stop the tracking technology, "you may be taking something useful away," she said.

@@ -1,0 +1,82 @@
+Billions of years ago, when early life was just taking hold on Earth, Mars was home to an ancient lake filled with the right chemical ingredients for life to thrive, scientists said Monday.
+
+Drilling into dry rock, NASA's Curiosity rover has discovered signs that Gale Crater was once watery, perhaps ringed with ice and snow, and could have hosted an entire Martian biosphere based on a type of microbe found in caves on Earth.
+
+These primitive organisms, called chemolithoautotrophs, feed on chemicals found in rocks and make their own energy.
+
+"Ancient Mars was more habitable than we imagined," said California Institute of Technology geologist John Grotzinger, lead scientist for the Curiosity mission.
+
+This wet, potentially Earth-like environment could have lasted for tens of millions of years, giving life a wide-open window to emerge.
+
+The findings, described Monday at the American Geophysical Union meeting in San Francisco and detailed among a half-dozen papers published in the journal Science, impressed scientists who were not involved with the mission.
+
+"They're really quite amazing," said Malcolm Walters, an astrobiologist at University of New South Wales in Australia who helped find some of the earliest microfossils on Earth.
+
+"Now we have enormous detail on the chemistry of sediments (on Mars).
+
+It's a great leap forward."
+
+Still missing is evidence of the type of organic matter that forms the basis for most life on Earth.
+
+Curiosity's search will now focus on that — and thanks to some clever manipulation of the rover's inner laboratory, scientists now know exactly where to look for it.
+
+"I think it's a critical turning point in the mission, to accept a much more significant challenge," Grotzinger said.
+
+Mars' geologic history is inscribed in its layers of sedimentary rock, and Curiosity set out to read it after landing in Gale Crater in August 2012.
+
+The rover's primary goal was to search for life-friendly environments at Mount Sharp, the 3-mile-high mound whose clay-rich layers could reveal details about Gale's environment over the eons.
+
+But rather than head straight to Mount Sharp, the rover took a months-long detour to an intriguing spot called Yellowknife Bay.
+
+There, Curiosity drilled into two mudstone rocks, named John Klein and Cumberland.
+
+It was a risk to turn away from the planned mission, and it paid off, Grotzinger said.
+
+The rocks, dated to roughly 3.6 billion years ago, have turned up a smorgasbord of elements needed for life, including carbon, hydrogen, oxygen, sulfur, nitrogen and phosphorus.
+
+They also show signs of sulfates, sulfides and other compounds that would have been fuel for chemolithoautotrophs.
+
+What's more, the water that transformed these rocks had a neutral pH and would have been drinkable, unlike the highly acidic water detected by NASA's rover Opportunity at Meridiani Planum, on the other side of the planet.
+
+Most likely, the lake would have been "suitable for quite a wide range of microorganisms as opposed to just extremophiles" that can survive salty, acidic environments, said David Catling, a planetary scientist at the University of Washington who was not involved in the new studies.
+
+Curiosity has not yet found any organic carbon, the type that's combined with hydrogen and is a mainstay of life on Earth.
+
+That may be because its inner lab cooks soil samples to analyze the gases they form, and the test winds up destroying some crucial information in the process.
+
+Life could certainly evolve and thrive without organic carbon.
+
+In a past watery environment, chemolithoautotrophs would have done just fine with the ingredients already found on Mars.
+
+That said, scientists do want to find organic carbon because it would indicate that the planet once had a wider range of life-friendly habitats.
+
+But scientists feared that the surface had been exposed to cosmic radiation for so long — perhaps hundreds of millions of years — that any traces within reach of Curiosity's drill were long gone.
+
+It was "a pretty serious concern," said Kenneth Farley, a Caltech geochemist and lead author of one of the Science papers.
+
+So Farley directed Curiosity to analyze several soil samples and found telltale gases — such as helium-3, neon-21 and argon-36 — that helped pin down the age of the Martian surface.
+
+It was only about 78 million years old, much younger than scientists had expected.
+
+That meant the amount of cosmic radiation exposure was also lower than they expected.
+
+This was a relief, but how was it possible?
+
+The team noticed a small cliff, called a scarp, located some distance away.
+
+The geologists soon realized that the edge of the scarp had once extended to the top of the rocks they were sampling; over time it eroded away, leaving the rock underneath newly exposed to radiation.
+
+And while they couldn't dig underneath the scarp, they could drill right by the base of it, where cosmic radiation exposure was still minimal.
+
+If any organic carbon exists in Gale Crater, the foot of one of these scarps would be the best place to search for it, the scientists concluded.
+
+The scientists plan to take this information and run with it — at least, to run as fast good judgment (and Curiosity's theoretical top speed of just 1.57 inches per second on flat ground) will allow.
+
+In about two months, Curiosity will take a detour to an intriguing outcrop called KMS-9, Grotzinger said Monday.
+
+Scientists are not sure whether it held a lake, but they hope to ride right up to a protected spot and deploy Curiosity's drill.
+
+"You just never know what you'll encounter," said NASA scientist Douglas Ming, who led the organic-carbon study.
+
+"One thing I've come to expect, doing Mars research, is to expect the unexpected."
+

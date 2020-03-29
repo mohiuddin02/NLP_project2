@@ -1,0 +1,39 @@
+Fire ants may be famous for their brutal sting. But they're also remarkable builders, able to quickly assemble a nearly unsinkable raft out of their own bodies. Until recently, their building secrets had remained hidden from view.
+
+Now, scientists have learned how to peer into the heart of fire-ant rafts. They have discovered how the individual insects link their bodies together to create remarkably strong yet lightweight structures. This breakthrough, described in a paper in the Journal of Experimental Biology, may one day help engineers build self-healing buildings and bridges.
+
+The towers, bridges and boats that ants build are remarkable. They're strong and light and they adapt to their surroundings. Ants are both the construction workers and the raw materials. They use their bodies like the beams in a building. Instead of screwing or nailing those beams together, the ants reach out and touch each other.
+
+"It's like their bodies are covered in Velcro," said study co-author David Hu. He is an engineer at the Georgia Institute of Technology.
+
+## A Swirl Of Ants For Science
+
+Researchers are just beginning to discover how complicated ant architecture really is. A recent study even found that ants place their babies at the bottom of a raft. This makes the raft better able to float.
+
+But it's hard for researchers to see how the rafts are put together. All the ant bodies are blocking the view. To see through the layers of ants, researchers could use a CT scanner that uses X-rays to look through structures. But the medical device is way too big. It's built on a scale for humans, and the ants' legs are so thin that they can't be seen.
+
+Instead, researchers at Georgia Tech peered into the structure of the ant raft using a micro CT scanner. This scanner is typically used to view the tiny 3-D structure of bones. Scientists put 110 live ants in a beaker of water and swirled it around so the ants would start to form tiny rafts. They then flash-froze the ants in place and examined them under the scanner. They did this four times, for a total of 440 ants and  2,640 legs, since each ant has six limbs.
+
+They found, to their surprise, that 99 percent of the ant legs were linked, while only 26 of them remained unconnected. The ants sure knew how to get a grip on each other.
+
+"We were surprised at how effective they are at finding links," Hu said. "We thought oh, maybe half the ants would be linked."
+
+## Connecting, But With Personal Space
+
+The scientists also found that the ants positioned themselves at a 90-degree angle to each other. This made the raft more flexible, allowing it to expand and contract when needed.
+
+Not all ants were created equal. While most of the ants could make five connections at most, some ants were about three times larger and could connect to 20 different legs. With "more parking spots for little legs," as Hu put it, their enormous bodies acted as hubs for limbs. These hubs are called structural nodes — the meeting point of many beams in a structure, like the hub of a bicycle wheel. They also exist in buildings as key points of strength.
+
+Even though the ants reached out to each other, they didn't huddle. They purposely kept other ants at arms' length. By creating big spaces between each connected ant, the insects made their raft lighter, and thus less dense. Even though an ant's body is denser than water, the rafts are only a fifth as dense. Thus, they can easily float on the surface.
+
+"In some ways they're building a whole new kind of material," Hu said. They're just ants, he said, but how they are arranged affects the strength and lightness of what they're building.
+
+## Freakishly Strong Little Ants
+
+Hug said the ant raft was quite a bit like bone in that way. It has tiny little gaps and is light, yet is still very strong.
+
+Next researchers want to explore much larger ant clumps and towers. Clumps and towers can be made up of 10,000 to 100,000 ants, not just 110 at a time.
+
+Buildings and ships that can repair themselves and respond to changes in their environment may sound like technology from the future. Or, they may seem like something straight out of science fiction.
+
+But for the ants, "this is an ancient thing," Hu said.

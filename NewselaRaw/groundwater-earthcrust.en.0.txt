@@ -1,0 +1,45 @@
+Most of us think of the water cycle as something that occurs above ground — water falls from the sky, evaporates back into the atmosphere and then condenses into rain once again.
+
+But above-ground water is just a fraction of our planet's water story.
+
+Hidden in the Earth's crust are vast stores of what is known as "groundwater" — water that fell from the sky and then trickled into the cracks and crevices between the sand, gravel and rocks beneath our feet.
+
+We can't see this groundwater, but more than 2 billion people across the globe rely on it for drinking water every day. In arid areas it is pumped out of the ground to grow crops, and it plays an important environmental role, keeping streams and rivers running in times of drought.
+
+Back in the 1970s a team of scientists estimated how much of the planet's water lies buried beneath the ground, but that calculation had not been updated for 40 years — until now.
+
+In a new study in Nature Geoscience, researchers took another stab at estimating how much water is stored in our planet's crust, this time with tens of thousands more data points. They also looked at the age of that water, or how long it had been underground, to understand how quickly it can be replenished as humans keep pulling it out.
+
+"Our maps and estimates show where the groundwater is quickly being renewed and where it is old and stagnant and nonrenewable," said Tom Gleeson, a hydrogeologist at the University of Victoria in Canada who led the study.
+
+Gleeson and his team report that there are 6 quintillion gallons of groundwater in the upper 1.2 miles of the Earth's crust. If you could magically pump it all out of the ground and spread it across the continents, it would form a layer of water 600 feet high, or twice the height of the Statue of Liberty.
+
+To derive that number, the scientists used computer models that take into account 40,000 distinct measurements of how much water can be stored in various types of rocks across the planet.
+
+The researchers were also interested in the age distribution of that underground water. Previous studies have shown that water that has made its way into the ground could have fallen from the sky as little as a day ago, or as long as millions — even billions — of years ago.
+
+In particular, the scientists wanted to know how much of the Earth's groundwater was "modern," meaning it had entered the ground system less than 50 years ago.
+
+Quantifying the amount of young groundwater is crucial for a variety reasons, they write. It is a more renewable groundwater resource than older "fossil" ground water, and is also more vulnerable to industrial or agricultural contamination.
+
+To see how much of groundwater is "modern," they decided to look at how much tritium had been found in groundwater across the globe. Tritium is a radioactive isotope of hydrogen that spiked in rain water approximately 50 years ago as a result of above-ground thermonuclear testing.
+
+The team reviewed the scientific literature and eventually found 3,700 tritium measurements of groundwater from 55 countries.
+
+From this data set they determined that just 5.6 percent of groundwater is less than 50 years old. That's about enough water to cover a stop sign across the continents, if it was pumped out of the ground.
+
+Gleeson said the finding that modern groundwater was such a small percentage of overall groundwater was the biggest surprise of the study.
+
+In a News and Views article accompanying the paper, Ying Fan of Rutgers University, who was not involved in the work, writes that the team's findings have several implications.
+
+From a science perspective, it suggests that researchers in the future might look to the Earth's ancient stores of water for information about our planet's past.
+
+"(The study) hints at the sluggishness and the vastness of the world's older groundwater stores, which may record the climate and tectonic history over centuries, millennia or even millions of years," she writes.
+
+She also thinks the results of this study could help inform how we treat the stores of modern or renewable water in the immediate future.
+
+"This global view of groundwater will, hopefully, raise awareness that our youngest groundwater resources — those that are most sensitive to anthropogenic and natural environmental change — are finite," she concludes.
+
+Gleeson said the next step for his team is to take their new estimates of young groundwater and combine them with local estimates of groundwater use.
+
+"We want to find out how long before we run out of this critical resource," he said.

@@ -1,0 +1,72 @@
+Normally when it comes to squeezing tiny, individual living cells out into orderly patterns for lab experiments, scientists use inkjet printers.
+
+But that system has its limits, so scientists turned to an ancient technology for a solution: Chinese woodblock printing.
+
+The technique, developed more than 1,800 years ago, was recently described in Proceedings, the magazine of the National Academy of Sciences.
+
+Scientists say that it could significantly improve the survival rates of living cells and allow scientists to effectively print a variety of animal cells in various shapes on just about any surface.
+
+Researchers have used techniques like inkjet printing when they're trying to set down a layer of cells, the study authors wrote.
+
+Inkjet printing involves squeezing fluid filled with cells — the "ink" — onto a surface in a planned design.
+
+But it's hard to get them to lie flat in single-cell layers and to put them precisely where you want and do so efficiently.
+
+On top of that, the survival rate of cells is often just 50 percent to 80 percent, the authors added.
+
+So a team of scientists from Texas and Taiwan turned to Chinese woodblock printing.
+
+The technique basically uses ink-filled wooden stamps to print on paper.
+
+"Woodblock printing is an efficient and convenient technology that revolutionized the printing world," according to the study led by Kai Zhang of Houston Methodist Research Institute.
+
+The study also noted that similar methods have been used in the last two decades or so for molecular printing, which requires a formidable amount of precision.
+
+But they hadn't been attempted with living cells, according to the study.
+
+The scientists designed woodblock-like stamps made out of silicone and built little hooks regularly spaced along the sides of the canals.
+
+Then they pushed fluid filled with cells through the grooves of the stamp, using vacuum pressure to suck it through to the other side of the mold.
+
+Those bent hooks, with a 12-micrometer-wide bowl, were perfect for snagging single cells as they flew by through the fluid, like a baseball into the deep pocket of a catcher's mitt.
+
+Once a hook was filled, the other cells would pass by and fill other empty hooks.
+
+This ensured that the cells were all evenly and individually spaced.
+
+The mold is pressed onto a surface and then lifted away, leaving a pattern of cells in place.
+
+Using this method, the scientists were able to arrange HeLa cancer cells in organized grids.
+
+HeLa cells are human cervical cells.
+
+They were taken from a patient, Henrietta Lacks, who died of cancer in 1951.
+
+Her cells were the first type of human cancer cells to be cloned for experiments.
+
+Scientists noticed that her cells were different from others and could be kept alive and grow.
+
+Her cells have been copied countless times and used by scientists all around the world in experiments.
+
+Scientists were also able to use the HeLa cancer cells to measure the metastasis of cancer — or how cancer cells spread to different areas of the body.
+
+The hope is that it will help determine what stage cancers are.
+
+Scientists also printed neurons (nerve cells) into a grid shape and watched them form synaptic and autaptic connections.
+
+A synapse is the small gap between neurons and allows information to pass from one neuron to the next.
+
+Autapses are synapses that a neuron makes on itself.
+
+Scientists hope neuron printing may help them better understand degenerative brain diseases, such as Alzheimer's.
+
+Scientists call the new form of printing "block-cell printing," or BloC-Printing for short.
+
+They found that their ancient and yet novel process could be done as quickly as in half an hour and with close to 100 percent of cells surviving undamaged.
+
+They could also print cells just 5 micrometers apart – impressive, given that most animal cells are about 10 to 30 micrometers wide.
+
+There are some drawbacks: They can't use this technique to print multiple layers of cells, and the process takes longer than inkjet printing.
+
+But it could potentially be cheaper, the researchers said: The materials to make each mold cost roughly $1, while an inkjet cell printer can cost tens or hundreds of thousands of dollars.
+

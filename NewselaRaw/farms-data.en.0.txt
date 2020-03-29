@@ -1,0 +1,89 @@
+KANSAS CITY, Mo. — If farmers can't change the weather — or a seesawing climate — perhaps data-crunchers can outwit Mother Nature.
+
+Technologies like those refined by a Silicon Valley company with an outpost on the edge of the Kansas prairie now merge agriculture with algorithms to gird farmers against severe weather patterns.
+
+Think of it as farming meets "Moneyball," the popular sports shorthand for using data to beat the odds.
+
+Just purchased by agribusiness giant Monsanto for $1 billion, Climate Corp. is among those posing possible fixes for farmers whose crops are wilting from overheating, drought and increasingly wild weather swings.
+
+"We're moving into a period of very unstable weather, and that's what producers need to be prepared for," said Jerry Hatfield, lab director of the U.S. Department of Agriculture's National Laboratory for Agriculture and the Environment.
+
+[Climate change](https://www.newsela.com/?tag=global+warming) continues to draw skeptics, perhaps especially in an industry as tradition-bound as farming.
+
+Still, scientists and agribusiness increasingly plan for ways to reap a harvest if rain is less dependable and temperature norms shift.
+
+Enter Climate Corp. Started six years ago by a pair of Google Inc. veterans, the company uses massive amounts of data to develop hyper-local weather forecasts to insure crops and advise farmers.
+
+The company, which has an office in Leawood, produces forecasts from weather readings at 10 million locations that are matched with 40 years of national crop-yield statistics.
+
+It can provide detailed information to farmers about 29 million fields in the United States, including forecasts for rain, soil conditions and wind speed.
+
+The service can give farmers a range of details about their land, including projected yields, the amount of soil moisture and how well their crops are growing.
+
+"They have a talent in the data science area around weather that is really unique," said Christy Toedebusch, spokeswoman for St. Louis-based parent company Monsanto, which sells seed and herbicides.
+
+Climate Corp. promises a new way for farmers to adjust to extreme weather even if they can't stomach the words "climate change" or "global warming."
+
+"Farmers still face a tough battle out there every year. Hopefully this helps them," said Jim Ethington, vice president of product for Climate Corp. "It's by no means a silver bullet."
+
+But some farmers are not just skeptical about global warming, they are leery of new forecasting methods.
+
+Ted Guetterman farms about 10,000 acres in southern Johnson County and northern Miami County with his dad and three brothers.
+
+Guetterman, 45, said he's willing to look at high-tech farming methods but thinks he's his own best judge of what needs to be done.
+
+"Nobody knows my land better than I do," Guetterman said. "I've been farming it all my life."
+
+Guetterman would take some advice from a consultant but added, "I'm not going to do my whole farm that way."
+
+Calling it agriculture's "next new major growth frontier," Monsanto sees a $20 billion market for exploiting massive amounts of data to team field-specific weather forecasting with growing advice tailored to individual plots of land.
+
+The emergence of farm data specialists comes as global climate change is altering the outlook for the country's $300 billion agriculture industry and changing the way crops are grown.
+
+A U.S. Department of Agriculture report this year warned of increasing fluctuation in weather patterns and the effect on crops.
+
+While agriculture is resilient to climate change in the near term, the report cautioned that changing environmental conditions pose "unprecedented challenges" in the long run.
+
+Those shifts hold distinct consequences for Kansas and other Great Plains states, including Oklahoma, Nebraska and South Dakota.
+
+The USDA estimates that wheat production across the Great Plains will drop 6 percent by 2050 and corn yields will fall 4 percent because of extreme weather conditions brought on by warming temperatures.
+
+A study by Kansas State University researchers estimated that for every 1 degree Celsius increase in temperature, the state's wheat yield would drop 21 percent, or 10.6 bushels per acre.
+
+It's a startling number considering the USDA says that much of the interior of the country is expected to see temperatures increase from two to three degrees Celsius in the next 40 years.
+
+"Genetic improvement has allowed wheat yields to increase significantly over time, but there are challenges ahead," K-State agriculture economics professor Andrew Barkley said in a statement.
+
+Agricultural economists and climatologists see a shift in where major crops are being grown.
+
+A recent study revealed that the center of the wheat production belt in the United States has migrated 173 miles northwest in the last 50 years. A similar trend has been seen for corn, which has moved 100 miles in roughly the same direction.
+
+Texas A&amp;M University agriculture economist Bruce McCarl, who tracked the shift in wheat and corn production, said the movement might have as much to do with breeding better plants as it does warming trends.
+
+"When you are looking at 50 and 60 years of history, the climate has been changing. That's relatively undeniable," McCarl said. "At the same time, we've spent millions to billions of dollars on wheat breeding."
+
+For more than 20 years, agriculture has been taken into the laboratory, where crops like wheat, soybeans and corns have been genetically engineered to withstand drought, deter bugs and resist herbicides.
+
+Genetics aside, there are other indications that show climate change influences how we grow our food.
+
+—There are signs that the corn belt has pushed into North Dakota, where USDA forecasts the state will harvest at least 3.5 million acres of corn this year, 3.5 times as much as five years ago. Climate change might be one reason, but seed genetics and the lure of rising corn prices might be others.
+
+—Since 1895 in California, the annual average temperature has increased 1.5 degrees Fahrenheit. It has decreased the "winter chill," which many fruit trees need to bear flowers and fruit, according to a report by the California Environmental Protection Agency.
+
+—Upstate New York has become a better place to grow soybeans, something that researchers attribute to global warming trends — and higher prices that tempt farmers to try the crop. Northern New York farmers planted nearly 15,000 acres of soybeans in 2012, triple the acreage in 2007.
+
+Back in Kansas and Missouri, few believe climate change is going to push wheat or corn out of either state. But it could make growing more risky.
+
+"The variability from year to year is going be greater than it has been in the past," said Charles Rice, professor of soil microbiology at K-State. "The producer is going to have to have money in the bank to pay for those poor years."
+
+Rice and others stress the need for better ways to adapt, whether that might be better weather forecasting, new plant-breeding techniques or soil management.
+
+For instance, K-State is leading a $5 million study looking at how to develop a type of wheat that holds up better against the warming effects of climate change.
+
+Others, such as Brent Myers at the University of Missouri, think farming will adapt at a quicker pace than climate change.
+
+"The scale of that change would not be as fast as our management skill in adapting to that change," said Myers, the state's cereal grain management specialist.
+
+Hatfield, the USDA expert, said farmers need to be flexible to reduce risk in the face of approaching climate changes.
+
+"Climate has changed, climate is changing," Hatfield said, "and climate is going to change in the future."

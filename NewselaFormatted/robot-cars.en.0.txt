@@ -1,0 +1,72 @@
+Cars that steer themselves through bumper-to-bumper traffic will hit the market by the end of this year, and self-parking vehicles aren't far behind.
+
+Fully autonomous models that don't need human drivers at all are less than a decade from dealerships.
+
+But laws lag behind the rise of the robo-car.
+
+Only three states — Nevada, California and Florida — have authorized testing of driverless cars on their roadways and started drafting up-to-date regulations.
+
+Officials must puzzle through a myriad of questions raised by driverless cars: What training and licensing should be required to operate a self-driving car?
+
+Who's liable in an accident when a vehicle is on autopilot, the car's owner or its manufacturer?
+
+What if a self-driving car runs a stoplight?
+
+Who gets the ticket?
+
+May a car's occupant nap at the wheel, or text, or drink alcohol, if the car is driving itself?
+
+Will vehicles that run on computers and rely on Internet connections be vulnerable to hackers?
+
+At a Senate hearing Wednesday, lawmakers grappled with the policy implications and risks posed by the latest advancements in vehicle technology, and pondered what rules or standards might be needed nationwide.
+
+"Advanced technologies currently under research and development could radically challenge our notion of what it means to be behind the wheel," said Sen. Jay Rockefeller, D-W.Va., the chairman of the Senate Committee on Commerce, Science and Transportation.
+
+"As our cars become more computerized and electronics-based, can the industry make sure they are reliable and prevent failures?"
+
+Rockefeller asked.
+
+"And as our cars become more connected — to the Internet, to wireless networks, with each other and with our infrastructure — are they at risk of catastrophic cyber attacks?"
+
+Rockefeller suggested an imaginary example, asking whether a 14-year-old in Indonesia could "figure out how to shut a whole bunch of cars down because they're wired to the Internet?"
+
+David Strickland, the head of the National Highway Traffic Safety Administration, said his agency had created a new division within the Office of Vehicle Safety Research to focus on cybersecurity.
+
+The aim will be to "ensure that the driver cannot lose control and that the overall system cannot be corrupted to send faulty data," he said.
+
+Strickland told the senators that the potential of the emerging technology is "breathtaking."
+
+In addition to studying vehicle cyber security, NHTSA has accelerated its efforts to research the potential for vehicle-to-vehicle communications — the wireless exchange of data between cars — and how drivers react and perform in different types of automated vehicles, he said.
+
+"Our first priority is safety," Strickland said.
+
+"We're not going to compromise safety."
+
+Eventually, the federal government might mandate some of the self-driving features that are designed to prevent crashes.
+
+Car accidents killed more than 34,000 people last year on U.S. roadways, an increase from about 32,000 in 2011, according to NHTSA estimates.
+
+Human error causes more than 90 percent of auto accidents.
+
+Proponents of self-driving technology say computers can navigate roads better than people, who are much more error-prone than machines are.
+
+"There's dramatic potential to reduce crashes by 80 to 90 percent, even more," Richard Wallace, the director of transportation systems analysis at the nonprofit Center for Automotive Research in Michigan, said in an interview.
+
+Some crash-prevention technologies already are widely available.
+
+Stability control, which prevents rollover accidents, is mandatory in new cars.
+
+Consumers also may purchase vehicles with features that assist with parallel parking, keep the cars from drifting into other lanes, and provide warnings or brake automatically if the vehicles are about to hit something.
+
+The next step is "traffic jam assist," which will enable a driver to push a button to let the car navigate sluggish traffic by itself, Wallace said.
+
+Select 2014 models will feature traffic jam assist, and automated parking is expected to reach the market in the next few years, he said.
+
+Google and other companies have developed cars that can safety drive from Point A to Point B without anyone behind the wheel, but that technology isn't likely to be commercially available until 2020.
+
+Fifteen years from now, lawmakers probably will be debating whether people should even be allowed to drive, said John D. Lee, a professor in the department of industrial and systems engineering at the University of Wisconsin-Madison.
+
+"The coming years will bring increasingly complex distractions and increasingly complex vehicles to drivers, who may be unprepared for either," Lee told the Senate panel Wednesday.
+
+"This technology can dramatically improve or degrade driving safety."
+

@@ -1,0 +1,53 @@
+WASHINGTON — Army Capt. Brian Dowling was leading his Special Forces team through a steep mountain pass in eastern Afghanistan when insurgents ambushed his patrol, leaving two of his soldiers pinned down with life-threatening wounds.
+
+After a furious firefight, the two men were rescued, but that episode in 2006 would change Dowling's life.
+
+Now employed by a small defense company, he is part of a crash effort by U.S. Special Operations Command to produce a radically new protective suit for elite soldiers to wear into battle — one with bionic limbs, head-to-toe armor, a built-in power supply and live data feeds projected on a see-through display inside the helmet.
+
+They call it — what else? — the "Iron Man suit."
+
+"We're taking the Iron Man concept and bringing it closer to reality," said Dowling, referring to the Marvel Comics character Tony Stark, an industrialist and master engineer who builds a rocket-powered exoskeleton, turning himself into a superhero.
+
+The Special Operations Command began soliciting ideas for the suit this year from industry, academia and government labs, and has held two conferences where potential bidders, including Dowling's company, Revision Military, demonstrated their products. Military officials say they are trying to produce a working prototype within the next 12 months. But no contracts have been signed, and the Pentagon has not ventured to make a cost estimate.
+
+The metal suit the Pentagon wants would be all but impervious to bullets and shrapnel, and be able to continuously download and display live video feeds from overhead [drones](https://www.newsela.com/?tag=drone). Relying on tiny motors, the exoskeleton would enable a soldier to run and jump without strain while carrying 100 or more pounds.
+
+It would, at least in theory, be able to stanch minor wounds with inflatable tourniquets — in the unlikely event the armor is breached. It also would carry a built-in oxygen supply in case of poison gas, a cooling system to keep soldiers comfortable and sensors to transmit the wearer's vital signs back to headquarters.
+
+"They want an Iron Man-like suit; they've been quite open about that," said Adarsh Ayyar, an engineer at BAE Systems, one of the defense contractors seeking to build a working exoskeleton prototype. "You won't get all of it. It's not going to fly. But I think it's doable."
+
+Even the project's formal name is an homage to Iron Man. It's the "tactical assault light operator suit," or TALOS, the giant bronze warrior of Greek mythology who defended, not always successfully, the island of Crete from invaders.
+
+Some experts question whether the project represents a misunderstanding of the lessons of the last dozen years of war, when U.S. soldiers, despite being equipped with technology and weaponry far beyond anything their enemies possessed, were dueled to a virtual draw in Iraq and Afghanistan.
+
+"When the U.S. military entered the global war on terror, it was infatuated with technology and believed that it wins wars," said Andrew Bacevich, a retired Army colonel who now, as a Boston University professor, is critical of recent wars. "The experience in Iraq and Afghanistan ought to have destroyed any such expectation, but this (project) suggests it is still true."
+
+Armored suits, of course, go back to ancient times. The updated model may sound outlandish, but with its super-sized budgets, the Pentagon has a history of developing cutting-edge technology — drones, stealth aircraft, precision-guided missiles and global positioning satellites, to name a few — that transformed the battlefield and the world.
+
+An animated video produced this year by the Army's Research, Development and Engineering Command shows a soldier fully encased in heavy armor running down a narrow alley in a mud-walled village that could be Iraq or Afghanistan. Behind a huge wooden door unseen bad guys await, only the barrels of their four AK-47s visible.
+
+Suddenly the soldier — who oddly isn't carrying a weapon — smashes through the door and stands menacingly as dozens of rounds bounce harmlessly off his suit and helmet.
+
+The screen fades to black. "To be continued … ," it says.
+
+At least part of the scenario is real. In October, Navy SEALs raided a compound along the coast of Somalia on a mission to capture a leader of the terrorist group al-Shabab. But they were forced to retreat to their boats and abandon the mission when they came under heavy gunfire.
+
+Describing the TALOS suit at a conference of engineers and defense executives in Tampa, Fla., in August, Adm. William McRaven, a Navy SEAL and head of the Special Operations Command, urged them to think about a special operations soldier preparing to assault a house.
+
+"He has to open that door not knowing what's on the other side," McRaven said. "He's got to be able to shoot, move and communicate. He's got to be able to survive in that environment. … If we invest in the TALOS suit, it will reduce the operation's risks and therefore the operation's costs."
+
+How much of this is Hollywood and how much is truly possible is uncertain, designers acknowledge. There is no prototype, only a smorgasbord of ideas and off-the-shelf components that still need to be combined into a suit for actual combat.
+
+"I don't think we'll solve every one of these goals immediately," says James Guerts, the head of acquisition for the Special Operations Command. "But we want to always be out ahead of technology."
+
+The key, designers and officials involved say, is to make a suit that provides better protection than the heavy armored vests and Kevlar helmets that soldiers already wear, without being so bulky that it prevents them from moving in combat.
+
+To make it work, designers need a battery to power the exoskeleton, the communications gear and the data stream. Too big a battery weighs down the suit, too small and it could run out of juice in the middle of a mission. In the movies, Iron Man is powered by a fictional "arc reactor" stuck in Tony Stark's chest, but it sometimes falters and sends him tumbling to Earth.
+
+"The Iron Man movies got it right: Power is the Achilles' heel with all these devices," said Russ Angold, founder of Ekso Bionics, a company in Richmond, Calif., that is developing a power-saving exoskeleton that it hopes the Special Operations Command will choose.
+
+Dozens of defense contractors are eager to claim a piece of a potentially lucrative new Pentagon contract, just like in the Iron Man movies.
+
+Raytheon Co. was so eager to show its product that it sent the military a video featuring Clark Gregg, the actor who plays Agent Phil Coulson in those movies, trying out its intimidating-looking exoskeleton at the company's Utah test lab.
+
+"This is the closest thing we have right now to the Iron Man suit," Gregg says on the video. "That it's becoming real this quickly is kind of remarkable."

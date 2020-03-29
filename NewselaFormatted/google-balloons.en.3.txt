@@ -1,0 +1,108 @@
+Google recently sent a giant, plastic helium balloon into the air.
+
+It looked like a flying jellyfish.
+
+It shot into the sky and soared thousands of feet.
+
+Its cargo was high-tech radio gear, computer equipment and solar panels.
+
+The launch on July 26 was part a strange experiment by Google.
+
+You probably know the company for its Internet search engine.
+
+But it is also searching for ways to get the Internet to parts of the world without service.
+
+"This is a great, big, hard problem," said Richard DeVaul.
+
+He is a Google engineer in charge of the design for the company's Project Loon.
+
+The company gave it that name because even Google knows the idea sounds a little crazy.
+
+But Google did a test in New Zealand earlier this year.
+
+Now DeVaul says a network of low-cost, high-flying balloons could work.
+
+The balloons could carry enough wireless equipment to beam Internet connections to countrysides in parts of Africa, Asia and other poor areas.
+
+Now come more tests in California's Central Valley.
+
+The goal is to work out the answers to a bunch of questions to make the project work.
+
+Friday's launch was at an airfield that's mainly used by crop-dusting planes.
+
+More tests are planned this summer in the same area.
+
+"Our main challenge right now is power," said Sameera Ponda.
+
+She is an aerospace engineer on the project.
+
+Ponda explained that the Loon team needs more information to decide how to place the solar panels and batteries.
+
+They have to keep a balloon's radio equipment and computers running for weeks at a time, even at night.
+
+And the equipment has to work 12 miles or more above the Earth, where it is ice cold.
+
+Project Loon is part of Google's secretive X division.
+
+It works on ideas that seem off the wall but could have a lot of success.
+
+Other projects include Google's self-driving car and the wearable computing device called Google Glass.
+
+The division is overseen by company co-founder Sergey Brin.
+
+Google has been working on Loon for nearly two years.
+
+It only recently went public with the idea.
+
+"Our goal is to provide Internet service to people in areas that can't afford" usual Internet lines or towers,  Ponda explained.
+
+The company hopes to get it done "in a few years" she said.
+
+The idea calls for hundreds or even thousands of balloons that will float twice as high as most jetliners fly, in a circle around the Earth.
+
+It may sound simple.
+
+But it is more difficult than it seems.
+
+The balloons drift with the wind.
+
+So Google engineers came up with a system to raise or lower them in order to catch the air currents needed to keep them floating just the right distance from each other.
+
+They also need to stay in line so if one floats out of range from Internet users, another will come along and take its place.
+
+Controlling the balloons is a huge math challenge, DeVaul said.
+
+Fortunately, "at Google we've got a bunch of really clever computer scientists and a lot of computing power."
+
+Of course, it makes sense for Google to get more people on the Internet.
+
+The multibillion-dollar tech giant makes most of its money by showing ads to people who use Google's online services.
+
+But Project Loon is addressing "a very real problem," said Richard Bennett.
+
+He is an expert on broadband networking and society.
+
+Two-thirds of the world cannot get to the Internet regularly, he said.
+
+They are considered below "the digital divide."
+
+The idea could work, Bennett said.
+
+But who will pay for the balloon network?
+
+Google has been vague about its plans.
+
+Bennett said Google may be hoping that cellphone providers and other companies will adopt the idea if Google can show it is a money-maker.
+
+Back in the Central Valley, the Google team got the balloon up in the air.
+
+Project launch commander Bill Rogers and other members of his crew loaded their trucks to track its radio signal.
+
+This balloon was designed to travel only about 150 miles before returning to the ground.
+
+Rogers planned to recover it.
+
+But in case someone else found it first, the plastic foam box holding its electronic gear carried a label that read: "Harmless Science Experiment."
+
+Another provided a phone number to call.
+

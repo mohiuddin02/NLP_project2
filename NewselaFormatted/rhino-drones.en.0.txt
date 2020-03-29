@@ -1,0 +1,174 @@
+The exact location of the anti-poaching operation is secret, as is the number of rangers who will be on duty.
+
+Also confidential: where the [drones](https://www.newsela.com/?tag=drone) will fly as they search out poachers intent on slaying rhinos for their horns — one killed every 11 hours in South Africa alone.
+
+But over the next several days, Tom Snitch thinks that his project, at a private game farm adjoining South Africa's famed Kruger National Park, will prove that unmanned aerial vehicles can end the scourge of rhinoceros poaching.
+
+Demand for rhino horn has boomed in recent years, with criminal syndicates offering as much as $30,000 a pound for the horns.
+
+Poachers already have killed 350 rhinos in South Africa this year; last year, 668 endangered rhinos died for their horns.
+
+They're sold in Asia, particularly in Vietnam, where ground-up horns are touted as a cure for hangovers, cancer and other ailments, and where rising incomes have made the horns accessible to more people and their possession a status symbol.
+
+Save the Rhino International, a conservation group, won't talk about the street value of rhino horn, saying that any mention "stimulates poaching."
+
+Snitch, who's on the board of visitors of the College of Computer, Mathematical and Natural Sciences at the University of Maryland, hopes to use predictive technology to deploy the drones.
+
+His team will use the same software that helps predict where terrorists might plant bombs and that recently helped nab arsonist suspects accused of torching more than 60 houses on Virginia's Eastern Shore.
+
+Although controversial in their military use, drones have unlimited civilian applications that many hope to deploy in the U.S. in law enforcement, farming and other uses, pending Federal Aviation Administration approval.
+
+In Africa, they'll use small, hand-launched Falcon UAVs that weigh about 12 pounds and have a range of about six miles.
+
+Their mathematical modeling, as well as their eyes in the sky, should catch rhino poachers before they act, Snitch said.
+
+His team's goal: Use patterns to anticipate where poachers will be, and then quickly mobilize game wardens to intercept them.
+
+They'll gather information about previous events and plug it into their formula: weather conditions, the number of poachers working when rhinos were killed, how far they are from borders and other facts they think are helpful.
+
+"We look at previous events," Snitch said.
+
+"We statistically re-create the environment of when the incident happened.
+
+Was it a full moon?
+
+No moon?
+
+Was the wind out of the east?
+
+Was it raining?
+
+What time did it happen?
+
+What day of the week?
+
+What else was going on?
+
+"We start layering in this data.
+
+And then you put animal movement patterns on top of it," he said.
+
+"On nights where this happened, where were the rangers deployed?
+
+Where do we think these people came from?"
+
+Wildlife groups say they're eager to deploy the technology to combat poachers, and not merely to "document the demise of nature," said Carter Roberts, the president of the World Wildlife Fund.
+
+"We're not winning this battle," Roberts said recently at a conference in Washington that looked at the civilian use of drones.
+
+"It's become a huge crisis, and the bad guys are extremely sophisticated.
+
+They have night-vision goggles.
+
+They've got helicopters.
+
+They have all kinds of funding and resources, and we need to up our game to combat what we're dealing with."
+
+The wildlife conservation group recently received a $5 million grant from Google's foundation to help the Namibian government use a drone to help catch poachers there.
+
+Roberts, who was in Nepal recently to relocate and tag rare tigers, said it was dispiriting to place $10,000 radio collars on the animals and then to learn they've disappear at the hands of poachers.
+
+Drones could have helped, he said.
+
+"There's got to be a way to have real-time data on the animals, real-time data on the poachers and then a software system that enables us to mobilize people to get to the right place at the right time," Roberts said.
+
+Top-secret U.S. drone operations have killed thousands of suspected terrorists in Pakistan, Somalia and Yemen, and the Obama administration hasn't been forthcoming with the legal basis of its targeted killing program.
+
+But few people question the utility of drones in catching poachers in wilderness areas.
+
+Not only are there few privacy concerns in these areas, but they've also been ravaged in recent years by the demand for rhino horns.
+
+One week earlier this month, South Africa lost 13 rhinos in Kruger National Park.
+
+Two poaching suspects were arrested and one was wounded in a shootout with rangers, who found a .458 hunting rifle, a silencer, ammunition and an ax and knife.
+
+The criminal syndicates have even tempted some of the people whose job it is to protect rhinos.
+
+In neighboring Mozambique, investigators think that rangers helped poachers kill all the rhinos in the section of the park that borders South Africa.
+
+Mozambique is widely considered the entry point for many of the poachers who enter South Africa.
+
+Snitch calls his project a modest one, fueled mostly by his longtime interest in Africa.
+
+He helped get his team to Africa with frequent flier miles, and he handled the export permits required for drone demonstration himself.
+
+He and his wife have visited South Africa repeatedly over the years, spending most of their time in remote, primitive camps where they can hike through parks with guides for up-close views of elephants, rhinos, cheetahs and other wildlife.
+
+As poaching swept South Africa's rhino populations in recent years, Snitch wondered what he could do to help.
+
+He's also affiliated with DigitalGlobe, a company that specializes in using satellite imagery and data to solve problems.
+
+So he thought he might be able to use mapping knowledge to help crack the poaching problem.
+
+He hopes that his work with drones at a private reserve will persuade the South African government to use the technology in its public parks.
+
+"As soon as we demonstrate this, I believe the South African parks will come and say, 'OK, you took the risk.
+
+You showed it can work.
+
+Now we want to get involved,' " he said.
+
+Helping African governments catch poachers also is a big deal to U.S. authorities, who awarded $10 million in grants from 2011 to 2012 to support such efforts across the continent.
+
+That money was matched by $13 million from other sources, including conservation organizations and African governments, and went to 122 projects in 25 African countries.
+
+Some of the grant money from the United States comes from seizing the assets of people who've been caught buying and selling rhino horns in the United States.
+
+On May 15, a federal judge in Los Angeles sentenced two California businessmen, Vinh Chung "Jimmy" Kha and Felix Kha, as part of the U.S.
+
+Fish and Wildlife Service-led "Operation Crash."
+
+(A crash is a group of rhinos.)
+
+The investigation netted 14 people in the United States who are accused of buying and selling rhino horn for markets in Vietnam and other Asian countries.
+
+The forfeited assets include $800,000 in cash, gold, jewelry and precious stones that will be turned over to the Multinational Species Conservation Fund, said Dan Ashe, the director of the Fish and Wildlife Service.
+
+"Rhinos in Africa are being poached to the brink of extinction because of the demand for rhino horn," Ashe said after the sentencing.
+
+"It's only fitting that the ill-gotten gains of rhino horn traffickers be used to protect those animals that remain in the wild."
+
+U.S. officials who oversee work in the region are concerned in particular about unrest in the Central African Republic, where the forest elephant population faces a threat from rebel groups.
+
+They'd love to get in there to see what's going on, but the remote region is unsafe and nearly inaccessible, said Richard Ruggiero, the chief of the Near East, South Asia and Africa branch of the Fish and Wildlife Service's Division of International Conservation.
+
+Drones, he said, would be ideal to shed light on the scope of the problem.
+
+"It would be a perfect application," he said.
+
+Conservation groups also are targeting demand for the product, which is a more puzzling problem, said Matt Lewis, an African species expert for the World Wildlife Fund.
+
+One ad campaign in Vietnam pictures a rhino with human feet growing where its horn should be.
+
+In an effort to disgust people, the campaign emphasizes that rhino horn is made of keratin, the same ingredient as human fingernails.
+
+One private game reserve in South Africa is injecting the horns of its rhinos with pink dye and a poison that's safe for the rhinos but dangerous to anyone who grinds it up and consumes it.
+
+In South Africa, there's a campaign to paint rhino poaching as deplorable and protection of the species as a patriotic duty.
+
+Billboards near many parks show gruesome images of slain rhinos, and arrests are up.
+
+Although many of the parks have poor cellphone reception, people driving through the parks often try to post on Twitter to alert fellow visitors to spectacular sightings.
+
+Everyone is willing to share cheetah and wild dog sightings, and they happily post the coordinates for roaming herds of elephants they've spotted.
+
+The exception is the rhino: No one tweets about seeing them for fear of alerting poachers to their whereabouts.
+
+There's something majestic and ancient about rhinos, conservationists say, and they've worked hard to restore populations that nearly went extinct a century ago.
+
+"We don't want it to be on our shoulders, to be the ones responsible for the extinction of a species that's been on Earth for millions of years," Lewis said.
+
+"I think we should just pull out all stops and say this cannot happen on our watch, and we cannot let rhinos go extinct.
+
+We cannot be the ones to let that happen."
+
+The United States spends about $10 million annually helping governments in Africa fight poaching.
+
+Projects the U.S. government supports include programs to deter poaching of leatherback sea turtle eggs in Equatorial Guinea and to monitor elephants in some of the most remote parts of Africa.
+
+That support includes a $75,000 grant that helped the Democratic Republic of the Congo develop a bloodhound unit to help track poachers in Virunga National Park.
+
+In Kenya and Namibia, $25,000 in U.S. money supports better training in crime investigation aimed at improving the conviction rates for rhino poaching.
+
+Money also goes toward fitting rhinos in Namibia with tracking devices, and the continued aerial surveillance of one of the biggest rhino populations on the continent, in Hluhluwe-iMfolozi Park in South Africa.
+

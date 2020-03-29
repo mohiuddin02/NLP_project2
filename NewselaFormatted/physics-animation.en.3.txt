@@ -1,0 +1,100 @@
+In a small office in Glendale, California, Ron Henderson was writing out equations.
+
+Henderson is a physicist — a scientist who studies matter, energy, force and motion.
+
+The equations were Isaac Newton's Three Laws of Motion.
+
+Newton's laws, Henderson explained, are behind a computer program he has developed.
+
+The program will soon help a group of artists with a difficult task: making realistic-looking three-dimensional bubbles.
+
+Henderson could easily have been preparing a lesson at Caltech, where he once taught.
+
+Instead, he was at DreamWorks Animation, where he now works.
+
+Animated films — movie-length cartoons — used to be drawn entirely by hand.
+
+Now artists produce them on a computer.
+
+Artists working on the upcoming movie "Home" have a challenging job: They have to produce a lot of pictures of three-dimensional soap bubbles.
+
+The bubbles are inhabited by tiny aliens called the Boov.
+
+Henderson's computer program will make those bubbles look realistic.
+
+"What we're doing here is creating tools for artists," Henderson said.
+
+"I think it's going to be a success."
+
+Before introducing his new tool, Henderson first had the artists study drawings and photos of soap bubbles.
+
+Last year, he invited a fellow physicist, Alejandro Garcia, to give a talk.
+
+The talk was titled "Bubble Science."
+
+"He did cool things that we're not doing, like what happens when you make a soap bubble out of hydrogen and set it on fire?"
+
+Henderson said, chuckling.
+
+The bubble made a loud boom and burst into a fireball.
+
+Henderson, 47, is one of a growing number of scientists who now work in the movie business.
+
+Artists at DreamWorks, Pixar and other animation companies increasingly rely on people like Henderson.
+
+The scientists help them produce realistic-looking water, fire, dust and so on.
+
+"The physics behind what's happening in these movies is incredibly complicated," said computer scientist Paul Debevec.
+
+"You need real scientists to understand what's going on."
+
+DreamWorks has one of the largest groups of scientists, around 120 in all.
+
+Nearly a dozen of them once worked at NASA's Jet Propulsion Laboratory.
+
+DreamWorks has even hired biologists.
+
+Biologists study living organisms like humans, plants and animals.
+
+They are there to advise artists how to correctly draw such things as the branches of a tree.
+
+Henderson finds working at DreamWorks very fulfilling.
+
+"Science can be a very lonely activity," he said.
+
+"I wanted to have the experience of working with people and being able to see the results of what I did."
+
+Henderson first became interested in working in computer animation after seeing the movie "Shrek."
+
+The film made him very curious: He wanted to know how it was possible to achieve what he saw.
+
+"What astonished me was how much detail and motion there was in every frame, the motion of the trees, the grass," he said.
+
+"I didn't think it was possible."
+
+Now Henderson is working on animated movies himself.
+
+Each has its own tricky effect: for example, the frost in "Rise of the Guardians," the cannon fire in "Kung Fu Panda 2" or the ice-breathing dragon in "How to Train Your Dragon 2."
+
+His latest challenge was creating those bubbles in "Home."
+
+They serve not only as homes, but also as spaceships for the aliens.
+
+Making a picture of a bubble on a flat surface isn't too hard.
+
+Wrapping that picture around a floating soccer-ball-like shape is a much trickier problem.
+
+To solve that problem, Henderson drew on his knowledge of how bubbles behave.
+
+What he came up with is based on a computer program used for studying weather patterns.
+
+The fact that few moviegoers will appreciate his achievement doesn't bother Henderson.
+
+The work is its own reward.
+
+Henderson enjoys "doing something where you can clearly see the results of your work."
+
+Figuring out new ways to help artists is a thrill for him, he said.
+
+"That's what keeps me coming here every day."
+

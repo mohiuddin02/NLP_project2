@@ -1,0 +1,43 @@
+Molecular hydrogen is normally a gas at room temperature. But when crushed between diamond anvils, it can convert into a totally different, previously unknown state of matter, according to a team of physicists.
+
+The discovery, described in the journal Nature, poses a significant step toward finding what has been called the holy grail of high-pressure physics: solid metallic hydrogen.
+
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-sci-sn-solid-metallic-hydrogen-diamond-2016-001.png"/>
+
+Hydrogen is the most abundant element in the universe — stars are made almost entirely out of the stuff, with a little helium and traces of heavier chemicals for good measure. It's an essential ingredient in the building blocks of life, an atom necessary to make water and organic molecules. Hydrogen is extremely lightweight, often found as a gas of molecular hydrogen — two hydrogen atoms bonded together by two electrons. Made up of a single proton and electron, it is the most basic atom in the universe, and has been used as an important model for scientists studying physics at smaller scales.
+
+## Hydrogen Rare In Earth's Atmosphere
+
+In spite of all this, relatively little is known about hydrogen's behavior in extreme conditions, said study coauthor Philip Dalladay-Simpson, a high-pressure physicist at the University of Edinburgh in Scotland. High pressure physicists study how materials behave under conditions of high pressure, high temperature and high strain.
+
+Little is known about molecular hydrogen gas, because it is pretty rare in Earth's atmosphere. At Earth's temperatures and pressures it remains a gas and never becomes a solid or liquid. That's not the case with other planets such Jupiter, a gas giant that holds enormous amounts of hydrogen under extreme pressures and temperatures, and contains gas hydrogen in its atmosphere and liquid and solid hydrogen inside the planet.
+
+So, if we want to fully understand the stars and planets around us, we have to have a better fundamental understanding of how hydrogen behaves.
+
+## Long A Rocket Fuel
+
+Understanding hydrogen "can open up windows to large astrophysical bodies," Dalladay-Simpson said, "such as the interiors of the hydrogen-rich Jovian planets such as Jupiter."
+
+We know a little bit about how hydrogen's physical state changes under different conditions. Hydrogen can become a liquid at extremely cold temperatures, and has long been used as liquid rocket fuel. At high temperatures like those found in the corona of the sun, the atom's electrons are stripped from the protons and forms a gas known as plasma.
+
+Since 1935, scientists have predicted that, under extreme pressures but at mild temperatures, hydrogen should actually form a solid. If the bonds holding two hydrogen molecules together break apart, its electrons would roam free. Then the normally clear gas would become a shiny, grayish metal.
+
+## Solid Hydrogen Has Been Elusive
+
+Finding solid hydrogen through actual experiments, however, has proven to be far more difficult than scientists expected, Dalladay-Simpson said. At first, scientists figured that hydrogen would become a solid if molecular hydrogen was put under 25 billion pascals, or 25 gigapascals (GPa), of pressure. Dalladay-Simpson called this "an unfathomable pressure for the time." A pascal is a unit of pressure.
+
+"Since (then) we've far exceeded 10 times this pressure, and it remains experimentally elusive," Dalladay-Simpson said. "As such it has often been dubbed as the 'holy grail' of high-pressure physics."
+
+To get at this question, Dalladay-Simpson and colleagues took hydrogen molecules and crushed them between two diamonds. They kept the temperature a balmy 80 degrees Fahrenheit but raising the pressure to 325 gigapascals. It was the equivalent to 3.21 million Earth atmospheres. Atmospheric pressure is the force of the weight of the air on a surface.
+
+"These experiments are highly technically demanding," Dalladay-Simpson said. "To reach the pressures desired, we have to use two brilliant-cut diamonds (the same as in your jewelry) but with the tips polished to a very fine point (8 microns, typically the width of a human hair)," Dalladay-Simpson said. "A small amount of hydrogen gas is then trapped between them and pressurized to greater pressures that are found at the center of the Earth." The scientists used an amount of hydrogen about the size of a single human red blood cell.
+
+## Solid Metallic Hydrogen Could Feature Far-Out Properties
+
+The scientists found that at these pressures, the structure of the material started to change in significant ways. Though it's hard to say what a chunk of hydrogen in this state would look like, it might resemble layers of molecular hydrogen interspersed with layers of atomic hydrogen. It would be like hydrogen gas sandwiched between layers of metallic hydrogen. With that in mind, it could well be the first stage of the long-theorized solid metallic state, in which all molecular bonds are broken down.
+
+The next step is to ratchet the pressure up by a few tens of gigapascals to see if they can actually reach the predicted metallic state. Dalladay-Simpson said that shouldn't be too hard, "considering we reached 400 GPa," Dalladay-Simpson said.
+
+Solid metallic hydrogen might exhibit such far-out properties as superfluidity and superconductivity. If solid metallic hydrogen were ever able to be mass produced, it could have game-changing technological implications, he added.
+
+For example, Magnetic Resonance Imaging machines, which are used to take pictures of organs and other structures inside the body, use super cold liquid helium to cool down their magnets. Room-temperature hydrogen would reduce the size of these machines significantly. They would also increase the efficiency of all electronics, he said.

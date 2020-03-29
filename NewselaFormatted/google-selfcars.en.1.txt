@@ -1,0 +1,108 @@
+General Motors.
+
+Toyota.
+
+Google?
+
+One of the world's largest technology companies is getting into the car business and is hoping to turn drivers into passengers.
+
+Tech giant Google said on Tuesday that it plans to test about 200 of its own two-seat self-driving cars.
+
+"We've been working toward the goal of vehicles that can shoulder the entire burden of driving," the company wrote on its blog.
+
+"They will take you where you want to go at the push of a button."
+
+The main goal of the tidy, gumdrop-shaped cars isn't to push Google into the business of building cars.
+
+Instead, the company wants to develop self-driving software that will "improve road safety and help people who can't drive."
+
+The testing program will start later this summer, with a handful of early-stage self-driving cars hitting the roads around Google's headquarters.
+
+These early builds will have manual controls for the test drivers to override the cars' self-driving systems as required by current California law.
+
+But Google plans to build the bulk of the cars as fully self-driving.
+
+That means no steering wheel, no gas or brake pedal.
+
+Inside will be a pair of seats with seat belts, space for your belongings, buttons to start and stop, and a screen showing where the car is going.
+
+California law is expected to allow the operation of such vehicles on public roads by the end of this year.
+
+The cars were built with safety in mind.
+
+They have sensors that get rid of blind spots and look in every direction for more than 200 yards.
+
+The top speed of the first vehicles will be limited to 25 miles per hour (mph).
+
+"We're going to learn a lot from this experience, and if the technology develops as we hope, we'll work with partners to bring this technology into the world safely," Google said on its blog.
+
+The small electric cars were built in Michigan using parts from suppliers to mainstream brands.
+
+The electronics and software to control them were assembled in Silicon Valley.
+
+But don't expect Google to take on the automakers directly.
+
+"The chances of them getting into manufacturing are slim," said Bill Hampton, publisher of AutoBeat Group.
+
+"I don't think they want to do that.
+
+They want to control the information that will allow driverless cars to operate ...
+
+Figuring that out is worth a lot of money."
+
+Other analysts agreed.
+
+"I can't imagine Google would want to be in the low-margin manufacturing business," said Egil Juliussen, the director of research and advanced driver assistance systems at IHS Automotive.
+
+"They would be the software provider, which can be the most profitable part of such a car."
+
+Google's cars are also notable because their fully self-driving setup, which completely eliminates the driver, leapfrogs the step-by-step approach mainstream automakers have taken to self-driving cars.
+
+Tuesday's news probably will speed up development of self-driving cars at many of the largest automakers.
+
+These companies are most likely working on their own software.
+
+But smaller brands such as Subaru or Jaguar/Land Rover could look to license Google's software for their vehicles.
+
+Google's plan to work on purely self-driving vehicles also turns the car from a product to a service.
+
+Self-driving cars could mean transportation for potentially billions of people who are unable to drive because of age, disability or income, Juliussen said.
+
+This change in thinking, from a company of Google's stature, could ripple through the auto industry, he said.
+
+In addition to possible partnerships with automakers, Google's self-driving cars could spark micro-loan programs in cities similar to bike-share programs.
+
+Users could subscribe for a monthly fee, and take the cars when they needed them for short trips around town.
+
+That change may happen faster than people think.
+
+Many automakers predict they will have fully self-driving cars on the road by 2020.
+
+By 2025, as many as 230,000 of these self-drivers could be sold each year around the world.
+
+And that number could swell to 11.8 million 10 years later, according to a study by Juliussen and IHS Automotive.
+
+As self-driving cars become more common, accident rates are expected to plunge to near zero, since a vast majority of today's crashes are caused by human error, the study predicted.
+
+Yet two key obstacles stand in the way of self-driving cars: cost and legislation.
+
+Truly self-driving cars could cost $7,000 to $10,000 more than their manual counterparts when they hit the market in 2020.
+
+In addition, they probably will be available only as luxury models to begin with.
+
+And U.S. laws have a lot of catching up to do.
+
+Currently only four states allow self-driving vehicles on public roads: California, Nevada, Michigan and Florida.
+
+Those that do require that a licensed, sober driver be in the driver's seat at all times, ready and willing to assume control of the vehicle.
+
+Google's own car hopes to help the laws catch up to the technology.
+
+"Just imagine: You can take a trip downtown at lunchtime without a 20-minute buffer to find parking," Google's blog said.
+
+"Seniors can keep their freedom even if they can't keep their car keys.
+
+And drunk and distracted driving?
+
+History."
+

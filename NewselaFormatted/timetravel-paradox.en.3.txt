@@ -1,0 +1,190 @@
+On June 28, 2009, the world-famous physicist Stephen Hawking threw a party, complete with balloons, appetizers and champagne.
+
+Everyone was invited but no one showed up.
+
+Hawking had expected that, because he only sent out invitations after his party had ended.
+
+It was, he said, "a welcome reception for future time travelers."
+
+He was joking, but it was also an experiment to prove his belief that travel into the past is impossible.
+
+Hawking may be wrong.
+
+New experiments say time travel could be possible — at least in the world of math.
+
+Proving that time travel is possible would change classical physics and allow for super-fast types of computers that use quantum physics, also called quantum mechanics.
+
+Briefly, classical physics deals with the big things, like the Sun and Moon.
+
+Quantum mechanics tells us that the things described in classical physics are affected by things even smaller than atoms.
+
+For instance, a ray of light is actually made up of tiny packets of energy.
+
+Some think time travel is possible because physics says it should be, based on Einstein's theory of general relativity.
+
+His famous theory describes gravity as the bending of space and time, which are one thing called "spacetime."
+
+To understand that, imagine you and a friend stretch a blanket out between the two of you.
+
+That blanket is "spacetime."
+
+Space and time are part of the same fabric.
+
+Then someone drops a marble onto the blanket and it sinks a bit.
+
+The marble is like a planet, or anything with mass.
+
+The mass of planets affects and bends spacetime, with big effects for time.
+
+Events that happen at the same time for one observer could happen at different times for another.
+
+So, what does this mean for time travel?
+
+Instead of the marble bending spacetime, imagine a powerful gravitational field.
+
+One example would be a spinning black hole.
+
+It could make spacetime bend back on itself, and close off into a tube, creating a "closed timelike curve," or CTC.
+
+People could use this loop, or tube, to travel back in time.
+
+Hawking and many other physicists don't like the idea of CTCs.
+
+Anything traveling through one would create paradoxes.
+
+Even if you can go back in time, how can you come back to the future and have it be the same?
+
+Think about science fiction movies.
+
+When someone travels back in time their actions change the future, and may even prevent themselves from being born.
+
+Cause and effect fall apart.
+
+In 1991, physicist David Deutsch said he knew how to fix paradoxes caused by CTCs.
+
+He said the answer was at the tiniest quantum level.
+
+The key was fundamental particles, like quarks which are inside protons.
+
+Physicists believe fundamental particles are the smallest parts of matter.
+
+Now, they may be made of smaller parts or not, but we can't see that far.
+
+Deutsch came up with a theory to send these particles back in time.
+
+Recently, Ralph and his student Martin Ringbauer tested Deutsch's model of CTCs.
+
+They investigated how Deutsch deals with the "grandfather paradox."
+
+In this imaginary situation someone uses a CTC to travel back through time to murder her own grandfather.
+
+In turn, this prevents her own birth.
+
+Here is how Deutsch fixes the grandfather paradox: Obviously, Deutsch can't send a human back in time to kill her grandfather.
+
+Instead he imagines a particle going back in time to flip a switch on the machine that created it.
+
+If the particle flips the switch, the machine shoots a particle—the particle—back into the CTC.
+
+If the switch isn't flipped, the machine shoots out nothing.
+
+It is not certain the particle will be shot out.
+
+It is only one probability, or chance.
+
+Deutsch thinks that tiny quantum particles are stable and fixed.
+
+If true, any particle entering one end of a CTC must come out the other end exactly the same.
+
+Imagine a particle shot out by the machine with a probability of one half.
+
+It would enter the CTC and come out the other end to flip the switch with a probability of one half.
+
+By doing so it would give itself at birth a probability of one half of going back to flip the switch.
+
+If the particle were a person, she would be born with a one-half probability of killing her grandfather.
+
+In turn, her grandfather would have a one-half probability of not being killed by her.
+
+That's good enough in terms of probability to escape the paradox.
+
+This strange solution agrees with the laws of quantum physics.
+
+Ralph and Ringbauer simulated Deutsch's model using pairs of light particles (photons), though they didn't actually send a photon through a CTC.
+
+"Of course, we're not really sending anything back in time," Ralph says.
+
+But they say it is mathematically the same.
+
+The second photon is meant to be a past version of the first.
+
+It is like they created a stunt double, or clone, of a person.
+
+Then they ran him through a time-loop simulator.
+
+By the end of the experiment, the second photon should end up being identical to the first photon as it was at the beginning of the experiment.
+
+Essentially the past version turns into the present one over time.
+
+The second photon meets the first — itself from the future.
+
+At that point they are as different as a woman and her grandfather.
+
+Then the fake CTC goes on.
+
+At the end of it the second photon is identical to the first, which means it could not go back in time and meet its old self.
+
+The loop works without paradox.
+
+Ringbauer says their test could have huge effects for computing.
+
+New quantum computers could be much faster than regular computers.
+
+Typical computing uses either 0's or 1's.
+
+Quantum computing can use either ones and zeros, or both at the same time.
+
+CTCs would make computing even faster, says physicist Todd Brun.
+
+"But this experiment cannot test the Deutsch model itself."
+
+A real CTC would be needed for that.
+
+Deutsch's model isn't the only one, though.
+
+In 2011 physicist Seth Lloyd tested a simpler model of CTCs.
+
+It solves the grandfather paradox using quantum teleportation and post-selection.
+
+Quantum teleportation is a bit like the teleporter in Star Trek, when Scotty beams Spock up from other planets.
+
+But that's where the similarity ends.
+
+Quantum teleportation only beams around the tiniest bits of information.
+
+Post-selection refers to discarding experimental runs where something you wanted to happen didn't happen.
+
+Deutsch's theory sends the time traveler back to a parallel universe.
+
+Lloyd says a time traveler coming from Deutsch's CTC "enters a universe that has nothing to do with the one she exited."
+
+Post-selection lets the time traveler return "to the same universe that she remembers."
+
+Lloyd's model would make CTCs much less powerful for computing than Deutsch's.
+
+However, they would still be far superior to what computers can achieve now.
+
+Lloyd's model could solve problems at the level of "finding needles in haystacks," Lloyd says.
+
+"But a computer in a Deutschian CTC could solve why haystacks exist in the first place."
+
+Lloyd, though, admits how wild the idea of CTCs is.
+
+"I have no idea which model is really right.
+
+Probably both of them are wrong," he says.
+
+Of course, he adds, the other possibility is that Hawking is correct, "that CTCs simply don't and cannot exist."
+
+Time-travel party planners should save the champagne for themselves — no guests from the future seem likely to arrive.
+

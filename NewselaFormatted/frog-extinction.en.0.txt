@@ -1,0 +1,80 @@
+While there's been extensive research attempting to predict the future of Earth's vulnerable plants and animals, there have been comparatively few studies investigating the extinctions that have occurred in the past.
+
+Looking backward is an important method of understanding how extinction rates have changed over time, the environmental factors that have influenced them and how seriously they have affected Earth's ecosystems.
+
+Now, a researcher from Macquarie University in Australia has published a study examining recent extinctions within two vulnerable groups of animals - reptiles and amphibians - and the results are cause for alarm.
+
+Most notably, they indicate that approximately 200 frog species have already gone extinct, and hundreds more may be on their way out.
+
+John Alroy, a professor of biological sciences at Macquarie University and the paper's author, said he was inspired to conduct the study when a journalist asked him what scientists know about the number of species that have already gone extinct.
+
+"I looked for a paper where they do this, and I didn't find one," Alroy said.
+
+So he decided to analyze a large taxonomic group and settled on reptiles and amphibians - partly because there was a large amount of global data available for these groups, and partly because of a growing concern in the scientific community over the health of frog populations, which are thought to be in a state of decline in many places.
+
+"There was a very strong indication that I would get some frog extinctions," Alroy said.
+
+And he did.
+
+Using a statistical method known as a Bayesian approach, Alroy estimated the probability of past extinctions for certain types of amphibians and reptiles, including frogs, salamanders, snakes and lizards, using museum collections and published documents to figure out when an animal was last sighted.
+
+He found that frogs seemed to be the most vulnerable to extinction - the results suggested that more than 3 percent of all frog species have disappeared, largely since the 1970s.
+
+The method "suggests that about 200 frog extinctions have occurred and hundreds more will be lost over the next century, so we are on pace to create a mass extinction," the study states.
+
+This is a worrisome finding, especially since Alroy describes his method as highly conservative, meaning it's likely to underestimate the number of extinctions that have actually taken place.
+
+The results also predict that if these extinction rates keep up, nearly 7 percent of frogs could be lost in the next century.
+
+"Thus, the data suggest that a runaway train of extinction is now likely to produce what would be seen as a global mass extinction on the ultimately more important landscape of geological time," Alroy writes in the paper.
+
+To put those numbers in context, the data suggest that extinction rates for reptiles and amphibians are about 10,000 times larger than the rates for all other organisms.
+
+In general, though, other types of amphibians and reptiles experienced lower extinction rates than frogs.
+
+"I found a much smaller proportional number of extinctions for snakes and lizards - half as much, nominally," Alroy said.
+
+"The message there is that snakes and lizards are much more robust to various environmental pressures."
+
+These results weren't necessarily surprising, since scientists are already aware that frogs are a particularly vulnerable group.
+
+"They're seen as a 'canary in the coal mine' group because they seem to suffer large population losses more easily than other groups," Alroy said.
+
+"What was surprising was the geographic pattern of frog extinctions."
+
+In addition to large losses in Central America, Alroy also noted extinctions in Brazil, Madagascar and New Guinea - "places where there are not well-documented population losses due to anything," Alroy said.
+
+"I think there are mass extinctions happening in the tropics that are largely undocumented."
+
+It's unclear what's been causing these extinctions, which seem to have accelerated in the past several decades.
+
+A variety of factors could be at play, including habitat destruction and the devastating effects of a deadly fungus called Batrachochytrium dendrobatidis.
+
+And there wasn't a clear pattern between environmental pressures and extinctions.
+
+For instance, some places with high rates of extinction were also known hotspots for the fungus, while others had no documentation of the fungus ever being present.
+
+That might be one of the most concerning points of all, since it means scientists still don't have a clear idea of what's killing off all the frogs.
+
+"Honest to goodness, I don't know what's going on," Alroy said.
+
+"The pattern seems to be that there are more extinctions in the wet tropics, speaking very loosely, which is not too surprising because that's where all the biodiversity is.
+
+But that doesn't really answer the question of what's going on."
+
+Future research should include more field work in order to figure out the environmental pressures that are causing extinctions in different locations, Alroy said.
+
+Then scientists might be able to start taking action to cut down on the losses.
+
+Alroy notes that when conducting such research in the future, it's important for scientists to look at the broad range of environmental factors that might be affecting an animal.
+
+"There's a tendency in the literature to focus very strongly on the potential future impacts of climate change, specifically," Alroy said.
+
+And while climate change is likely to be an important factor in the coming years "this paper suggests that in the absence of really severe climate change we've already seen the beginning of a major mass extinction."
+
+"I'm not saying we should stop looking at climate change," he added.
+
+"I'm saying there should be additional focus on other causal factors like habitat destruction and invasive species in particular.
+
+So I'm hoping this paper will encourage more research of that kind."
+

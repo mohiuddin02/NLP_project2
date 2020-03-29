@@ -1,0 +1,37 @@
+Scientists have identified deposits of an unusual material known as "impact glass" on Mars, with the help of a NASA Mars orbiter. On Earth this same material has been shown to preserve evidence of ancient life that gets trapped inside it. This means impact glass on Mars could provide key insights into whether Mars could ever have supported life, and if it ever did. Kevin Cannon and John Mustard of Brown University reported the glass discovery.
+
+When an asteroid or comet slams into a planet's surface, the immense energy of the impact can melt large volumes of rock and soil. If this liquid rock cools quickly enough, it hardens into a solid called impact glass, instead of another substance. Unlike the glass we encounter in daily life, this material is dark brown, almost black, and only partly transparent. It may look like freshly cooled lava from a place like Hawaii, says Cannon, a Ph.D. student. However, lava and impact glass are formed differently.
+
+Because asteroids and comets routinely slam into planets throughout the solar system, scientists have long suspected that impact glass exists on other planets. The new study supports the idea.
+
+## Making Martian Glass On Earth
+
+Until now, no one could be sure impact glass existed on Mars. The reason is that it gives off only a weak spectral signal. The spectral signal is the type of light an object gives off. Scientists identify different types of rocks on Mars by picking out the unique spectral "fingerprints" these materials leave in sunlight reflected off the planet. Dark opaque materials like rocks absorb lots of sunlight. Therefore, their spectral signatures in reflected light are stronger than the signatures of partially see-through materials like impact glass, explains Briony Horgan, a planetary scientist at Purdue University. Consequently, signals from any rocks that might be mixed in with the impact glass could block out signals from the glass.
+
+Cannon overcame this obstacle by making his own artificial Martian impact glass. He mixed together powders to create a concoction with similar composition to rocks on the Red Planet. Cannon based his recipe on data from Mars rover samples and studies of Martian meteorites. He then melted his mixture in an oven and allowed it to harden into imitation impact glass.
+
+By measuring the spectral signal of this imitation impact glass, Cannon and Mustard, a professor of Earth, Environmental and Planetary Sciences at Brown, knew precisely what to look for on the Martian surface. Mustard scoured data collected by the Mars Reconnaissance Orbiter in hopes of finding similar signals.
+
+## Traces Of Life Under Glass
+
+Their search turned up a slew of previously undetected glass deposits in craters across the Martian surface. The positions of these deposits inside the craters — on central peaks that form when an asteroid or comet strikes the planet — demonstrates that the glass was indeed formed during the impacts. "It wasn't completely surprising," Cannon said. "We thought that it should be there, and it's really nice to validate that."
+
+"I can state with a pretty high level of confidence that this new study is the first clear detection of impact glass on Mars," Horgan said.
+
+The detection of impact glass on Mars is especially exciting. Studies of similar glass on Earth have shown it can preserve traces of life that existed both before the collision and after.
+
+Last year, a team of geologists led by Peter Schultz of Brown reported finding plant leaves in the impact glass of an Argentinian crater. The leaves were preserved down to the cellular level. According to Schultz, impact glass might similarly capture and preserve bits of organisms on Mars. This suggestion is what spurred Cannon and Mustard to conduct their search. "There is no proof that there ever was life on Mars," says planetary scientist Kieren Howard of Kingsborough Community College of the City University of New York. If Mars was once inhabited, however, the bits of life inside impact glass "might just allow for the reconstruction of ancient environments, like time capsules."
+
+## Earliest Types Of Life-Forms
+
+Impact glass is not only good for giving a snapshot of life in the blasting zone at the time of the impact; the glass itself can host tiny life-forms that move in after the dust has settled.
+
+A group of organisms called chemolithoautotrophs can tunnel into the glass and live. "These guys were thought to be some of the earliest types of life on Earth, and thought to be the types of microbes that might persist on other planets," says Haley Sapers of Western University in Ontario, Canada. "They're very primitive forms, and they basically eat rocks."
+
+Some of these microbes — tiny life-forms — give off an acid that allows them to dissolve the glass and consume nourishment, or nutrients, found in the glass. As the glass dissolves, the microbes burrow deeper, forming tiny tunnels. Although no actual chemolithoautotrophs have ever been sighted wriggling through impact glass on Earth, Sapers says there is strong evidence that they ate through the impact glass of a 15-million-year-old crater in Germany.
+
+## Tunnel Evidence
+
+So if these tiny tunnels were found in the Martian glass, could that be evidence that the Red Planet was — or perhaps still is — home to alien life? Such tunnels would certainly create suspicion of at least past life. According to Cannon, however, "There's no reason to think there's any living life on Mars today." Besides, Sapers says that detecting tunnels in the glass would require returning samples to Earth. Doing this would surely kill anything still alive in the glass.
+
+Even if Cannon and Mustard's impact glass did not trap any bits of life, it may have preserved atmospheric gases from the time of the collision. According to Horgan, understanding the evolution of the Martian atmosphere over time is key to figuring out if its surface might have supported life at one time.

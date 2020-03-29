@@ -1,0 +1,27 @@
+Friction is a critical part of everyday life. Sometimes it helps us. It is the force that makes the brakes in a car work, when the driver steps on the pedal. Sometimes it hinders us. Friction from the road drags against tires, wearing them out faster and sending us more often to the gas station to fuel up. Although most people take friction for granted when we hit the pedal, even scientists do not understand everything about how it works.
+
+A recent study might help scientists understand more by looking at the ways that atoms work in friction. An atom is the smallest possible part of an element that still has the characteristics of that element. Scientists measured how the placement of single atoms affects the strength of friction between two surfaces.
+
+Jay Weymouth, a scientist at the University of Regensburg in Germany, participated in the study. He said everyone knows that the amount of friction depends on direction. "It's easier to pet a cat in one direction than another," Weymouth said. What is new is that the scientists were able to measure how much direction affects friction at the tiny atomic level.
+
+## The Eye Sees Smooth, But Look Closer
+
+Friction is the force working against the moving of one object against another. It generally increases with pressure. By looking at surfaces under a microscope, scientists can see that even seemingly smooth ones, such as a wooden table top, are really jagged and rough. The tiny bumps on one surface drag and catch those on a surface being slid across it. Atomic connections break and form and break again. This motion sets the atoms moving. In turn, this generates heat. The process costs the system energy. The loss of energy means that the motion between the surfaces slows.
+
+For example, when you walk on a sidewalk, groups of atoms in the rubber soles of your shoes catch on groups of atoms in the sidewalk, resisting your motion. Without this resistance, you would not be able to walk at all — your shoes would slide backward with every step you took, as if you were imitating Michael Jackson's Moon Walk.
+
+While this basic description generally holds true, many facts about friction remain mysterious. "We've got these nice little high school formulas that work in a lot of basic cases," Weymouth said. "But we're very bad at taking two surfaces and saying what the friction will be."
+
+To do that, Weymouth and his team aimed to get a better understanding of what happens to single atoms when one brushes up against another.
+
+## Atoms Paired Off
+
+The researchers slid a tiny tip made of tungsten, a very hard metal, against a surface of pure silicon crystals. Crystals are a solid material whose atoms are arranged in a very organized pattern. A diamond is one example of a crystal. When the tip slid against the crystals, they separated into pairs of atoms. As the metal tip slid over the pairs, they rocked back and forth. The energy put out by this rocking motion corresponded to the amount of friction between the materials. The researchers found that friction was lower when the tip was dragged along the direction in which the atoms were arranged.
+
+"Experimentally this has not been done before," Weymouth says. People have studied how direction affects friction, but never on a single atom level, he said.
+
+## Friction's Big Picture
+
+Besides adding to the overall picture of how friction works, the research could help to improve the working of machines that lose energy to friction.
+
+Philip Egberts and Robert W. Carpick are two scientists who were not involved in the study but wrote an article explaining its possible importance. The knowledge gained from the study might eventually help scientists understand enough about friction to be able to predict and control it, they said. This understanding will help with everything from the study of geological faults that cause earthquakes, to the prediction of wear in automobile parts and other machine parts, they said.

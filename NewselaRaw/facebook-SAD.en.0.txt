@@ -1,0 +1,53 @@
+LOS ANGELES — Ever feel the rainy-day blues on a bright and sunny afternoon? If so, your Facebook account may be to blame, according to new research.
+
+In a paper published Wednesday in the journal PLOS ONE, scientists argued that the hugely popular social networking site exerts an emotional "spillover" effect that may carry significant consequences for an increasingly interconnected world.
+
+By analyzing more than a billion Facebook status updates, authors concluded that emotionally positive posts gave rise to more positive posts by friends, while negative posts spawned more negative posts.
+
+"It was actually a very large effect. Every message that you post causes your friends to post an additional one to two messages that have the same emotional content," said lead study author James Fowler, a professor of medical genetics and political science at the University of California, San Diego, School of Medicine.
+
+How do Fowler and his colleagues know this?
+
+Researchers said they used weather records to determine which updates were posted in cities experiencing rain. Then they used text analysis software to determine if posts expressed positive or negative emotions, and compared the rainy-day posts with non-rainy-day posts.
+
+What they found, they said, was that rain increased the number of negative posts by 1.16 percent, and reduced the number of positive posts by 1.19 percent.
+
+But it didn't end there. Authors claimed that those negative posts influenced Facebook friends in cities with dry weather.
+
+According to researchers, negative posts in general prompted 1.29 more negative posts by friends, while positive posts promoted an additional 1.75 positive posts.
+
+"What people feel and say in one place may spread to many parts of the globe on the very same day," authors wrote.
+
+Though Fowler and his colleagues noted that positive posts were slightly more influential than negative posts, they said their findings raised concerns.
+
+"These results imply that emotions themselves might ripple through social networks to generate large-scale synchrony that gives rise to clusters of happy and unhappy individuals," Fowler and his colleagues wrote.
+
+"As a result, we may see greater spikes in global emotion that could generate increased volatility in everything from political systems to financial markets."
+
+Fowler and study co-author Dr. Nicholas Christakis, a physician and sociologist at Yale University, have written numerous papers on the topic of contagion, suggesting even that obesity is spread through "social ties."
+
+Though their work has generated numerous headlines, it's also been criticized by outside experts.
+
+"I have found it difficult to assess the credibility of their results," said Charles Manski, a professor of economics at Northwestern University.
+
+Russell Lyons, a professor of mathematics at Indiana University, criticized the statistical analysis in the authors' 2007 obesity paper, calling it "deeply flawed."
+
+Although Lyons said he hasn't had the time or supplemental information necessary to scrutinize the statistical methods of the current paper, he remained skeptical.
+
+"I don't think I've seen any particularly convincing and interesting recent research on social contagion, though such research may exist," he said by email.
+
+"The information presented in this paper is certainly not convincing," he wrote.
+
+In the Facebook study, Fowler and his colleagues said they examined status updates from users in 100 U.S. cities from January 2009 to March 2012.
+
+To ensure posters' anonymity, researchers said they did not view any of their names or actually read the posts. The text analysis was conducted on servers where Facebook currently keeps user data, they wrote.
+
+Fowler and his colleagues say that much research has been done on the spread of emotions among humans and its evolutionary basis.
+
+This prior research has argued that emotions play a special role in bonding, and that humans are naturally inclined toward expressing their emotions rather than concealing them.
+
+"Human laughter, for example, is believed to have evolved from the "play face" expression seen in other primates in relaxed, social situations," authors wrote. "Such facial expressions and positive emotions enhance social relations by producing analogous pleasurable feelings in others, by rewarding the efforts of others, and by encouraging ongoing social contact."
+
+Fowler said that based on the study's findings, scientists and policymakers should consider using social networks as a tool to improve mental and physical health.
+
+"We should be doing everything we can to measure the effects of social networks and to learn how to magnify them so that we can create an epidemic of wellbeing," he said.

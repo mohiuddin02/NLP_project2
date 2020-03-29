@@ -1,0 +1,51 @@
+BEIJING — When China landed its first lunar rover on the moon last month, many Americans reacted with a shrug. After all, the U.S. sent men to the moon more than 40 years ago, and the Soviets landed a rover there too.
+
+But among lunar scientists, the Chang'e 3 mission has generated considerable interest. They say the lander and the rover, equipped with ground-penetrating radar, cameras, a telescope and spectroscopic instruments, could gather significant new information, especially relating to the chemical composition and depth of the lunar soil.
+
+Such data, they say, could shed light on the history of the moon and, by extension, Earth. It could also help humans design equipment to mine the lunar surface for oxygen and other elements.
+
+In addition, experts say, the Chinese mission is testing new equipment and technology that could be useful for future missions — manned or unmanned — not only to the moon but also to Mercury or Mars.
+
+"The parts of the moon that have been explored are so minuscule," said Leroy Chiao, a former NASA astronaut and International Space Station commander. "It's like saying you sent probes to the Earth, you looked at small areas of California and New York and now you know everything there is to know. That's not the case."
+
+Stephen Mackwell, director of the Lunar and Planetary Institute in Houston, noted that the Chang'e 3 mission landed in an area — the right eye of the "Man in the Moon" — distinctly different from previous U.S. and Soviet missions.
+
+In the years since Americans and Soviet crafts visited the lunar surface, he said, orbiters launched by Europe, Japan, the U.S. and others have gathered extensive data about the moon's structure and composition. Now, the Chinese rover may help validate and refine that data, giving detailed information about the concentrations of elements such as titanium, aluminum, iron, potassium and sodium.
+
+Scientists are also watching closely to see how the lander and the Jade Rabbit rover survive the frigid lunar night, which lasts about two weeks. The lander and rover went into "hibernation mode" on Dec. 25 and 26, respectively, and will have to endure temperatures dipping perhaps as low as minus 292 degrees. The vehicles are supposed to endure two such long, cold nights during the course of the mission.
+
+"This is very important for planning other missions, like one to Mercury, which could use a lander just like this one," said G. Jeffrey Taylor, a researcher at the Hawaii Institute of Geophysics and Planetology. "Once you get down to minus 80 or 90, the electronics may not survive. They must be in containers with little radioactive heating units to keep things up to a certain temperature so they don't get damaged."
+
+Chang'e 3 also carries an extreme ultraviolet camera, which is to be used to monitor the Earth's plasmasphere, and a near-ultraviolet telescope to observe galaxies and stars. Proponents of a lunar telescope say the moon's thin atmosphere and slow rotation will allow for long, uninterrupted observations of a target.
+
+"This (telescope) is another great test," said Taylor. "Some people have said a telescope on the moon would be useful, others say it's not useful and that we should do them all in free space like Hubble and Keppler. It's been a debate. So now we'll find out if we can do observations from the moon really effectively or it's easier to do it another way."
+
+The Chang'e 3 landing came more than two months after NASA's LADEE probe entered lunar orbit in early October. Initially, some American scientists were nervous that the Chang'e 3 landing would displace a lot of material into the exosphere, perhaps impeding LADEE's mission to gather detailed information about the structure and composition of the lunar atmosphere.
+
+As it turns out, Mackwell said, LADEE seems to have had enough time to gather some baseline measurements and can monitor the changes in the atmosphere caused by the Chinese craft's landing.
+
+"We don't understand a lot about the chemistry of the atmosphere, the residence time for the dust, how various chemicals move around," he said. "So in a way, this Chinese mission has given LADEE a lot of interesting stimuli to understand the lunar exosphere."
+
+Mackwell and others said they were optimistic that the Chinese will share the findings of the Chang'e 3 mission. Some experts said that when China hosted the International Astronautical Congress in Beijing in the fall, Chinese researchers were transparent about the results of the previous Chang'e 1 and 2 missions and their plans for the rover.
+
+"I went to a conference a few years back and the Chinese were very guarded. They were very cautious. Heck, when they first launched a man into space (in 2003), they didn't even announce it until the guy was up there," Chiao said.
+
+"Compared to that, this year's gathering was night and day. They had a big exhibition, there were big talks about their plans for a space station, they were openly courting other countries to come join them in research and also in having their astronauts come and train with them and fly with them. I think they will share their results to show their scientific ability and what they were able to discover."
+
+Although NASA is barred by U.S. law from working with China, academics from the U.S. and around the world have been exchanging questions and information about the Chang'e 3 in various forums.
+
+One is a popular Listserv group for lunar scientists; just hours after the Dec. 14 landing, Dr. Zheng Yongchun of the National Astronomical Observatories of China posted a message to the group, saying the rover and the lander had taken pictures of each other.
+
+"The most interesting results for us are both the footprint of the Lander (weight about 1000 kg) and the wheelmarker of the Jade Rabbit (weight about 140 kg) are much more shallow than prospected," he wrote. "Maybe the lunar surface soil is much [more] compact. The surface can support much heavier payloads than ever. Anyway, it is good news for the future lunar surface exploration."
+
+In 2010, the Obama administration quashed NASA's Constellation program, which aimed to return astronauts to the moon by 2020. The move was a disappointment for researchers such as Angel Abbud-Madrid, director of the Center for Space Resources based at the Colorado School of Mines, who are interested in exploiting the resources on the moon, either to use on Earth or to support further space exploration.
+
+The Chinese lander and rover, he said, can answer questions related to prospecting, or discovering what's on the moon; excavation; and processing.
+
+"For excavation, you need to know ... how deep can you penetrate with a drill? Is the soil very compacted, or is it easy to move around? Is it electrically charged?" he said. "There's a lot you need to know to design your excavator."
+
+Although some may downplay the Chang'e 3 landing as been there, done that, Abbud-Madrid said such naysayers are missing the larger point of China's "very systematic approach" to the moon, including its eventual goal of landing humans on the surface.
+
+"By the time they get there, it may be 50 years since we did it, and that may not be a big deal. But once you develop a system like this, once you have all the infrastructure, you are just increasingly raising your complexity," he said.
+
+"You get rovers, then you send back samples, and once you send humans, you're going to want to spend more than three days there. Then you're going to figure out, maybe we can generate some oxygen on the moon. Then you can really start moving ahead from what was previously achieved. Hopefully between now and then, we can talk about collaboration."

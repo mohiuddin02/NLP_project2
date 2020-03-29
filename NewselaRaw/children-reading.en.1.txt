@@ -1,0 +1,39 @@
+In the past it was enough to say that some children were faster learners than others. Now scientists are continuously searching for new ways to tell, as young as possible, when children might be at risk for later learning difficulties. In education, the earlier a potential learning difficulty is detected, the more likely an appropriate response can be found.
+
+A new study suggests preschool children's ability to filter out background noise may be a significant indicator of literacy levels later in life.
+
+There are already various simple pre-reading assessments for preschool children. Researchers at Northwestern University in Illinois have taken things to a whole new level by analyzing brain waves of children as young as 3.
+
+## Study Could Be "Bioloigical Looking Glass"
+
+In a recent issue of PLOS Biology, a magazine for scientists, the Northwestern research team highlighted the importance of background noise to understanding a child's ability to read. They found that children who could recognize specific sounds — especially consonants — amid background noise were likely to be better readers than those who could not.
+
+The study is still in its infancy. However, if the approach is found to be correct, it might  provide "a biological looking glass," said study author Nina Kraus, director of Northwestern's Auditory Neuroscience Laboratory. "If you know you have a 3-year-old at risk, you can as soon as possible begin to enrich their life in sound so that you don't lose those crucial early developmental years."
+
+Understanding the relationship between sound and meaning is crucial for early reading development. For example, preschoolers who can match sounds to letters earlier go on to read more easily.
+
+If your brain is slower to distinguish a D from a B sound, then recognizing words and piecing together sentences could be affected too.
+
+## Hearing When It's Noisy Is Tough On The Brain
+
+It's not just children who have difficulty with background noise. Even adults have trouble concentrating when trying to have a conversation in a crowded place.
+
+Noise stresses the system. The brain has fractions of milliseconds to tune out competing sounds to selectively focus. Consonants are more affected by noise than vowels, which tend to be louder and longer, Kraus explained.
+
+"Hearing in noise is arguably one of the most computationally difficult things we ask our brain to do," she said.
+
+The new study used an EEG, or electroencephalogram, to directly measure the brain's response to sound. Electrodes were attached to children's scalps that can record the patterns of electric activity as nerve cells fire. Children sat down to watch a video. They listened to the soundtrack in one ear while an earpiece in the other periodically piped in the sound "dah" and the babble of people talking. The EEG was able to measure how the brain's circuitry reacted to the noise.
+
+The team then developed a model to predict children's performance on early literacy tests. Then they did a series of experiments with 112 children between the ages of 3 and 14.
+
+## Exposure To Spoken Language A Key To Reading
+
+The test lasted 30 minutes and predicted how well 3-year-olds performed a skill that leads to developing language abilities. The test could also predict how those same children fared a year later on several standard pre-reading assessments, the team reported. It remains to be seen what reading levels they will be at as adults.
+
+Kraus' team also tested older children. Their EEG scores matched up with their current reading level in school and even highlighted a small number who had previously been diagnosed with learning disabilities.
+
+Exposure to spoken language is now recognized as a key driver of reading development. The study from Northwestern University is part of a broader push to find ways to spot problems early, said Brett Miller. He oversees reading disabilities research at the National Institute of Child Health and Human Development, which helped pay for the study. Early intervention is crucial, he says.
+
+Despite how promising this research appears to be at detecting early signs of reading difficulties, it's unlikely to be widely used anytime soon. While EEG machine research might  be common among brain specialists, it is a complicated and expensive process that will require extensive further research before it can be rolled out, Kraus said.
+
+Her ultimate goal is to test how a child's brain processes sound even younger, maybe one day as a part of the routine for screening the hearing of newborn babies.

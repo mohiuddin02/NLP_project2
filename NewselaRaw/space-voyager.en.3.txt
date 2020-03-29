@@ -1,0 +1,49 @@
+NASA confirmed Thursday that Voyager 1 indeed left our solar system. It became the first spacecraft to enter deep outer space, or what is known as interstellar space. Voyager was launched from Earth 36 years ago.
+
+It actually left the solar system more than a year ago. But it took scientists months to agree that it really happened.
+
+"Voyager has boldly gone where no probe has gone before, marking one of the most significant technological achievements" in scientific history, said NASA's John Grunsfeld.
+
+NASA officials said Thursday that the delayed confirmation was based on new evidence involving what is called "space plasma density." This is a measure of the amount of electrons in gas that comes from our sun and other stars.
+
+## Cosmic Rays Hitting Voyager
+
+The evidence was outlined in a paper published online Thursday in the journal Science.
+
+Lead author Don Gurnett said information from the spacecraft showed that Voyager 1 had exited the heliopause. This is the bubble of hot pieces of matter that surrounds our sun and planet. It entered into a region of cold, dark space called the interstellar medium. Gurnett is an Iowa State scientist who works on the Voyager project.
+
+Gurnett calculated that Voyager crossed the edge of the heliosphere -- called the heliopause -- at or around Aug. 25, 2012.
+
+Scientists started to debate Voyager's whereabouts earlier this year. It was clear then that Voyager was being hit by an increasing number of galactic cosmic rays. The number of high-energy pieces from inside the heliosphere had plummeted. Cosmic rays are tiny radiation pieces that hit the Earth from space.
+
+But NASA scientists said they could not be certain Voyager had left the solar system until magnetic fields around it changed direction. They waited for that change for more than a year. Then officials changed their mind. They decided that the magnetic field change was not necessary to show that the spacecraft had left the solar system after all.
+
+## Equipment Failure In 1980
+
+"It's a big surprise, and it's another mystery," said Ed Stone, a Voyager project scientist at Caltech. "This is not what our models were telling us. We have to address this issue, but right now ... we don't understand."
+
+Confusion over Voyager's whereabouts has a lot to do with the failure of one piece of equipment, the spacecraft's plasma science experiment, or PLS. The device makes an important measurement.
+
+It was supposed to show if Voyager had reached the cold plasma found in interstellar space.
+
+"The instrument failed in 1980, so the spacecraft is sort of instrument-challenged," Gurnett said.
+
+But voyager does have two antennas that stretch from its base in a wide V shape. The antennas can tell how fast space plasma particles vibrate. They turn those vibrations into noise. The vibrations help show if Voyager is traveling through the cold plasma of interstellar space, too.
+
+The noise is recorded on Voyager's sound equipment. There were no iPods 36 years ago. The spacecraft uses eight-track tape recorders.
+
+The only trouble is that something has to make the plasma vibrate first. It can be a large solar flare. Waiting for a solar flare can take years.
+
+## Far, Far Away From The Sun
+
+Then it can take as long as a year for the flare's shock wave to reach Voyager. The spacecraft is 11.6 billion miles away from the sun.
+
+Fortunately for Voyager scientists, the antennas picked up two long-lasting vibrations. The first was in October and November of 2012 and the second was in April and May of 2013. Both cases suggested that the plasma was cold and dense. Voyager was in interstellar space.
+
+"It was key evidence," Stone said. "We really needed to measure plasma to know if we were inside or outside the heliosphere."
+
+Scientists hope that Voyager 2 will fill many gaps in our understanding. The spacecraft was also launched in 1977. It is near the edge of the heliosphere. It is traveling a different path. Voyager 2 is expected to reach interstellar space sometime within the next several years.
+
+Voyager 2 has a working plasma science instrument.
+
+"I think it's going to teach us even more about this region," Stone said.

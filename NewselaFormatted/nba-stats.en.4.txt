@@ -1,0 +1,120 @@
+NBA teams have a new tool to help them get better.
+
+No, it's not a new workout or sneaker.
+
+For the first time, cameras that track movement will be put in every basketball arena.
+
+The cameras will give information and numbers on how players perform.
+
+It may even change how the game is played.
+
+Rajiv Maheswaran and Yu-Han Chang are computer scientists.
+
+They can see the Staples Center from their office.
+
+It's where both the Los Angeles Lakers and Clippers basketball teams play.
+
+But the future of the NBA may be in their office.
+
+The walls of their office are covered in numbers and code.
+
+It might not make sense to most people.
+
+But these numbers could help NBA teams improve how they play.
+
+It's thanks to the software system developed by Maheswaran and Chang, and their company, Second Spectrum.
+
+Their software can sort through all the numbers.
+
+"It's 1,000 times more information than anyone had before," said Maheswaran.
+
+On his laptop, Maheswaran showed tools that come from the numbers.
+
+Teams could use the tools to choose where to put players.
+
+One showed a basketball court covered with green squares.
+
+The darkest squares show the most likely spots where a ball would fall depending on the shot taken.
+
+Some say the new system should be only one part of a how a team makes decisions.
+
+Traditionally, teams looked at video of games and simple evaluations of players.
+
+But the system is already in use.
+
+The Golden State Warriors used something like it last season.
+
+Kirk Lacob works for the Warriors.
+
+He said the team checked its defense, which players were on the court at different times, and how tired players were.
+
+Then they made changes.
+
+It worked: teams didn't get through the Warriors' defense as easily.
+
+Lacob said he doesn't know how much the information helped.
+
+But, he said it helped them find a problem and fix it.
+
+Six NBA teams used the cameras, starting with the 2010-11 season.
+
+Last season, 15 teams used them.
+
+The NBA recently decided to pay for every team to have the system.
+
+That would let the whole league have the information.
+
+It will start with six cameras placed in each NBA arena.
+
+They will record the movement of every player.
+
+The ball can be recorded 25 times a second.
+
+The info is electronically sent to a company.
+
+It's then put into groups such as dribbles, passes and shots.
+
+Teams can get information such as the number of passes while games are in progress.
+
+Teams can get more complicated information after the game.
+
+More numbers are crunched by then.
+
+Several teams have also hired people to go through all that information.
+
+But, only some numbers may be given to players.
+
+"You can't give players a boatload of information," Los Angeles Lakers assistant Kurt Rambis said.
+
+He said they can't immediately put it to use when they play.
+
+Players aren't sure about the new system.
+
+One part of it gives info on which players shoot after just two dribbles.
+
+Chris Paul of the Clippers has doubts.
+
+"If I just guard him and after two dribbles I stop, and he takes a third and I say, 'Hey, man, you're only supposed to take two dribbles,' then what?"
+
+Paul said.
+
+And all the numbers can be a bit much.
+
+Lakers player Chris Kaman said he was often overloaded with numbers last year.
+
+"It got a little bit annoying," he said.
+
+"Points per possession, per second half, per first quarter …" The system can also track injuries.
+
+The Lakers will be able to see how Kobe Bryant's recovers from a leg injury.
+
+That could help the team's trainers make plans that keep him healthy for the season.
+
+Maheswaran, 39, and Chang, 35, hope teams leave the numbers to them.
+
+The two have worked together since 2005.
+
+They have worked on projects for the military.
+
+Chang says that it's great that they can go from "detecting enemy targets and tracking them to tracking our favorite players on the court."
+

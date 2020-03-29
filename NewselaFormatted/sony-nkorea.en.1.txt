@@ -1,0 +1,104 @@
+Last month, unknown online attackers hacked into Sony Pictures Entertainment's computer system.
+
+The hackers demanded that the movie studio cancel the release of its film "The Interview."
+
+If the film was not withdrawn, they threatened, movie theaters that screened it would be destroyed.
+
+"The Interview" had already been attracting controversy before the cyber attack.
+
+North Korea has strongly objected to the film, which involves the fictional assassination of its supreme leader, Kim Jong-un.
+
+Experts now say the cyber attack seems likely to have originated from North Korea.
+
+On Thursday, Obama administration officials scrambled to decide what, if anything, they should do in response.
+
+Options are limited, partly because the United States already imposes strict sanctions — that is, penalties or punishments — on North Korea's economy.
+
+Existing sanctions were imposed in an attempt to prevent North Korea from developing nuclear weapons.
+
+They make it difficult for the country to engage in international banking, travel and trade.
+
+"How do you sanction the world's most heavily sanctioned country?"
+
+asked John Park, an expert on Northeast Asia.
+
+Another problem for the White House is that Kim Jong-un thrives on confrontation with the West.
+
+Officials are wary of playing into an effort by nuclear-armed North Korea to provoke the United States into a direct confrontation.
+
+The hackers who broke into Sony Pictures' computer system caused tens of millions of dollars in damage.
+
+They destroyed valuable files, leaked five unreleased films and exposed private employment information including 47,000 Social Security numbers.
+
+In response to the cyber attack and threat against movie theaters, Sony canceled the Christmas Day release of "The Interview."
+
+A comedy, the film stars Seth Rogen and James Franco, whose characters are recruited to assassinate Kim Jong-un.
+
+The Obama administration has stopped short of saying openly that North Korea was involved in the attack.
+
+In part this is because it is unwilling to reveal what information it does have, presumably because doing so might expose too much about U.S. intelligence-gathering activities.
+
+Lacking a way to punish North Korea economically and with little desire for acts of war, the White House so far appears reluctant to publicly accuse the country.
+
+One response the government might opt for would be to use the U.S. military's own hackers to disable the computers that launched last month's cyber attack.
+
+However, such a counterattack would probably be done in secret and not announced.
+
+Republican Senator John McCain, who called Sony's decision to cancel the movie's release "profoundly troubling," has long demanded the United States step up cyber operations.
+
+He said the Obama administration was slow to respond to the attack.
+
+White House spokesman Josh Earnest said that responses under consideration are ones "that we wouldn't want to telegraph in advance."
+
+To name North Korea publicly, the United States would need to offer strong evidence linking the country to the attack.
+
+So far, administration officials have given somewhat differing accounts about the degree of its involvement.
+
+One senior administration official, speaking anonymously, said intelligence agencies have linked North Korea to the attack.
+
+However, that official gave no details about how closely it was involved.
+
+The Federal Bureau of Investigation (FBI) has not confirmed that the North Korean government, directly or through a second source, was behind the hacking operation.
+
+"We are still working it," said one FBI official, speaking confidentially because the case is underway.
+
+"We are not close yet to drawing any conclusions — frankly, we've been surprised by the reports that say we are," the official said.
+
+Proving that North Korea was involved will not be easy.
+
+Experts believe that North Korea lacks the capability to infiltrate Sony's computers on its own and would have required the assistance of freelance computer hackers, and possibly even Sony employees.
+
+Most citizens in isolated, impoverished North Korea have no access to computers.
+
+Yet a small group of highly skilled hackers is believed to work for the country.
+
+Computer attacks are a useful tool for North Korea, because they are inexpensive to carry out and hard to trace.
+
+North Korea is "really working on their cyber capability; it gives a poorer nation international reach," said retired Brigadier General Michael McDaniel, a former Pentagon official.
+
+In June, North Korea called the plot of "The Interview" an "act of war."
+
+After the attack on Sony began, though, North Korea's government declared that it was not involved.
+
+Still, it praised the hacking as a "righteous deed of supporters and sympathizers."
+
+North Korea has a history of lashing out at those who criticize or ridicule it.
+
+Last year, South Korea concluded the North was behind a hack of banks and news organizations known to be critical of North Korea.
+
+"The hacking code that was used in the attack on Sony was very similar to the code that North Korea has used in cyber attacks on South Korea," said South Korean computer security expert Kim Seung-joo.
+
+"I believe it was them."
+
+North Korea might have simply cooperated with whoever carried out the attack.
+
+It is likely the country was involved and somehow set the attack in motion, said Korea expert Leonid Petrov.
+
+However, he added, other parties were probably involved as well, because "the damage that Sony sustained was beyond North Korea's interest and capabilities."
+
+President Barack Obama acknowledged that the attack against Sony shows the U.S. has more work to do to strengthen its online security.
+
+He said the FBI should know more about the cyber attack in coming days, and that the United States will work hard to prevent further attacks.
+
+"But for now," the president added, "my recommendation would be that people go to the movies."
+

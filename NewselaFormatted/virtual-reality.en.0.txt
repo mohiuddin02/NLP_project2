@@ -1,0 +1,118 @@
+When people think of virtual reality (VR), they think games.
+
+Put on a helmet where VR systems are being demonstrated, and chances are you'll be immersed in a video game.
+
+Here you are in a spaceship cockpit.
+
+Now you're driving a race car.
+
+Oh, look, you're dodging bullets, "Matrix"-style, in a shooter game.
+
+Watch out behind you!
+
+Sounds like fun, but virtual reality, despite all the hype, is not yet ready for prime time, for video games or anything else.
+
+The hardware remains big and clunky.
+
+The immersive experience in a fast-action environment still makes too many people sick to their stomachs.
+
+While they work to iron out those problems, VR makers like Oculus — a Southern California startup acquired by Facebook last year for $2 billion — are exploring additional market opportunities to increase their chances of success.
+
+At the consumer electronics show in Las Vegas this week, those who donned the Oculus Rift ski goggle-like headset were transported to a video and audio alternative reality, a museum where a lively T-Rex awaited with menace.
+
+Lean in, and you could almost feel its breath on you.
+
+In the same demo, people were virtually lifted to the top of a skyscraper; if they walked to the edge and leaned over, they could see bustling traffic hundreds of feet below.
+
+It triggered the fear of heights in more than one show attendee.
+
+In another vignette, a Pixar-like fight scene between two robots played out in 360-degree video, inviting users to look left, right and behind them to follow the action.
+
+The presentation was designed as a "tasting plate" of the possibilities for VR.
+
+"We've said from the beginning we're big gamers, and we started Oculus to deliver consumer VR and revolutionize games," said Nate Mitchell, Oculus' vice president for product.
+
+"But it may well end up being that VR is more about film than games."
+
+He's not sure that's the case, "but it's possible.
+
+We don't know what the killer app is."
+
+Maybe it's movies?
+
+Maybe video games?
+
+Maybe military simulation training?
+
+The company is working with outside developers on content for all three.
+
+Hollywood studios are deeply involved in exploring the possibilities of virtual reality entertainment, "pretty much all of them," Mitchell said.
+
+The Sundance Film Festival, to be held in Utah this month, said it has selected at least 13 short VR movies for presentation.
+
+Jaunt VR, a Palo Alto, Califironia, company, has developed a prototype 3-D camera that records in 360 degrees so users can make their own virtual reality films.
+
+The company has already released two videos of concerts on Google Play that give users a 360-degree view of the concert stage.
+
+They can watch it without a VR headset by using their phone's screen as a window to the concert.
+
+For a more immersive experience, they can also use it with the Oculus gear or Google's low-cost Cardboard VR headgear.
+
+Outside of film, Redwood City, California-based AltspaceVR is building software for meetings and conferences in virtual reality.
+
+In the AltspaceVR app, users appear as a Wall-E-like avatar.
+
+The app uses the head tracking capabilities of virtual reality headsets to determine where a person is looking and how his or her head is moving, and translates that into the avatar's movements.
+
+It also simulates being in an actual physical space with other people by allowing users to hear someone better if that person's avatar is closer.
+
+Getting really close to someone's avatar lets users whisper.
+
+"We think VR has this opportunity to be a new communications medium," said AltspaceVR Chief Executive Eric Romo.
+
+"There's a lot of things you can do with nonverbal communication inside virtual reality that are not really possible on other platforms."
+
+On the phone, users can't tell whether the person on the other end of the line is paying attention.
+
+In group conference calls, people tend to accidentally talk over one another.
+
+AltspaceVR tries to communicate nonverbal cues.
+
+"In VR, I can have that information; I can see it," Romo said.
+
+"So we can communicate in this more natural way than we could on chat or telephone.
+
+Obviously, there's stuff that video brings to the table that VR can't do in the short term, but there's a lot more VR can offer there."
+
+It will be awhile before companies hold staff meetings via virtual reality avatars — if ever.
+
+Other workplace uses for VR are more immediate.
+
+Dan Ward, co-founder of mobile app development company Detroit Labs, said he believes the coming year will see various industries use VR for training — think combat simulation for the military; natural disaster drills for police, firefighters and paramedics; auto repair education; and so on.
+
+"In the past, we've spent billions of dollars re-creating situations for people to train in," Ward said.
+
+"But these VR head units are able to trick the mind really well, and we all know that a lot of training is mental, so there's a massive opportunity here."
+
+Another VR headset maker, Sulon Technologies, showed software prototypes that allow users to walk around a life-sized virtual engine.
+
+Sulon founder and CEO Dhan Balachand said technology like this could change the way product design teams work, allowing them to visualize products and parts in a virtual space before committing to manufacturing.
+
+The company foresees its Cortex headset changing the way people buy cars: Forget the showroom, put on a VR headset and a car materializes in front of you, allowing you to change its color and add or remove features.
+
+Although hopes are building among companies and potential customers for affordable VR, there aren't yet any high-definition consumer headsets on the market.
+
+Early adopters can pick up the Oculus Rift developer kit, and Samsung has released the "Innovator Edition" (that is, not for the mass market) of its mobile-powered Gear VR headset, but every major headset maker, including Oculus and Sony, has said its hardware isn't ready yet.
+
+It's hard to get people to make content for a headset that no one owns.
+
+Mitchell isn't fazed, though.
+
+"Obviously, it's way too early for a $50 million blockbuster VR film because there's no way to sell it to people yet," he said.
+
+"But I think in the next few years we'll get there.
+
+It's still early days.
+
+It's blue skies."
+

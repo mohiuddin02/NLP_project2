@@ -1,0 +1,29 @@
+This year the Nobel Committee decided to honor a physics discovery that might be overlooked, but benefits us all: lightbulbs. The 2014 Nobel Prize in physics went to Isamu Akasaki, Hiroshi Amano and Shuji Nakamura for their discovery of blue light-emitting diodes (LEDs), which have enabled new forms of brighter, more energy-efficient lighting.
+
+"Something like a fourth of our electricity consumption goes to illumination," Nobel Prize committee member Olle Inganäs of Linköping University in Sweden said during a press conference on Oct. 7 announcing the award. "Having much more light for much less electricity is really going to have a big impact."
+
+## Blue LEDs A Long Time Coming
+
+The new Nobel laureates worked for years to achieve blue LEDs, finally discovering them in the 1990s. When combined with red and green LEDs, they can create white light. The red and green versions have been around since the 1960s, but the blue took about another 30 years to accomplish. "A lot of big companies really tried to do this and they failed," said Nobel committee member Per Delsing of Chalmers University of Technology in Sweden. "But these guys persisted and they tried and tried again and eventually they actually succeeded."
+
+The achievement required the growth of high-quality gallium nitride crystals, which are semiconductors. Semiconductors allow electricity to flow between a conductor, such as copper, and an insulator, like glass.
+
+Inside semiconductors, electrons and "holes," or spaces without electrons, can move around the crystal lattice structure to allow electrical current to flow. When the right voltage is applied to the semiconductor, electrons and holes join and give off light. The wavelength of the light—the color—depends on the energy required to free an electron in the material. The energy applied to gallium nitride gives off ultraviolet and blue light.
+
+## Light Without Heat
+
+The white light sources enabled by the discovery of blue LEDs last much longer and require much less energy than traditional incandescent lightbulbs. Incandescent bulbs use electricity to heat a thin metal strand called a filament. It wastes energy by releasing it in the form of not just light, but heat. Instead, LEDs more efficiently convert energy directly into light, without the heat.
+
+LEDs also avoid pitfalls of fluorescent lights, the long, thin bulbs that typically light offices. Fluorescent lights rely on mercury, which pollutes the environment when it is thrown away.
+
+LED technology now illuminates our smart phone screens and phone flashlights, as well as many household lights, and even the twinkling lights put on Christmas trees. And because ultraviolet light kills bacteria, blue LEDs could potentially be used to sterilize and purify drinking water in the future, Delsing said. "I really think that Alfred Nobel would be very happy about this prize. He wanted his prize to be given for inventions that benefited mankind."
+
+## Waiting For The Call ... Or Not
+
+Akasaki and Amano worked together at the University of Nagoya to make the discovery, and Nakamura built on their discovery while working independently at the Nichia Chemicals company in Japan. He is now a professor of engineering at the University of California, Santa Barbara. He learned of his award Tuesday just before 3 a.m. local time, and phoned into the press conference to describe the feeling of winning. "It's unbelievable," Nakamura said. "It's amazing. Unbelievable."
+
+Akasaki was also informed by phone, but the Nobel Prize committee had not yet reached Amano when it made the announcement, because he happened to be flying from Japan to France.
+
+Every year, likely winners wait near their telephones hoping to receive the call notifying them that they're Nobel Prize winners. In addition to being the most famous award in science, each winner, or team of winners, receives a $1.1 million prize.
+
+"I think actually they were not prepared for it," said Staffan Normark, of the Royal Swedish Academy of Sciences, which runs the Nobel Prize committee. "They had not been waiting all day or all night for this call."

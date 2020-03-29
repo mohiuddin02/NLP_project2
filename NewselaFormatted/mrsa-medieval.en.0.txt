@@ -1,0 +1,54 @@
+At the University of Nottingham in Britain, researchers have rediscovered an ancient medicinal elixir that appears to fight a very modern scourge: a deadly drug-resistant bacterial infection rampant in hospitals.
+
+The discovery melds medieval potion-making with modern pharmacology.
+
+In its crosshairs: Methicillin-resistant Staphylococcus aureus, better known as MRSA (pronounced mersa).
+
+Let's imagine that during a nighttime escape through Sherwood Forest, an early archetype for the legendary figure Robin Hood scratched his cornea on a branch and developed an eye infection.
+
+In nearby Nottingham, he might well have consulted an herbalist, who would fetch a brass vessel, brew a remedy of bile from a cow's stomach and Allium — a plant from the garlic family — and create an unguent to treat the patient's inflamed eye.
+
+Until recently, the recipe for that medieval remedy lay unnoticed in the brittle pages of a thousand-year-old text — titled "Bald's Leechbook" — shelved in the library of the University of Nottingham's Institute for Medieval Research.
+
+Leafing through that folio, Viking studies professor Christina Lee wondered what its ancient recipes revealed about the state of medieval medical knowledge, and whether and how, a millennium before the germ theory of disease was understood, healers and herbalists had guessed right in choosing their treatments.
+
+Lee translated the recipe for the eye salve from the original Old English recipe in "Bald's Leechbook," and enlisted chemists at her university's Center for Biomolecular Sciences to recreate the unguent and test its effect.
+
+Lee's request came at a crucial time.
+
+With a paucity of new antimicrobial medications in the development pipeline, Nottingham microbiologist Freya Harrison was looking for inspiration.
+
+Lee's idea might allow her team to reach deep into the past in search of undiscovered or underappreciated antimicrobial agents.
+
+Scientists in Harrison's lab followed the recipe precisely, making four separate batches with fresh ingredients each time.
+
+They also devised a control treatment using the same quantity of distilled water and brass sheet to mimic the brewing container, but leaving the vegetable compounds out.
+
+In lab conditions that set off riotous growth of the Staphylococcus aureus bacteria, the thousand-year-old recipe had a powerful killing effect: roughly 1 in 1,000 bacterial cells growing in plugs of collagen survived when doused with the ancient salve.
+
+Later, in infected wounds induced in mice, the remedy killed 90 percent of MRSA bacteria.
+
+Harrison says she was "absolutely blown away" with the antique recipe's effects.
+
+She had assumed it might show "a small amount of antibiotic activity."
+
+Researchers have found some of its elements — copper and bile salts in particular — to have some effect on bacteria in the lab.
+
+And plants in the garlic family are known to make chemicals that interfere with bacteria's ability to damage infected tissues.
+
+But compared with the control substance, there was something powerful about the combination of these elements in this ancient formulation, Harrison said.
+
+The eye salve had the power even to breach the sticky coating and the dense clustering of mature colonies of bacteria, which are notoriously resistant to antibacterial treatments.
+
+When Harrison's lab diluted the salve to see whether it would continue to work, they perceived what they believe is the medication's mechanism of action: Even when the diluted salve failed to kill S. aureus, it interfered with communication among cells in the bacterial colony — a key finding because those signals switch on genes that allow bacteria to damage infected tissues.
+
+Blocking this signaling is seen as a promising way to treat infection.
+
+"We know that MRSA-infected wounds are exceptionally difficult to treat in people and in mouse models," said Kendra Rumbaugh, who performed the testing of Bald's remedy on MRSA-infected skin wounds in mice.
+
+"We have not tested a single antibiotic or experimental therapeutic that is completely effective," added Rumbaugh, a professor of surgery at Texas Tech University's School of Medicine.
+
+But she said the ancient remedy was at least as effective — "if not better than the conventional antibiotics we used."
+
+The collaboration between Old English remedies and microbiology has given rise to a program called AncientBiotics at Nottingham, where researchers will seek funding to extend research combining the ancient arts and modern sciences.
+

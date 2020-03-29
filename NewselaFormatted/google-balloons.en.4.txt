@@ -1,0 +1,116 @@
+Google recently sent a giant helium balloon into the air.
+
+It looked like a flying jellyfish.
+
+It soared thousands of feet above Earth.
+
+It carried high-tech radio gear and computer equipment.
+
+It also had solar panels to make energy from sunlight.
+
+Google was conducting a strange experiment.
+
+You probably know the company for its Internet online search engine.
+
+But it is also searching for ways to get the Internet to parts of the world without service.
+
+"This is a great, big, hard problem," said Richard DeVaul.
+
+He is a Google engineer who works on the balloons.
+
+Even Google knows the idea sounds a little crazy.
+
+The company named the experiment Project Loon.
+
+But Google did a test in New Zealand earlier this year.
+
+Now DeVaul says it could work.
+
+Balloons could carry enough wireless equipment to get the Internet to far away parts of Asia, Africa and other places.
+
+Now come more tests in California.
+
+The goal is to work out the answers to a bunch of questions to make the project work.
+
+"Our main challenge right now is power," said Sameera Ponda.
+
+She is an engineer on the project.
+
+Ponda explained that the Loon team needs more information to decide how to place the solar panels and batteries.
+
+The power equipment has to keep a balloon's radio and computers running for weeks at a time.
+
+The equipment has to work at night, too.
+
+It also has to work 12 miles or more above the Earth, where it is very cold.
+
+Project Loon is part of Google's secretive X division.
+
+It works on ideas that seem crazy but could have a lot of success.
+
+Other projects include Google's self-driving car and the wearable computing device called Google Glass.
+
+Google has been working on Loon for nearly two years.
+
+It only recently told everyone about it.
+
+"Our goal is to provide Internet service to people in areas that can't afford" usual Internet lines or towers,  Ponda said.
+
+The company hopes to reach that goal "in a few years."
+
+The idea calls for hundreds or even thousands of balloons.
+
+They will float twice as high as most jets fly, in a circle around the Earth.
+
+It may sound simple to explain.
+
+But is is really difficult to do.
+
+The wind makes the balloons move.
+
+So Google came up with a way to raise or lower the balloons.
+
+The system lets the balloons catch the air currents needed to keep them floating just the right distance from each other.
+
+They also need to stay in line so if one floats out of range from Internet users, another will come along and take its place.
+
+Controlling the balloons is a big math challenge, DeVaul said.
+
+So it is a good thing Google has a lot of computer experts and powerful computers, he said.
+
+Of course, Google wants more people using the Internet.
+
+The company makes most of its money by showing ads to people who use Google's online services.
+
+And it makes a LOT of money.
+
+But Project Loon is aimed at "a very real problem," said Richard Bennett.
+
+He is an expert on the Internet and society.
+
+Two-thirds of the world cannot get to the Internet regularly, he said.
+
+They are considered below "the digital divide."
+
+The idea could work, Bennett said.
+
+But who will pay for the balloon network?
+
+Google has not given many details about its plans.
+
+Bennett said Google may hope that cell phone companies and others will take up the idea if Google can show it is a money-maker.
+
+Back at the launch site, project launch commander Bill Rogers and other members of his crew loaded their trucks.
+
+They were going to track the radio signal soon after the balloon was in the air.
+
+This balloon was made to travel only about 150 miles before returning to the ground.
+
+Rogers planned to track it down and bring it back.
+
+But in case someone else found it first, the plastic foam box holding its electronic gear carried a label.
+
+It said, "Harmless Science Experiment."
+
+Another provided a phone number to call.
+

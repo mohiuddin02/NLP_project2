@@ -1,0 +1,73 @@
+WASHINGTON — When 911 dispatchers get a call that someone has collapsed and stopped breathing, they quickly notify first responders. In hundreds of communities across the U.S., they now also send out a smartphone app alert summoning citizens trained in CPR.
+
+If those Good Samaritans arrive at the scene first, they can start resuscitation efforts until the professionals get there.
+
+The mobile app is called PulsePoint, and it was devised to aid victims who have suffered cardiac arrest. It's one of a number of apps that rescue workers, hospital staffers and patients themselves are using to try and improve responses to health emergencies and help save lives.
+
+PulsePoint has helped save lives in cities such as Cleveland, where about 4,000 people have downloaded the app in the last year and 36 citizens have responded to almost three dozen calls — including one Good Samaritan who helped save the life of a man who collapsed in traffic court.
+
+"Apps used by citizens who want to help give them a way to be part of the structure of the emergency response program," said Thomas Beers, emergency medical services manager at the Cleveland Clinic and coordinator for PulsePoint in the Cleveland area.
+
+Some of the emergency apps that have been developed in recent years are designed to assist responders in monitoring patients or feeding information to hospital emergency rooms. Others are aimed at helping people alert authorities if they're having a health crisis.
+
+A software developer in Falls Church, Virginia, for example, created the free 911HelpSMS app, which informs a user of where he is located before he calls 911 in a medical emergency. It also instantly texts multiple family members and gives them the person's GPS location.
+
+Another free app called EMNet finderER was developed for Massachusetts General Hospital. It allows users, including sick people, EMTs, doctors and caregivers, to quickly locate the nearest hospital in an emergency, whether they're in a part of town they're not familiar with or they're on vacation.
+
+"We've received great feedback from EMTs who have used the app on long transports when the patient gets unexpectedly worse and needs to go immediately to the nearest ER," Dr. Carlos Camargo, a professor of emergency medicine at Mass General and Harvard Medical School, said in an email. "We've also heard from parents of children with food allergies, thanking us for creating the app that saved their child's life."
+
+The PulsePoint app was the brainchild of Richard Price, former fire chief of the San Ramon Valley (California) Fire Protection District. It was developed through collaboration between the district and Northern Kentucky University, and uses citizen crowdsourcing to assist patients who suffer cardiac arrest.
+
+During cardiac arrest, the heart suddenly and unexpectedly stops beating, blood stops flowing to the brain and other vital organs, and the victim is unconscious. If not treated within minutes, it usually results in death, according to the National Institutes of Health.
+
+Sudden cardiac arrest differs from a heart attack, in which the blood flow is blocked, but the heart usually doesn't stop beating and the person remains conscious.
+
+Every year, more than 326,000 people who were not in a hospital experience cardiac arrest, according to the American Heart Association. Ninety percent of them die. But if effective CPR is administered within three to five minutes, it can double or triple a victim's chance of survival.
+
+The association recommends that bystanders try to provide "hands-only" CPR — which involves chest compressions without mouth-to-mouth breaths — if they see a teen or adult collapse suddenly. The group says that any attempt is better than none.
+
+PulsePoint was first released in 2010, and the number of cities that have signed on — including Las Vegas, Madison, Wisconsin., and Orlando, Florida — has grown to more than 1,100 in 22 states, according to Shannon Smith, spokeswoman for the nonprofit foundation.
+
+Here's how it works: Once emergency dispatchers get a call about a suspected cardiac arrest in a public place, they activate an alert to PulsePoint app users at the same time they send out first responders. Users are notified if they're within a certain distance, generally about a quarter of a mile, and if the victim is in a public location.
+
+The app also directs citizen responders to the place where they can find the nearest publicly accessible defibrillator, a device that sends an electric shot to the heart to try to restore its normal rhythm.
+
+The app is free for users, but public safety agencies initially pay $10,000 for installation costs and between $8,000 and $28,000 a year for a licensing fee, depending on the size of the area's population.
+
+Smith said that so far, PulsePoint has been activated more than 4,000 times and more than 10,000 citizens have responded.
+
+Among the success stories was that of a 56-year-old Oregon man, who collapsed in his car outside his gym, and a 5-week-old baby with an enlarged kidney in Washington state, who went into cardiac arrest at a ballet shop where his sister was getting a tutu.
+
+"Being able to arm CPR-trained citizens with a tool to locate someone in distress, as well as the nearest defibrillator, strengthens the person's chance of survival," Smith said.
+
+Jeff Helm, division chief of EMS for Sioux Falls (South Dakota) Fire Rescue, said that when his department first launched PulsePoint more than two years ago, some residents raised questions about potential liability and patient privacy issues.
+
+But Helm said neither turned out to be a problem because citizen responders who assist during a medical emergency are protected from liability under Good Samaritan laws, which every state has enacted, and they're attending to victims in public places and aren't even aware of their names or other personal information.
+
+Helm said that the app has gotten a lot of positive feedback from his community, where more than 10,000 people have downloaded it.
+
+"It keeps the public engaged," he said. "Everyone has a smartphone nowadays, and now we have an avenue to get them to the right place at the right time."
+
+In Fargo, North Dakota, about 2,500 people have downloaded the PulsePoint app, said Gary Lorenz, an assistant fire chief.
+
+"We're very supportive of it," Lorenz said. "Anything we can do to help save somebody's life is good."
+
+Emergency responders say they are more than happy that apps are being created to help them do their jobs better.
+
+"We're all for any app technology that can make the process more efficient and effective," said Lori Moore-Merrell, who heads the research division of the International Association of Fire Fighters, which represents about 300,000 professional firefighters and paramedics. "If these apps can get a bystander to engage in CPR, or help us get there faster or better communicate with the hospital prior to arrival, we're absolutely supportive of that."
+
+Unlike PulsePoint, most emergency health-related apps don't just target one type of medical crisis. The ICEBlueButton app, for example, lets users store information on their smartphone that can be used during any medical emergency. That can include their doctor's name, emergency contacts, allergies, medications and medical conditions. A bar code then is generated that can be accessed on the phone's lock screen and scanned and downloaded by emergency responders, using a scanner app.
+
+ICEBlueButton, created by Humetrix, a California-based IT company, is free. But users also can pay a monthly fee to have the app send an email to their emergency contacts, letting them know when and where it was scanned. They also can buy stickers containing the barcode that can be placed on a child's bike helmet, skateboard or car seat.
+
+Another app, Twiage, allows first responders to instantly and securely send patient information from the ambulance to the hospital, including photos, videos and EKG results. The information appears on a computer screen at the emergency room, along with the GPS-tagged estimated time of arrival.
+
+The app, which was developed by a startup company in Cambridge, Massachusetts, is free for emergency responders. Hospitals that get the data pay a subscription fee, said YiDing Yu, a physician who co-founded Twiage.
+
+Yu said that across the country, ambulances still use radios and phone calls to alert hospitals, which can lead to errors and delays in treatment. The app was created to help hospital physicians better prepare and accelerate care for patients who've suffered strokes, heart attacks or major trauma.
+
+Moore-Merrell of the international firefighters group said that any apps that can improve communications between first responders and ER doctors are well worth it. "Bring it on," she said. "It's a home run."
+
+But Moore-Merrell also cautioned that those in her profession shouldn't think of all these emergency health care apps as the be-all and end-all.
+
+"With any technology, we can't be so dependent on it that if it goes down, we're in trouble," she said. "We always need to be prepared to do what we do without technology."

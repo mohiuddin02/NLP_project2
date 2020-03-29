@@ -1,0 +1,96 @@
+Moving her finger over the laptop trackpad, 6-year-old Lauren Meek drags and drops a block of code to build a set of instructions.
+
+She clicks the "run" button and watches as the character moves through a maze.
+
+She then pumps her fist in excitement.
+
+"Yes!
+
+This is so easy," says Meek, a kindergartener at Marshall Elementary in Marysville, north of Seattle.
+
+This fall, most elementary school students in the Marysville School District are getting 40-minute weekly computer science lessons as part of their core instruction — part of a growing effort nationwide to expose more public school children to computer science, even as early as in kindergarten.
+
+Backed by technology leaders, nonprofits and companies, schools in New York, San Francisco and other cities have committed to offer computer science to students in all grade levels.
+
+Chicago also says computer science will eventually become a high school requirement.
+
+Supporters say it's not just about learning how to code, but learning how computers work.
+
+They say computer science teaches kids to think logically, be creative and exposes them early to the technology that will drive their future.
+
+"In the 21st century, computer science is just as foundational as biology, chemistry," said Hadi Partovi, founder and CEO of Code.org, a Seattle-based national nonprofit that works to expand access to computer science and increase participation by women and minorities.
+
+The group is also behind a campaign to get millions of students to participate in an "Hour of Code," which takes place next week.
+
+Bringing computer science into the schools ensures that everyone has an opportunity to become digitally literate, said Yasmin Kafai, a professor of learning sciences at the University of Pennsylvania's Graduate School of Education.
+
+"We're not talking about turning everybody into a computer programmer or computer scientist," said Kafai.
+
+"It's a basic literacy."
+
+Learning computer science also opens the door to high-demand jobs.
+
+By 2020, 4.6 million of 9.2 million science, technology, engineering and math jobs will be in computing, according to the U.S. Bureau of Labor Statistics.
+
+Jim Taylor, author of "Raising Generation Tech," says there's no evidence at this point that coding or computational learning works or is even needed.
+
+Kids don't need to learn how to use digital technology at such a young age either, he added.
+
+"Technology is the solution du jour for all our education problems.
+
+The problem is that technology emerges so quickly and gains traction that we don't have time to examine its efficacy or ramifications," Taylor said.
+
+Computer science doesn't enjoy the benefits of other disciplines, including agreed-upon standards or robust assessments to measure learning, said Jeanne Century, director of Outlier Research & Evaluation at the University of Chicago's Center for Elementary Mathematics and Science Education.
+
+But it's the same argument as for science and math, she said.
+
+There are practical issues, such as more jobs requiring computer science.
+
+"Just as important is the fact that computing is everywhere in our lives," Century said.
+
+"It's pervasive all around us.
+
+We need to understand computing."
+
+One of the challenges is finding enough well-prepared teachers.
+
+Among other efforts, an initiative of the National Science Foundation is seeking to have 10,000 well-trained computer science teachers in thousands of high schools.
+
+Currently, computer science is taught in only about 1 of 4 high schools nationwide with fewer in lower middle and elementary school grades.
+
+Only 27 states allow a computer science course to be counted toward graduation requirements in math or science, according to Code.org.
+
+But there's been a surge in interest in recent years.
+
+In 2015, nearly 49,000 students took the Advanced Placement exam in computer science, a 25 percent increase from the previous year.
+
+"Colleges are saying, 'There's an incredible demand.
+
+We'd like to see more students become better prepared when they get here'," said Terry Redican, vice president of the Advanced Placement program at The College Board.
+
+A new AP computer science principles course debuts next fall.
+
+That exam is designed to be multidisciplinary, focused on real-world applications and aimed at increasing representation among women and underrepresented minorities.
+
+At Marshall Elementary, where more than half the students are low income, Principal Kelly Sheward embraces computer science as an opportunity.
+
+"It's access that we didn't previously have," Sheward said, and ensures the kids will be as prepared as their peers are for the digital future, she said.
+
+During a recent lesson using Code.org curriculum, teacher Sheena York asks a class of fifth-graders to identify the pattern in the computer puzzle and solve it by using the fewest steps.
+
+She urges them to try different strategies, test their work as they go along, and ask each other for help.
+
+"I'm figuring this out piece by piece to see if this works," said Isiah Gibbs, 10.
+
+"That doesn't work.
+
+So I'll try something else."
+
+In the lower grades, students may learn about algorithms, or a set of instructions, such as steps in a baking recipe.
+
+Older students may write programs that create a game or an interactive story.
+
+Many lessons don't involve computers, and math and other concepts are integrated into the lesson, York said.
+
+"It's almost as important as reading and math," fifth-grade teacher Hank Palmer said.
+

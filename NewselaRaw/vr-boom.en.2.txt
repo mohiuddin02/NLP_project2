@@ -1,0 +1,39 @@
+SAN JOSE, Calif. — The beauty of virtual reality (VR) is that it can take users to new places. Putting on a headset allows you to step through a digital door into different worlds.
+
+Earlier this month, two big companies in the VR business announced their new technology. Oculus released more information about its VR headset. Sony also provided more details about the launch of its own VR headset, known as Project Morpheus.
+
+This technology is supposed to be available for sale in 2016. Before this can happen, a few major problems need to be fixed.
+
+Jack McCauley is the inventor of the Oculus headset. Oculus began in 2012. Since then, it has established itself as one of the VR industry leaders. It was so successful that the company was purchased by Facebook for $2 billion last year.
+
+McCauley guided the progress of the Oculus headset from start to finish. He fixed many problems it had with head-tracking technology. This is a technology that allows the VR software to determine where the user's head is located in virtual space. McCauley has also fixed problems with the liquid crystal display (LCD) screens used in the device. Many other problems with the VR technology still remain, however.
+
+## VR Headsets Can Be Powerful ... Or Sickening
+
+VR headsets can sometimes make their users sick. McCauley said this feeling occurs because of the difference between what your eyes are seeing and what your ears are feeling and hearing. Our ears and eyes work together to keep our body balanced. If one of these senses experiences something different than what the other experiences, it can sometimes make us feel ill.
+
+When done correctly, VR can produce a wonderful sense of speed and power. When it is not done correctly, VR can make a user very sick. McCauley thinks Oculus can solve these problems.
+
+There is also a problem with the pixels. Pixels are the smallest building blocks of any digital image. It takes many of them to make a single image. Because the screen is so close to a player's eyes in VR headsets, users are able to see the individual pixels that makes up images. It can be like looking through a screen door. This ruins the experience of entering into the virtual world.
+
+## Tweaking Hardware, Software Will Take Time
+
+The problems of VR technology have to do with the hardware of the headsets and the software of the computer programs. Game developers must learn new ways to make games that end motion sickness and improve gamer experience.
+
+This will take some time. Nick Whiting is the head game creator at Epic Games. He said his team has found that it is best to have an object near the user at all times. This gives users a frame of reference for distance in the virtual world and makes them less nauseous.
+
+Developers also need to be able to guide a player's eyes. They will be using spatial 3-D audio to do this. This is a technology that allows VR headsets to make users believe they are in a 3-D world, hearing things they can't necessarily see, like surround sound in movies. Audio technology will be used alongside physical touch signals from controllers. A rumble from a controller can even make players' brains believe they fired a gun.
+
+VR headsets don't work well with every type of video game. Flight and racing games work well with VR, but the same cannot be said for first-person shooter games, which move a bit too fast for current VR technology.
+
+"They will have to be reinvented," said Richard Marks, one of the lead game developers at Sony.
+
+## VR Can Connect From Afar
+
+Aside from video games, there is also opportunity to use VR technology to connect people who live long distances apart. VR gives users a sense of physical presence. Two friends who are hundreds of miles away can feel like they are right next to each other in the virtual world.
+
+There is also potential to use this technology in the worlds of architecture and music. Instead of an architectural company showing customers models or still images of buildings, the customer can put on a headset and go on a virtual tour.
+
+Someday, it might even be possible to to attend concerts through VR so viewers can feel as though they were at the show.
+
+VR will bring people to all kinds of "cool spaces," Marks says.

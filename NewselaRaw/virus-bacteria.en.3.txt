@@ -1,0 +1,49 @@
+LIVERMORE, Calif. — Imagine this: Your head aches, you're congested and simply getting out of bed is a chore. You pay a visit to your doctor, and within minutes he knows exactly which virus or bacteria is making you sick. This allows him to give you the right medicine right away.
+
+How does he find out so quickly and easily what's wrong with you? First, he takes a simple cheek swab — like a Q-tip — and rubs it inside your mouth. Then he places the swab in a tiny box. A few minutes later, he knows exactly what's giving you the sniffles.
+
+Sure, it sounds like something from "Star Trek." But it may become common within 10 years, according to chemical engineer Elizabeth Wheeler.
+
+Wheeler heads up a team of scientists who are developing a way to recognize bacteria and viruses that cause disease quicker than ever before. The key: obtain some of the DNA of the bacteria or virus.
+
+## Copying DNA Strands ...
+
+DNA holds the code to every cell in your body. And it tells cells what to do.
+
+Wheeler's team rapidly copies the DNA they find. That way, there's enough DNA to tell what's causing your illness.
+
+"It's basically like you're Xeroxing it," Wheeler said. Once you've got enough of it, you can tell what it is, she says.
+
+The method they use is called polymerase chain reaction (PCR). It was discovered in 1983. Since then, it's been used for various purposes: identifying human remains, food safety, and finding bacteria.
+
+DNA has two strands, or sections. When the PCR method is used, a special enzyme is added to a DNA sample. The DNA is then heated up to 202 degrees. The heat causes the strands to break apart. When this happens, the enzyme "fills in" the opposite strand, and a new piece of two-stranded DNA is formed.
+
+Presto: Where there was only one piece of DNA, now there are two.
+
+## ... For Fast Diagnosis
+
+The sample is then cooled down, and heated up all over again. Each time this happens, the amount of DNA is doubled. Once this has been repeated 30 times, the DNA sample reaches a size where it can be identified.
+
+The whole thing takes about three minutes. It uses a device the size of two toasters stacked on top of each other.
+
+Wheeler said the project's goal is to have Fast PCR devices in every doctor's office. This would allow patients to have a sample looked at during their checkup. Doctors would be able to decide on the right treatment before the exam was over.
+
+The whole process would take about as much time as microwaving a bag of popcorn.
+
+"Everyone's been frustrated when you go in and it's like, 'is it a virus or a bacteria,'" Wheeler said. "You could run this and they can say, 'Yep, you have a bacterial infection, here's the antibiotic,' or 'it's a virus, go home and rest.'"
+
+## Speeding Up The Process
+
+Dr. Stephen Bustin is an expert on PCR. The process once took hours, he said. Now, it is done in tens of minutes.
+
+Growing the DNA now takes only three minutes. But other preparations make the whole process longer. Within a year or two, he adds, getting results in less than 10 minutes will become common.
+
+Wheeler's team has been working on Fast PCR since 2010. It has sped up the DNA-growing part to less than three minutes.
+
+It works like this: Cold water is run over a copper platform which holds the tiny samples. This causes the temperature to quickly drop to 131 degrees. Next, the platform is heated back up. They repeat the process 30 times. Finally, the results are compared with different types of viruses and bacteria.
+
+The process is pretty quick now. But Wheeler thinks it can go even faster. Soon, she said, the entire process will take less than 10 minutes.
+
+Dr. John Leamon is a scientist at a health care company. He thinks Fast PCR could be a valuable tool in other areas as well. It could be used to find biological weapons. Or to check food supplies and crops. Scientists could take a food sample and quickly test it for harmful bacteria.
+
+PCR also could be useful during outbreaks of diseases like SARS. Scientists would be able to test passengers entering the country within minutes. That way, passengers would no longer need to be quarantined for days or weeks.

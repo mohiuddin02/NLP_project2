@@ -1,0 +1,49 @@
+TRACY, Calif. — Investors and entrepreneurs behind some of the world's newest industries have started to put their money and tech talents into farming — the world's oldest industry — with an audacious agenda: to make sure there is enough food for the 10 billion people expected to inhabit the planet by 2100, do it without destroying the world and make a pretty penny along the way.
+
+Silicon Valley is pushing its way into every stage of the food-growing process, from tech tycoons buying up farmland to startups selling robots that work the fields to hackathons dedicated to building the next farming app.
+
+"The food sector is wasteful and inefficient," said Ali Partovi, a Bay Area investor with large stakes in sustainable agriculture startups. "Silicon Valley has a hubris that says, 'That's stupid. Let's change it.'"
+
+The booming activity around the so-called "ag-tech" sector has led experts to predict that its growth, in terms of the number of new startups and venture capital investments, will in another five or so years outpace today's hottest technologies. In the third quarter this year, venture capitalists (VCs) and private equity firms invested $269 million into 41 deals in agriculture and food startups, the highest dollar amount ever in that sector and double the amount invested during the third quarter last year, according to data from Cleantech Group. Since 2009, investments into this sector have grown an average 63 percent every year.
+
+"It's going to be bigger than cloud software, it's going to be bigger than Big Data, because everybody eats," said Paul Matteucci, a partner with U.S. Venture Partners and founder of Feeding 10 Billion, a nonprofit center to help ag-tech entrepreneurs. "And it's going to be completely entrepreneur led."
+
+Dozens of companies are creating technology to make farmland more productive and farming more efficient, using robots to trim lettuce or software to calculate grass production for cattle grazing. Others are tapping technology to find substitutes for meat, cheese and eggs, so less land is used to raise livestock, fewer greenhouse gas-spewing trucks are used to transport them, and fewer animals are subject to inhumane slaughter. VCs have propped up startups such as Hampton Creek, which sells mayonnaise and cookies that use plant products instead of eggs, and Impossible Foods, a Redwood City company making hamburgers and cheese without meat or dairy.
+
+And Silicon Valley isn't just making technology for farms. Some of its highest-profile investors are buying farmland to have a hand in how farmers work their fields and influence the type of food that's available for future generations. San Francisco-based Farmland LP, which buys farms and converts them into organic pastures that crop farmers and cattle and sheep ranchers share, has attracted some of the valley's wealthiest investors, including Partovi, early PayPal investor and entrepreneur Scott Banister and former Facebook and Zynga executive Owen Van Natta. But the draw is more than a happy vision of free-roaming cows — many investors see farmland as a safe investment to balance volatile tech investments.
+
+Farmers, for the most part, have welcomed Silicon Valley techies into their world of planting seasons and water woes. From Salinas to Fresno to Tracy, California farmers are increasingly tech-minded, running their fields from iPads and tracking soil moisture and nitrogen levels with cloud software programs, and they are hungry for more tech solutions that will bolster their land's productivity and their bank balance.
+
+"There is a kind of renaissance in technology in agriculture right now," said Ryan Jacobsen, a farmer and executive director of the Fresno County Farm Bureau. "The technology is becoming more mainstream because more and more people believe that it will help them produce more. These technologies actually do make a difference on your bottom line. It's an exciting time to be a farmer right now."
+
+In many ways, agriculture is an industry ripe for a Silicon Valley shake-up — farms were historically on the forefront of manufacturing innovation, and farmers have long embraced new technology. But farmers and tech startups, living in separate worlds with very different financial resources and cultures, have only recently seen each other as an asset because of a number of economic, tech and social factors that collided in the last few years.
+
+During the recession, California agriculture remained one of the only bright spots in the state's floundering economy, and while housing prices tanked, farmland value increased — and investors noticed. With heightened attention to the state's three-year drought, climate change and the world's swelling population, the prospect of food shortages has become a more imminent problem, grabbing the attention of entrepreneurs who want to build something other than yet another social media app. Meanwhile, technology got cheaper so more small- and medium-size farmers could buy it.
+
+"Sometimes a good idea takes hold and everyone wakes up at once," said Roger Royse, a Palo Alto attorney and founder of the newly launched Royse Law Ag Tech incubator. "It just took a while for Silicon Valley to wake up. I mean, it's not as sexy as some of the other things you hear about; it's not the sharing economy."
+
+Another turning point came in 2013 when Monsanto, one of the largest suppliers of herbicides and genetically modified seeds, bought San Francisco-based weather data and insurance startup Climate Corporation, which was started by ex-Google employees, for $930 million.
+
+"That was an 'aha' moment," said Rob Trice, a 14-year venture capitalist in Menlo Park who founded the Mixing Bowl, a hub of ag-tech thinkers and entrepreneurs. "Here was one of the largest ag companies buying an IT company in Silicon Valley."
+
+It became clear, he said, that farmers and tech startups could serve each other well. Blue River Technology in Sunnyvale has created a machine that uses digital imaging and powerful software to trim lettuce 100 times faster than people. Farms that use the machine, which include the Foxy lettuce brand, have increased their yields by 10 percent, said CEO and co-founder Jorge Heraud. The company raised $10 million this year from VC firms.
+
+Because these machines have replaced human labor, said Heraud, some migrant workers will have to find new jobs. That's one of the pitfalls — as more technology is introduced to farming, jobs will be cut. That could deter immigration to places like the Central Valley, which makes much of the nation's food on the backs of migrant workers and has already seen a labor shortage due to U.S. economic problems and the crackdown on undocumented workers.
+
+"The task of automation has always been about doing the jobs that humans do," Heraud said. "There will be jobs cost (but) society generally benefits when productivity is increased."
+
+Improving farm productivity is also the goal of Farmland LP, a private equity fund that owns and manages about 7,000 acres of farmland in Oregon and California. The land is rented to farmers, who rotate a diverse group of crops and livestock so the land is never depleted and generates revenue every season. At Burns Farm, a 4,240-acre farm in Tracy, one of Farmland's newer projects, a special clover and grass mix that Farmland scientists planted helped Florence Cubiburu raise some of her plumpest lambs in years, she said during this newspaper's trip to the farm last month
+
+"I was a little bit skeptical," Cubiburu, who owns Cubiburu Livestock, said of Farmland's approach. But "our lambs had plenty of weight gain. This land is really productive now."
+
+Some Farmland LP investors say they get roughly an 8 percent return; a fraction of what they'd get from hot tech stocks, but farmland isn't at risk of shutting its doors when the next tech fad rolls through.
+
+"Farmland is more of a safe way to invest your savings," Partovi said. "Farmland isn't going to disappear. Dropbox could disappear." Partovi is an early Dropbox investor.
+
+Some experts, however, worry that deep-pocketed investors will hasten the uprooting of longtime family farmers and gut rural economies, which have already been hit hard by the growth of big ag and urban development.
+
+"The middle-size guys are being squeezed out and that's very concerning to us," said Chandler Goule, senior vice president of projects at the National Farmers Union.
+
+Meanwhile, the number of startups focused on easing the environmental impact of ag practices and improving animal welfare is growing. San Francisco-based Hampton Creek, which raised $23 million earlier this year, has studied some 6,000 plants to find replacements for animal products used in popular prepared foods. Experts say reducing the quantity of animals raised for food could also reduce outbreaks of food-borne illnesses, which spread easily when many animals are slaughtered together, and the use of antibiotics and hormones used to increase food production.
+
+"We definitely don't think that agriculture is bad," said Josh Tetrick, Hampton Creek's founder and chief executive. "There are things in the system that are radically misaligned with farmers' values. Usually the food that most people buy that's really cheap is really bad for the body and the land. We imagined a world that was exactly the opposite."

@@ -1,0 +1,57 @@
+SEATTLE, Wash. — When she came to the University of Washington (UW), Siena Dumas Ang was planning to major in dance and math, her two passions. She never thought she would fall in love with computer science.
+
+However, after taking a few classes in computer science, she found herself embracing a new subject.
+
+Computer science "takes all of the aspects of math that I really love, and puts them all in a nice, pretty package," Dumas Ang said. The things you can compute using computer science are "insane," she added.
+
+This spring, Dumas Ang will graduate with three majors: math, dance and computer science.
+
+## Well Above The National Average
+
+Computer science is a general term. It can cover a wide range of skills and knowledge: programming, algorithms, computation, artificial intelligence, hardware, networks, robotics and many others.
+
+In the past, computer science was a field dominated by men. But that is changing.
+
+Dumas Ang is one of dozens of undergraduate women at UW who will receive a computer science degree this spring. Overall, 32 percent of the bachelor's degrees in computer science at the university will go to women this year.
+
+There's still room to improve, but the university is doing much better than the national average of 14 percent, said Ed Lazowska of UW's Computer Science and Engineering Department (CSE)
+
+Partly because of this, the university is receiving an award for enrolling more women undergraduates in computer science. The award is given by the National Center for Women &amp; Information Technology. It comes with a $100,000 prize funded by Google.org, a part of Google.com that gives money to charitable causes.
+
+The university has made efforts to recruit women to the program and then keep them there. The school's efforts have encouraged more women to study computer science, Lucy Sanders of the National Center wrote in a letter announcing the prize.
+
+The University of Washington provides a "welcoming community," Sanders wrote. It has "advanced women's meaningful participation in computing."
+
+## Tech Talks And Coding Competitions
+
+Dumas Ang experienced that welcoming community firsthand. She was able to work with a significant number of women computer science professors.
+
+Through UW, she attended the Grace Hopper Celebration of Women in Computing — a national conference that honors the life of Hopper, a U.S. Navy rear admiral and early computer programmer. Hopper's work helped develop early computer languages such as COBOL.
+
+UW student Jasmine Singh always planned to major in computer science. When she came to the Seattle campus, the computer science department paired her with a female upperclassman majoring in the field. Her mentor helped Singh adjust to college and gave her advice on classes to take. Singh is now a senior double-majoring in computer science and electrical engineering.
+
+"There are female professors, tech talks performed by successful and intelligent women, coding competitions with plenty of female participants and hosts, and sports teams (such as CSE frisbee) that encourage women to join," Singh said.
+
+Women may avoid computer science because they see it as a "combative, aggressive, male-dominated environment," Dumas Ang said. However, that's not what she found at the university.
+
+"Here, there's much more open discussion about the way women are treated," she said. "There's always going to be people who have a gender bias, but overall the experience in this department is really pleasant."
+
+## "They Loved Computer Science"
+
+Young women often do not get a chance to take computer science classes in high school, Lazowska and Sanders said. When they get to college, these young women hear male students talk about computer technologies they've never heard of. They may already believe they've fallen behind.
+
+That was Singh's experience. Even though she took computer science in high school, "there were still times I felt inadequate compared to male students that seemed to speak in CS (computer science) jargon that went over my head," she wrote in an email.
+
+At the University of Washington, introductory computer science courses are designed to be challenging, but supportive. The classes emphasize hard work over previous computer science experience.
+
+Lazowska pointed out that these classes seem to be having a positive effect. Of the UW women who enroll in an introductory computer science course, and later decide to major in the field, 58 percent said they had not been planning to major in computer science.
+
+In other words, the introductory courses convinced them. Many women who took the classes "discovered they loved computer science and were great at it," Lazowska said.
+
+## UW's Growing Computer Program
+
+Computer science is an expensive major to teach. Many schools — including UW — limit the number of students admitted. However, the program at UW is growing, in part because of more money from the Washington state government. The university will graduate 233 computer science students this year. Three years ago, it graduated 160.
+
+Lazowska said many other schools start with introductory computer science classes that are so difficult many students fail out. He fears this strategy reduces the diversity of computer science students. Less diversity will hurt the field of computer science as a whole, he said.
+
+"The people you're going to weed out are precisely the people who are already underrepresented," he said.

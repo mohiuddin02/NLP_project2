@@ -1,0 +1,37 @@
+Most of us have experienced what is called writer's block at some point. We will sit down to write, paint or make music only to find we can't get the creative juices flowing. Most frustrating of all, the more effort and thought we put into it, the harder it becomes. Now at least, neuroscientists who study the brain might have found a clue about why it is so difficult to force that creative spark.
+
+Researchers at Stanford University recently set out to explore the origins of creativity in the brain and came up with surprising findings. Their study was published May 28 in Scientific Reports, a magazine for scientists. It suggests that the cerebellum, the brain region typically known for controlling muscles and movement, is also involved in creativity. If so, the discovery could change our understanding of the neurological methods behind some thought processes.
+
+## Playing Games With Our Brains
+
+The cerebral cortex is the brain's outer layer of tissue. There is a scientific belief that it is the part of the brain that "makes us human." There are two parts of the cortex. It is also believed that these two sections set apart creative thinkers (the "right-brained") from logical thinkers (the "left-brained").
+
+About 3 1/2 years ago, Grace Hawthorne wanted to do an experiment. She is a professor of design at Stanford University Institute of Design, known as the d.school. She approached Allan Reiss, a behavioral scientist at Stanford's School of Medicine. Hawthorne wanted to find a way to objectively measure whether or not her design class improved students' creativity. Reiss, inspired by the word game Pictionary, developed an experiment.
+
+## Just Don't Think About It
+
+Participants in the study were placed into a functional magnetic resonance imaging machine, or fMRI. This machine can produce images of the brain by using magnets and radio waves to detect blood flow in the brain. While inside the machine, the participants were asked to draw a series of pictures based on action words like vote, exhaust and salute. They had 30 seconds for each word. They also drew a zigzag line to establish baseline brain activity for the task of drawing. This was used for comparison — a typical tool used in experiments known as a "control."
+
+The participants later ranked each word picture based on its difficulty to draw. Then researchers at the d.school scored them on a 5-point scale of creativity, and researchers at the School of Medicine analyzed the fMRI scans for brain activity patterns.
+
+Surprisingly, the results showed that the prefrontal cortex, traditionally associated with thinking, was most active for the drawings the participants ranked as most difficult. Even more surprisingly, the cerebellum was most active for the drawings the participants scored highest on for creativity. Essentially, the less the participants thought about what they were drawing, the more creative their drawings were.
+
+Manish Saggar, a psychiatrist at Stanford and the study's lead author, summarized the findings: "The more you think about it, the more you mess it up."
+
+## Cerebellum Has A Lot Going On
+
+If the cerebellum plays a role in creativity, it could change our understanding of how the brain works. The traditional belief that the cerebellum is involved only in motor control comes from studies on monkeys. The studies indicate it is a separate structure at the base of the brain that is not connected to the rest of the brain. Recent studies in human brain structure, however, have shown something different. They indicate that over the course of human development the cerebellum established connections with many different brain regions.
+
+The findings may show that the different brain regions are interconnected. They may demonstrate the need to develop new neurological models of higher cognition, including creativity.
+
+In particular, the study provided evidence for the "practice-makes-perfect" method of brain activity. We know, for instance, that the cerebrum's motor cortex is active when we are learning new movements. Then, the cerebellum is responsible for coordinating the movement. This frees up the brain's motor cortex to learn new things. Activity in the cerebellum decreased when study participants faced a challenging task. However, it increased when the task required little conscious thought. This supports the theory that the cerebellum works in cognition in much the same way it works in motor control.
+
+## What Exactly Is Creativity?
+
+The study did have a number of limitations, however. First, there is little agreement in the scientific community about how to define creativity. So, to objectively measure creativity researchers must develop a clear definition of it.
+
+Second, because the cerebellum is associated with motion "the creativity of the drawings could have been correlated to the complexity of the physical movements required to draw them," says John Kounios, a cognitive neuroscientist at Drexel University. He was not involved in the study. The control used in the experiment, drawing a zigzag, was probably less difficult than the drawings of the words. Future experiments should attempt to match the creative tasks more closely with the control.
+
+Finally, the study measured only visual creativity. To better understand specific brain regions' involvement in creativity, future research will have to examine brain activity patterns associated with other forms of creativity, such as making music or verbal creativity.
+
+Hopefully the Stanford experiment can be replicated and refined. Then it will have advanced our understanding of the cognitive neuroscience of creativity and other forms of higher cognition.

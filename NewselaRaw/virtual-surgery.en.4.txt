@@ -1,0 +1,41 @@
+MINNEAPOLIS — Doctors are using simulators that let them practice surgeries. They don't actually cut anyone open. They do practice surgeries on body parts. But the body parts aren't real. They're made with fake parts.
+
+The practice surgeries show up in 3-D on a screen so the doctors can see what they're doing.
+
+They use them to better their surgical skills. They practice for tough cases. And they are working with companies that make the simulators. The plan is to make new software to train new doctors.
+
+It might be the biggest change in medical training since the early 1900s.
+
+## Like A Video Game
+
+The doctors hope to build models that look like real bodies. They will allow medical students to get hands-on practice. They will be able to learn from their mistakes. And they won't harm patients, said Dr. Robert M. Sweet. Dr. Sweet runs the University of Minnesota's Medical School Simulation Programs.
+
+Soon, surgeons will be able to make models of their patients' diseased organs. Surgeons are doctors who cut patients open. This is called surgery. Surgeons will practice tricky surgeries before ever cutting the patient open.
+
+"Have you ever seen a pitcher not warm up before their first pitch, or a musician not warm up before they go on stage? Never!" Sweet said. "Why would a surgeon be any different?"
+
+Simulators also take down information to catch common mistakes.
+
+Simulators came along about 15 years ago. Before, the only way for doctors to get hands-on practice was to cut into living patients. They had to work under an older surgeon.
+
+Sweet said he got the idea for simulator training as he was learning how to do surgery.
+
+"I thought that there might be a good way to do it with a video game," he said.
+
+Sweet dropped by the one of the school's technology labs. He helped build a simulator. But early simulators were not very good. Ones being built now are much better.
+
+## High Tech Training Tool
+
+Yunhe Shen is a professor at the school. He is in charge of developing special math code. It will provide users with instant feedback. It copies what surgeons would feel and see if they were operating on a live patient.
+
+Simulators could play a big part in doctor training. Doctors often train in hospitals after medical school. But, they are limited in the number of hours they can work in the hospital. This is to stop mistakes that students make because they are tired. So, simulators could help them practice without making mistakes on real patients.
+
+Dr. Travis Pagliara is training to be a surgeon. He said the machines are incredibly lifelike.
+
+"I'm moving in every direction of space," he said. What he does with his body is actually what happens on the screen.
+
+Pagliara trained on a simulator before he stepped into the operating room. Then he had his first surgery. Sweet watched over him. Sweet said most first-timers last less than a minute. Then he has to take over.
+
+"Travis blew me away," Sweet said. He said that Pagliara had natural skills. But, he said the simulator made a big difference.
+
+Travis agreed. "I wouldn't have lasted 15 seconds if I hadn't done that," he said.

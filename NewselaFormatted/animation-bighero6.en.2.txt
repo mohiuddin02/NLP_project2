@@ -1,0 +1,120 @@
+"Big Hero 6" has been a success for Walt Disney Animation Studios in many ways.
+
+Audiences and critics loved it.
+
+It won an Oscar and sold more than $500 million in movie tickets.
+
+Still, 39,000 might be the more important number for Disney Animation.
+
+That's how many hours it took to make the computer software that made the movie possible.
+
+The software is called Hyperion.
+
+It makes the light in an animated film look more realistic.
+
+The light in the movie behaves like it would in the real world.
+
+This can make animated films more lifelike or give them a surreal look.
+
+Movies like "Big Hero 6," "Frozen" and "Finding Nemo" are made with computer animation.
+
+Computers are used to draw the characters and scenery and make it look like they are moving.
+
+Entertainment companies have been battling to develop the best technology to make the movies look realistic.
+
+One of Disney's rivals, DreamWorks Animation, has a research and development group of about 120 people.
+
+The group included scientists and technicians who used to work for NASA.
+
+That's the government agency that launches rockets and satellites.
+
+Pixar, which is owned by the same company as Disney Animation, has long been a company that breaks new ground.
+
+It produced the first feature-length computer-animated film — 1995's "Toy Story."
+
+Hyperion, though, could transform animation.
+
+"It's a major step for them," said Dan Sarto, co-founder and publisher of Animation World Network.
+
+"They are only as good as the tools they allow their artists to use."
+
+Computer-animated films are big business: In most years, a few of the top 10 box office hits are animated.
+
+Animated films also can spin off toys, clothes and other products that often bring in a lot of money.
+
+Disney Animation's "Frozen" made more than $1 billion.
+
+It has become a brand that has earned big money in several different ways for Walt Disney Company, which owns Disney Animation.
+
+Huge hits like "Frozen" are rare.
+
+Still, Hyperion is a powerful new tool for Disney Animation.
+
+The software was created to solve a problem.
+
+Disney Animation executives felt that none of the existing programs available to the company were advanced enough to create the world that the "Big Hero 6" filmmakers envisioned.
+
+The movie, directed by Don Hall and Chris Williams, was released in November.
+
+It tells the story of a robot, Baymax, and a young robotics expert, Hiro, who form a superhero group.
+
+They fight a masked villain in the futuristic city of San Fransokyo.
+
+The city, a mix of San Francisco and Tokyo, lies on a shimmering bay and is filled with towering skyscrapers and flashing neon lights.
+
+"We wanted to make sure we could get the air and light of San Francisco," said "Big Hero 6" producer Roy Conli.
+
+"I lived there years ago as a student, and I just remember the skies."
+
+The film's animation was praised by reviewers.
+
+Several flying scenes are filled with amazingly realistic uses of light.
+
+Without Hyperion, the movie would not have looked as beautiful and could not have delivered on the vision of the directors, said Disney Animation's chief technology officer, Andy Hendrickson.
+
+The new software is now being used by Disney Animation for its movie "Zootopia," which will be released in March 2016.
+
+It also was used for "Frozen Fever," a short film that features the characters of "Frozen."
+
+Before Hyperion, it was more difficult to show light in a computer-animated movie.
+
+Each ray of light had to be tracked individually.
+
+One scene could have multiple sources of light — the sun and indoor lights, for example.
+
+Each ray of light could then bounce off multiple surfaces, making it challenging to compute their paths and behavior.
+
+"When you shoot (lights) into scenes, they can split into thousands of rays," Hendrickson said.
+
+"Does it reflect right back if it came off a mirror?
+
+Does it scatter?
+
+Does it pick up the color of the object?
+
+You end up running out of computing power."
+
+Development of Hyperion took about 2 1/2 years.
+
+It began with an idea from software engineer Brent Burley.
+
+Burley suggested that organizing large groups of light rays into bundles would allow a computer system to handle calculations more efficiently.
+
+Using this method, a film could feature more lighting sources and make them look more realistic and detailed.
+
+Disney Animation decided to try out Burley's ideas.
+
+Producing the software began with four developers, but the number soon grew to 12.
+
+The decision to create Hyperion came with some risks Programmers were still coding it when "Big Hero 6" went into production.
+
+They raced to complete it just a few months before it was needed.
+
+If the software hadn't performed as Disney Animation hoped, production of "Big Hero 6" could have been in trouble.
+
+"This was a big risk," Sarto said.
+
+"But it will pay off for them.
+
+A tool like this allows them to spend more time art-directing how the film is going to look."
+

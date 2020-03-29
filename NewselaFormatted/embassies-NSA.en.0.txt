@@ -1,0 +1,106 @@
+The closing of U.S. embassies in 21 Muslim countries and a broad caution about travel during August that the State Department issued on Friday touched off debate Sunday over the National Security Agency's data collection programs.
+
+Congressional supporters of the program, appearing on Sunday morning television talk shows, said the latest warnings of unspecified threats showed that the programs were necessary, while detractors said there was no evidence linking the programs, particularly the collection of cellphone records of hundreds of millions of Americans, to the vague warnings of possible terrorist attacks.
+
+Meanwhile, there were no reports of violence or unusual activity in any of the countries where the United States kept its embassies and consulates closed when they would have ordinarily been open on Sunday.
+
+Nevertheless, the State Department announced that embassies and consulates in 16 countries would remain closed throughout the week, including four African nations that had not been on the original list.
+
+Diplomatic posts in five other countries would reopen Monday, the State Department said, including those in Afghanistan and Iraq, where terrorist attacks have been frequent.
+
+State Department spokeswoman Jen Psaki said the extended closings were ``not an indication of a new threat stream.''
+
+``Given that a number of our embassies and consulates were going to be closed in accordance with local custom and practice for the bulk of the week for the Eid celebration at the end of Ramadan, and out of an abundance of caution, we've decided to extend the closure of several embassies and consulates,'' she said.
+
+An official who had been briefed on the matter in Sanaa, the Yemeni capital, said the embassy closings and travel advisory were the result of an intercepted communication between Nasir al-Wuhayshi, the head of the Yemen-based Al-Qaida in the Arabian Peninsula, and al-Qaida leader Ayman al Zawahiri in which Zawahiri gave "clear orders" to al-Wuhaysi, who was recently named al Qaida's general manager, to carry out an attack.
+
+The official, however, said he could not divulge details of the plot.
+
+The last major attack by Al-Qaida in the Arabian Peninsula in Sanaa was in May 2012, when a suicide bomber killed more than 100 military cadets at a rehearsal for a military parade.
+
+"Al-Qaida is on the rise in this part of the world and the NSA program is proving its worth yet again," Sen. Lindsey Graham, R-S.C., said on CNN's "State of the Union."
+
+"This is a good indication of why they're so important," Sen. Saxby Chambliss, R-Ga., the top Republican on the Senate Intelligence Committee, said on NBC's "Meet the Press."
+
+Rep. Adam Schiff, D-Calif., a leading critic of the NSA surveillance, took the opposing position on CNN, saying the program that has raised the most opposition in Congress, the daily collection of cellphone metadata that detail numbers called, the calls' origins and the length of calls, appears to have had nothing to do with either the closing of the U.S. embassies or the travel advisory.
+
+"If you look at the one that's most at issue here, and that's the bulk metadata program, there's no indication, unless I'm proved wrong later, that that program, which collects vast amounts of domestic data, domestic telephony data, contributed to information about this particular plot," Schiff said.
+
+There are two communications interception programs in particular that have come under scrutiny after of leaks by former NSA contractor Edward Snowden, both of which operate under different provisions of U.S. law.
+
+The collection of the telephone records was authorized by the Foreign Intelligence Surveillance Court under Section 215 of the Patriot Act, which allows the collection of business records without subpoenas.
+
+In early June, Snowden revealed that the Foreign Surveillance Intelligence Court had secretly ordered a Verizon subsidiary to provide the NSA, daily, the metadata for all of its cellphone accounts.
+
+It was the first confirmation that the NSA was collecting records on millions of U.S. cellphones.
+
+A second program was authorized under a separate law, Section 702 of the Foreign Intelligence Surveillance Act.
+
+Under that program, the NSA collects data on Internet traffic that moves through nine Internet companies, including Facebook and Yahoo.
+
+The NSA has said that only data about accounts outside the United States is collected.
+
+Obama administration officials have struggled in recent weeks to clearly articulate how successful either program has been in thwarting terrorist plots in the face of open skepticism by some members of Congress.
+
+Officials told the Senate Judiciary Committee on Wednesday that the individual successes of the programs are impossible to determine.
+
+"That's a very difficult question to answer in so much that it's not necessarily how these programs work.
+
+That's actually not how these programs work," NSA Deputy Director John Inglis said when asked how many terrorist plots the telephone metadata programs had been critical in identifying.
+
+"What happens is you simply have a range of tools at your disposal."
+
+The distinction between the two programs has become an important part of the NSA debate as more and more lawmakers have proposed legislation to reform the agency's practices in collecting domestic phone metadata.
+
+"Do we need to collect all of the phone records of all of the people living in America for five years so that if we're going to target one particular person we're ready to jump on it?"
+
+Senate Assistant Majority Leader Richard J. Durbin, D-Ill., said on NBC's "Meet the Press."
+
+Last week, Durbin inserted a provision into a defense spending bill that would require the NSA to detail how many Americans had been affected by the collection of phone records, how much it cost NSA to collect and store those records, and to list any specific plots that had been thwarted by those records.
+
+The Appropriations Committee approved the provision and it the Senate will consider the legislation when it reconvenes in September.
+
+Durbin said President Barack Obama, in a meeting with nine members of Congress last week, said he was "open to suggestions" on making the NSA program more transparent.
+
+Graham, however, seemed to indicate that the fight to curb the NSA programs is likely to be fierce.
+
+"To the members of the Congress who want to reform the NSA program, great; but if you want to gut it, you make us much less safe and you're putting our nation at risk," he said.
+
+"We need to have policies in place that can deal with the threats that exist, and they are real and they are growing."
+
+The Sunday embassy closings became part of that argument, despite questions about what role either program might have played or how real the threat was.
+
+"The good news is that we picked up intelligence.
+
+That's what the NSA does," said Rep. C. A. Dutch Ruppersberger, D-Md., the top Democrat on the House Intelligence Committee.
+
+Speaking on ABC's "This Week," he said: "NSA's sole purpose is to get information intelligence to protect Americans from attack."
+
+Chambliss had a similar view.
+
+"These programs are controversial, we understand that.
+
+They're very sensitive.
+
+They're what allow us to have the ability to gather this chatter we refer to," he said.
+
+"If we did not have these programs we wouldn't be able to listen in on the bad guys.
+
+And I will say it's the 702 program that's allowed us to pick up on this chatter."
+
+Just what role the programs had in intercepting the communication is unknown.
+
+The State Department list of extended closings included embassies and consulates in Jordan, Egypt, Saudi Arabia, Qatar, United Arab Emirates, Kuwait, Bahrain, Oman, Yemen, Libya, Djibouti, Sudan, Madagascar, Burundi, Rwanda and Mauritius.
+
+The last four were not on the list announced Friday.
+
+Embassies and consulates in Afghanistan, Algeria, Bangladesh, Iraq, and Mauritania were to reopen on Monday.
+
+In Sanaa, Yemeni officials said they were on high alert, but there was little evidence that anything was amiss.
+
+Traffic clogged major arteries as residents prepared for the end of the fasting month of Ramadan and the upcoming Eid al-Fitr holiday.
+
+Al-Qaida in the Arabian Peninsula, which is based in Yemen, has been the most active al-Qaida affiliate in recent years in attempting attacks on U.S. targets.
+
+In 2008, it launched an assault on the U.S. embassy in Sanaa and was responsible for the failed 2010 Christmas Day plot to detonate a bomb hidden in a passenger's underwear aboard a plane landing in Detroit.
+

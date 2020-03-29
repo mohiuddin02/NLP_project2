@@ -1,0 +1,52 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Mount_Everest_as_seen_from_Drukair2_PLW_edit.png" />If you think riding a roller coaster is scary, how about flying one through the Himalayas?
+
+Scientists who tracked bar-headed geese across their mountainous seasonal migration have discovered that the birds won't take a straight path to their destination, but instead climb up and plunge down with the contours of the ground.
+
+The findings, published in the journal Science, reveal a surprisingly savvy strategy that helps these high-fliers finish the grueling southbound journey from their breeding grounds in Mongolia to their winter getaway in India or southeastern Tibet.
+
+When it comes to seasonal migrations, the bar-headed goose is no slacker.
+
+"Migrating birds must overcome many challenging environmental obstacles, such as arid deserts and featureless oceans, but few are capable of negotiating the formidably high mountains separating the Indian subcontinent from central Asia," the study authors wrote.
+
+"Famously, one species that manages this feat is the bar-headed goose (Anser indicus), which biannually traverses the high passes of the Tibetan massif and snow-capped Himalayan Mountains."
+
+These naturally talented aviators can reach breathtaking heights; one goose has even been tracked as high as 4.5 miles, for a short while.
+
+But researchers have long argued about how high these birds might truly fly, and how on earth they manage to do it.
+
+Many researchers thought that once the geese attained a mountain-skimming height, they would stay at that altitude rather than waste energy dropping down and pushing back up again.
+
+To find out, an international team of scientists led out of Bangor University in Wales needed some physiological data.
+
+So they outfitted bar-headed geese with customized implantable instruments that measured their body temperature, pressure, acceleration and heart rate during flight.
+
+The researchers found that, rather than fly in a straight line—the most direct route to their destination — the geese would hug the terrain, ascending to get over a high peak and descending when the ground leveled out.
+
+This meant doing extra work to keep flying upward, over and over again.
+
+"Geese opt repeatedly to shed hard-won altitude only subsequently to regain height later in the same flight," the study authors wrote.
+
+In one 15.2-hour stretch (after an initial climb to 3,200 meters), the geese repeatedly rose and fell, ascending a total of 6,340 meters (3.94 miles) and descending a total of 4,950 meters (3.08 miles), for a net gain of just 1,390 meters (0.86 mile).
+
+Seems like a lot of extra flying for very little gain — but it ends up being the most efficient way to travel.
+
+The scientists calculated that if the birds had gradually risen in a straight line to reach those 1,390 meters, it actually would have raised the energetic cost of the journey by 8 percent.
+
+That's probably because maintaining high altitudes can be very costly.
+
+After all, higher altitudes mean thinner air—which means the birds have less air to push against, which means it takes more work to get anywhere.
+
+The higher the birds were, the higher their wing-beat frequency.
+
+And their heart rate was highly sensitive to wing-beat frequency — a 5 percent increase in flap rate meant a 19 percent jump in heart rate, and a 41 percent rise in estimated flight power.
+
+In fact, seven of the eight highest flight records (which included one bird that briefly reached about 4.53 miles in altitude), actually occurred at night — when the air would be colder, denser and thus easier to fly through.
+
+In the end, it seems to be better for the birds to fly low when they can, and fly high when they have to.
+
+And in fact, the updrafts along the mountainous slopes probably gave them a nice little lift, making the climb easier.
+
+Those updrafts may be almost as helpful as the energy-saving V-formation flight pattern for which migratory birds are so well known.
+
+"Given that aerodynamic mass-specific flight costs are thought to increase with body mass and that bar-headed geese are heavier than 98 percent of avian species," the authors wrote, "it is particularly impressive that these birds are able to migrate across the world's highest land massif while remaining comfortably within their physiological capabilities."
+

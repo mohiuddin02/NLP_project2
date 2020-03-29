@@ -1,0 +1,88 @@
+On the kitchen table of his cramped apartment, Josiah Zayner is performing the feat that is transforming biology.
+
+In tiny vials, he's cutting, pasting and stirring genes, as simply as mixing a vodka tonic.
+
+Next, he slides his new hybrid creations, living in petri dishes, onto a refrigerator shelf next to the vegetables.
+
+And he's packaging and selling his DIY gene-editing technique for $120 so that everyone else can do it, too.  "I want to democratize science," said Zayner, whose left arm is etched with the tattoo "Build Something Beautiful."
+
+It's a prospect that worries those who fear unregulated amateur biologists could unleash new pathogens but delights others who imagine the day when anyone could redesign the living world to create cheap drugs or clean fuels.
+
+This was once a godlike power: moving genes from one living creature to another.
+
+Then it became the realm of big-budget labs.
+
+Three years ago, the University of California, Berkeley, invented the so-called CRISPR gene-editing tool — on which Zayner models his kits — offering a cheap, fast, precise and powerful way to edit genetic sequences.
+
+But its use remained confined to academic and commercial settings.
+
+Zayner is the first to market a simplified version of the tool to the masses — a project that, for now, is more provocative than perilous.
+
+The kit has limited applications.
+
+His altered bacteria and yeast, quite harmless, lead brief and fairly dull lives.
+
+They can't do much except change color, fragrance or live in inhospitable places.
+
+Then they die.  But it raises the specter — deeply troubling to some experts — of a day when dangerous gene editing is conducted far from the eyes of government regulators, posing risks to the environment or human health.
+
+Faced with our broadening access to gene-editing tools, three Stanford University scholars last month urged federal regulators to create better rules for risky biological research, to reduce the likelihood of a bioengineered "supermicrobe" escaping from the lab or being deliberately unleashed.
+
+Zayner said his intentions are good.  This month, the University of Chicago-educated molecular biophysicist will end a two-year fellowship in the NASA Ames Synthetic Biology program to become a full-time disciple of the "do-it-yourself" biology movement, convinced that citizen scientists, even on a shoestring budget, can help solve big societal problems.  "There are so many brilliant and capable people that I want to show how they can do these things," he said.
+
+"They can change the face of the world we live in."
+
+With a shock of dyed hair, ear piercings and a "Go Ninja Go" T-shirt, he takes his inspiration from the early days of personal computing, when the Homebrew Computer Club and other hobbyists shared now-legendary ideas and experiments.
+
+His kit has the support of Jacob Corn, scientific director of the University of California-based Innovative Genomics Initiative research labs.
+
+Noting that Zayner's kit could never be used to alter human genes, Corn called it "a nice way to introduce people to the idea of genome editing.
+
+The kit is similar to something that an undergrad at Berkeley might do in a basic biology lab course.
+
+"  But Stanford University infectious disease expert Dr. David Relman, co-director of the Center for International Security and Cooperation, voiced concern.  "These kits will help enable users to become proficient more generally with this technology," he said, so that they could someday become skilled enough to use advanced tools to introduce less benign genes.
+
+Worried about the growing number of labs that, for genetic research purposes, are developing novel pathogens with pandemic potential, Relman and colleagues wrote a cautionary report in a December issue of the journal Science.  For instance, some scientists are creating much more contagious versions of the deadly H5N1 bird flu.
+
+Others have used a modified respiratory virus to cause cancer in mice.
+
+Unlike building nuclear weaponry, dangerous biological research can be done in small labs, according to the Stanford report.
+
+"I do not think that we want an unregulated, non-overseen community of freelance practitioners of this technology," said Relman.
+
+Some experts wonder if it is even possible to control gene editing in animals, plants or microbes.
+
+"You've got guys with B.S.
+
+degrees, in a garage," warned Hank Greely, director of Stanford's Center for Law and the Biosciences at an international summit of the National Academy of Sciences this month.
+
+Zayner would love a garage.
+
+"But it's way too expensive," he said.
+
+In his one-bedroom El Camino Real apartment, shared with two cats, he holds a vial of E. coli bacteria, then adds two common chemicals to perforate the bacterial cell membranes.
+
+To this he adds "donor DNA" of a different strain of bacteria — along with cellular scissors, an enzyme called CRISPR-Cas9, and a strand of RNA that guides the CRISPR — which stands for "clustered regularly interspaced short palindromic repeats," or clusters of brief DNA sequences that read similarly forward and backward — to the genome that needs editing.
+
+All the ingredients are mixed together, then incubated.
+
+The work is concealed behind a drawn blind, so neighbors aren't alarmed.  For nonscientists, he offers lab protocols, inexpensive equipment and tutorials.
+
+"It's a craft," he explained.
+
+"You don't have to be a genius, or go to school."
+
+Nothing in his kits is harmful to human health, "besides maybe the shot glasses," he jokes.
+
+The bacteria and yeast strains are everyday varieties.
+
+Novice hackers lack the skills and advanced equipment needed to swap in more dangerous genes, he said.
+
+Long before Zayner's project, the movement was presaged by futurist and theoretical physicist Freeman Dyson, who wrote: "Domesticated biotechnology, once it gets into the hands of housewives and children, will give us an explosion of diversity of new living creatures."
+
+Zayner, now 34, has practiced free thinking ever since his home-schooled days on a farm in rural Indiana, where the family kept owls in the basement.
+
+It continued while he earned his doctorate, focusing on protein synthesis.  Frustrated when his Ph.D. adviser discouraged certain projects, he started running his own experiments at home.  In January, he'll focus full attention on his CRISPR business, which has already raised more than $48,000 through his popular crowdfunding campaign on Indiegogo, as well as his lab equipment supply company, Open Discovery Institute.  "There will always be people in the world who want to do bad things," he said.
+
+"But if you give nobody access to anything, that means good things won't be done, either."
+

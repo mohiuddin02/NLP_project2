@@ -1,0 +1,57 @@
+The shoebox-size chunk of bronze didn't gather much attention when divers brought it up from an ancient shipwreck off the Greek island of Antikythera in 1901. Archaeologists on the expedition had their hands full with far more impressive finds. There were life-size statues of warriors and horses, delicate glass bowls and scores of ceramic vessels called amphorae.
+
+Decades would pass before scientists realized that the unimpressive bronze — now called the Antikythera Mechanism — was the biggest treasure of all.
+
+The device consisted of a series of intricate, interlocking gears. They were designed to predict eclipses and calculate the positions of the sun, moon and planets as they swept across the sky.
+
+## World's First Computer?
+
+The machine exhibited a level of technological sophistication no one dreamed was possible when it was built, at least 2,000 years ago. Europe produced nothing to equal it until the geared clocks of the Medieval period, more than a thousand years later. Some scholars describe the Antikythera Mechanism as the world's first analog computer.
+
+"The amazing thing is the mechanical engineering aspect," says James Evans, a physicist and science historian at the University of Puget Sound in Tacoma, Washington. He is a member of an international group working to crack the puzzle of the device's origins and purpose. Evans recently added a new twist with an analysis that suggests it dates to 205 B.C. — as much as a century earlier than previously believed.
+
+If he's right, it is more likely that the Antikythera Mechanism was inspired by the work of the legendary Greek mathematician Archimedes. It would also mean the device was built at a time when scientific traditions from multiple cultures were coming together to create a new view of the cosmos.
+
+"Pushing the date back is exciting," Evans said. "We think it would be highly significant because it could change the picture of the development of Greek astronomy."
+
+The mechanism's discovery and the mystery that surrounds it are so steeped in drama that it inspired a popular science book and an episode of "Nova."
+
+## Mechanism's Dials And Gears
+
+Greek sponge divers stumbled across the wreck of the Roman galley in 1900, after being blown off course and taking shelter near a tiny island north of Crete. During underwater excavations the next year, they hauled up one of the richest bounties of Greek artifacts ever uncovered.
+
+One diver died and two others were crippled from working at depths of up to 200 feet.
+
+French explorer Jacques Cousteau visited the site in the 1950s and 1970s. He used an underwater vacuum to reveal buried objects.
+
+Scientists think the ship was a merchant vessel that foundered around 60 B.C.
+
+Archaeologists eventually identified more than 80 pieces believed to be part of the Antikythera Mechanism. They included a shoebox-size piece with dials and gears clearly visible on the surface.
+
+The real breakthrough in understanding came in 2005, when a team of scientists used X-rays to peer through the encrusted metal and reveal the layers of gears inside. Digital techniques yielded the first sharp images of the inscriptions on the dials and casings.
+
+The studies revealed at least 30 interlocking gears, and researchers believe the device held at least two dozen more.
+
+## From Olympics To Eclipses
+
+The assembly was housed in a wooden box and operated by a hand crank. Elaborate dials traced the movement of heavenly bodies, while ingenious gearing mimicked the fluctuating speeds at which the moon crosses the night sky, even though the ancient Greeks had no understanding of the curving orbit responsible for the effect.
+
+One dial plotted the four-year cycle of Olympic Games. Another predicted the timing of solar and lunar eclipses, apparently down to the hour.
+
+That was the dial that Evans and Christian Carman, of the University of Quilmes in Argentina, focused on for their new analysis. Their work was published in the Archive for History of Exact Science.
+
+Based on the style of Greek lettering on the Antikythera Mechanism, previous estimates of its construction date ranged between 150 and 100 B.C. But Evans and Carman took an astronomical approach, comparing eclipse dates on the mechanism to Babylonian eclipse records and a NASA eclipse catalog.
+
+They concluded that the "start date" for the eclipse predictor was 205 B.C.
+
+That doesn't prove the device was built then, but Evans thinks it was. "For us, it seems most likely that it was built close to the period for which it would have worked best," he said.
+
+## The Sphere Of Archimedes
+
+The 205 B.C. date is tantalizing because it would bring the device closer to the lifetime of Archimedes. The Greek genius who revolutionized geometry and invented compound pulleys was killed in 212 B.C. during the Roman conquest of the Greek city state of Syracuse, on the island of Sicily.
+
+A story later told by the Roman orator Cicero claimed that the general who sacked Syracuse brought back to Rome a mechanical brass sphere created by Archimedes. The sphere modeled the movements of heavenly bodies.
+
+But the famous inventor died seven years before 205 B.C., and there's no way to link him to the Antikythera Mechanism.
+
+"People should be leery of trying to associate it with any one particular person," Evans said. "But you would have to think that whoever built this must at least have made use of what Archimedes had done, or came out of a tradition that started with Archimedes."

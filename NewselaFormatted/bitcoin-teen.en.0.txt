@@ -1,0 +1,124 @@
+One sign that Evan Neal isn't your typical 16-year-old: He contributes a few hundred dollars toward the monthly electric bill at his father's house to cover the cost of running his energy-hungry computer equipment.
+
+It's all part of the latest business venture launched by the tech-savvy, rising high school junior, who uses high-powered computer processing to obtain newly created bitcoins, a process known by cognoscenti of the digital currency world as bitcoin mining.
+
+"It's definitely entertaining," Evan said.
+
+"I see it as an experience."
+
+A profitable experience, that is.
+
+By Evan's calculations, he estimates he has reaped more than $2,000 in profit after deducting hefty expenses.
+
+Those costs include buying specialized hardware and contributing $200 to $300 to the electric bill at his dad's house.
+
+He's also paying dividends to his co-investors, including four high school friends who at one point invested $125 or more.
+
+Campbell Harvey, a finance professor at Duke University's Fuqua School of Business, said the Triangle isn't a good spot for bitcoin mining given the relatively high cost of electricity here and the huge amount of power required to run the required computer hardware.
+
+"That's the reason people are doing mining in areas where electricity is very cheap," he said.
+
+One exception, Harvey said, would be students who attend North Carolina colleges and live in dormitories where they don't have to pay for their own electricity.
+
+"And that's not fair," Harvey said.
+
+"That shouldn't be allowed."
+
+Harvey has taught crypto finance as part of an international finance course and has proposed teaching a new course next school year that would be "100 percent devoted to crypto finance," including bitcoins.
+
+Bitcoin mining isn't Evan's first entrepreneurial venture.
+
+When he was 11, Evan – an articulate youngster who, unlike many of his peers, rarely peppers his conversation with linguistic crutches such as "like" and "kind of" – started a business called Dream Programming.
+
+He would remotely log on to people's sluggish computers and optimize the machine's performance for $25.
+
+"I had a website, and I advertised it a little bit," he said.
+
+But he only attracted a handful of customers, which he blames not on his youth – potential customers had no way of knowing he was 11 – but on his lack of advertising expertise.
+
+Since then, Evan has started a series of ventures, including a power-washing and deck-refinishing service and buying electronic devices in bulk and selling them on Amazon.com.
+
+He also repairs computers for a consulting business.
+
+"There was a weekend recently," Evan's father, Dave Neal, said, "where he was doing bitcoin mining, he did a power washing job and he did a computer consulting repair job."
+
+Dave Neal is a serial entrepreneur who has been involved in seven startups as chief financial officer or chief executive.
+
+Today, he's managing partner at The Startup Factory, a business accelerator in Durham.
+
+He's impressed by how much his son has immersed himself in the arcane ins and outs of bitcoin, including the financial and legal aspects, as well as the technical angle.
+
+"It's really interesting to watch somebody in your own household participate in such a cutting-edge thing," Dave Neal said.
+
+"He's 16, but it feels to me he is pretty much an expert in the field."
+
+Bitcoins aren't backed by any government or controlled by a central agency.
+
+Critics say bitcoin is little more than a Ponzi scheme.
+
+The digital currency has become controversial because the anonymity it provides makes it attractive for money laundering and drug deals.
+
+But the digital currency gained traction after federal officials said at a Senate hearing that there are legitimate uses for bitcoins, and by attracting investors such as Tim Draper, a Silicon Valley venture capitalist who recently purchased nearly 30,000 bitcoins in a U.S. government auction.
+
+Bitcoins are also accepted as payment by businesses such as Overstock.com and online game company Zynga.
+
+The value of a bitcoin has fluctuated considerably, soaring above $1,000 last year.
+
+As of Tuesday afternoon, a bitcoin was worth $625, according to Preev, a website that tracks the value of the currency.
+
+Evan typically keeps his bitcoins for just three or four weeks before exchanging them for cash, which insulates him from much of the market's fluctuations.
+
+Evan dipped his toe into bitcoin mining about a year ago after hearing about it from some friends and doing some investigating.
+
+But he soon discovered that if he wanted to make money at it, he would need more computer horsepower.
+
+To understand why, you need to know how bitcoin works.
+
+Bitcoin traces its beginnings to an algorithm created in 2008.
+
+No one has come forward as its creator, but he or she — or they — operate under the pseudonym Satoshi Nakamoto.
+
+Because bitcoins are all-digital, security is a prime concern.
+
+Digital currencies are worthless if they can be copied.
+
+That's where mining comes in.
+
+Miners use specialized computer hardware to verify groups of transactions and, more importantly, add a new layer of security to what is known as the block chain, a ledger of every bitcoin transaction.
+
+Duke University's Harvey likens it to a series of vaults that are linked together.
+
+Miners, he said, "are sealing off this vault with a computer program."
+
+Harvey explained, "The reason you have to do this is so that nobody can hack it.
+
+You would need 25,000 of the world's fastest supercomputers to get into this block chain.
+
+It's just not feasible."
+
+Miners who manage to solve a difficult mathematical puzzle and create the vault first – before hordes of others who are equally intent on winning this cyber race – are rewarded with newly created bitcoins.
+
+Currently, 25 bitcoins are handed out as rewards about every 10 minutes.
+
+In effect, miners are "competitive bookkeepers," Harvey said.
+
+Many miners, including Evan, join online pools of miners who combine their digital resources and share in the rewards.
+
+Those rewards end up being a fraction of a bitcoin per individual miner; Evan estimates he has mined about 4.5 bitcoins so far.
+
+The competition among bitcoin miners has pushed some to invest in more computing capacity, which is why Evan is about to embark on his third round of costly hardware purchases.
+
+He has done well reselling the hardware once he moves on to something more powerful.
+
+For instance, early this year, in his second round of hardware purchases, he spent about $1,250 for three AntMiner S1s – which are high-powered ASIC chips designed for mining digital currencies.
+
+He sold them recently for about $300 each.
+
+He reinvests most of his profits in new hardware.
+
+Last week, he was looking at purchasing four just-released AntMiner S3s for about $500 each.
+
+Evan concedes that the ever-escalating cost of hardware may end up pricing him out of the bitcoin mining business.
+
+On the other hand, he said, "I could also expand in a way that I'm the person pricing other people out."
+

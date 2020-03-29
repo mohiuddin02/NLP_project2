@@ -1,0 +1,41 @@
+The Disklavier looks like just a normal piano. What makes it special is the way it records the music pianists make. It doesn't record music as sound. Instead, it uses sensors to record a piano player's hand and foot movements as tiny bits of information.
+
+Those digital bits of information are called data. Once they're recorded, they can be sent over the Internet. Then, Disklavier pianos thousands of miles can play back the music just as the pianist originally played it.
+
+It could change how we experience music. Russian pianist Osip Nikiforov, 19, is recording a classical song on the Disklavier. He's doing it without capturing any of its sound, but all its digital information.
+
+"These pianos are fantastic teaching tools," said Nikiforov. "You can correct things based on just listening to yourself. While you could do that with any recording, this one is even closer." And it's more accurate, he says.
+
+## Tryouts And Teaching
+
+Nikiforov plays a Disklavier owned by Stella Sick. She's a music professor at Hamline University in St. Paul, Minn.
+
+Sick says Nikiforov could use the piano to try out for another music school, saving travel and other costs. But Disklaviers themselves aren't cheap. They cost $40,000 to $240,000 and are made by the Yamaha company. To promote the pianos, Yamaha has simplified how recorded tryouts can be sent over the Internet.
+
+Last year, the company created a website to store the tryouts. The site allows Disklavier performances to be shared among 18 U.S. universities and 28 places where students can go to try out. The number is expected to grow this year to 50 universities and 40 to 50 places to try out.
+
+Nikiforov has already benefited from Internet tryout. At age 13, he sent a recording from an older Disklavier in Russia to try out for an international music contest based in Minnesota. He won third place, and the experience brought him there to study.
+
+Sick, also born in Russia, is teaching differently now because of the Disklavier. She listens to the Disklavier's playback. At the same time, she watches a video of the player's movements. By doing so, she can help students correct their mistakes.
+
+## Piano's Hammer Speed
+
+Sick does some work for Yamaha. She recently helped demonstrate the Disklavier for the music department staff at St. Olaf College in Northfield, Minn. The school is wrestling with a decision on whether to use it as a way for potential music students to try out.
+
+Disklaviers first became available in the U.S. in 1987. In those days, they recorded piano data on disks — like CDs. Now that they can share music over the Internet, university music teachers are taking another look at them. Disklaviers are also attractive because they don't need fast Internet speeds for uploads and downloads.
+
+Disklaviers are wired with extremely accurate sensors to measure the movement of its parts. For example, when a piano key is struck, it causes a hammer to strike a piano string. A sensor measures and records the speed of that hammer at 1,023 different levels. It stores the result as data. That data can be used to copy that hammer speed on another Disklavier. The sound produced is practically the same to that of the original piano.
+
+Universities are interested in how the Disklaviers can help in classroom teaching. Aside from that, universities are also looking at using them to allow students to try out without having to leave their hometowns. They wonder whether having them try out using the Disklavier will help them get students from all over the world.
+
+"The more competitive schools want students auditioning from Asia and Europe," says George Litterst. He's a Massachusetts pianist who also works for Yamaha. "Wayne State College in Nebraska recently listened to a remote tryout from a high school junior who lives in the Aleutian Islands (in Alaska)."
+
+## A Disklavier's Playback
+
+The University of Minnesota just purchased its first Disklavier. Alexander Braginsky, a professor of piano at the school, sees it as a valuable teaching tool.
+
+Initially, it will be used to receive tryout recordings for the 2015 International e-Piano Junior Competition to be held at the university. The university will also use it for teaching.
+
+"When I play back a Disklavier recording, I can slow it down 50 percent or speed it up 25 percent without changing the key it's being played in," Braginsky said. When you slow down songs on most devices, it sounds lower than when it's played at normal speed. "That helps piano students hear what I hear. The playback usually brings a whole lot of surprises."
+
+But that's just the beginning, he said. He has used one of the Disklaviers to do piano lessons when he is in Minneapolis and the person he's teaching is in New York. Someone in New York can teach piano to someone in Tokyo, he added. "I think the uses for music education are yet to be fully explored."

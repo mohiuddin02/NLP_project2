@@ -1,0 +1,96 @@
+ILADELPHIA – Researchers in Pennsylvania may have come up with a new material that could make solar energy less expensive.
+
+Solar panels generate electricity by absorbing sunlight.
+
+But more happens after that.
+
+Once electrons in the panel are energized, they must be moved in the same direction.
+
+To do that, solar panels typically are made with layers of two kinds of materials.
+
+But a team of researchers from the University of Pennsylvania and Drexel University may have taken a step to change that.
+
+The scientists said they created a new class of ceramic material.
+
+The material could both absorb the energy and channel the electrons cheaply and efficiently.
+
+The scientists wrote about the new material in the journal Nature.
+
+So far the group has created just small bits of the new ceramic.
+
+But members predict it can be used to make panels that are better at harvesting energy than the silicon-based models that dominate the market.
+
+The ceramic panels would be less expensive, too, the researchers said.
+
+The researchers say their new ceramic also would have an advantage over "thin-film" solar panels.
+
+Those panels tend to contain materials that are rare, poisonous, or both.
+
+The new material contains potassium, niobium, barium, and nickel.
+
+Those materials are relatively abundant and environmentally friendly.
+
+So is silicon.
+
+But silicon requires lots of processing and manufacturing to be used in solar panels.
+
+The scientists say their combination of materials will be cheaper in the long run.
+
+"We've opened up a new category of ways of making a solar cell," said Penn chemistry professor Andrew M. Rappe.
+
+Solar power accounted for just a quarter of 1 percent of energy consumed in the United States in 2012, the government reported.
+
+Solar energy companies say more solar energy is used.
+
+It says the government does not have complete information about panels installed on rooftops.
+
+But by any measure, the amount of power being made by sunlight is climbing steadily.
+
+Money the government offers to taxpayers for solar panels have helped drive that increase.
+
+And for scientists, the sun remains an intriguing source of untapped power.
+
+Materials that can channel the flow of electrons are described as having polarity.
+
+They have been known to science for decades.
+
+But they have not been used to make solar panels because they primarily absorb energy from ultraviolet light, not from the light we can see.
+
+The Penn-Drexel team started with a material with polarity.
+
+It is called potassium niobate.
+
+Then the team used computer models to predict what other elements could be added so that it would absorb visible light.
+
+Barium, which replaces some of the potassium in the structure of the ceramic crystal was one of those elements.
+
+Nickel was also chosen.
+
+It replaces some of the niobium.
+
+"The nickel is really doing the job," Rappe said.
+
+"The barium's kind of along for the ride."
+
+Making the material involved a multistep process of grinding and heating.
+
+By adding different amounts of barium and nickel, the scientists found they could make small changes to the material.
+
+The changes let it absorb different wavelengths of visible light.
+
+In theory, this type of ceramic could be more than twice as efficient at making energy as the current solar panels, the authors said.
+
+Still, a lot of work remains to be done, they added.
+
+Lane W. Martin, a professor at the University of Illinois, agreed that the approach had potential.
+
+"It's a pretty promising first step," said Martin, who was not involved with the research.
+
+Future research will involve actually making a solar "cell," complete with electrodes.
+
+Yet Drexel professor Jonathan Spanier was plenty excited by the small tablets.
+
+Spanier conducted tests revealing that the material had the desired properties.
+
+"It's a mixture of excitement and satisfaction and thrill," he said.
+

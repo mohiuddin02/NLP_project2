@@ -1,0 +1,62 @@
+Toys that talk back are the hot holiday gift this year.
+
+But they may be risky for children.
+
+Hackers who use computers to steal information may be able to target these toys.
+
+Hello Barbie is one new talking toy.
+
+The doll connects to the Internet so it can speak.
+
+Internet safety experts reviewed the toy to see if it was safe for kids.
+
+They put out a report on Friday.
+
+Their report said its possible for hackers to break into the doll's system.
+
+They would be able to listen to the child as it played with the doll.
+
+A company called ToyTalk makes the doll's system.
+
+Martin Reddy works for ToyTalk.
+
+He said that ToyTalk had already fixed a lot of the safety problems the experts found.
+
+The experts agreed that ToyTalk was fixing safety problems.
+
+One expert said that any toy that connects to the Internet could let other people listen to children or steal information.
+
+He said that it is important to be careful about what the toy hears.
+
+Once something is on the Internet, it cannot be taken back.
+
+Hackers already hit a toy maker in Hong Kong.
+
+They broke into VTech's system.
+
+Hackers took information from more than 6 million kids who played with VTech toys.
+
+To make Hello Barbie talk, a child can press a button on the doll.
+
+The child then speaks to it.
+
+The child's voice is sent over the Internet to ToyTalk.
+
+Then, a computer sends a message back to the doll, and the doll talks back to the child.
+
+A parent has to set up Hello Barbie first.
+
+While a parent is setting up the toy, a hacker can steal information.
+
+If it is set up safely, a hacker cannot steal information after that. Hackers cannot change what the doll says.
+
+ToyTalk wants to let customers know it takes privacy seriously.
+
+The company even gives rewards to outsiders who find privacy problems.
+
+It pays them to work with the company to fix them.
+
+But the company also said that it is not possible to make sure nobody ever gets kids' information.
+
+There is no such thing as perfect security, the company warns.
+

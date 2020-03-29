@@ -1,0 +1,98 @@
+series of recent discoveries has scientists revising their image of Mars: They are now beginning to suspect that the Red Planet's geology may be more complex and Earth-like than previously imagined.
+
+New data suggests that the planet may have small bits of water spread around its surface.
+
+And it now seems that the planet's interior could once have been more geologically mature than previously thought.
+
+The new data is courtesy of NASA's Curiosity, a car-sized robotic rover that has been exploring parts of the surface of Mars.
+
+Launched in 2011, the highly sophisticated vehicle is armed with an impressive arsenal of scientific instruments.
+
+In 2012, it landed in Mars' Gale Crater.
+
+What has scientists excited is that Curiosity has detected traces of water.
+
+This water is chemically bound to the Martian dust that seems to be covering the entire planet.
+
+The finding is among several in the five studies published Thursday by the journal Science.
+
+It may explain mysterious water signals picked up by satellites in orbit around Mars.
+
+The soil that covers Mars' surface in Gale Crater seems to consist of two major types, according to data from the rover's laser-shooting Chemistry and Camera (ChemCam) instrument.
+
+One is a coarse soil with millimeter-wide grains that probably came from the rocks around them.
+
+The other is very fine, with grains often a few micrometers in size.
+
+The fine-grained soil doesn't really match the rocks around it, said Pierre-Yves Meslin, who led one of the studies.
+
+But it does seem to match the stuff found at sites where other rovers and landers touched down.
+
+That means it's probably distributed over much or all of the planet.
+
+Most likely it is kicked up and carried far in the fierce dust storms that can shroud the planet in a reddish haze.
+
+The researchers say they don't know where that soil comes from.
+
+It may either be created in many places, or have one source that gets picked up and blown all over.
+
+Either way, it's a handy, naturally averaged sample of the Martian surface.
+
+Perhaps the most intriguing thing about this fine soil is that ChemCam's readings detected a hydrogen signal.
+
+Water, of course, is two-thirds hydrogen.
+
+This could explain why satellites orbiting Mars have picked up a mysterious water signal in the past, Meslin said.
+
+"It's actually kind of exciting because it's water yet again on Mars, but it's in a different material than we had recognized," said geologist John Grotzinger, the mission's project scientist.
+
+"So what Curiosity is doing is just demonstrating that water is present in a number of ways.
+
+It just adds to the diversity."
+
+However, a study based on data from another of Curiosity's instruments came up with different results.
+
+The rover's Chemistry and Mineralogy (CheMin) tool — part of the dirt-digesting lab in its belly — found no sign of water in soil samples taken from a sandy dune dubbed Rocknest.
+
+That's because CheMin uses X-ray diffraction to bounce high-energy light off of a mineral's crystalline structure.
+
+If the soil isn't in crystalline form, there's no way for CheMin to see it.
+
+All this means the hydrogen signal seen by ChemCam must have been coming from the non-crystalline portion of the soil, said David Bish, who led the CheMin study.
+
+This so-called amorphous portion makes up a significant part of the soil.
+
+Sure enough, when Curiosity's Sample Analysis at Mars (SAM) instrument cooked up a tiny sample of soil in its little oven, it turned out that roughly 1.5 to 3 percent was made of water.
+
+The scientists think this water may have come from the atmosphere — that is, it might have been pulled out of Mars' thin air.
+
+But while traces of water were found in the soil, Curiosity found no signs of minerals that had been formed in water.
+
+This was interesting, said Bish, as "one of the reasons for going to Gale Crater" was the assumption that it might be a good place to find clays containing such minerals.
+
+Inside Gale Crater lies a 3-mile-high mountain called Mt.
+
+Sharp, whose layers could be rich in clays.
+
+These might hold answers to whether Mars was once hospitable to life.
+
+It's possible that the fine-grained soil on the surface of Mars is simply too young to have ever encountered liquid water, he said.
+
+If so, it would mean that many years passed between the formation of the water-rich clays locked inside of certain rocks and the dusty grains that currently cover the Martian surface.
+
+Another of the studies focused on the rock known as Jake M, named after NASA engineer Jake Matijevic, who died shortly after the rover landed in 2012.
+
+Jake M is unlike any volcanic rock seen on Mars: It's rich in alkaline magma.
+
+This told the researchers that it had been created under high pressure — and perhaps in the presence of water, said Edward Stolper, lead author of the study.
+
+In fact, it looks something like an uncommon rock on Earth called a mugearite.
+
+This is found on ocean islands and near underwater volcanos.
+
+The rock's composition also told scientists that it was clearly made of the leftovers after other minerals in the Martian magma had crystallized out — that is, hardened into crystalline forms.
+
+That led them to believe that the heating and cooling and movement of magma that used to occur beneath Mars' mantle were a lot more complicated than they had thought.
+
+"We see evidence for a more evolved planet," Grotzinger said, "so it looks like it was headed in more of a direction like Earth."
+

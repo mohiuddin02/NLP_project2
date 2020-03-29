@@ -1,0 +1,55 @@
+LOS ANGELES — From their office window, Rajiv Maheswaran and Yu-Han Chang can catch a glimpse of Staples Center. It's the home arena to both the Los Angeles Lakers and Clippers basketball teams.
+
+To see the future of the NBA, they only have to turn their heads. Whiteboards inside their office are filled with algorithms in red, blue and green. Algorithms are a set of steps computers use to solve problems. Programmers in the office sit around computers typing lines of code.
+
+What resembles gibberish to anyone without a degree in computer science could help NBA teams find the best ways to grab rebounds and defend pick and rolls through a proprietary software system developed by Maheswaran and Chang. The researchers from USC's Viterbi School of Engineering are the NBA's newest go-to guys. For the first time this season, motion-tracking cameras will placed in every arena.
+
+Their software can distill the oceans of numbers that will be available. "It's 1,000 times more information than anyone had before," said Maheswaran.
+
+## From Computer Screen To Hardwood
+
+On his laptop screen, Maheswaran displayed visual tools that teams could use to tweak lineups and position players for the best results. One showed a basketball court covered with squares. The darkest squares show the most likely spots where a rebound would fall depending on the shot taken. Another tool showed players' success rates in moves on offense.
+
+Even the biggest supporters of these types of numbers admit that it should be only one part of a how a team makes decisions. Traditionally, teams looked at game films and evaluations of players.
+
+But the system Maheswaran and Chang have licensed to four NBA teams through their company, Second Spectrum, could influence how basketball is played. It might even change which players are put on a team.
+
+The Golden State Warriors used a similar system last season to help the team defend against three-point shots. Assistant general manager Kirk Lacob said the team checked its lineups and levels of fatigue of players and made tweaks. It worked: teams no longer shredded the Warriors' outside defense.
+
+"Did it make 100 percent of the difference, 50 percent of the difference, 20 percent of the difference?" said Lacob, whose team worked with a California company called MOCAP Analytics. "I don't know the answer. The most important thing is it did help us identify a problem and then eventually correct it."
+
+The use of this kind of info in the NBA is about 10 years behind its use in Major League Baseball. One reason is that baseball is slower and easier to study. Figuring out the same thing with basketball requires newer technology.
+
+## Recording Every Movement On The Court
+
+Six NBA teams used cameras that track motion in the 2010-11 season. Last season, 15 teams used the system.
+
+The NBA recently decided to pay for every team to have the system. That would allow the information to be available to the whole league. Some information could be shared with fans on NBA TV and NBA.com.
+
+It all starts with six tiny cameras placed in the rafters of each NBA arena. They will record the movement of every player, referee and the ball 25 times a second. The info is electronically transmitted to a company to be put into groups by passes, dribbles, and shots, for instance.
+
+Teams can get relatively simple information such as the number of passes to a certain spot on the court while games are in progress. More complicated information will be available after the game when more information is processed.
+
+Several teams have also hired employees to help sift through the information. "Every team is going to have their own formula that they will create that works for their team," Clippers coach Doc Rivers said.
+
+But, all these stats may only result in a handful of numbers coaches pass on to players.
+
+"You can't give players a boatload of information," Los Angeles Lakers assistant Kurt Rambis said. They can't immediately put it to use when they play, he said.
+
+## Information Overload For Players?
+
+Players are conflicted about the value of the info: like, which players prefer to shoot after just two dribbles.
+
+Said Clippers point guard Chris Paul: "If I just guard him and after two dribbles I stop, and he takes a third and I say, 'Hey, man, you're only supposed to take two dribbles,' then what? It's cool, but you have to play."
+
+There's also the data fatigue factor. Lakers center Chris Kaman said he was often overloaded with numbers last season when he played for Dallas.
+
+"It got a little bit annoying," he said, "hearing about it all the time — this number and that number." Such as? "Points per possession, per second half, per first quarter … this guy guarding this guy in this game or these five guys did good against these guys but not these guys. There's everything."
+
+Including information related to injuries. The Lakers will be able to track Kobe Bryant's rate of movement when he returns from a torn Achilles tendon, as well as how much weight he's putting on his legs during games. That information could help the team's trainers create practice plans that keep him healthy for the rest of the season.
+
+This new info can also be used by teams when they discuss contracts with players.
+
+Maheswaran, 39, and Chang, 35, hope more teams leave the number crunching to them.
+
+The duo has worked together since 2005. They have completed projects for the Department of Defense involving the movement of vehicles and mobile devices. Chang says that it's great that they can go from "detecting enemy targets and tracking them to tracking our favorite players on the court."

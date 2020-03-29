@@ -1,0 +1,83 @@
+In Sunnyvale, California, a team of elder Silicon Valley scientists is building an audacious device. What they're working on might solve one of humanity's most profound dilemmas. The device is called a "cloud whitener" and is designed to cool a warming planet.
+
+The team is made up of retired physicists, engineers, chemists and computer experts from some of Silicon Valley's top tech companies. They have been meeting four days a week for seven years in the Sunnyvale lab of the Marine Cloud Brightening Project to design a tool that creates perfectly suspended droplets of water resembling fog.
+
+Their goal is to launch the nation's first open-air field trial of controversial "geoengineering" at a still-unidentified site in Moss Landing, near Monterey. There, they would test the ability of an energy-efficient machine to hurl tiny seawater droplets into a graceful course. This is the first step in boosting the brightness of clouds to reflect rays of sunlight back into space.
+
+"We are interested in an insurance policy for global warming," said Jack Foster, 79, a physicist and laser pioneer. "We are not interested in deploying it unless it's necessary. But we'd like to have something available, so we know what works and what doesn't work."
+
+The effort to conduct even a small-scale test — overseen by the University of Washington, which has numerous experts in atmospheric science — represents a dramatic shift in thinking in the scientific community, which until recently resisted conversations about deliberate manipulation of the climate.
+
+The reason for the change: There is scientific consensus that even if the world succeeds in shifting away from fossil fuels, warming of the planet is inevitable — and it may have catastrophic consequences.
+
+Critics of geoengineering, however, warn against altering nature's patterns, arguing that we don't yet understand all the potential ramifications. And they worry that if people see a quick fix for climate change, they may not try as hard to reduce greenhouse gas emissions.
+
+"Personally, I doubt that the world is ready for this," said Stephen Gardiner, a University of Washington philosophy professor who studies the ethics of environmental policies. "Geoengineering raises huge ethical and political questions, nationally and internationally."
+
+But the Silicon Valley scientists say the world might not have a choice. "We need to research the technology," said project leader Armand Neukermans, 74, whose achievements include the development of the earliest ink jet printers and who led teams at Xerox Labs, Hewlett-Packard, Tencor and Xros.
+
+None of the men will be alive by the end of this century, when the concentration of carbon dioxide in the atmosphere is expected to be double what it is now — and temperatures are likely to be so high they will harm ecosystems and human health and welfare.
+
+"But all of us have children or grandchildren," Neukermans said. "We've got to preserve the future."
+
+The group favors an approach that wafts tiny aerosolized water droplets into the atmosphere, creating a natural mirror that increases clouds' reflectivity.
+
+The cloud-brightening concept was first proposed in 1990 by British physicist John Latham, who published an article in the journal Nature called "Control of global warming?" And in February, the prestigious National Academy of Sciences said the concept deserved greater research.
+
+But no one has ever tried to deliberately brighten a cloud.
+
+Lab and computer studies "can only tell us so much about the potential viability of some proposed climate-intervention technologies," said Michael Thompson of American University's Forum for Climate Engineering Assessment.
+
+The project seemed like a worthy challenge for longtime friends who'd rather invent things than play golf.
+
+After it was conceived at a 2006 meeting between Latham and top atmospheric scientists, the team began a feasibility study with Neukermans' leadership and $300,000 from the Bill Gates-supported Fund for Innovative Climate and Energy Research.
+
+"Here in Silicon Valley you can always find unusual guys that have done weird things," joked Neukermans, a Belgium native with more than 75 patents to his name. His optical switch company Xros was bought in 2000 by Nortel Networks for $3.25 billion in stock.
+
+"No one gets paid here," he said. "We just show up."
+
+The team — whose members range in age from 60 to 79 — includes pharmaceutical chemist Gary Cooper; Suds Jain, formerly with Broadcom; Bob Ormond, with Aqua Metrology Systems; physicist Foster, who helped create the first supermarket checkout scanners and was formerly with Sandia National Labs, Sylvania, Hewlett-Packard and Tencor; and instrument designer Lee Galbraith, formerly with Tencor and Sandia. He is famed for inventing a way to find flaws on semiconductor wafers.
+
+"They are some of the most extraordinary people in their fields," said the group's executive director, Kelly Wanser, chief executive of Luminus Networks. "They're from Silicon Valley's previous era of innovation — a very special group."
+
+They discovered that while there's plenty of experience in cloud watching — scientists are monitoring the impact of particles emitted by copper smelters and slash-and-burn farmers — there's little research into the physical processes behind cloud formation.
+
+"Clouds have one of the biggest impacts on global temperature. But they're one of the most poorly understood parts of the atmospheric system," Wanser said. "There's never been a way to do a controlled study of aerosols and clouds. Their interaction is a big mystery."
+
+But the questions raised "are not just scientific questions," noted American University's Thompson. "There are complex political questions. … We are interested in what this process begins — the 'what's next' of this process."
+
+The National Weather Service's Warren Blier, a science officer based in Monterey, noted that "this sort of thing already happens inadvertently all the time. When large cargo ships go across the ocean, releasing lots of little particles, we can trace their tracks in offshore marine stratum."
+
+But, he added, if the technology moves from small-scale trials into a larger environmental experiment, "then all sorts of questions arise," such as whether precipitation patterns could potentially be altered.
+
+By all indications, the scientists seem to be on the verge of building a successful cloud whitener.
+
+For instrumentation, "we've had to beg, borrow and steal," joked Cooper.
+
+Some tools come from the University of Washington, others from NASA Ames and Stanford. A lot come from their own garages.
+
+"We couldn't do what we're doing, if not in the heart of Silicon Valley," Cooper said. "Everything we need is next door, or we know somebody who has it."
+
+Through painstaking trial and error, the scientists are designing and building a nozzle that emits particles that are small enough to rise and remain suspended in air — 0.2 to 0.3 micrometers, about one-tenth the size of the period at the end of this sentence. The nozzle's holes are so narrow that they fit only two strands of human hair.
+
+In one early effort, tiny nozzle holes got clogged. Another was more successful, but required too much energy and was corrosive.
+
+"It looks like a snowblower, but it doesn't act like a snowblower," Neukermans said.
+
+To be aerosolized, the particles must be 1,000 times smaller than those created by snowblowers.
+
+"If you go to the coast, you see a little haze hanging over rocks. We want that sort of thing," Neukermans said. "You can't see fog, but it seems foggy."
+
+Funding, not science, could prove to be the group's biggest challenge. Because geoengineering straddles the fields of physics, atmospheric science and engineering, it's not eligible for traditional government grants, the group says.
+
+The next phase of the project is a small, land-based "proof of concept" experiment in Moss Landing, planned for next year. It would cost about $6 million.
+
+Phase Three — conducted out at sea, with blowers mounted on a small ship, propelling droplets that reach real clouds — is scheduled for 2018 or 2019 and would cost about $10 million.
+
+The technology could be used for creating fog to cool stressed redwood forests or overheated coral reefs, the team says. But the day may come, according to the National Academy of Sciences, when more global strategies might be explored.
+
+That could entail injecting droplets more than 10 miles into stratosphere, a far more ambitious and controversial endeavor.
+
+The scientists say there will be deep satisfaction if their project succeeds, but far better would be a future without global warming.
+
+"We would be perfectly happy," Cooper said, "if our method works beautifully — and it never needs to be used."

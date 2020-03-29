@@ -1,0 +1,51 @@
+On June 28, 2009, the world-famous physicist Stephen Hawking threw a party at the University of Cambridge, complete with balloons, appetizers and champagne. Everyone was invited but no one showed up. Hawking had expected as much, because he only sent out invitations after his party had ended. It was, he said, "a welcome reception for future time travelers," a joke and an experiment to reinforce his belief that travel into the past is impossible.
+
+But Hawking may be on the wrong side of history. Recent experiments offer some support for time travel's possibility—at least in the world of math. The new study cuts to the core of our understanding of the universe. Proving that time travel is possible would have profound consequences for traditional, classical physics as well as for practical applications such as types of computing and encryption that rely on quantum physics, also called quantum mechanics.
+
+Briefly, classical physics deals with the big things, like the Sun and Moon. Quantum mechanics tells us that the things described in classical physics are affected by things even smaller than atoms. For instance, a ray of light is actually made up of tiny packets of energy.
+
+## The Theory Of Time Travel
+
+The source of time travel speculation lies in the fact that physics doesn't seem to prohibit time travel. The feat should be possible based on Einstein's theory of general relativity, which describes gravity as the warping of spacetime by energy and matter.
+
+To understand the theory of relativity, imagine you and a friend stretch a blanket out in the air between the two of you. That blanket is spacetime. Then someone drops a marble onto the blanket, and the blanket sinks a bit. The marble is like a planet in our example. Since space and time are part of the same fabric "spacetime", the weight of planets affects and bends both space and time.
+
+An extremely powerful gravitational field, such as that produced by a spinning black hole, could in principle warp the fabric of spacetime, so that it bends back on itself. This would create a "closed timelike curve," or CTC, a loop, or tube, that could be used to travel back in time.
+
+Hawking and many other physicists find CTCs unpleasant, because anything traveling through one would inevitably create paradoxes where cause and effect break down. Think about any science fiction movie, where someone travels back in time and their actions change the future, or even prevent themselves from being born.
+
+## Quirky Quarks, Fuzzy Rules
+
+In a model proposed by the theorist David Deutsch in 1991, however, the paradoxes created by CTCs could be avoided at the tiny, quantum scale because of the behavior of fundamental particles, like quarks. For instance, quarks are inside protons, but no one knows what's inside them or how they behave exactly. They follow only the fuzzy rules of probability.
+
+"It's intriguing that you've got general relativity predicting these paradoxes, but then you consider them in quantum mechanical terms and the paradoxes go away," says University of Queensland physicist Tim Ralph. "It makes you wonder whether this is important in terms of formulating a theory that unifies general relativity with quantum mechanics." For decades, physicists have searched for a grand theory to unite classical physics and quantum physics.
+
+Recently Ralph and his PhD student Martin Ringbauer led a team that simulated Deutsch's model of CTCs for the first time. They tested and confirmed many aspects of the theory. Their findings are published in Nature Communications. Much of their simulation revolved around investigating how Deutsch's model deals with the "grandfather paradox." In the hypothetical scenario someone uses a CTC to travel back through time to murder her own grandfather, thus preventing her own later birth.
+
+## What Are The Chances?
+
+Deutsch's quantum solution to the grandfather paradox works something like this:
+
+Instead of a human being taking a CTC back in time to kill her ancestor, imagine that a particle goes back in time to flip a switch on the particle-generating machine that created it. If the particle flips the switch, the machine emits a particle—the particle—back into the CTC. However, if the switch isn't flipped, the machine emits nothing.
+
+In this scenario there is no certainty to the particle's emission, only a range of probabilities. Deutsch's insight was to theorize that particles be consistent at the quantum level. He insists that any particle entering one end of a CTC must emerge at the other end with identical properties. Therefore, a particle emitted by the machine with a probability of one half would enter the CTC and come out the other end to flip the switch with a probability of one half.
+
+By doing so it would give itself at birth a probability of one half of going back to flip the switch. If the particle were a person, she would be born with a one-half probability of killing her grandfather, giving her grandfather a one-half probability of escaping death at her hands. That's good enough in probabilistic terms to close the causative loop and escape the paradox. Strange though it may be, this solution agrees with the laws of quantum physics.
+
+## Time-Loop Simulator
+
+In their new simulation Ralph and Ringbauer studied Deutsch's model. They used interactions between pairs of polarized light particles (photons). They say it is mathematically equivalent to a single photon passing through a CTC. "We encode their polarization so that the second one acts as kind of a past incarnation of the first," Ringbauer says. So instead of sending a person through a time loop, they created a stunt double of the person and ran him through a time-loop simulator. They wanted to see if the stunt double coming through a CTC exactly resembled the original person as he was in that moment in the past.
+
+By measuring the polarization of the second photon after its interaction with the first, the team successfully demonstrated Deutsch's theory in action. "Of course, we're not really sending anything back in time, Ralph says. But the simulation "allows us to study weird evolutions normally not allowed in quantum mechanics."
+
+Those "weird evolutions" enabled by a CTC, Ringbauer notes, would have remarkable practical applications for encryption and cryptography based on quantum mechanics. The quantum states of fundamental particles could be cloned. "If you can clone quantum states," he says, "you can violate the Heisenberg uncertainty principle," which comes in handy in quantum cryptography. Heisenberg's uncertainty principle forbids simultaneously accurate measurements of certain kinds of paired variables. Basically, the better you know the position of a particle, the less you know its momentum, and vice versa. "But if you clone that system, you can measure one quantity in the first and the other quantity in the second, allowing you to decrypt an encoded message."
+
+"In the presence of CTCs, quantum mechanics allows one to perform very powerful information-processing tasks, much more than we believe classical or even normal quantum computers could do," says Todd Brun, a physicist at the University of Southern California. "If the Deutsch model is correct, then this experiment faithfully simulates what could be done with an actual CTC. But this experiment cannot test the Deutsch model itself; that could only be done with access to an actual CTC."
+
+## Time-Travel Guests? Unlikely
+
+Deutsch's model isn't the only one around, however. In 2009 Seth Lloyd, a theorist at Massachusetts Institute of Technology, proposed an alternative, simpler model of CTCs. It resolves the grandfather paradox using quantum teleportation and a technique called post-selection, rather than Deutsch's consistency idea. Lloyd performed successful laboratory simulations of his model in 2011. "Deutsch's theory has a weird effect of destroying correlations," Lloyd says. "That is, a time traveler who emerges from a Deutschian CTC enters a universe that has nothing to do with the one she exited in the future." His technique of post-selection preserves correlations, "so that the time traveler returns to the same universe that she remembers in the past."
+
+This property of Lloyd's model would make CTCs much less powerful for information processing, although still far superior to what computers could achieve in typical regions of spacetime. "The classes of problems our CTCs could help solve are roughly equivalent to finding needles in haystacks," Lloyd says. "But a computer in a Deutschian CTC could solve why haystacks exist in the first place."
+
+Lloyd, though, admits how little is known of CTCs. "I have no idea which model is really right. Probably both of them are wrong," he says. Of course, he adds, the other possibility is that Hawking is correct, "that CTCs simply don't and cannot exist." Time-travel party planners should save the champagne for themselves—their hoped-for future guests seem unlikely to arrive.

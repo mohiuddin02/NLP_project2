@@ -1,0 +1,98 @@
+With tornadoes, advance warning comes down to minutes.
+
+In Moore, Okla., on May 20, it was 16 minutes.
+
+In Newcastle, to the southwest, nearest where the deadly mile-wide tornado that killed 24 people first formed, it was only five minutes.
+
+Tornadoes used to strike without any warning at all.
+
+Since the 1970s, meteorologists have worked to bring the average warning time up to 13 minutes.
+
+A combination of weather balloons, radar and on-the-ground observations form the core of today's forecasting technology.
+
+Now scientists have a new goal: extending the warning time from minutes to hours by sending unmanned aircraft — [drones](https://www.newsela.com/?tag=drone) — into a brewing storm.
+
+Pulling that off would require not only technological expertise, but also flexibility in government rules that block most such flights.
+
+Up until now, most unmanned aircraft vehicles have been used for military strikes or spying.
+
+But researchers are increasingly exploring their use in science, including severe weather research.
+
+(Weather officials prefer the term "unmanned aircraft" to "drones," a word loaded with political meaning because of its wartime usage.)
+
+Oklahoma, where 19 twisters touched down in the last two weeks of May alone, is one of the states leading the charge.
+
+At Oklahoma State University, faculty and students in mechanical and aerospace engineering are building and designing Kevlar-reinforced aircraft to withstand high winds.
+
+At the University of Oklahoma, meteorological researchers are building sensors and advising the OSU researchers on data collection.
+
+"We have the (unmanned aircraft) expertise, we have the weather expertise and, by golly, we have the weather," said Stephen McKeever, Oklahoma's state secretary of science and technology and a vice president for research at OSU.
+
+"In many senses, we're the perfect laboratory to do this kind of thing."
+
+Remotely controlled by a pilot, the small aircraft weigh up to 55 pounds and can range in cost from $10,000 to $100,000, depending on the types of technology involved.
+
+Sensors would collect data on temperature, humidity and pressure while intercepting a storm, crucial information in tornado prediction.
+
+Researchers also aim to improve forecasting by monitoring the atmosphere before and after storms form.
+
+Jamey Jacob, a professor at OSU's School of Mechanical and Aerospace Engineering, first started working on drones for Mars exploration in the 1980s.
+
+Since then, his focus has shifted to twisters and the questions still confounding scientists: how, why and when tornadoes form.
+
+"If you live in Oklahoma, you have an interest in tornadoes," Jacob said.
+
+At OSU, Jacob guides teams of students on the aircrafts' design and assembly.
+
+One team had scheduled a test flight for an aircraft built for a Department of Homeland Security public safety drone program on May 20, the day the tornado hit Moore.
+
+They delayed the flight two days and successfully launched the plane into clear skies.
+
+Apart from weather research, the aircraft can be used to help fight wildfires, dust agricultural crops and inspect pipes.
+
+Quiet ones can also be used to locate survivors in the aftermath of a disaster.
+
+After the Moore tornado, officials had to ground helicopters flying over elementary schools where people were searching for survivors because they were drowning out calls for help.
+
+"We're really excited actually about how our technology can be re-deployed from border patrol into flying into storms to gather and collect data that can really save a lot of people's lives," said Jacob Stockton, a graduate student.
+
+Stockton is getting a master's degree in unmanned aerial systems at OSU.
+
+The technology is also safer than storm chasing when it comes to visually confirming a tornado.
+
+The meteorological community is still reeling from the deaths of three veteran storm chasers and researchers caught in the more recent tornado that struck the Oklahoma City suburb of El Reno.
+
+In a nod to the state's interest in the field, Oklahoma Gov.
+
+Mary Fallin signed an executive order two years ago to create an advisory council on unmanned aerial systems, to be chaired by McKeever.
+
+The committee met May 31, hours before the El Reno storm hit the Oklahoma City metropolitan area.
+
+Committee members discussed the severe weather predicted for that night with a twinge.
+
+"We were all knowing that, if we could get airplanes up into the air ..." said committee member Phillip Chilson, a professor at the School of Meteorology and Advanced Radar Research Center at the University of Oklahoma.
+
+The key word is "if."
+
+Under current Federal Aviation Administration regulations, it is illegal to operate unmanned aircraft in national airspace.
+
+Public agencies, including universities, can apply for a special certificate to fly the aircraft.
+
+But from there, the FAA requires 48 hours advance notice before actually going up.
+
+The agency also insists that the pilot keep the aircraft in his or her line of sight at all times — impossible when it comes to rain-shrouded tornadoes that form within hours.
+
+Researchers are  careful not to criticize the FAA, noting its emphasis on safety.
+
+But they say they are frustrated about the slow pace of changes to regulations that have limited the use of a technology that is ready and can be a great help.
+
+But changes are coming.
+
+In the FAA Modernization and Reform Act of 2012, Congress laid out the start of a framework for letting unmanned aircraft into national airspace by September 2015.
+
+For the first step, the FAA is preparing to set up six test sites around the nation for the research and development of unmanned aircraft.
+
+Officials have received 50 applications from 37 states, including Oklahoma.
+
+Decisions are to come in December.
+

@@ -1,0 +1,92 @@
+Companies that make airplanes are changing the way they do things: They no longer build wings and jet bodies out of metal.
+
+Instead, they build them out of carbon-fiber composites.
+
+This lightweight material is made from a blend of carbon and plastic.
+
+Just like cloth, it is woven together.
+
+One thing is hard to find, though: good tools to cut and shape the new material.
+
+Now, a Washington engineering firm called Electroimpact says it has built a better tool.
+
+It says its new machine can handle carbon-fiber composites better than anything else out there.
+
+The new invention is known as an automated fiber placement, or AFP, machine.
+
+What makes it special is its round robotic head.
+
+This has many spools of half-inch carbon-fiber ribbon attached to it.
+
+It can move around any shape very exactly.
+
+And it works at very, very fast speeds.
+
+First, a laser measures the surface the fiber is to be laid on.
+
+Next, a computer works out a series of instructions.
+
+These guide the machine as it tailors the fiber.
+
+Then, the head starts moving back and forth.
+
+As it moves, it lays down strips of fiber.
+
+The surface the strips are laid on rotates as needed.
+
+The machine can reach an amazing top speed: 595 pounds of carbon fiber laid down per hour.
+
+That is "a very large number.
+
+... probably the fastest we've seen," said journalist Jeff Sloan.
+
+Typically, a speed of 90 pounds per hour would be fast, he said.
+
+Bill Hasenjaeger works for a company called CGTech.
+
+His company developed the computer software that guides the new machine.
+
+He claims perfection is more important than speed.
+
+If the new machine can do the work perfectly, he said, 595 pounds per hour is "a pretty darned impressive number."
+
+Ben Hempstead is chief of staff at Electroimpact.
+
+He insists no one can match the company's AFP machine.
+
+"You won't see this anywhere else on the planet," he said.
+
+Todd Rudberg is Electroimpact's project manager.
+
+He would like to see the company's AFP machines used to make wing skins and wing spars.
+
+Spars are two long beams that run the length of a wing.
+
+One is in the front of the wing; the other is in the rear.
+
+Each is more than 100 feet long.
+
+The Electroimpact machine could make each of those spars as a single piece, Rudberg said.
+
+They would be an "uninterrupted beautiful structure."
+
+The AFP machine used in a recent demonstration is Electroimpact's smallest model.
+
+It costs $5 million.
+
+The company has built bigger models that cost up to $25 million.
+
+Electroimpact is already making equipment for all the world's major plane makers, like Boeing and Airbus.
+
+Some of the projects are secret.
+
+Peter Zieve is Electroimpact's founder and boss.
+
+He said he hopes to add two big new buildings to the six the company already has.
+
+He plans to empty out the largest of the old ones.
+
+That way, it can be "filled with a huge Boeing project."
+
+He wouldn't say which project.
+

@@ -1,0 +1,111 @@
+CARLSBAD, Calif. — Along this patch of the Pacific Ocean, welders and pipefitters nearly outnumber the surfers and sunbathers. Within sight of the crashing waves, the laborers are assembling what some hope will make water scarcity a thing of the past.
+
+They are building the Carlsbad Desalination Project, which will convert as much as 56 million gallons of seawater each day into drinking water for San Diego County residents. The project, with a price tag of $1 billion, is emerging from the sand like an industrial miracle. In California's highly regulated coastal zone, it took nearly 15 years to move from concept to construction, surviving 14 legal challenges along the way.
+
+The desalination plant is being built by Poseidon Water, a private company, and will be paid for in large part by rate increases on San Diego County water customers. On the surface, the plant resembles any other major construction project: Construction cranes scrape the sky as concrete foundations are poured; the giant new blocky building could be any warehouse or parts factory.
+
+Inside, the truth of the project is revealed. The building will house more than 16,000 reverse-osmosis membranes — salt filters, essentially — that will convert the Pacific Ocean into drinking water suitable for making coffee and watering lawns.
+
+"It's effectively where the magic happens," Peter MacLaggan, a Poseidon vice president, said as he surveyed racks upon racks of the tubular membranes.
+
+Reverse-osmosis desalination was invented in California in the 1950s. But other nations with fewer natural freshwater supplies — Israel, Australia, Saudi Arabia and others — embraced the technology first and built dozens of projects over the past few decades. When the Carlsbad plant begins operating in 2016, it will be the largest desalination project ever built in the Americas. Desalination on this scale is so new, MacLaggan said, that Carlsbad will be operated initially by an Israeli subcontractor, which will help train a staff of California workers.
+
+The eyes of a thirsty state are trained on this project: It is a crucial test for an industry eager to expand in California, where residents are famously protective of their coastline and accustomed to relatively cheap water. In short, the Carlsbad project is challenging California's status quo while also offering the tantalizing prospect of relief from drought.
+
+"This plant can't come online fast enough," said Bob Yamada, water resources manager at the San Diego County Water Authority, which serves 3.1 million people and is buying all of the plant's freshwater production. "It's drought-proof. That's one of the most important attributes. It will be the most reliable water source we have."
+
+The water authority's 30-year contract with Poseidon illustrates both the promise and peril of this water source. San Diego County agreed to pay for 48,000 acre-feet of water from the plant every year — whether it needs the water or not — to ensure a guaranteed supply. The water will cost $2,257 per acre-foot, about double the price of the authority's most expensive current supply, which is water imported from the Sacramento-San Joaquin Delta more than 400 miles away.
+
+Under this so-called "take-or-pay" contract, the water authority can purchase an additional 8,000 acre-feet each year if necessary, which reduces the price slightly, to about $2,000 per acre-foot.
+
+One acre-foot is enough to serve two average homes for a year. At a total output of 56,000 acre-feet, the plant will meet 7 percent of San Diego County's annual water demand.
+
+Another way to look at it, said Conner Everts, co-chair of the Desal Response Group, a coalition of conservation groups critical of desalination, is that the Carlsbad project puts a $108 million burden on San Diego County water ratepayers every year, drought or not.
+
+"If you look at our choices based on costs and (environmental) impacts, desal should always be at the bottom of that list," Everts said. "It's kind of an engineer's dream, but there's a lot of challenges to it."
+
+One of the big challenges is energy demand. Desalination requires more electricity than nearly any other water source, because water must be forced through reverse-osmosis membranes by high-pressure pumps. The San Diego County Water Authority committed to the Carlsbad project partly because it anticipates imported water will become more expensive over time and eventually reach parity with desalination.
+
+———
+
+Others view that equation differently. Four years ago, the city of Long Beach abandoned its desalination plans because of the energy cost.
+
+"The primary driver of the cost of imported water is the same as desalination: It's the price of electricity," said Kevin Wattier, general manager of the Long Beach Water Department. "It's just way more expensive than imported water, and we have other options we would consider before that, such as recycled water or groundwater storage."
+
+Other communities have also recently dropped desalination projects. The city of Santa Cruz, with no imported water to shore up its supplies, rejected desalination after an uproar from residents concerned about the cost and environmental risks. Since then, residents have cut their water consumption to one of the lowest levels in the state — 62 gallons per person per day — and succeeded in prolonging local reservoir storage.
+
+The Marin Municipal Water District also decided for similar reasons in 2010 not to pursue desalination, and it boosted conservation efforts instead.
+
+"That is the least expensive and most immediate way to add reliability to our water supply, so that's what we've been doing," said Libby Pischel, a spokeswoman for the district.
+
+The state has more than a dozen permitted desalination plants, but they are all small. When Carlsbad begins operating, it will produce about 25 times more drinking water than all of them combined.
+
+About a dozen new desalination projects are in various planning stages throughout the state. Only a few are as large as Carlsbad. The nearest to construction is another Poseidon project, proposed in Huntington Beach. A final permit from the state Coastal Commission comes up for a vote late in 2015.
+
+Anticipating more proposals, the State Water Resources Control Board is drafting new regulations to govern desalination. The rules focus primarily on two crucial operating features: seawater intakes and outfalls.
+
+Desalination plants operate by drawing in seawater. Unless that intake is carefully designed, it can harm marine life. Reverse-osmosis filters are so fine that they allow only water molecules to pass. Everything else entering the desalination plant is killed.
+
+One solution is fish screens, similar to those widely used at water-treatment plants along California rivers. Carlsbad, for example, will use fish screens with openings just 1 mm wide — about the thickness of a credit card. These will strain out at least 95 percent of juvenile fish, but only 20 percent of all organisms, MacLaggan said. The remaining 80 percent — including tiny zooplankton and fish eggs — will be sucked into the desal plant and killed.
+
+"Those small things form the basis of the food web," said Victoria Whitney, deputy director for water quality at the state water board.
+
+———
+
+The desalination industry worldwide largely favors screened intakes, because they are cheaper and easier to build than the subsurface intakes favored by the water board in its draft regulations.
+
+Subsurface intakes operate much like a septic tank leach field, but in reverse. Ocean water is drawn through perforated pipes buried in the seafloor. The overlying mud and sand act as a fine filter to screen out nearly all organisms. Such intakes are far more expensive to build, and may require periodic cleaning.
+
+One of the first large subsurface intakes at a major desalination plant, in Fukuoka, Japan, has shown no need for maintenance at all. Tom Missimer, a geology professor at Florida Gulf Coast University and a longtime consultant in the desalination industry, suspects a natural cleaning process is at work. Tiny worms and other organisms in the seabed eat sediments, algae and other material that could clog the intakes, he said. Then those feeders excrete hard pellets that become a new filter material.
+
+After eight years, the seabed filter system at Fukuoka seems to be self-sustaining, Missimer said.
+
+"If something wasn't cleaning it, it would have clogged a long time ago," said Missimer, who was a consultant on the Fukuoka plant.
+
+Subsurface intakes provide another benefit. Because they screen out so much material, numerous prefiltering steps are not required before water reaches the reverse-osmosis membranes. At Carlsbad, for instance, water will first pass through gravel and sand filters, then charcoal, then a fine filter screen — all before undergoing reverse osmosis. Each avoided step saves money, because it means less equipment purchased up front, less electricity consumed and less maintenance.
+
+"You apply that to a 30-year economic analysis, and you start to see suddenly there are some very good reasons for using subsurface intakes," Missimer said.
+
+It remains to be seen if similar results can be achieved in California, because every patch of seafloor is different. But one project suggests it might work.
+
+The city of Long Beach started a small desalination plant in 2006, as a test project, using a subsurface intake in the surf zone. The city stopped operating the plant in 2010 and dropped plans to pursue desalination, but the intake continues pumping water in a loop to test the technology, Wattier said. After eight years, the intake required maintenance just one time, when a pipe broke.
+
+"It's held up just fine," Wattier said. "Ours is cleaned by just the very gentle surf action we have in Long Beach."
+
+The second major environmental concern is discharge water. Most desalination plants take in two times more seawater than the fresh water they produce. To produce 50 million gallons per day of fresh water, Carlsbad will draw in 100 million gallons of seawater. The difference is returned to the ocean as discharge water, but with its salinity doubled.
+
+The discharge water is so salty that it doesn't dissolve well in the ocean.
+
+"It's like oil and vinegar — they stay separate," Whitney said. "You end up with these very large dead zones … where you have really salty water just sitting on the ocean bottom."
+
+Carlsbad will deal with this problem by mixing the salty water with cooling water discharged from the neighboring NRG Encina power plant (also the source of its intake water). As a result, the discharge water will be only about 20 percent saltier than the ocean.
+
+Another approach is to disperse the discharge water under the ocean surface using spray nozzles. This encourages mixing of the salty discharge and is one recommendation in the state's draft regulations. The water board expects to adopt the new regulations early in 2015.
+
+But MacLaggan said the velocity from such sprayers is so great that it can kill some sea life. "We think we've struck the right balance with the project we've put forward," he said.
+
+Everts, of the Desal Response Group, feels differently.
+
+"They've been pretty insistent on doing this the old-fashioned way," he said. "We don't want that plant to define everything else."
+
+———
+
+Will desalination emerge as a major new tool to deliver California from water shortages? That seems unlikely, at least in the near future, given the small number of new projects now in the works. Also, some very big players don't seem interested.
+
+Customers in the city of San Diego will help pay for the Carlsbad plant through their water bills, which could increase as much as $5 a month. But they aren't expected to receive any of the plant's desalinated water, said Brent Eidson, a spokesman for the city utilities department, because most of their water comes from the city's treatment system, not the county's. While the city supports the Carlsbad project, it does not plan to build its own desalination facility.
+
+Instead, the city plans to pursue wastewater recycling. The proposal will treat city sewage to drinking-water standards and use it to refill reservoirs. It is expected to deliver nearly twice as much fresh water as the Carlsbad plant — enough to meet one-third of the city's total demand — at about 20 percent cheaper than desalination. The project has been embraced by environmental groups.
+
+Los Angeles Mayor Eric Garcetti last month announced an aggressive program to expand water conservation. He also directed city staff to cut the city's reliance on imported water in half by 2024. His directive named almost every potential option to reach that goal, including stormwater capture, water recycling, groundwater treatment and even new storage facilities. Desalination was noticeably missing from the list.
+
+"We believe in being innovative and open-minded when it comes to tackling the water crisis," mayoral spokeswoman Marie Lloyd said via email. "At the same time, we do understand that desalination is quite expensive today."
+
+On the other hand, the Metropolitan Water District of Southern California, the largest wholesale supplier in the region, last month approved a new program offering local agencies as much as $340 per acre-foot to subsidize desalination projects.
+
+Missimer said proceeding cautiously is one thing. But it would be unwise to exclude desalination, he said, either because of ideology or burdensome regulations.
+
+He recently returned to the United States after living in Saudi Arabia for four years, where he taught at King Abdullah University of Science and Technology and worked as a desalination consultant. Conditions there are very different from California, he said, because Saudi Arabia has few water sources other than the ocean: no mountain runoff, very little rainfall and severely depleted groundwater.
+
+On second thought, he said, California may not be so different.
+
+"Under global climate-change scenarios, you're going to have more extreme droughts," he said. "Also, if you look at your current situation, if it doesn't rain very soon you've got one whale of a problem. Do you really want to take the chance of having to evacuate Southern California if it doesn't rain?"

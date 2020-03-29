@@ -1,0 +1,55 @@
+Noah Madson remembers being exhausted after hours of tests for ADHD, a disorder that makes concentration difficult.
+
+"Boy, those were complicated," said his mother, Nancy. "He'd come out and say, 'My brain hurts.'" Today, Noah's task is less of a headache. After the 14-year-old plays a video game for 20 minutes, his parents and teachers will have data that paint a complete picture of how his mind is functioning.
+
+Better yet, as the Minnesota teenager plays the game more, his memory and processing speed might actually improve.
+
+Noah is part of a early study for CogCubed, a new Minneapolis-based company that develops games to help diagnose brain disorders such as Attention Deficit Hyperactivity Disorder (ADHD) and help lessen their effects. The company has already attracted $20,000 in funding from Google and is a semifinalist in the Minnesota Cup, a competition for business people.
+
+CogCubed was [founded](https://www.newsela.com/?tag=entrepreneur) by a husband-and-wife team: game developer Kurt Roots and child psychiatrist Monika Heller. Their goal is to use sensor technology to produce objective data about symptoms that are often hard to pin down, such as inattentiveness and hyperactivity.
+## A Game Called "Groundskeeper"
+
+The game that CogCubed is testing now uses Sifteo, a platform that consists of small cubes with screens on them. The game, called "Groundskeeper," asks the user to use one cube — the mallet — to hit a gopher that pops up on the screens of the other three cubes. As the game goes on, distractions like rabbits and chirping birds come up, and the instructions change.
+
+The cubes produce data on more than 70 different variables, including errors, response times and even whether the player is fidgeting. Those data come together in a Web portal that doctors, parents and teachers can use to observe a child's brain function in a very specific way.
+
+"That's part of our excitement with it, that we're getting so much detailed information," Nancy Madson said. "I can't wait for it to affect (Noah's) education plan for the coming year."
+
+This year, the Centers for Disease Control and Prevention released record numbers for ADHD diagnoses: 11 percent of school-aged children have been diagnosed with the disorder, including nearly 1 in 5 high-school-age boys.
+
+It's not clear what's behind the increased numbers, which represented a 41 percent jump in the past decade and contributed to a shortage of commonly prescribed ADHD medicines in 2011.
+## An Assessment Tool At Home
+
+But, Heller said, one thing is clear: Caretakers for children with ADHD could use extra help.
+
+"Six to 12 months is the average waiting period to see a child/adolescent psychiatrist," she said. "How phenomenal would it be if Mom could have an assessment tool at home?"
+
+CogCubed aims to start selling its "Groundskeeper" training game, which adjusts to each player's weaknesses to help improve thinking skills, in the next few months. Noah and 36 other students with ADHD are testing that game, playing twice a day for three to five days a week.
+
+Another version of the game that serves as a tool to help doctors tell if somebody has ADHD won't be released until CogCubed receives Food and Drug Administration (FDA) approval for it, Roots said. The game wouldn't replace thorough psychological exams, but would provide doctors with data to aid a diagnosis.
+
+In a University of Minnesota study, that version of the game matched a psychiatrist's ADHD diagnosis 75 percent of the time. The Continuous Performance Test, a computer-based tool that clinicians often use, has about a 62 percent accuracy rate, Heller said.
+
+"We're really trying to do something that is clinically validated," Roots said. "We don't want to make promises that we can't keep. We're doing the best we can to make sure we're not selling something that gets people's hopes up and doesn't work."
+## A Game-Changer In Mental Health?
+
+CogCubed is also beginning to partner with local autism centers to test the Groundskeeper games' ability to provide data about autism, Roots said.
+
+It's important that products that tout improvement of cognitive function stay away from broad claims and focus their research on long-term effects, said Max Wiznitzer, a pediatric neurologist who serves on the professional advisory board for Children and Adults with Attention-Deficit/Hyperactivity Disorder.
+
+"Can we improve working memory and teach them little tricks? The answer is yes," Wiznitzer said. "Will it somehow make that person tons better in their day-to-day functioning? That's where I'm concerned when people make these kinds of claims. It's not the miracle cure. I wish it were."
+
+The amount of data that CogCubed collects could make it a game-changer in the mental health field, Heller said.
+
+While a computer-based test just measures errors, the Sifteo cubes' sensors measure every move in between. That means there's less room for the wrong diagnosis — and more room to grow.
+## "And It's Fun"
+
+The results of the early study at Noah's school, Groves Academy, could help teachers tailor lesson plans for each student's particular needs, Groves' assistant director of diagnostics Zach Eakman said.
+
+Eakman said the school, which serves children with learning disabilities, was impressed by CogCubed's product.
+
+"Groves gets approached a lot by outside therapies as potential partnerships," he said, adding this is only the second study the school has agreed to be a part of in 35 years. "It's because of not only their research results, but their approach to research, which includes a commitment to third-party and (long-term) analysis."
+
+Nancy Madson said she's thrilled about the game, which Heller said was designed to be "just boring enough" so that it does not overwhelm the brain with too much excitement.
+
+"It's an opportunity for our son to become more self-sufficient with his ADHD and his learning differences," Madson said. "And it's fun."

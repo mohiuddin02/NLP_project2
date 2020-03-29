@@ -1,0 +1,100 @@
+Each time you make popcorn in the microwave, look closely: you're witnessing one of the most dramatic scientific transformations.
+
+Most people do not understand how complex popping kernels can be.
+
+A pair of French science researchers were fascinated by how the kernel transforms into a fluffy treat.
+
+The popping of corn presents a powerful display of how the laws of physics apply to everything — even snack food.
+
+"This phenomenon contains interesting physics from different fields: thermodynamics, biomechanics and acoustics," said engineer Emmanuel Virot and physicist Alexandre Ponomarenko.
+
+They are the authors of a recent study about popcorn published in the Journal of the Royal Society Interface.
+
+Until now, most research on popcorn has been focused on practical questions.
+
+Chemists who study food determined the optimal amount of moisture that should be in each kernel for it to pop right.
+
+Other scientists studied the shape of kernels.
+
+They found that the ideal shape for an unpopped kernel is a sphere.
+
+Other plant researchers have figured out how to reduce the number of unpopped kernels in a batch of popcorn.
+
+Virot and Ponomarenko aren't interested in improving the taste or experience of popcorn.
+
+Instead, they wanted to understand the physical origins of some of the most famous traits about the food, like what makes it jump and where that pop-pop-pop sound comes from.
+
+Their popcorn investigations were inspired by other scientists who work in a laboratory in France.
+
+The scientists who inspired the popcorn researchers were using a high-speed camera to take 2,900 pictures per second of small, everyday events, like a drop landing on the surface of water.
+
+For a while, Virot and Ponomarenko were using the cameras on plants to take pictures.
+
+Before long, they turned their attention to popcorn.
+
+The scientific name for popcorn is Zea mays everta and it is the only type of corn that pops.
+
+Popcorn kernels are shaped more like a sphere compared to other corn kernels.
+
+The thin layer, or hull, that surrounds the seed, called a pericarp, is also thicker.
+
+Inside the seed is the kernel's endosperm.
+
+The endosperm is a starchy carbohydrate that provides food (energy) for the living part of the kernel, known as the germ or embryo.
+
+When the kernel gets very hot and the water inside hits its boiling point — above 100 degrees Celsius (212 degrees Fahrenheit) — it turns to steam.
+
+The steam creates a vapor that forces its way into the hard endosperm.
+
+The endosperm melts into a molten mass, like a bread dough or thick batter.
+
+The water vapor puts pressure on the hull.
+
+Eventually, the hull cannot take the heat anymore and the kernel explodes.
+
+The starch, which used to be hot, cools very quickly as soon as the kernel bursts.
+
+It turns into a spongy white flake of popcorn.
+
+After this popping is over, the fluffy corn is twice as large and eight times less dense than the original kernel.
+
+There are other types of grains that pop, including millet, quinoa and amaranth, but none of them do so as dramatically as popcorn.
+
+To observe this process very closely, Virot and Ponomarenko used their high-speed cameras to capture kernels popping on a hot plate.
+
+They turned the heat up to 350 degrees Celsius (662 degrees Fahrenheit) and placed a few kernels on the scorching surface.
+
+After hundreds of tries, they discovered that the popcorn gets kicked into the air by a "leg" that emerges from the broken hull.
+
+The steam does not make the kernel jump, like they had believed at first.
+
+The kernel doesn't move very far, only a few millimeters to a few centimeters.
+
+When the leg is released, the popcorn moves like a gymnast doing a somersault.
+
+All of this happens in just one-fifteenth of a second.
+
+After studying these small movements, the French team determined the critical temperature that popcorn needs to pop.
+
+They put kernels of microwaveable popcorn in an oven and cranked up the temperature 50 degrees at a time.
+
+Ninety-six percent of the kernels popped when it reached 180 degrees Celsius (356 degrees Fahrenheit) — regardless of the size of the kernel.
+
+Finally, they investigated why popcorn makes its famous popping noise.
+
+They identified three possible reasons: the cracking of the hull, the bounce of the corn on the ground, or the release of pressurized water vapor.
+
+To figure out which was responsible, they placed very sensitive microphones less than a foot away from the hot plate.
+
+The microphones were connected to the high-speed cameras.
+
+There was no sound when the popcorn first opened, which told the researchers that it was not the breaking hull that caused the noise.
+
+But after the first fracture, a second crack was observed in the hull.
+
+And 6 milliseconds after that, the pop sound began.
+
+They used the process of elimination to conclude that the trigger for the popping sound was the release of water vapor.
+
+After a long time spent testing popcorn, the researchers frequently concluded the day by enjoying their popcorn snack.
+

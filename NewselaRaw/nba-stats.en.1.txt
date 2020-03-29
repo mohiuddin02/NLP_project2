@@ -1,0 +1,55 @@
+LOS ANGELES — From their office window, Rajiv Maheswaran and Yu-Han Chang can catch a glimpse of Staples Center, home arena to both the Los Angeles Lakers and Clippers basketball teams.
+
+To see the future of the NBA, they only have to swivel their heads. Whiteboards inside their office are filled with algorithms in shades of red, blue and green, describing the steps of complicated calculations. Programmers in their office sit around computers inputting lines of complex code.
+
+What resembles gibberish to anyone without a degree in computer science could help NBA teams find the best ways to grab rebounds and defend pick and rolls through a software system developed by Maheswaran and Chang. Both work at the University of Southern California's Viterbi School of Engineering and are the NBA's newest go-to guys.  For the first time this season, motion-tracking cameras will be placed in every arena.
+
+Their software can make sense of the oceans of analytic data that will be available. "It's 1,000 times more information than anyone had before," said Maheswaran, who has degrees in math, physics and electrical engineering.
+
+## Shaded Green Squares On Screen
+
+On his laptop screen, Maheswaran displayed visual tools that teams could use to tweak lineups and position players for favorable outcomes. One showed a basketball court covered with shaded green squares. The darkest squares show the most likely spots where a rebound would fall depending on the shot taken. Another showed players' success rates in pick-and-roll combinations.
+
+Even the biggest supporters of this type of math admit that these insights should be only one part of a team's decision-making. Traditionally, teams looked at game films and evaluations of players.
+
+But the system Maheswaran and Chang have licensed to four NBA teams through their start-up company, Second Spectrum, could influence the way their clients play. It might even help them construct their list of players.
+
+The Golden State Warriors used similar analytics last season when their defense yielded a staggeringly high percentage on three-pointers. Assistant general manager Kirk Lacob said the team checked its defensive rotations, lineups and fatigue metrics and made tweaks accordingly. It worked: teams no longer shredded the Warriors' perimeter defense.
+
+"Did it make 100 percent of the difference, 50 percent of the difference, 20 percent of the difference?" said Lacob, whose team uses data from a California company called MOCAP Analytics. "I don't know the answer. The most important thing is it did help us identify a problem and then eventually correct it."
+
+Statistical analysis in the NBA has lagged roughly a decade behind its use in Major League Baseball. One reason is that baseball is slower and easier to analyze. Basketball analytics are mostly based on technology that is still emerging.
+
+## Six Tiny Cameras In Rafters
+
+Golden State, Dallas, Boston, San Antonio, Houston and Oklahoma City were the first NBA teams to use the motion-tracking cameras, developed by STATS LLC, starting with the 2010-11 season. Last season 15 teams used the system.
+
+The NBA recently decided to pay for every team to have the system. That would allow a complete data set to be available league-wide, and selected information could be distributed to fans via NBA TV and NBA.com.
+
+It all starts with six tiny cameras placed in the rafters of each NBA arena. They will record the movement of every player, referee and the ball 25 times a second. The data is electronically transmitted to STATS to be categorized into passes, dribbles, shots and rebounds, among other groupings.
+
+Teams can access relatively simple information such as the number of passes into the post in 60 to 90 seconds while games are in progress. More complicated information will be available after the game once the data is processed.
+
+Several teams, including the Los Angeles Clippers, have also hired employees to help sift through the information. "Every team is going to have their own formula that they will create that works for their team in scouting and everything," Clippers coach Doc Rivers said.
+
+Los Angeles Lakers assistant Kurt Rambis said a thick packet of data may yield only a handful of numbers coaches pass on to players.
+
+"You can't give players a boatload of information and expect them to implement it out on the floor," Rambis said.
+
+## Geek-Fatigue Factor
+
+Players are conflicted about the value of data — like, which players prefer to shoot after just two dribbles.
+
+Said Clippers point guard Chris Paul: "If I just guard him and after two dribbles, I stop, and he takes a third and I say, 'Hey, man, you're only supposed to take two dribbles,' then what?"
+
+There's also the geek-fatigue factor. Lakers center Chris Kaman said he was often overloaded with stats last season when he played for Dallas.
+
+"It got a little bit annoying," he said, "hearing about it all the time — this number and that number, and every day the coach was talking about numbers." Such as? "Points per possession, per second half, per first quarter … this guy guarding this guy in this game or these five guys did good against these guys but not these guys. There's everything."
+
+Including analytics related to injuries. The Lakers will be able to track Kobe Bryant's accelerations and decelerations upon his return from a torn Achilles tendon, as well as how much load he's putting on his legs during games. That information could help the team's trainers develop practice plans that keep him spry for the rest of the season.
+
+Analytics can also show teams information that could be used in contract talks.
+
+Maheswaran, 39, and Chang, 35, hope more teams leave the number crunching to them.
+
+The duo has worked together since 2005, eventually forming the Computational Behavior Group at USC. They have completed projects for the Department of Defense and the National Science Foundation involving the movement of vehicles. Chang says that it's great that they can go from "detecting enemy targets and tracking them to tracking our favorite players on the court."

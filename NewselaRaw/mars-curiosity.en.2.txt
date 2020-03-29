@@ -1,0 +1,39 @@
+A recent series of discoveries may make scientists change their ideas about Mars: They are now beginning to suspect that the Red Planet's geology is more Earth-like than previously imagined. New information suggests that the planet may have small bits of water spread around its surface. And it now seems that the planet's interior was once more geologically mature than previously thought.
+
+The new information is courtesy of NASA's Curiosity, a car-sized robotic rover that has been exploring parts of the surface of Mars. Launched in 2011, the automated vehicle is equipped with sophisticated scientific instruments. In 2012, it landed in Mars' Gale Crater.
+
+Five studies based on Curiosity's findings were published Thursday by the journal Science.
+
+What has scientists excited is that Curiosity has detected traces of water. The water is chemically bound to the Martian dust that seems to be covering the entire planet. This may explain mysterious water signals picked up by satellites in orbit around Mars.
+
+## ChemCam Detects Hydrogen In Soil
+
+The newly found water was spotted by one of Curiosity's fancy gadgets: the laser-shooting Chemistry and Camera (ChemCam) instrument.
+
+Curiosity's ChemCam instrument was first used to study the soil in Gale Crater. Results showed that the soil consists of two major types. One is coarse, with millimeter-wide grains that probably came from the rocks around them. The other is very fine, with grains often a few micrometers in size.
+
+The fine-grained soil doesn't really match the rocks around it, but it does seem to match the stuff found at sites where other rovers and landers touched down. That means it's probably spread over much or all of the planet. Most likely it is kicked up and carried far in Mars' fierce dust storms.
+
+But the most exciting thing about this fine soil is that ChemCam's readings detected a hydrogen signal. Water, of course, is two-thirds hydrogen. That could explain why satellites orbiting Mars have picked up a mysterious water signal in the past.
+
+"It's actually kind of exciting because it's water yet again on Mars, but it's in a different material than we had recognized," said geologist John Grotzinger. "So what Curiosity is doing is just demonstrating that water is present in a number of ways."
+
+## A Dirt-Digesting Lab In Its Belly
+
+However, another of Curiosity's instruments came up with different results. The rover's Chemistry and Mineralogy (CheMin) tool — part of the dirt-digesting lab in its belly — found no sign of water in soil samples taken from a sandy dune named Rocknest.
+
+That's because CheMin examines minerals by X-raying them. When soil is composed of minerals with a crystalline structure, the high-energy light bounces back, providing information. If the soil isn't in crystalline form, there's no way for CheMin to see it.
+
+All this means the hydrogen signal seen by ChemCam must have been coming from the non-crystalline portion of the soil. This so-called amorphous portion makes up a significant part of the soil.
+
+This theory was proven when Curiosity's Sample Analysis at Mars (SAM) instrument cooked up a tiny sample of soil in its little oven: It turned out that roughly 1.5 to 3 percent of it was made of water. The scientists think this water may have come from the atmosphere. In other words, it might have been pulled out of Mars' thin air.
+
+## A Rock Rich In Alkaline Magma
+
+Another of the studies focused on the rock known as Jake M., named after NASA engineer Jake Matijevic, who died shortly after the rover landed in 2012. Jake M is unlike any volcanic rock seen on Mars: It's rich in alkaline magma.
+
+This told the researchers that it had been created under high pressure — and perhaps in the presence of water. In fact, it looks something like a rock on Earth called mugearite which is found on ocean islands and near underwater volcanos.
+
+Examination of Jake M showed how it was formed: It was made of material left over after other minerals in the Martian magma had hardened into crystalline forms. This suggests that the volcanic activity that used to occur beneath Mars' surface was a lot more complicated than scientists had thought.
+
+"We see evidence for a more evolved planet," Grotzinger said. "It looks like it was headed in more of a direction like Earth."

@@ -1,0 +1,87 @@
+PALO ALTO, Calif. — Within walking distance of Tesla Motors' Palo Alto headquarters and across the street from Hewlett-Packard, Ford Motor Co. has set up a new Silicon Valley outpost.
+
+![](https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20151120_CA_AUTO.png)
+
+With a team of 100 reporting to a former Apple engineer, the Detroit giant is researching how humans experience machines, running autonomous-vehicle driving simulations and testing software that examines how bicycles and cars interact.
+
+"For 100 years, automobiles have been a mechanical engineering industry," said the center's director, Dragos Maciuca, who on his morning commute drives past a nearby research center of German automotive electronics and parts supplier Bosch. "Now, there is the shift to software — and the mecca of software is Silicon Valley."
+
+Ford's Western hub, opened in January, is just one sign of California's emergence as the global center for the future of personal mobility. Other automotive powerhouses with Valley offices include Toyota, Honda, Hyundai, Volkswagen, BMW, Mercedes-Benz, Nissan and automotive suppliers Continental, Delphi and Denso.
+
+The state has led development of self-driving cars, advanced green vehicles and automotive software, including Google's and Apple's growing — though still somewhat secret — automotive operations. California's aggressive environmental regulation and generous electric car subsidies have nurtured companies such as Tesla and its emerging rival Faraday Future.
+
+The state also has given birth to tech-driven ride services such as Uber and Lyft and car-sharing companies Turo and Getaround. Many envision the state's converging tech and auto industries playing a leading role in a future in which riders can order driverless vehicles on demand.
+
+"We have the best software engineers in the country, and the most of them, and a good university system," said Pasquale Romano, chief executive of ChargePoint Inc., the company building a large network of electric car charging stations. "It's all the components necessary to make California the next Detroit."
+
+That's driving growth of high-paying jobs. Auto company and supplier employment in California has jumped nearly 26 percent since 2011 to almost 47,000 jobs this year, according to Employment Development Department data.
+
+The automotive industry here is still small compared with Detroit, and an increase of about 10,000 jobs has a small effect on the state's large and diverse economy. Its total size is still far from the 326,000 automotive industry workers employed in Michigan, according to the Center for Automotive Research.
+
+California also struggles to add manufacturing because of high costs of labor, real estate and complex environmental regulation. Detroit's huge manufacturing base, by comparison, extends into a long supply chain, with each manufacturing job tied to an additional 6.6 positions, according to the center.
+
+Still, Tesla and companies such as electric bus builders Proterra and BYD are adding manufacturing jobs in California, and the automotive tech boom here shows no sign of slowing.
+
+California, with its access to venture capital and large population of technically adept first adopters, is culturally set up to drive innovation in the auto industry, said Frankie James, managing director of General Motor's Advanced Technology Office in Palo Alto.
+
+Moreover, the state's stubborn problems with urban congestion, traffic and parking help push transportation advances.
+
+"Necessity is the mother of invention," James said. "People here are willing to try things, and that type of attitude spurs innovation in any industry."
+
+At the same time, the auto industry is less insular and understands the convergence of technology, automation and transportation.
+
+"Maybe 10 or 15 years ago, Detroit had the mindset that customers will like what we give them, but now GM understands that it doesn't know everything and is open to learning from others," James said.
+
+One of her jobs is to analyze Silicon Valley startups to see whether the automaker should invest in companies that are of strategic importance to GM.
+
+Tesla has served as a catalyst for much of the state's auto industry job growth.
+
+It now employs more than 9,000 workers in the state, including more than 5,000 in manufacturing.
+
+Although it has only a tiny slice of the auto market, Tesla is forcing change in the industry with its long-range electric car architecture and technological advances, such as using over-the-air software updates to add features to vehicles it has already sold, said Thilo Koslowski, vice president and automotive practice leader at Gartner Inc.
+
+The growing reliance on software and electronics makes it crucial for automakers to have operations in California, said Diarmuid O'Connell, vice president of business development at Tesla.
+
+"Silicon Valley is where the best software engineers in the world congregate to work on the most advanced technology," O'Connell said.
+
+Tesla's footprint will get larger as it ramps up production of an electric crossover during the next year and launches a planned $35,000 electric compact car two years from now. Already, it has more than 80 suppliers in California, companies such as switch-maker Judco Manufacturing and spring-and-seal producer Bal Seal Engineering.
+
+Traditional automakers are rapidly opening or expanding research centers in Silicon Valley to make sure they are on the ground floor of this technological revolution. Even French automaker Renault, which doesn't sell cars in the U.S., has an outpost there.
+
+The growing car company presence in the tech mecca is in part a response to Google's push into the automotive sector with self-driving car development.
+
+"No other company has as much relevant technology to advance autonomous driving software," said Egil Juliussen, senior research director at IHS Automotive.
+
+Credit Google for Toyota's announcement this month that it will hire 200 employees and pour $1 billion into artificial intelligence research at a new tech center with headquarters in Palo Alto and a satellite office in Boston.
+
+"Google is the current technology leader in this arena," Juliussen said.
+
+Elsewhere, Chinese investors are pouring money into California electric car startups.
+
+The projects include Faraday Future, which employs 400 near Los Angeles. There is also Karma Automotive — reborn from the Fisker bankruptcy — which employs 250, and Atieva, a company that says it's developing "a breakthrough electric car in the heart of Silicon Valley" but has said nothing else publicly about its business. It is advertising to hire 100 engineers on its website.
+
+The state auto jobs tally doesn't include an estimated several thousand positions at Google and Apple as they develop autonomous vehicles and automotive apps or the software developers and technicians at companies such as Nvidia. Those workers are classified as tech employees.
+
+Nor do they count many other new positions in California's tech industry that are driven by automotive development. It is a big supplier to the car business, with Intel, Qualcomm, Nvidia and others that field growing automotive workforces.
+
+"When I joined our automotive team five years ago, it was basically an internal startup with maybe two dozen people," said Danny Shapiro, Nvidia's senior director of automotive. "Now we have hundreds of dedicated of engineers for automotive, and leverage the work of many thousands of engineers across the company."
+
+Nvidia, a company that began as a producer of graphics processors for computer games, has an additional 77 automotive positions listed on its jobs board, Shapiro said.
+
+"We didn't start out to be an auto company," Shapiro said. "But everything that is changing a car has nothing to do with the auto industry of the past."
+
+The state has long played an important role in the auto industry. It's the biggest market in the U.S. It sets styling trends and is home to design studios for Honda, Toyota, Ford and other carmakers.
+
+But it's had its setbacks. Toyota is moving more than 2,500 sales and marketing jobs from California to Plano, Texas, over the next two years, and taking hundreds of vendor jobs with it. And five years ago Toyota closed a factory it had jointly operated with General Motors, idling 4,700 jobs.
+
+Although Tesla now owns the factory and has replaced most of the positions, it's not clear whether the automotive tech sector and nascent electric car companies will grow fast enough to replace the sales and marketing jobs Toyota is moving.
+
+Faraday, the new electric car startup, said it plans to announce the location of a $1 billion auto factory in the coming weeks. California is one of several states competing for the factory, but most analysts believe the electric car company will pick a site outside of Las Vegas — close enough to its headquarters, but still in a lower-cost state that has a track record of handing out big economic development packages.
+
+That would follow the lead of Tesla, which chose Nevada for the location of a new battery factory after the state offered an incentive package worth $1.3 billion over 20 years.
+
+Karma has leased a large factory where it will assemble plug-in electric hybrid vehicles that could be for sale as early as the middle of next year. But this won't be a full-scale auto factory. It will have only a few hundred employees. Karma will buy powertrain components from BMW and body panels from Canada.
+
+As cars become more like rolling iPads in the coming decades, traditional manufacturing operations could become less important, said Bill Hampton, publisher of AutoBeat Daily near Detroit.
+
+"You're getting way far away from bending metal and bolting cars together," Hampton said.

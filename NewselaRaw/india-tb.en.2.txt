@@ -1,0 +1,49 @@
+MUMBAI, India — On a recent Monday afternoon, a crowd of patients gathered in a hallway at Mumbai's Hinduja Hospital. All were waiting to see Dr. Zarir Udwadia, an expert on lung diseases.
+
+Many of the patients, like 19-year-old Nisha, have tuberculosis (TB). Nisha had already been treated elsewhere for more than a year. Then she learned that treatment errors had made the disease worse rather than curing it.
+
+"My doctors kept on changing the drugs," says Nisha.
+
+By exposing Nisha's TB to various drugs without wiping it out, her doctors just made it stronger. Eventually, her disease became extremely resistant to a range of drugs.
+
+## A Doctor Spots India's Crisis
+
+Udwadia is the doctor who first identified the problem of extreme drug resistance in TB bacteria in India. He and other health experts say that problem is becoming increasingly widespread in India. The country has too few laboratories, too many poorly trained health workers and thousands of infected people living in crowded unsanitary conditions. All this has made India home to the world's largest outbreak of drug-resistant TB.
+
+More than 2 million Indians get the highly contagious disease every year, and a patient dies every two minutes. Around 62,000 of these people harbor TB that is resistant to at least four types of drugs. As many as 15,000 may have an even more dangerous type of the disease called "extremely drug-resistant TB" (XDR TB) that fights off almost every antibiotic doctors use to treat it.
+
+Now difficult-to-kill TB is no longer just India's nightmare. In June, U.S. health authorities confirmed that an Indian patient with XDR TB had visited Chicago, Tennessee and Missouri. Health officials in several states are tracking down everyone with whom the patient had prolonged contact.
+
+## TB Versus Drugs
+
+Tuberculosis typically attacks the lungs. It can be transmitted from person to person via coughing. The typical symptoms of a TB lung infection include fever, night sweats and a hacking cough.
+
+Ordinary infections are cured through a mix of antibiotics. However, if the patient fails to complete the treatment or the TB bacteria are already resistant to one of the antibiotics, then some of the bacteria will survive, adapt and grow stronger. Some of the hardier bacteria that survive pass on drug-resistant traits to their offspring. Over time, those traits then spread to a wider group of their descendants.
+
+There are varying degrees of drug resistance. Some TB is resistant to only one of the drugs commonly used to treat the disease. Multidrug-resistant TB (MDR TB) does not respond to the two most powerful drugs, isoniazid and rifampicin. Finally, XDR TB is resistant to those two drugs and many others as well.
+
+## Not Enough Medical Equipment
+
+In Nisha's case, her doctors never tested her for drug resistance. She underwent treatment for more than a year with drugs that were doomed to fail. As a result, her infection only grew stronger.
+
+What concerns TB experts like Udwadia is that India has been creating thousands of Nishas this way.
+
+The Indian government has begun to spend much more money on its national tuberculosis control program. Government-run hospitals are now using new GeneXpert machines that can identify drug-resistant strains of TB. These machines let doctors detect resistance within two hours, rather than weeks.
+
+However, there are still only 120 GeneXpert machines nationwide — not enough to test all patients suspected to have MDR TB. The machines are also expensive to use. As a result, most hospitals conduct GeneXpert tests only on patients who have failed to respond to the first two months of standard treatment.
+
+Udwadia and other physicians voice a bigger concern. The GeneXpert test can spot resistance only to rifampicin, they note. India does not have enough laboratories to conduct further drug-resistance tests, so all patients flagged by the machines are immediately put on the same treatment course, one recommended for MDR TB.
+
+Yet this one-size-fits-all treatment does not account for additional cases of stronger drug resistance that have already spread in Mumbai. Udwadia estimates such treatment would now cure only a third of the drug-resistant patients in the city. The rest would receive three or more useless drugs and their TB would become even more resistant.
+
+## When TB Hops A Plane
+
+At this point, it is not clear how big the resistance problem is. If there are indeed many people with drug-resistant TB, it increases the chances of the disease spreading to the rest of the world. Nearly 1 million Indians traveled to the United States in 2014 alone.
+
+Dr. Neil Schluger, an American TB expert, said the United States has the ability to deal with an outbreak, should one occur. Still, the worldwide migration of drug-resistant strains worries him.
+
+"Potentially it is a huge public health problem," Schluger said, though it would probably develop very slowly.
+
+In India, the troubling situation is not without hope. Udwadia has found that some XDR-TB strains can be successfully treated with a combination of powerful drugs.
+
+Even patients with a highly drug-resistant strain of TB have some chance of beating the disease, Udwadia said.

@@ -1,0 +1,98 @@
+Picture this: a major hurricane or earthquake strikes a U.S. city, resulting in millions of dollars in damage.
+
+Before insurance companies can settle claims for ruined cars and houses, they need damage assessments to calculate their payouts, but sending adjusters into a potentially dangerous post-catastrophe zone could take weeks.
+
+How to speed that process up, for the company and the property owners?
+
+Send in the drones.
+
+The coming years likely will include the use of drones, or unmanned aerial vehicles, for commercial uses that few people expected.
+
+While lawmakers and policy wonks have for years focused on some of the more obvious sectors of the economy that want to get their hands on unmanned aircraft, other industries also are itching to experiment with drones.
+
+"I think what we're seeing is that the imagination is the boundary of what we'll see in the future with drones," said Rachel Stohl, a senior associate with the Stimson Center whose focus includes the growth of the drone market.
+
+The industry interest has meant that the manufacturers of drones aren't the only ones pushing the Federal Aviation Administration (FAA) to lift its tight hold over who can operate them in U.S. airspace.
+
+For years, the agency handed out drone operating permits on a case-by-case basis, mostly to law enforcement agencies and research groups.
+
+It's illegal to use drones commercially without an FAA permit and right now there are almost none for commercial operators.
+
+Personal drone use generally is allowed on an individual's own property or on the property of someone else who extends permission, but those rules vary from state to state.
+
+Drones are not allowed in U.S. airspace, which means they must be kept below a certain altitude and out of certain areas.
+
+But in 2012, Congress gave the FAA three years to come up with a plan to safely integrate commercial drones into the national airspace system.
+
+The FAA thus far has staked out testing sites to evaluate drone safety, and last month it authorized six filmmaking companies to use unmanned aircraft.
+
+The plan is due by September 2015, although the Transportation Department's inspector general says the FAA is significantly behind and may miss the deadline.
+
+One of the challenges for the FAA's drone permitting plans is that unlike manned aircraft, which come in standard classes and are usually used for a common set of jobs, drones can come in almost any size and the agency is just starting to see the beginning of their potential applications.
+
+"They are having a really hard time understanding the technology," said Mary Louise Cummings, a materials science professor at Duke University.
+
+Still, the line of industries trying to pressure the FAA to get more permissive on drones is only growing.
+
+There's a reason that companies are proposing unconventional new uses for drones, according to experts.
+
+Drones come in all sizes, and many are smaller than manned aircraft, cheaper to purchase and operate, and can be used in situations that might normally be off-limits because of potential dangers to pilots.
+
+Stohl said they're ideal for situations involving difficult topography or hazardous ground conditions.
+
+Unmanned aircraft increasingly see use in search-and-rescue situations and could be integrated into firefighting operations, she said.
+
+Insurer USAA occasionally uses aerial photography after disasters, but drones wouldn't replace or enhance work the work of piloted aircraft, according to Kathleen Swain, a staff underwriter at the company and FAA-rated commercial pilot and flight instructor.
+
+The unmanned vehicles would be swapping in for people who would ordinarily have to do the work on foot — something that was impossible, or at least cost-prohibitive, to do by air until now.
+
+"The delays we face are getting to the site after a catastrophe," Swain said.
+
+"Obviously, because of the damage, it's hard to get boots on the ground.
+
+This is more economical, it's more efficient, it's cheaper."
+
+This isn't a new effort from the insurance carrier; it's been working on a testing proposal for the FAA since 2010.
+
+And it's not alone.
+
+"We've been talking about all these possible applications for years," Cummings said.
+
+Organizations representing agriculture, entertainment, surveying, wildlife conservation, the mining industry and the safety of infrastructure such as bridges and tunnels have long seen the potential of being able to get high-quality aerial imaging for relatively little money, she said.
+
+"Anywhere where you think you need to see something from high up, it's going to be not only cheaper but safer," Cummings said.
+
+The Association for Unmanned Vehicle Systems International (AUVSI), a lobbying group, has compiled a list of industries that are already trying the technology out, or considering doing so.
+
+That includes scenes shot for the movie "The Wolf of Wall Street" using drones, Conoco and Shell looking to use unmanned aircraft to search for oil off Alaska's shores, the PGA seeking permits to use drones to film some golf events and the Washington Nationals baseball team taking spring training publicity photos with a small helicopter-style aircraft.
+
+The FAA later quashed that because the team lacked a permit.
+
+Clemson University uses a drone to take overhead video of its football practices and marching band formations.
+
+Fresno State's football program has a drone hang behind its quarterback during drills.
+
+"The vantage point you get being just behind the quarterback, but still raised, I think is really helping our guys have bigger vision down the field," coach Tim DeRuyter said in a press release.
+
+"We've had cameras right behind the quarterback, but it does limit the vision.
+
+So having that drone up about 10 feet above their heads, it gives them a unique perspective."
+
+An April letter from the AUVSI urging the FAA to work quickly on its upcoming rule for commercial use of small drones included co-signers from agricultural trade groups, including the National Association of Wheat Growers and the National Barley Growers Association, which have expressed a keen interest in the potential for using drones to monitor crops, soil and water levels.
+
+But just because a drone application might seem unusual in the United States doesn't mean it's considered so worldwide, Cummings said.
+
+The National Association of Realtors has written to the FAA, pushing for the agency to move quickly on its commercial drone rule so its members could use the aircraft to capture images for listings.
+
+Cummings said real estate agents in England have already started using drones.
+
+Drone developers have for years complained that the FAA's restrictive policies have hurt their ability to innovate.
+
+Cummings said that more permissive regulations overseas have not only allowed the makers of the aircraft more freedom to experiment, they've allowed users to try them out in more applications.
+
+"There's plenty of innovation," she said.
+
+"It's just been overseas.
+
+We're losing here."
+

@@ -1,0 +1,87 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Caltech_Prototype_Toilet_Room_View_1.jpg" />Aligning itself with a group of doctoral students in California, Kohler Co. is lending a hand to an effort to reinvent the toilet.
+
+This may prompt you to snicker. Don't. It's not funny, and the fact that nice people avoid talking about human waste contributes to what is an enormous and deadly problem.
+
+In India, for example, the United Nations estimates that more than 600 million people don't use toilets. They don't use latrines either. They go on the ground.
+
+And that's just one country. While significant improvement has occurred in the past 20 years, an estimated 1 billion people worldwide still practice open defecation. Another 700 million use unhygienic facilities such as "hanging latrines" that discharge directly into streams, or buckets that may simply be emptied in the streets.
+
+All told, estimates of annual deaths from diarrhea, the majority of them spawned by feces-contaminated water, range as high as 1.5 million. Most of the victims are under 5 years old.
+
+"The statistics about the number of children that die every day from diarrhea-related diseases are shocking," said Robert Zimmerman, a Kohler engineer who is the Wisconsin-based company's senior channel manager for sustainability.
+
+Can Kohler help? The company is far better known for producing upscale bathroom fixtures — the firm's mission statement and marketing cite its dedication to "gracious living" — than for focusing on basic sanitation for the world's poor.
+
+But Kohler also is among the world's five largest manufacturers of plumbing products, with 2011 sales in the category of $1.8 billion, according to market researcher The Freedonia Group. And when the Bill &amp; Melinda Gates Foundation, by far the country's biggest and most generous foundation, announced its attention-grabbing "Reinvent the Toilet Challenge" in 2011, Kohler took notice.
+
+It's been a long time since this field saw radical change. The modern flush toilet, author Rose George wrote in her 2008 book, "The Big Necessity," works in essentially the same way as the device invented in the late 1500s by Sir John Harington, a rakish English courtier, author and wit who installed one of his toilets for Queen Elizabeth I at her palace in Surrey.
+
+And with advances in the late 18th and early 19th century, the flush toilet has worked pretty well and has contributed greatly in reducing disease and prolonging life — when it's well-connected. But it's not much help unless it feeds a system to treat the waste it swirls away. In much of the world, that sort of infrastructure doesn't exist, and may never exist.
+
+"That's very, very expensive," said Doulaye Kone, an environmental engineer who grew up in a village in Africa's Ivory Coast and now is the Gates Foundation's senior program officer for water, sanitation and hygiene. "It's a huge capital investment. It's a very big operational cost. … It will work in very few (developing world) cities."
+
+So the foundation called for off-the-grid designs without connections to water, sewer or electrical lines. It issued grants to eight universities, including one to the California Institute of Technology and a team led by environmental science professor Michael Hoffmann.
+
+The plan: Develop a self-contained toilet and waste treatment system powered by a solar panel generating enough energy to store for use at night.
+
+Kohler contacted Caltech and offered to supply fixtures for the prototype. In doing that, Zimmerman said, the company found out that Hoffmann is from Sheboygan, Wis., and knows Kohler well.
+
+"It was good serendipity there," Zimmerman said.
+
+The Caltech toilet went on to win the Gates challenge in 2012. As Hoffmann and his students prepared to fine-tune the prototype and get it ready for field testing in India, set to begin later this year, Kohler offered to continue its support.
+
+As Zimmerman describes it, "They said, 'We're Caltech — we can handle the technology side of it. But what we really don't know, and what you know, Kohler, is the human interface side of it. So if somebody's going to use this restroom, what kind of experience should they have?'
+
+"That's right up our alley."
+
+So Kohler provided Caltech with more fixtures for further prototypes, along with "design support to create an environment that is culturally appropriate for the India market," Zimmerman said.
+
+And that may lead to new markets for Kohler. The company at least is interested in the possibilities, Zimmerman said.
+
+"We're going to find that out, but absolutely," he said.
+
+The Gates Foundation, in fact, believes it is important not only to reinvent toilet technology, but to ensure that new systems support private-sector enterprise, Kone said.
+
+If business opportunities do indeed emerge from efforts to improve sanitation for the poor in rapidly urbanizing countries such as India, they probably won't involve the kinds of toilets Kohler has made for decades. But that doesn't mean the company can't participate.
+
+"We don't know what our business is going to look like in 25 years, and we recognize that these (new) kinds of technologies out there represent kind of the next wave," Zimmerman said. "We don't know how big the wave's going to be or where it's going to take us, but we want to be part of it."
+
+Indeed, Hoffmann said the possibility of mass production of the Caltech solar toilet is already being explored, and Kohler might get involved.
+
+Asked about that, Zimmerman said in an email that it's too early in the process to know whether Kohler might manufacture Caltech-style toilets.
+
+"One of the exciting things about this type of research is that we aren't sure exactly where it will lead," he added. "But we intend to stay engaged for the long term."
+
+The Caltech effort is just one of several the Gates Foundation is supporting. Among other grant recipients is Kohler competitor American Standard Brands, which has plunged more deeply and directly into the work than has the Wisconsin firm.
+
+New Jersey-based American Standard has taken a low-tech approach. The company developed a plastic toilet pan that uses a mechanical trap door and water seal designed to close off pit latrines from the open air and prevent flies from entering.
+
+Last year American Standard donated more than 500,000 of the devices to organizations in Bangladesh, spokeswoman Nora DePalma said. The firm now is working in Kenya on an effort, also supported by the Gates Foundation, to develop a similarly simple device for areas that lack abundant water, DePalma said.
+
+One issue with the Caltech toilet is cost. Hoffmann estimates it will take $1,500 to $2,000, initially, to build.
+
+"Obviously, we want to get it down," he said.
+
+Zimmerman is confident that can be done. He's more interested in whether the system will stand up to the abuse toilets endure.
+
+"Everything from cigarette butts and old hamburger wrappers, literally anything you can imagine that people would take into a restroom, ends up in the toilet," he said.
+
+The Caltech toilet — with its solar panel, electrochemical reactor and hydrogen fuel cell — also has been criticized as being too complicated.
+
+It's not, Hoffmann said. For one thing, he said, the prototype is a research instrument and can be simplified.
+
+"People just think it's complicated," he added. "They think that just digging a hole in the ground and putting a hut on top of it with something that approximates a squat toilet is sufficient, but that doesn't work. That's where some of the problems arise, because the waste doesn't get emptied, the place gets trashed very quickly, people don't use it."
+
+But Pete Kolsky, a former senior water and sanitation specialist with the World Bank and now a professor at the University of North Carolina, believes the "reinvent the toilet" initiative needs to be put into perspective.
+
+The developing world's sanitation problems are immediate, and are far more organizational, motivational and social than they are technical, he said in an email.
+
+"If I were asked to advise on the investment of millions of dollars for sanitation in slum areas in India, you can rest assured I would recommend spending none of it pursuing this technology, and a lot more on 'looking at what can work locally, with what people already know how to do,' " he said.
+
+At the same time, Kolsky said technological advances still should be pursued for potential future benefits.
+
+"If somebody needed a car now, they wouldn't look at this year's featured concept car at the Detroit auto show, but that doesn't mean that Detroit doesn't need concept cars," he said.
+
+Hoffmann, for his part, is convinced technology can help solve sanitation problems where other approaches, he said, have had little success.
+
+"This can be done," he said via email. "Fifty years ago, computers were too costly and complicated for the average person. Today almost everyone carries a computer in their pocket."

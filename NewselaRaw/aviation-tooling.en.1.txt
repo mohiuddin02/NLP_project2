@@ -1,0 +1,63 @@
+It's a lot more complicated than selling picks and shovels to gold miners, but the idea's the same. These days airplane manufacturers such as Boeing and Airbus are charging into a new world, where wings and jet bodies are built from carbon-fiber composites rather than metal.
+
+Only a few suppliers can provide the key tools needed to cut and shape the new lightweight material, which is made from a woven blend of carbon and plastic polymer resin.
+
+One such supplier is the engineering firm Electroimpact. Based in Mukilteo, Wash., it is perfecting sophisticated robotic technology it claims can better handle carbon-fiber composites.
+
+Inside a building in Everett, Wash., is one of the industry's most advanced machines for laying down carbon composites. During a recent demonstration, it zipped back and forth across a spinning drum, laying down half-inch-wide ribbons of black fiber. Its speed was dizzying.
+
+## Seeking The Holy Grail
+
+The high-tech contraption is known as an automated fiber placement, or AFP, machine. It will soon be shipped to South Korea, where it will make the cone-shaped fuselage, or body, for Boeing's 787 Dreamliner.
+
+Todd Rudberg, Electroimpact's project manager, hopes Boeing will also buy an AFP machine for something else to build: the giant wing of its soon-to-be-launched 777X airliner.
+
+"777X is the Holy Grail right now," Rudberg said. "We're competing mightily for that."
+
+Electroimpact, which has about 610 employees worldwide, originally started out designing and building automated drilling and fastening machines. It made its name integrating those into complete factory systems.
+
+To retain its lead role as a toolmaker to the aerospace giants, Electroimpact is busily developing machines that build composite parts. AFP technology is no more than about 10 percent of Electroimpact's business right now, but it's set to grow.
+
+## Precision At A Fast Speed
+
+What makes Rudberg's machine special is its circular robotic head, which carries multiple spools of carbon-fiber ribbon. It can move around any complex shape with pinpoint accuracy and at unheard-of speeds.
+
+First, a laser projector measures the contours of the surface upon which the fiber is to be laid. Next, a computer works out the complex three-dimensional moves needed to tailor the layers.
+
+Then, in a mesmerizing industrial dance, the head moves back and forth, laying down shorter and longer strips of fiber. Each is heated to a fiery glow at the point of application, while the surface to be covered rotates as needed.
+
+As it zipped around during the demo, the machine reached a top speed of 595 pounds of carbon fiber laid down per hour.
+
+That is "a very large number, probably the fastest we've seen," said Jeff Sloan, a journalist who writes about the composite industry. In current applications, an average lay-down speed of 90 pounds per hour would be fast, he said.
+
+Bill Hasenjaeger, product marketing manager with CGTech, which makes the software for AFP technology, said reliable precision is a more important measure than top speed. He's seen that kind of precision in previous Electroimpact AFP machines.
+
+"If it's really that fast and retains the accuracy, reliability and repeatability I've experienced with Electroimpact, that's a pretty darned impressive number," he said.
+
+## Keen To Have AFPs Make Wings
+
+Ben Hempstead, chief of staff at Electroimpact, insists the company's AFP technology can't be matched by competitors.
+
+"You won't see this anywhere else on the planet," Hempstead said.
+
+Competitors include long-established U.S. companies such as Cincinnati Machine and Ingersoll. And then there are the multinationals, such as M. Torres of Spain, which plans to open a U.S. manufacturing plant this year.
+
+In Wichita, Kan., Electroimpact AFP machines have displaced Ingersoll's to build the big cockpit-and-forward-fuselage section of the 787. Airbus is using them in Kinston, N.C., to make A350 fuselage panels.
+
+Rudberg said he's keen to have his AFP machines employed to make wing skins and wing spars. The latter are two long beams, each more than 100 feet, that run the length of a wing at the front and at the rear.
+
+The Electroimpact machine could make each of those spars as a single piece without any joins, an "uninterrupted beautiful structure," he said.
+
+## Some Secret Projects
+
+The smallest version of the custom-built AFP machine, the one used in the recent demo, costs $5 million. Electroimpact has built bigger models that run up to $25 million.
+
+For the 777X, Boeing might need four to six machines to make the wing skins and an equal number for the spars, Rudberg estimated. A separate plant would be needed to build the wings. They'll be so big they'll need to be made near the jet's final assembly line.
+
+Meanwhile, Electroimpact is already making equipment for all the world's major plane makers. Some projects are more secret than others.
+
+Electroimpact's founder and CEO, Peter Zieve, said his facilities in Mukilteo are overcrowded. He's hoping to add two big new buildings to the six the company already has on its campus.
+
+Intriguingly, he mentioned that as soon as the next building is ready, he'll empty out the largest of the existing ones so it can be "filled with a huge Boeing project."
+
+He wouldn't say which project.

@@ -1,0 +1,82 @@
+The periodic table is getting a little bit longer, thanks to the addition of four super-heavy elements.
+
+The discoveries of elements 113, 115, 117 and 118 were confirmed recently by an international scientific group called the International Union of Pure and Applied Chemistry. The group vets the man-made elements seeking a permanent spot on the periodic table, a chart listing all the elements that hangs in science classrooms around the world.
+
+Elements, which cannot be separated into smaller substances, make up all matter.
+
+Atoms are the building blocks that make up elements.
+
+At the center of each atom is a nucleus composed of small particles called protons and neutrons. Nuclei is the plural of nucleus.  The new elements are known as super-heavy elements because the nuclei of their atoms are so enormous.
+
+Element 118, for example, is the heaviest element to date, with 118 protons alongside 176 neutrons.
+
+Most elements are found in nature.
+
+However, these huge, super-heavy elements are not routinely found in nature, and it can take years to make them in specialized laboratories.
+
+"Probably the only other place where they might exist in a short period of time could be a supernova, where you have so much energy and so many particles that are really heavily concentrated," said Dawn Shaughnessy, the principal investigator for the Heavy Element Group at Lawrence Livermore National Laboratory.
+
+The group had a hand in three of the discoveries.
+
+Super-heavy elements are also highly unstable, existing for just a fraction of a second before they begin to decay, or break down.
+
+Scientists never observe unstable elements directly.
+
+Rather, they know they briefly existed because they are able to measure their decay products.
+
+The heaviest known elements are made by smashing two particles together and hoping they will stick.
+
+It's a probability game with extremely long odds.
+
+Scientists first create a target out of a carefully chosen atom with a particular number of protons and neutrons — a process that can take months. Then they purify it and bombard it with another specialized atom that they think has the best chance of recombining with the target.
+
+"It's really hard to smash two things together and get them to stick," Shaughnessy said.
+
+"There is so much positive charge — they want to repel each other."
+
+It takes several months to try this smashing experiment roughly 10 quintillion times (10 followed by 18 zeros).
+
+If just one of those attempts works, the experiment is considered a success.
+
+"And we're not always successful," Shaughnessy said.
+
+At most, it will work about three times in 10 quintillion tries, she said.
+
+There are only a few laboratories around the world equipped to do this work.
+
+The experiments generate so much data that supercomputers are required to sift through it all and search for the telltale signs of a successful mash-up.
+
+Elements 115, 117 and 118 were created in Russia at the Joint Institute for Nuclear Research. Scientists from Lawrence Livermore worked on all three discoveries, and the association that created element 117 also included researchers from a laboratory in Tennessee and the University of Nevada, Las Vegas.
+
+The international chemistry group credited a Japanese group with the discovery of element 113\.
+
+Led by Kosuke Morita of RIKEN, they are the first Asian scientists to find a new element.
+
+Morita and his team spent several years searching for proof of element 113\.
+
+During that time, whenever Morita visited a Japanese shrine, he gave an offering of 113 yen.
+
+"It's not really a question of whether I believed it or not," Morita told Asian Scientist Magazine.
+
+"The reason I did it is that I wanted to know that I had done everything humanly possible to get credit for the discovery of the element."
+
+Until now, these elements have been known by the generic Latin names ununtrium, ununpentium, ununseptium and ununoctium.
+
+Their confirmation paves the way for them to get permanent names.
+
+Traditionally, that honor falls to the researchers who first found them.
+
+The team from Lawrence Livermore and their Russian teammates had previously named element 116 Livermorium in honor of the Northern California lab.
+
+No word on what 115, 117 and 118 might be called.
+
+With this announcement, 26 elements have been added to the periodic table since 1940\.
+
+But Shaughnessy said her team isn't done.
+
+The scientists will continue trying to make heavier elements until they hit a wall where there are just so many protons that they won't stick together.
+
+"These super-heavy elements help us understand how the nucleus functions and redefines our ideas of matter and how it behaves," she said.
+
+"We're really studying the physics of what the extreme limits of matter might be."
+

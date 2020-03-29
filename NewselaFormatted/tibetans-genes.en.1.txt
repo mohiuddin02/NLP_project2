@@ -1,0 +1,96 @@
+Forget climbing Mount Everest — for most humans, surviving on the harsh Tibetan plateau would be challenge enough.
+
+But Tibetan people have thrived there for thousands of years, and a new study says it's thanks to a genetic adaptation they inherited from an ancient human relative.
+
+The study, published Wednesday, identifies a long section — or segment — of DNA shared by the extinct people known as Denisovans and modern-day Tibetans.
+
+The segment contains the gene scientists think gives Tibetans an advantage over lowlanders at high altitudes.
+
+No one knew the Denisovans ever roamed the Earth until four years ago, when scientists sequenced the DNA of a finger bone unearthed in a cave in the Altai Mountains of southern Siberia.
+
+The genome exhibited similarities to that of modern humans and our extinct Neanderthal relatives.
+
+However, it was different enough to be considered a distinct species.
+
+Like Neanderthals, Denisovans mated with their human contemporaries, scientists soon discovered.
+
+People of Melanesian descent who today inhabit Papua New Guinea share 5 percent of their genetic makeup with the Denisovans.
+
+Now it appears that Tibetans can also trace part of their ancestry to this mysterious group.
+
+In the new study, scientists collected blood samples from 40 Tibetans.
+
+Then they sequenced more than 30,000 nucleotides on a segment of DNA containing EPAS1, the gene that makes Tibetans so well-suited for life at high altitude.
+
+The scientists compared that sequence with those of 1,000 individuals representing the 26 human populations in the Human Genome Diversity Panel.
+
+They found the high-altitude gene in only two of the 40 Han Chinese people (the largest ethnic group in China) and no one else.
+
+"Natural selection by itself could not explain that pattern," said biologist Rasmus Nielsen, an author of the study.
+
+"The DNA sequence was too different from anything else we saw in other populations."
+
+So they investigated whether the gene might have been imported from extinct Neanderthals or Denisovans — and, bingo, they found a match.
+
+But how did the gene end up in the genome of modern Tibetans?
+
+The scientists used computer models to test two different theories.
+
+Were Denisovans and Tibetans descended from a common ancestor that gave the gene to both — or did humans acquire the gene by mating with Denisovans?
+
+Early humans and Denisovans probably diverged around half a million years ago, and it's very unlikely, Nielsen said, that the gene could be maintained in both populations for so long.
+
+"By the process of recombination, DNA segments become shorter and shorter and shorter," he said.
+
+"But here we have a very long segment that is shared — that's very unlikely, statistically."
+
+Alternatively, the gene could have entered the Tibetan gene pool more recently via sex.
+
+Once transferred, the gene would have spread rapidly in the Tibetan population because of the merciless selective pressures of high-altitude living.
+
+"Genetically, Han Chinese and Tibetans are very similar throughout the genome," Nielsen said.
+
+"But for this particular gene, they are extremely differentiated from each other, which is something you only see with very strong or very recent selection."
+
+The reason Tibetans need EPAS1 is that their mountainous home lies about 15,000 feet above sea level, on average.
+
+Up there, the air contains 40 percent less oxygen than low elevations.
+
+Although previous studies had identified the importance of EPAS1, scientists still don't know exactly what the gene does.
+
+They know only that it leads to lower levels of hemoglobin — the oxygen-carrying protein in blood — in Tibetans who live at high altitude compared with people from low elevations.
+
+"That may sound counterintuitive," said Nielsen — after all, wouldn't you want more oxygen, and thus, more hemoglobin to deliver it?
+
+But people without the gene tend to "overreact" at high altitudes.
+
+At high elevations, "we'll start to produce a lot of red blood cells," he said, speaking for himself and other non-Tibetans.
+
+Too many, in fact.
+
+"That will expose us to various diseases" like high blood pressure and increased risk of stroke.
+
+"There are very negative fitness effects of having too many red blood cells, and the Tibetans avoid them."
+
+So how do Tibetans get more oxygen?
+
+Presumably they don't, Nielsen said, and scientists are still trying to understand the physiological mechanisms that allow them to cope.
+
+But one thing is now clear: They owe their extraordinary fitness to a rogue gene introduced into the human genome from their long-lost cousins.
+
+Anthropologist Abigail Bigham, who was not involved in the study, said now the search for Denisovan DNA should extend to other groups not represented in the Human Genome Diversity Panel.
+
+"When they looked in Han Chinese, they saw it in only two individuals," Bigham said.
+
+"But other populations in Central Asia or East Asia — there are 49 other ethnic minorities in China that have different genetic backgrounds — would have been interesting to look at as well."
+
+In any case, she said, the new study adds to a growing body of work that has reshaped the way scientists think about human evolution and our relationship to our extinct relatives.
+
+For a long time, most scientists believed Neanderthals and Denisovans had nothing to do with modern humans.
+
+Now they realize that these species are responsible for introducing some of the genetic diversity that allowed people to adapt to unique environments.
+
+"We've come full circle," Bigham said.
+
+"Not only has there been interbreeding, but in fact that interbreeding has led to important functional changes in the human genome."
+

@@ -1,0 +1,37 @@
+Woodblock printing was developed more than 1,800 years ago in China. It is a form of printing that involves a block of wood with an engraved surface which is rubbed in ink and pressed against paper, leaving behind words or a picture. Recently, scientists discovered that woodblock printing has value in the laboratory.
+
+Scientists usually use inkjet printers to squeeze tiny, individual living cells out into orderly patterns for lab experiments. But that system has its limits. So scientists have turned to Chinese woodblock printing in order to find a solution.
+
+The ancient printing system has proved to have benefits in the modern world. By using woodblock printing instead of inkjet printers, scientists can keep more cells alive to test.
+
+Woodblock printing also gives scientists more choices. With woodblocks they can print a variety of animal cells in a variety of shapes on just about any surface.
+
+## Inkjet's Drawbacks
+
+Inkjet printing involves squeezing fluid filled with cells. Those cells are "the ink." The cells are placed onto a surface in a planned design. Scientists use inkjet printing when they're trying to set down a layer of cells.
+
+But it's hard to get the cells to lie flat in layers of single cells. It's also difficult to put them precisely where you want and do so efficiently. And cells have just a 50 percent to 80 percent chance of staying alive using inkjet printing.
+
+So a team of scientists from Texas and Taiwan turned to Chinese woodblock printing. The scientists call their new take on it "block-cell printing," or BloC-Printing for short.
+
+The study was led by Kai Zhang of Houston Methodist Research Institute. He said that woodblock printing is a useful and convenient technology "that revolutionized the printing world."
+
+The scientists designed woodblock-like stamps made out of silicone. Little hooks were spaced along the sides of the stamps.
+
+Scientists then pushed fluid filled with cells through the stamp's design. Vacuum pressure was used to suck it through to the other side of the mold. The hooks were perfect for snagging single cells as they flew by. Think of the cell as a baseball and the hook as a catcher's mitt. The cell flew into the hook — just like a baseball into the deep pocket of a catcher's mitt.
+
+Once a hook was filled, the other cells would pass by and fill other empty hooks. This made sure that the cells were evenly and individually spaced. The mold is pressed onto a surface and then lifted away, leaving a pattern of cells in place.
+
+## Studying Cancer Cells
+
+Using this method, the scientists were able to arrange HeLa cancer cells in organized grids. They were taken from a patient, Henrietta Lacks, who died of cancer in 1951. Scientists noticed that her cells were different and could be kept alive and grow. Her cells have been used by scientists all around the world in experiments.
+
+Scientists were able to use HeLa cells to see how cancer cells grow. This could help them understand how cancer spreads through the body.
+
+Neurons were also used while working with the woodblock stamps. Neurons are nerve cells that send information to and from the brain.
+
+Scientists placed neurons into a grid shape and watched how they connect and share information. They hope this will let them understand how brain diseases work.
+
+Scientists found that the block-cell printing method they created could be done in as quickly as half an hour. It could also be done without killing any of the cells being used. They could also print cells just 5 micrometers apart.
+
+There are some drawbacks to block-cell printing. It cannot print numerous layers of cells and it takes longer than inkjet printing. But it could be cheaper, the scientists said. The materials to make each mold cost roughly $1. An inkjet cell printer can cost tens or hundreds of thousands of dollars.

@@ -1,0 +1,58 @@
+A rapidly mutating virus has leaped from plants to honeybees, where it is reproducing and contributing to the collapse of colonies vital to the multibillion-dollar agricultural industry, according to a new study.
+
+Tobacco ringspot virus, a pollen-borne pathogen that causes blight in soy crops, was found during routine screening of commercial honeybees at a U.S. Department of Agriculture laboratory, where further study revealed the RNA virus was replicating inside its Apis mellifera hosts and spreading to mites that travel from bee to bee, according to the study published online Tuesday in the journal mBio.
+
+The discovery is the first report of honeybees becoming infected by a pollen-borne RNA virus that spread systematically through the bees and hives.
+
+Traces of the virus were detected in every part of the bee examined, except its eyes, according to the study.
+
+Commercially cultivated bees pollinate about 90 crops worldwide, a service valued at $14 billion annually.
+
+But those colonies have been collapsing, and scientists have attributed that devastation to a deadly cocktail of pathogens, as well as pesticides and beekeeping practices that stress the insect's immune system.
+
+In California, the $3 billion almond industry spends $239 million annually to rent more than 1 million beehives, and that cost is escalating.
+
+Only about 5 percent of plant viruses are known to be transmitted by pollen, and fewer still have been known to jump from the plant kingdom to insects.
+
+That adds a complex layer to the forces driving colony collapse disorder, scientists warned.
+
+The tobacco ringspot virus acts as a "quasi-species," replicating in a way that creates ample mutations that subvert the host's immune response.
+
+That phenomenon is believed to be the driving factor of recurring viral infections of avian and swine influenza and of the persistence of HIV, the study noted.
+
+"They have a high mutation rate," said Yan Ping Chen, a bee pathologist at the USDA Agricultural Research Service laboratory in Maryland and lead author of the study.
+
+"Because of their genetic diversity, we see a lot of host jumping."
+
+The virus' relative role in the demise of colonies has not been measured — it would be difficult to separate it from a cocktail of pathogens and stresses negatively affecting bees, Chen said.
+
+"I want to be cautious," Chen said.
+
+"The cause of colony collapse disorder remains unclear.
+
+But we do have evidence that TRSV along with other viruses that we screen on a regular basis are associated with lower rates of over-winter survival."
+
+Indeed, the new virus, along with the well documented Israeli Acute Paralysis Virus, was correlated with colonies deemed "weak" due to a variety of stresses.
+
+It also showed a similar seasonal fluctuation — infection rates rose to a 22.5 percent high in winter, according to the study.
+
+Varroa mites, a "vampire" parasite, also were found to carry the virus but were not infected, leading researchers to conclude that they aided the spread of the virus within the colony.
+
+Whether the mites are more than a mechanical spreader of the virus, however, remains to be studied.
+
+Researchers also are uncertain about whether the infection persists without bees picking up more virus from visited plants, and whether the infected bees can spread the virus to otherwise healthy plants.
+
+"I'd be hesitant to proclaim that this virus is the cause of colony collapse, but it certainly shows the degree of our lack of understanding of the complexity of bee pathogen interactions," said Randy Oliver, a biologist and beekeeper who has done similar research but was not involved in the study.
+
+Activists have raised concern about a class of pesticides known as neonicotinoids, which have been banned in Europe.
+
+A study last year linked the pesticide class with suppressed immune response and increased reproduction of viruses in bees.
+
+Another study found 35 pesticides and fungicides, some at lethal levels, in the pollen collected from bees servicing major food crops in five states, including California.
+
+But that study found neonicotinoids only on pollen from a single apple orchard.
+
+A separate study last year found that bees fed with high-fructose corn syrup, instead of surviving winter on their own honey, were more susceptible to microbial pathogens and to the effects of pesticides.
+
+USDA and the Environmental Protection Agency scientists charged with reviewing the scientific literature last year found that pesticides, pathogens, and nutritional deficits, some caused by a lack of natural forage, were the major contributing factors behind colony collapse disorder.
+

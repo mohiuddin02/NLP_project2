@@ -1,0 +1,41 @@
+For years, humans have built robots to visit places we can't get to easily, like the moon and Mars. Now scientists have designed a rover to explore another challenging target: colonies of penguins.
+
+A team led by scientists from the University of Strasbourg in France have built a robot that resembles a fluffy penguin chick. This disguise allows it to sneak around Antarctic colonies and get close to individual birds without ruffling any feathers along the way.
+
+When studying animals in the wild, it may be better for humans to get out of the way and let robots do the work.
+
+## Penguins Stress Easily
+
+Animals often get stressed out when researchers trying to study the creatures get up close to them in the field. Their heart rates go up and they react with alarm. These responses can have negative consequences for the birds and for the research.
+
+Approaching wild animals to collect data on their physical traits creates "stress, escape behavior and, potentially, breeding failure and therefore jeopardizes the quality of the collected data," according to findings from the team published in the journal Nature Methods.
+
+The challenge is that human researchers usually have to get within about 2 feet (60 centimeters) of a penguin to collect the types of information they need. Some animals have a data-collecting device placed under the skin. The radio signal only transmits a short distance. This means that to collect data, scientists have to disturb the penguins.
+
+One solution is to send in a wheeled robot to take over the work.
+
+## Intruders Create Colony Chaos
+
+The scientists have been studying how king penguins on Possession Island in Antarctica react to humans and robots. When a human invades a penguin's personal space, the bird's heart rate shoots up much faster than it does when a robot is around. The researchers also found that the effects of humans last must longer.
+
+"Human approaches led to an excess in (heart rate) approximately four times larger than that due to rover approaches," they wrote.
+
+When a king penguin feels threatened, it can shuffle away while keeping its egg or baby chick balanced on its feet. When the rover approached, the penguins would move away an average of 3 inches (8 centimeters). But when the humans approached, the birds moved a whopping 17 inches (43 centimeters).
+
+When the penguins shuffle away, they migrate into the spaces of other nearby penguins. This can create problems, since king penguins are territorial. There is a ripple effect through the colony, resulting in fights and chaos beyond where the bird lives.
+
+## Who's That Fuzzy Chick On Wheels?
+
+Even though the rover is not perfect, it is an improvement on many different levels to humans in the field, according to the researchers. Scientists also had similar results when using it with emperor penguins in another region in Antarctica.
+
+Emperor penguins are less territorial than the king penguins. Of the 158 birds that were tested with the robot, 28 percent "reacted with alertness," 47 percent did not seem to react at all, and 25 percent were intrigued by the rover and came closer to check it out.
+
+Then, the scientists experimented with a more penguin-friendly version of the robot. This rover was disguised as a fuzzy chick on wheels. The adorable robotic spy was even more successful than its plain-looking robot predecessor.
+
+"When the rover was camouflaged with a penguin model, all adult and chick emperor penguins allowed it to approach close enough for an electronic identification," the authors wrote. Penguin chicks and adults were even heard trying to talk with the camouflaged rover. The robot infiltrated an area full of penguin chicks — called a creche — without disturbing them.
+
+## Disguised Robots Can Also Work Elsewhere
+
+The researchers have also tested how elephant seals react to the robot. These creatures did not budge when then the rover came close to their heads or tails, which is where they are usually tagged. That's a good sign — elephant seals typically do not react kindly when someone is approaching its backside.
+
+These robots have the powerful and unique ability to investigate the lives of all kinds of animals without disturbing them the way a human scientist's presence would. And who knows? Perhaps future robots could even be designed to follow around swimming and flying creatures as well. 

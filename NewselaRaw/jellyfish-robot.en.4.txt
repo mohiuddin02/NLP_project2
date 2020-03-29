@@ -1,0 +1,49 @@
+Jellyfish are not really fish. They are animals without a backbone. And they don't swim like fish. But, they are very good moving through the water.
+
+Now, scientists are trying to get them to fly. Not real jellyfish, but robots that move like them.
+
+A team from New York University has made flying robots. These robots use four flapping wings. They are controlled by a computer or a machine to stay in the air. The team got the idea from jellyfish.
+
+## Winging It
+
+Leif Ristroph is a professor at New York University. He tried to make about five or 10 different flying robots. All of them failed except one. And that's the one that was based on the jellyfish.
+
+Engineers have been trying to build all sorts of robots based on flying animals. They have studied birds, bats, hummingbirds, butterflies and other creatures.
+
+Engineers look at insects too. That's because bugs have tiny wings and figured out how to fly very well with them.
+
+Many animals and insects fly in the same way. They move their wings back and forth in a motion that looks like an S.
+
+Only a few creatures move their wings in a simple up-down motion. Dragonflies are one of those creatures.
+
+Studying flying animals and insects is "a great place to start in terms of building a flying machine," said Ristroph.
+
+## Very Simple Creatures
+
+But imitating winged creatures isn't as simple as it seems.
+
+One problem is wind. Animals and bugs with flapping wings have to spend a lot of time dealing with changing weather. They feel every blow of wind. When the wind changes speed, they have to change the way they fly.
+
+It takes a lot of work to fly and it isn't very stable.
+
+Scientists are hoping to make flying easier for robots. They want to build a robot that is small and simple. They want it to be stable in the air without too much thinking.
+
+Jellyfish turned out to be a good choice to study. That's because they are very simple creatures. They don't have brains. They are mostly made up of water. They have just a small amount of stuff that's a bit like jelly. And jellyfish don't have bones.
+
+Their simple bodies look like an open umbrella or a bell. They have arms called tentacles. These hang down from their bell shape. They have a large mouth at the bottom of the bell.
+
+Their simple body type is helpful to scientists. So is their size. Jellyfish can be big and small.
+
+Some jellyfish can be over 7 feet wide. Others can be less than an inch wide.
+
+## A Tiny Flier
+
+The jellyfish robot 8 centimeters and weighs just 2 grams. It has four flapping wings that look like flower petals.
+
+The robot moves more like a moth than a jellyfish. Jellies move with the ocean's current. They also squeeze water in and out of their bells to make them move.
+
+So far the robot jellyfish still has to be plugged in to work. It can't fly without being attached to something. And it can't yet be steered. But that doesn't mean they don't work. The first robot jellyfish models show that the design can work.
+
+Professor John Dabiri is an expert on how jellyfish swim. He says the flying robots move a bit like jellyfish. But, they do not really look like jellyfish.
+
+Still, Dabiri thinks jellies would be proud.

@@ -1,0 +1,92 @@
+Earlier this year Los Angeles residents met about a new plan to release thousands of mosquitoes in their backyards.
+
+The bugs—all males—would not bite humans like females do, and area officials hoped these particular insects would block further reproduction of their kind.
+
+To some local residents the approach seemed a bit counterintuitive at first.
+
+Yet they were told the method would help curb pesticide use while simultaneously beating back their mosquito population.
+
+The bugs to be released were not genetically modified.
+
+But they were not exactly garden-variety mosquitoes, either.
+
+The male mosquitoes were raised in a laboratory where they were infected with Wolbachia, a natural bacterium that would effectively sterilize them.
+
+When the males are released into people's backyards and mate with wild females, the resulting eggs—for reasons not yet fully understood—simply will not hatch, leading to fewer mosquitoes.
+
+Insect-control experts are hoping that deploying the laboratory mosquitoes will eventually slash the number of wild mosquitoes in people's neighborhoods.
+
+The tricky part is that although certain strains of Wolbachia are already common in many species of mosquitoes—including some that bite humans—this desired type of Wolbachia does not naturally reside in Aedes Albopictus, the species of mosquitoes that had cropped up in the L.A. area during the past four years.
+
+So scientists had to artificially infect them.
+
+The problematic wild mosquitoes, also known as Asian tiger mosquitoes, were first introduced into the area as stowaways in shipments of bamboo from China and subsequently spread across the state.
+
+Unlike other California mosquitoes, they are potential carriers of dengue and chikungunya, two painful diseases that can be transmitted from human to human via mosquito bites.
+
+Eyeing that reality, greater Los Angeles County and San Gabriel Valley volunteered to be part of this new effort.
+
+Stephen Dobson, the entomologist who founded this Wolbachia operation and a professor at the University of Kentucky in Lexington, believes that because the mosquitoes are still relatively new to the California area they can be controlled.
+
+He tapped Wolbachia for the mission after he first piloted mosquito releases last year in Lexington (with permission from local regulators and the U.S. Environmental Protection Agency).
+
+The catch is that mosquitoes only live for a few weeks in the wild so Dobson's team must continually release about 10,000 male mosquitoes per acre of land, each week, over several months to make any real difference.
+
+With about $1 million in funding from the National Institutes of Health for this and other mosquito control projects, Dobson's team is testing if this approach can work in the field.
+
+He organized another series of mosquito releases in Lexington this year and also this past June his team expanded the project's reach with further releases in Fire Island, N.Y., and Los Angeles.
+
+Around Fire Island, "We didn't see much resistance [from residents] to this plan," says Tom Iwanejko, principal environmental analyst for vector control at the Suffolk County Department of Public Works.
+
+"The community has been receptive to normal methods of mosquito control including using larvicide and spraying of adults for years—we all agree reducing pesticide use would be beneficial."
+
+The biology of how Wolbachia interact with their hosts is a bit complex.
+
+If a male mosquito with Wolbachia mates with an uninfected female, then their eggs will not hatch.
+
+That is the key to Dobson's approach.
+
+Yet if two mosquitoes that both have Wolbachia mate, then their resulting eggs will hatch as normal, although the offspring will potentially harbor Wolbachia.
+
+Basically, their lives will go on as usual and they will be able to reproduce.
+
+Similarly, if an infected female mates with an uninfected male, then their resulting eggs will also hatch as normal—although again, the offspring will potentially also be infected.
+
+This is not the first time Wolbachia has been auditioned as a way to hamper the spread of mosquito-borne diseases—scientists have previously used a strain of the bacterium to curb the spread of dengue.
+
+Yet this is a unique project in the U.S. and the only one using this method to eliminate mosquitoes.
+
+Scott O'Neill, dean of science at Monash University and head of an international Wolbachia research collaboration called Eliminate Dengue, has been releasing Wolbachia-infected mosquitoes in Australia for the past four years and is also conducting releases in Vietnam, Indonesia and Brazil (see related Scientific American story).
+
+But in those cases O'Neill is not trying to wipe out the mosquito population.
+
+Instead, he releases mosquitoes of both sexes that are infected with the bug (thus the eggs will still hatch as normal but will harbor Wolbachia inside them).
+
+His hope is actually to establish the bacterium among many generations of mosquitoes in the wild because his Wolbachia plan hinges on another biological quirk of the bacterium—it limits mosquitoes' ability to pass on dengue.
+
+Using O'Neill's methods, if all area mosquitoes were infected, they would go on to live typical lives—they just would not be able to pass on the disease with their bite (see related video).
+
+In the U.S., however, Dobson does not want Wolbachia to become established—he just wants to control the mosquito population.
+
+His method is an alternative to pesticide use, he says.
+
+Yet a major reason O'Neill and others are not using this same approach is because scaling it up over large tracts can prove quite difficult—requiring a continual influx of the mosquitoes that involves raising and releasing many, many of the insects.
+
+Wiping out one species of mosquito also means that others could potentially come in and fill that niche.
+
+But in an area like Los Angeles County where there were not any mosquitoes that carry dengue or chikungunya until recently, Dobson says it makes sense to try to target this disease-carrying population—making competing mosquitoes less of a priority.
+
+And in other areas where pesticide use is common, tapping mosquitoes like these could help reduce chemical use, serving as a way to complement it, he adds.
+
+"We can't control mosquitoes with a single approach, and this is a new way with great potential," says Stephen Higgs, a Kansas State University infectious disease expert who was not involved in the work.
+
+But could this approach work on a larger scale?
+
+"I could see it but there has to be a cost analysis.
+
+The cost per release could decline at a large scale," he says.
+
+By early next year Dobson and his team are hoping to have garnered enough data to start answering some of these questions.
+
+For now, health officials in test areas are just hoping to silence the buzz of these invasive insects.
+

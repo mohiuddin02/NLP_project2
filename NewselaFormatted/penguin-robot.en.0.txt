@@ -1,0 +1,60 @@
+For decades, humans have built rovers to visit places we can't easily reach, including the moon and Mars.
+
+Now scientists have built a rover to explore another challenging target: colonies of adorable penguins.
+
+A team led by scientists from the University of Strasbourg in France have built a rover that looks like a fluffy penguin chick, allowing it to sneak around Antarctic colonies and get close to individual birds without ruffling too many feathers along the way.
+
+The findings, described in the journal Nature Methods, show that when studying animals in the wild, it may often be better for humans to stay out of the way and let robots do the work.
+
+Researchers who try to study animals like penguins in the field often end up stressing out the creatures.
+
+Their heart rates go up, they react in alarm — and those reactions can have negative consequences for the birds and for the research.
+
+"Approaching wild animals to collect data on their phenotypic traits induces stress, escape behavior and, potentially, breeding failure and therefore jeopardizes the quality of the collected data," the study authors wrote.
+
+The problem is, human researchers usually have to get close enough — within as little as 60 centimeters (about 2 feet) — to pick up the radio signal from data-collecting devices placed beneath the animals' skin.
+
+If they want the data, they have to disturb the penguins wearing them.
+
+A possible solution: Send in a wheeled robot to do the work.
+
+But the researchers needed to prove the rover's worth.
+
+In Antarctica, the scientists studied the reactions of king penguins on Possession Island.
+
+A human who invaded a penguin's personal space caused the bird's heart rate to spike much higher than a rover did, the researchers found — and the effect from the human encounter lasted much longer.
+
+"Human approaches led to an excess in (heart rate) approximately four times larger than that due to rover approaches," they wrote.
+
+A king penguin who feels threatened can shuffle away even while keeping its egg or baby chick balanced on its feet.
+
+When the rover approached, penguins would move an average of 8 centimeters (3 inches).
+
+But when humans approached, the birds moved a whopping 43 centimeters (17 inches).
+
+On top of that, the penguins' movements pushed them into the space of other nearby penguins.
+
+Since king penguins can be territorial, the disturbance would ripple through the colony, resulting in fights and chaos for many rows beyond the target bird's area.
+
+So the rover, while not perfect, was a marked improvement on many levels — a finding echoed by the scientists' rover tests among a population of emperor penguins within Adelie Land.
+
+Emperor penguins are less territorial than the king penguins, and of the 158 birds tested, 28 percent "reacted with alertness," 47 percent didn't seem to react at all, and 25 percent appeared to be curious enough to come closer and check out the rover.
+
+There, the scientists also tested a more penguin-friendly version of their rover — one that looked like a fuzzy chick on wheels.
+
+This adorable robotic spy was even more successful than its plain-looking predecessor.
+
+"When the rover was camouflaged with a penguin model, all adult and chick emperor penguins allowed it to approach close enough for an electronic identification," the authors wrote.
+
+"Chicks and adults were even heard vocalizing at the camouflaged rover, and it was able to infiltrate a creche without disturbance."
+
+The researchers even tried out their rover on elephant seals, who didn't budge when a rover came close to their heads or tails (which is where they are usually tagged).
+
+That's a good sign; as a rule, an elephant seal does not react kindly to someone approaching its backside.
+
+Such robots could be used to investigate the lives of all kinds of animals without disturbing them the way a human scientist's presence would, the study authors wrote.
+
+And who knows?
+
+Perhaps future robots could even be outfitted to follow around swimming and flying critters as well.
+

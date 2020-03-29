@@ -1,0 +1,46 @@
+Astronauts are not the only life forms inhabiting the International Space Station.
+
+The station is also home to trillions of microscopic fungus and bacteria that live in the air and on the surfaces of the floating space laboratory.
+
+A new analysis of the life forms living on the space station found that there are more organisms living there than there are in the carefully controlled clean rooms at the Jet Propulsion Laboratory on Earth.
+
+The researchers also detected some microbial strains on the station that could be harmful to human health.
+
+The results of the analysis were published in the journal Microbiome.
+
+NASA and other space agencies have been monitoring the collection of microbes that live on the space station for 15 years, gathering dust from air vents and surfaces, and then growing those samples in labs both in space and on Earth to see what strains of bacteria and fungus could be detected.
+
+However, that technique has some flaws.
+
+For example, there are some types of microbes that are more difficult to grow in the lab, and so they may have been underrepresented in previous studies.
+
+As NASA looks to long-term manned missions like sending people to Mars, the agency wants to learn as much as possible about the microscopic community that might tag along.
+
+The new study relied on DNA sequencing technologies that take into account all the organisms on the space station, not just those that can grow well in a lab.
+
+The research team looked at two samples.
+
+One was taken from an air-filter screen that had been in place for 40 months, and helped scientists determine what organisms were living in the recycled air of the space station.
+
+A second sample came from a vacuum cleaner bag whose contents represented the microbes living on the space station's surfaces.
+
+The DNA analysis revealed that the majority of the bacteria found on the station is associated with human skin, and very little of it was found in clean rooms on Earth.
+
+The researchers also detected some strains that have a potential to pose a risk to human health, especially for people who have compromised immune systems.
+
+"Astronauts are often in a compromised state in microgravity because their bodies are going through so many changes, " said Kasthuri Venkateswaran, a microbiologist at JPL who led the study.
+
+"In an immuno-compromised condition, some of these bacteria could lead to disease."
+
+But just because some of these microbes could lead to disease, it doesn't mean they will.
+
+More work needs to be done to see exactly how many of these pathogenic microbes are aboard the space station, and if they are virulent, meaning if they are making toxins.
+
+"One or two cells that are virulent may be there, but that might not be enough to cause disease," Venkateswaran said.
+
+The study provides a baseline full spectrum of the microbes on the space station, but there is still more work to be done.
+
+The next step is to see whether any of these organisms are abundant and if they might pose problems for astronauts in the future.
+
+"We are stepping in the right direction, and NASA is aware that these are the things required for tomorrow's human mission to Mars," he said.
+

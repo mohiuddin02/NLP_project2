@@ -1,0 +1,128 @@
+More and more medical devices are getting hooked up to the Internet these days.
+
+These devices include pumps that deliver drugs to the body.
+
+X-rays and defibrillators – which regulate the heart – are also linked up.
+
+This connection can be a security risk.
+
+The devices can be attacked by criminals to make money.
+
+Hackers who want to show of their technical skills could also take a crack.
+
+Chris Carroll remembers the first time he saw someone hack into an insulin pump.
+
+They made it deliver a deadly dose of insulin.
+
+The pump wasn't connected to anyone.
+
+Still, the danger was real.
+
+It hit home, too.
+
+Carroll has Type 1 diabetes.
+
+He wears a pump.
+
+The pump delivers insulin directly into his body.
+
+The insulin helps people with diabetes keep their blood sugar at safe levels.
+
+The FBI says the health care industry is not prepared to fight against cyber criminals.
+
+It also said banks and stores are more prepared for these attacks.
+
+Experts also are worried that deaths could happen accidentally.
+
+People are becoming more dependent on medical devices that share information.
+
+This increases the chance for problems.
+
+Frank Painter is a health care expert.
+
+He said it's not the criminals and hackers we really need to worry about.
+
+The worst risk is that a system could be scrambled by accident, causing devices to go haywire.
+
+Wired magazine published a report in April.
+
+It said that an official from Essentia Health found that people can change how drug pumps work online.
+
+They can do the same thing to defibrillators and X-rays.
+
+They can even change temperature settings on refrigerators that store drugs and blood.
+
+The security official is Scott Erven.
+
+He ran the study over two years in the Midwest.
+
+Erven couldn't be reached for a comment for this article.
+
+Hospitals are moving patient records onto computer networks.
+
+The change means hackers can make a lot of money.
+
+The FBI says that even partial electronic health records are being sold.
+
+The sales are illegal.
+
+But people can get $50 for each record.
+
+They only get $1 for Social Security cards or credit card numbers.
+
+Electronic health records contain detailed patient information.
+
+This is a good thing.
+
+It allows all the patient's health care providers to share that information.
+
+But these records are attractive targets to hackers.
+
+They can be used to sell drug prescriptions.
+
+Michael Carome is the director of health research at Public Citizen.
+
+The group fights for consumer rights.
+
+He said it was hard to say how big the risk of medical information leaks was.
+
+But public health officials should be paying attention, he said.
+
+The FBI report mentions research from the SANS Institute.
+
+SANS is a private company.
+
+It specializes in Internet protection training.
+
+SANS said some systems and devices could be broken into.
+
+They could stay open for extended periods.
+
+Companies notified of the problems did not repair them, SANS said.
+
+"The time to act is yesterday," the report says.
+
+Carroll said he contacted his own pump provider about hacking.
+
+"Both of the people I talked to had no idea this was possible," he said.
+
+They also could not say how the issue would be fixed, he said.
+
+They said nobody would try to break into a device, Carroll said.
+
+So far, Carroll's pump maker has been right.
+
+The Food and Drug Administration (FDA) says it is not aware of any patient injuries or deaths related to hacking.
+
+The FDA is in charge of what medical devices can be sold.
+
+Still, at least some users think the risks are real.
+
+Dick Cheney was vice president from 2001 to 2009.
+
+In 2007, he had the wireless function on his heart defibrillator disabled.
+
+He feared it made him more at risk of a terrorist attack.
+
+But most people don't face the same level of personal risk.
+

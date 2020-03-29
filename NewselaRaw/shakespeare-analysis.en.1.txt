@@ -1,0 +1,31 @@
+"Double Falsehood" is a play said to have been written by the 16th-century poet and playwright, William Shakespeare. But its authorship has been disputed for close to three centuries.
+
+New research now says it is almost certainly the work of Shakespeare, who was nicknamed the Bard.
+
+Shakespeare appears to have had some assistance in the project from John Fletcher. He lived in Shakespeare's time and is thought to have co-written three plays with the Bard near the end of Shakespeare's life. One of those plays was similar to "Double Falsehood."
+
+Nevertheless, "the entire play was consistently linked to Shakespeare with a high probability," the authors of the new study wrote.
+
+## Extreme Word Search
+
+Those findings came after two researchers subjected the play's language to psychological scrutiny and computer review. Not a single pun, put-down, preposition or "prithee" went uncounted. The researchers' method was an extreme form of the practice of "styleometry." The practice has long used by scholars of literature, but the researchers added computers to pore through millions of sentences of text.
+
+The computers were aided by machine-learning programs, which let the computers quickly learn types of language that show up regularly and become an author's "signature." When the authorship of a book or play is contested, computer-enhanced stylometry can compare suspected authors' "signatures" to that of the disputed work. The result is a scientific basis for assigning authorship.
+
+In the end, two psychology professors from the University of Texas in Austin declared that the author of "Double Falsehood" — a tale of fathers, sons, duty and love — was Shakespeare. It was not written by Lewis Theobold, a devoted follower of Shakespeare, they said.
+
+## Evidence Adds Up
+
+Theobold was a Shakespeare scholar and collector of manuscripts. He published the play in 1728, claiming it came from three original manuscripts written by the Bard. Those manuscripts, however, were said to have burned in a library fire. In the absence of physical proof, scholars became suspicious that Theobold was a literary imposter.
+
+Under the supervision of University of Texas psychology professors Ryan L. Boyd and James W. Pennebaker, machines churned through 54 plays — 33 by Shakespeare, nine by Fletcher and 12 by Theobold. The machines computed each play's average sentence length, and quantified the complexity and psychological elements of its language. The computers also figured out the frequent use of unusual words.
+
+"Our results offer consistent evidence against the notion that 'Double Falsehood' is Theobold's whole-cloth forgery," Boyd and Pennebaker wrote. While Theobold's "psychological signature" was not evident, it did make "passing statistical appearances" — probably the result of Theobold's practice of heavy editing, they added.
+
+## Writers Have Signature Styles
+
+The notion — and method — of creating a writer's psychological signature opens up new ways to authenticate disputed works, Boyd and Pennebaker wrote. But they underscored that it can also be used to provide a "better understanding" of who a person was and how they thought.
+
+The researchers mentioned studies that show that the way writers use language, the words they choose, and even the length of their sentences shows their cognitive style and temperament. A deep analysis of a writer's verbal output can "paint a very rich picture of who that person is, how he or she thinks, and what he or she thinks about," they wrote.
+
+For Shakespeare, much of whose life remains a mystery, the analysis offers a bit of insight: his frequent use of prepositions suggests he was rigorously educated in grammar. His heavy use of "social content words" (vs. words related to thought processes or emotion) suggests he was more attuned to how people in society acted than he was either cerebral or preoccupied by his own or others' feelings, the authors wrote.

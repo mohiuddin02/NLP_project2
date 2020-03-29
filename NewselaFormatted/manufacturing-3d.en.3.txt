@@ -1,0 +1,100 @@
+For many years, airplane makers like Pratt & Whitney have made engine parts by taking steel or another material and molding it or carving it or melting it.
+
+Now, they're printing them instead.
+
+But unlike your laser printer at home or school, there is no ink and no paper.
+
+These 3-D printers use lasers to heat pieces of plastic or metal to build up solid parts, layer by layer.
+
+They can build anything, no matter how complicated.
+
+Airplane makers like Pratt & Whitney and GE Aviation are pushing the limits of this technology to make parts for their latest engines.
+
+The printers let them come up with parts they could not have made in the past.
+
+The companies also save money.
+
+The printing is also called additive manufacturing.
+
+It's different than the old method, which is called subtractive manufacturing.
+
+Think of additive like building something with Lego blocks; you put small pieces together to make something larger.
+
+Subtractive manufacturing is more like making a sculpture.
+
+You start with a block or marble, and chip and shave away until a statue, or engine part, emerges.
+
+The fact that 3-D printing can be used in a jet engine is a good sign.
+
+"It's definitely progress … even call it a milestone," said Tom Maloney of the Connecticut Center for Advanced Technology.
+
+That group helps companies that want to use the technology.
+
+Pratt put more than two dozen 3-D-printed parts on its latest engine, said Thomas Prete, the company's head of engineering.
+
+More are expected.
+
+Pratt's designers can now make a part in one step.
+
+In the past, it would have taken a lot longer.
+
+Five or 10 pieces needed to be attached and heated before they were ready.
+
+That improvement alone saves time and money.
+
+But the main advantage is that engine designers can do things that would have been impossible, Prete said.
+
+In the past, an engineer could design something that might have been too complicated to make.
+
+Meanwhile, the military likes being able to print supplies with just a machine and materials.
+
+That could turn an aircraft carrier into a "floating factory."
+
+Some of the 25 parts Pratt prints are simple, such as brackets.
+
+Others are more complicated pieces.
+
+They go in part of the engine that faces high temperatures and constant stress.
+
+Getting to the point that the parts will withstand the jet engine environment has been quite the process, experts say.
+
+Materials and how the parts are made must be perfect.
+
+Costs need to make sense.
+
+Companies need to be able to print enough parts to keep up with traditional manufacturing methods.
+
+For Pratt, 3-D printing parts at production speed is the next big step.
+
+The company is deciding how many machines it needs and how they need to be arranged.
+
+Pratt's rival, GE Aviation, bought a 3-D printing firm in November.
+
+GE said that it would be 3-D printing the fuel nozzles on one of its engines.
+
+When the parts were traditionally made, 18 parts were fused together.
+
+Now they are made as one part and come out 18 percent lighter.
+
+In 2012, the 3-D printing industry had a $2.2 billion slice of the economy, one report said.
+
+By 2021,  the industry is expected to be worth $10.1 billion.
+
+Putting these parts into jet engines shows that companies have figured out how to make the materials and the process work.
+
+It's one thing to print a plastic toy.
+
+It's another thing altogether to manufacture a metal component that will hold up under thousands of degrees of temperature, constant stress and years of operation.
+
+Computing technology and material science of 3-D printing reached the point where critical parts can be made with the press of a button.
+
+This means the military is close to using 3-D printers as a mobile factory.
+
+Lt. Cmdr.
+
+Michael Llenza of the U.S. Navy wrote in a May article in the Armed Forces Journal about the  possibilities for 3-D printed products.
+
+Those include vehicles, parts, ammunition, shelters, artificial limbs and food.
+
+Yes, a 3-D-printed pork chop.
+

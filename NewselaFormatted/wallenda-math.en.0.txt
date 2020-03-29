@@ -1,0 +1,82 @@
+Millions watched on television last Sunday as Nik Wallenda set a world record in Chicago by walking on a tightrope at a 19-degree incline from Marina City's west tower to the Leo Burnett Building.
+
+But when a class of 10th- and 11th-grade math students at Hinsdale South High School in Darien, Illinois, took a look at the numbers, they didn't seem to add up.
+
+The mystery began Monday when math teacher Linda Korbus gave the class what she considered to be a fun assignment: figuring out how the Wallenda team had calculated the incline of the tightrope.
+
+Using dimensions supplied by the Discovery Channel, which sponsored Wallenda's walk, the students pulled out their protractors, compasses and rulers and got to work on the trigonometry.
+
+If Discovery's height of Marina City is 588 feet, and its height of the Leo Burnett Building is 671 feet, and Wallenda walked a total of 454 feet, what was the incline?
+
+Instead of 19 degrees, they came up with 10.5 degrees.
+
+And they were correct.
+
+"I was expecting the grand reveal of 19 degrees, since professional engineers had worked on this.
+
+When it came out lower, I couldn't believe it," said Korbus, who immediately pulled out her own pencil to do the math.
+
+"Using the numbers they gave us, it just couldn't be true."
+
+The students and the teacher were puzzled.
+
+Perhaps Wallenda had landed on an elevated platform on top of the roof, the students surmised.
+
+Or maybe the building dimensions or the length of the walk were wrong.
+
+As it turned out, no one was wrong.
+
+There was one crucial fact that Korbus' math class didn't factor in: Tightropes aren't straight.
+
+Thanks to gravity, they dip in the middle, like a chain attached to two posts.
+
+So instead of measuring it as a right triangle, Wallenda's engineers measured it as a parabola.
+
+Another factor the students didn't consider is that stabilizer wires are attached to the wire to hold it in place.
+
+On Wallenda's tightrope, there were 18 pairs of smaller guy wires running from the tightrope to concrete barriers stationed on the ground.
+
+The guy wires kept the high wire from swinging wildly as Wallenda made his trek across, and they also pulled the wire down.
+
+According to Mike Troffer, Wallenda's uncle and chief engineer, the tightrope starts out in a catenary curve but as tension is added to the guy wires, the tightrope slopes into more of a parabolic arc.
+
+"We don't have it simply suspended between two points, we have stabilizers that cause the radius of the curve.
+
+The stabilizers pull down on the rope, and the bend becomes steeper," Troffer said.
+
+While the city of Chicago gave the Wallendas the freedom to rig the wire as they saw fit, there were load restrictions put in place by the owners of Marina City and the Leo Burnett Building.
+
+On Marina City, the wire was tied to existing steel bolts that formerly anchored television towers.
+
+The wire was tied to a steel beam that already was in place on the Leo Burnett Building.
+
+When designing the tightrope, Troffer said he figured out how much tension could be placed on the wire without breaking the anchors.
+
+But when Wallenda inspected the tightrope hours before his walk, he wanted more tension added.
+
+So what initially would be a 16-degree incline became a 19-degree incline, Troffer said.
+
+"Nik got out there to check and he was not pleased with how tight some of the stabilizers were," Troffer said.
+
+"He corrected it, but the consequence was that it pulled harder on the rope and it bent more and more."
+
+That's to be expected for those who walk a tightrope for a living.
+
+"Nik's the only guy who's going to walk out there, and he wanted it to be more stable," Troffer said.
+
+"I had set the margin below the limit just in case he wanted to change it.
+
+So we still had some room to make the adjustment."
+
+A representative from Guinness World Records was on the roof as Wallenda took the walk, but no one from the record-keeping group could be reached for a comment on the incline.
+
+In addition to setting a world record for the highest incline tightrope walk, Wallenda also set a world record for the highest blindfolded tightrope walk.
+
+Still, Korbus and her students plan to go back to the drawing board to delve further into the math.
+
+"The trouble with giving a group of math teachers a problem is that they grab onto it like a dog to a bone," said Korbus, who has been teaching math for 30 years.
+
+"If you model it as a parabola, then there was a moment of time where the incline was 19 degrees, but no way could the average degree incline have been 19 degrees.
+
+It would have been much lower."
+

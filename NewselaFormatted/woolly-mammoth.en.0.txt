@@ -1,0 +1,54 @@
+In what may be a first for a long-extinct nonhuman animal — and certainly for an extinct creature of such stature — scientists have assembled the complete genome of the woolly mammoth, gaining insight into why the last surviving population of the great beasts, marooned on an Arctic island off the coast of Russia, may have disappeared.
+
+The international team, led by researchers at the Swedish Museum of Natural History in Stockholm, reported their findings Thursday in the journal Current Biology.
+
+Study co-author Eleftheria Palkopoulou said that recent successes in the tricky business of sequencing ancient DNA, including samples from early hominids like Neanderthals and Denisovans, inspired her team to try it out with woolly mammoths from Wrangel Island.
+
+The animals are particularly interesting to paleobiologists because they were among the last surviving members of their species.
+
+Carbon dating has shown that mammoths on Wrangel Island managed to hang on until 4,000 years ago — 6,000 years after their relatives had vanished from mainland Siberia.
+
+Palkopoulou and her colleagues wanted to see if the Wrangel Island mammoths, final members of a group on the brink of extinction, had diminished diversity in their DNA—a factor that might have contributed to their demise.
+
+To figure that out, the team first had to find woolly mammoth bits well-preserved enough to sequence.
+
+Eventually they chose soft tissue from a juvenile male that lived in northeastern Siberia around 44,800 years ago and a molar from a Wrangel Island male mammoth that lived about 4,300 years ago.
+
+Using the genome of a modern African savanna elephant as a reference point, the group then analyzed the mammoth DNA.
+
+Mammal genomes have two copies of every DNA molecule, one contributed from an animal's mother and another from its father.
+
+By comparing the two DNA copies in each mammoth and noting when they were identical and when they weren't, Palkopoulou and her colleagues were able to estimate how closely related the mammoths' parents would have been—an indication of the genetic diversity in the Wrangel Island and older Siberian populations.
+
+They were also able to estimate the two populations' sizes.
+
+"From a single individual you can get information about the entire population," Palkopoulou said.
+
+The Wrangel Island mammoth had long stretches of DNA with no variation between the mother's and the father's contributions, a sign that the animal's parents were probably related and that the isolated population of mammoths was small.
+
+(The older Siberian mammoth's DNA had more genetic variation.)
+
+The data also pointed to two major population declines in mammoth history: one that occurred 250,000 to 300,000 years ago and another that took place around 12,000 years ago, at the end of the last Ice Age.
+
+The analysis could help scientists understand why species die out, and if genetic factors have to do with it, Palkopoulou said.
+
+Generally, scientists believe that lower genetic diversity lessens a population's chances of survival.
+
+"Your genome is like your tool kit for getting out of trouble," said Ian Barnes, an evolutionary biologist at the Natural History Museum in London.
+
+"If you as a species have lots of different tools available, it means some individuals will die when the environment changes or a disease arrives, but there will probably be others that will be resistant and will pass those genes on to the next generation.
+
+If you don't have the diversity, it's a challenge."
+
+Barnes, who has worked with Palkopoulou but was not involved in this research, cautioned that this paper did not show that low genetic diversity is always a predictor of species fragility, and that scientists will have to figure out what to make of it when studying endangered animals.
+
+Humans, for instance, are not endangered, and we are not particularly genetically diverse, he said.
+
+Still, Barnes called the work a technical tour de force.
+
+"This is the first really well put together, properly finished up genome from an extinct species, as far as I'm aware," he said.
+
+Next, Palkopoulou said, the Stockholm-based group will look at more Wrangel Island mammoth DNA to understand patterns of inbreeding in the animals over time.
+
+Palkopoulou is also studying DNA from other members of the elephant family to understand how the species evolved over time.
+

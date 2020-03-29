@@ -1,0 +1,53 @@
+MINNEAPOLIS — Simulators aren't just for pilots anymore.
+
+Physicians at the University of Minnesota are using simulators to perfect their surgical methods in complicated cases, such as brain tumors. And they are working with local medical device companies to develop new software to train the next generation of medical students.
+
+It may be the most significant change in surgical training since the early 1900s.
+
+The researchers hope to build lifelike models. They will allow medical residents to get hands-on experience and learn from their mistakes without harming patients, said Dr. Robert M. Sweet. Dr. Sweet runs the University's Medical School Simulation Programs.
+
+## Video Game Generation
+
+Soon, surgeons will be able to use devices that create images of people's bodies — like MRIs — to create custom models of their patients' diseased organs. Surgeons are doctors who perform operations on patients. They will eventually practice tricky operations before ever cutting the patient open.
+
+"Have you ever seen a pitcher not warm up before their first pitch, or a musician not warm up before they go on stage? Never!" Sweet said. "Why would a surgeon be any different?"
+
+An added benefit: Simulators collect information that can be used to research methods of surgery and detect common errors. For instance, a 2011 study used a training simulator for laparoscopic surgery — a type of surgery that doesn't require making big cuts. It found a "hangover effect." Doctors who had gotten drunk the night before an operation performed more poorly at surgery.
+
+Until simulators came along about 15 years ago, the only way for doctors to get hands-on experience was to cut into living patients. They had to work under the watchful eye of an older surgeon.
+
+Sweet, 44, said the idea for simulator training came to him as he was learning to do surgery.
+
+"Being from the video game generation, I thought that there might be a good way to do it with a video game," he said.
+
+Sweet dropped by the school's Human Interface Technology lab and helped build a simulator. But early simulators were crude compared to the ones being developed now.
+
+## Getting Instant Feedback
+
+Sweet credits some of the improvements to information in the University's human tissues database.
+
+"When a patient dies, we get consent to harvest little bits of tissue. Not whole organs, just little bits of tissue. And we rapidly run them through tests." They do mechanical testing, electrical testing, and other types of testing.
+
+"You need to understand the object you're simulating," he said.
+
+Yunhe Shen, a professor, is in charge of developing algorithms, or math formulas, for the simulators. They provide users with instant feedback. It imitates what surgeons would feel and see if they were operating on a live patient.
+
+Simulators could play a growing role in doctor training. Medical residents are limited in the number of hours they can work in hospitals to avoid errors due to fatigue. Residents are doctors who have finished medical school and are training in hospitals to get more real-life experience.
+
+Dr. Travis Pagliara, a third-year resident, said the machines are incredibly lifelike.
+
+"I'm moving in every direction of space, whether I twist my wrist, whether I push in, pull back, both hands are doing things separately," he said. The way in which he moves his body affects what happens on the screen.
+
+## Learning From Mistakes
+
+Pagliara, 29, had trained on a simulator before he stepped into the operating room. Then he had to perform a type of surgery for the first time, under Sweet's supervision. Normally, Sweet said, first-timers last less than a minute before he has to take over.
+
+"Travis blew me away," Sweet said, praising Pagliara's natural skills. He added that the simulator made an important difference.
+
+Travis agreed. "I wouldn't have lasted 15 seconds if I hadn't done that," he said.
+
+Residents in neurosurgery, or brain surgery, get to train on a simulator called NeuroTouch Cranio. It was developed for surgeons. They get to practice with a device that uses sound waves to liquefy brain tumors and then sucks away the remains.
+
+"They have more self-confidence and maybe more importantly, they learn their own limitations," said David Hananel, who helps run the medical school's simulation programs. "We actually are trying to teach them the errors, the mistakes, the things that shouldn't be done."
+
+He added, "Let them do it" so they can see how serious mistakes can be. "And then show them how to recover."

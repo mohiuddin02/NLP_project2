@@ -1,0 +1,29 @@
+WASHINGTON — New research suggests it may be possible to predict which preschoolers will struggle to read — and it has to do with how the brain deciphers speech when it's noisy.
+
+Scientists are looking for ways to tell, as young as possible, when children are at risk for later learning difficulties so they can get early interventions. There are some simple pre-reading assessments for preschoolers. But Northwestern University researchers went further and analyzed brain waves of children as young as 3.
+
+How well youngsters' brains recognize specific sounds — consonants — amid background noise can help identify who is more likely to have trouble with reading development, the team reported July 14 in the journal PLOS Biology.
+
+If the approach pans out, it may provide "a biological looking glass," said study senior author Nina Kraus, director of Northwestern's Auditory Neuroscience Laboratory. "If you know you have a 3-year-old at risk, you can as soon as possible begin to enrich their life in sound so that you don't lose those crucial early developmental years."
+
+Connecting sound to meaning is a key foundation for reading. For example, preschoolers who can match sounds to letters earlier go on to read more easily.
+
+Auditory processing is part of that pre-reading development: If your brain is slower to distinguish a "D'' from a "B'' sound, for example, then recognizing words and piecing together sentences could be affected, too.
+
+What does noise have to do with it? It stresses the system, as the brain has to tune out competing sounds to selectively focus, in just fractions of milliseconds. And consonants are more vulnerable to noise than vowels, which tend to be louder and longer, Kraus explained.
+
+"Hearing in noise is arguably one of the most computationally difficult things we ask our brain to do," she said.
+
+The new study used an EEG to directly measure the brain's response to sound, attaching electrodes to children's scalps and recording the patterns of electric activity as nerve cells fired. The youngsters sat still to watch a video of their choice, listening to the soundtrack in one ear while an earpiece in the other periodically piped in the sound "dah" superimposed over a babble of talking.
+
+Measuring how the brain's circuitry responded, the team developed a model to predict children's performance on early literacy tests. Then they did a series of experiments with 112 children between the ages of 3 and 14.
+
+The 30-minute test predicted how well 3-year-olds performed a language-development skill and how those same youngsters fared a year later on several standard pre-reading assessments, the team reported. Time will tell how well those children eventually read.
+
+But Kraus' team also tested older children — and the EEG scores correlated with their current reading competence in school, and even flagged a small number who'd been diagnosed with learning disabilities.
+
+Oral language exposure is one of the drivers of reading development, and the study is part of a broader push to find ways to spot problem signs early, said Brett Miller, who oversees reading disabilities research at the National Institute of Child Health and Human Development, which helped fund the work.
+
+But don't expect EEGs for preschoolers any time soon. While the machines are common among brain specialists, this particular use is complicated and expensive, and further research is necessary, Kraus cautioned.
+
+Her ultimate goal is to test how a child's brain processes sound even younger, maybe one day as a part of the routine newborn hearing screening.

@@ -1,0 +1,102 @@
+Does your school know where you are at the moment?
+
+In class?
+
+On the bus?
+
+Paying for lunch in the cafeteria?
+
+Principals in thousands of schools know the answer.
+
+The information comes from technology that keeps track of students through their identification cards or scanners that recognize a student's fingerprint or eyeball.
+
+Schools use them to take attendance and let parents know where their children get off the school bus, and even speed up lunch lines.
+
+The technology is supposed to make schools safer and more efficient.
+
+However, they are controversial.
+
+Several states are now banning or limiting their use in schools, as worries increase over privacy of student information and computer security.
+
+This year, Florida became the first state to ban the use of biometric identification in its schools.
+
+Biometric technology uses people's unique characteristics, such as a fingerprint, palm or eyeball, to recognize them.
+
+In Kansas now, biometric information cannot be collected without the agreement of students or their parents.
+
+New Hampshire, Colorado and North Carolina have banned schools from collecting and storing biometric information in student records.
+
+New Hampshire and Missouri lawmakers said schools cannot require students to use ID cards with radio frequency identification (RFID) technology.
+
+RFID technology tracks students by badges or tags with radio chips.
+
+The chips either send out a radio signal or are read by a scanner.
+
+RFID tags are also used by the government and businesses for security and tracking packages.
+
+The laws reflect a growing worry among parents and lawmakers about the new technology.
+
+They are questioning what information is being collected and how that information is used and protected.
+
+In all, 36 states considered 110 laws this year on the issue, according to Data Quality Campaign, a group in favor of using the new technology to improve student achievement.
+
+At least 39 of the proposed laws involved biometric information, and 14 of them passed.
+
+"Technology is moving so fast," said Paige Kowalski, who works for Data Quality Campaign.
+
+"I think that's why you're seeing these new laws.
+
+I think people are nervous about it.
+
+It's new."
+
+She thinks there is a desire to use technology, but to take it slow.
+
+"We want to know exactly how it's being used … so we don't sacrifice too much privacy."
+
+Nobody knows how many of the nation's school districts use the technology to track students, but schools have used them for years.
+
+Jay Fry, the head of identiMetrics, said biometric technology is used in more than 1,000 school districts in 40 states.
+
+"It's more secure from a privacy standpoint than a student ID," Fry said.
+
+Student IDs include the student's name, picture and school.
+
+Fry came up with the idea of using the technology in schools in 2002 when he was a middle school principal in Illinois.
+
+Students often did not have enough time to eat their lunches andnlost their lunch money or their IDs.
+
+"You can't lose your finger," he said.
+
+Elizabeth Hunger is with the Security Industry Association.
+
+She said the RIFD technology is more common in schools where badges are read at school doors, on buses or at school events so educators know where students are.
+
+But some lawmakers question whether schools really need these kinds of tools that keep track of students.
+
+They say that keeping such close eye on students through technology is just another example of government control.
+
+"This is a technology that is very difficult to limit and to secure," said Missouri State Senator Ed Emery.
+
+He proposed the new law that limits how school districts can use RFID in Missouri.
+
+Parents can now choose to keep their children from using RFID.
+
+Florida State Senator Dorothy Hukill stepped in when a school system began a program to scan the students' retinas on school buses without their parents' permission.
+
+The retina is a layer of tissue lining the inner eye.
+
+Hukill proposed the law that bans the use of biometric identification in Florida schools.
+
+"You don't need to collect biometric information to buy a hot dog in the school cafeteria or check out a library book," she said.
+
+Hukill said she is not opposed to technology, but she is concerned about keeping children's personal information safe.
+
+"And once you collect the information," she said, "there is no rolling back."
+
+Rather than outlaw the technology, Kowalski, of the Data Quality Campaign suggested lawmakers focus on openness.
+
+Parents should know how the technology is used, what information is collected about their children and how the information is protected.
+
+"Were you as a lawmaker to prohibit it, you may be taking something useful away," she said.
+

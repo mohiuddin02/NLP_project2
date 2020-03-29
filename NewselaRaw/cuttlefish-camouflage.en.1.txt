@@ -1,0 +1,23 @@
+3-D printing is revolutionizing fields ranging from jewelry-making to jet engine fabrication. Now inventors are moving beyond the production of solid, static objects to create materials that can be transformed and manipulated at will. Using a 3-D printer, engineers have developed a new soft material whose texture can be modified. The researchers who designed this material have suggested a wide range of applications for such surfaces, but the original inspiration for their shape-shifting creation was none other than the humble cuttlefish.
+
+"The project was originally about camouflage," says lead author Mark Guttag, a Ph.D. student at Massachusetts Institute of Technology. Guttag studied the cuttlefish for its ability to camouflage or blend itself into the environment. Cuttlefish have large, elongated bodies and tentacles around their mouths. They often hide from predators by altering skin color and patterns to closely blend in with their surroundings. Even more intriguingly, they can match their skin's texture to the surfaces surrounding them. Cuttlefish are not fish; they belong to a scientific class known as cephalopods. Octopuses and other cephalopods similarly camouflage themselves.
+
+## Polymers Are 3-D Building Blocks
+
+Inspired by these aquatic masters of disguise, Guttag and co-author Mary Boyce, dean of engineering at Columbia University, wanted to create their own artificial surfaces with adjustable textures. To do so, they developed a 3-D printing process that uses polymers. Polymers are the molecular building blocks for many plastics. Polymers are very adaptable and so are used to make many different materials, both hard and soft.
+
+The engineers used two types of polymers: one rigid, one flexible. The printer inserts different rigid polymers into a bed of squishy material composed of the more flexible type. When the material is compressed, its naturally smooth surface takes on a patterned texture that varies depending on the spacing and shapes of the rigid polymers. It can be smooth, ridged or bumpy, or it can even form more complicated patterns. When the material is released, it reverts to its original smooth texture.
+
+## Engineer Praises Research As "Innovative"
+
+Shengqiang Cai, an engineer at the University of California, San Diego, who was not involved with this study, says that Guttag and Boyce's material is "innovative and inspiring." According to Cai, the creation of this method for creating modifiable surfaces has many important applications for engineering different surfaces. It also may provide valuable insights into the mechanics of surface patterning by animals in nature.
+
+Once the material is printed, its rigid polymers are stuck in a fixed order and cannot change positions relative to one another. Guttag and Boyce, however, have proposed a number of ways for achieving different types of surfaces from the same sheet of printed material. For example, by using stretched, rigid polymers rather than spherical ones, scientists could then make surfaces that are smooth going one way but ridged going in the opposite direction.
+
+## Pressure Can Change Position Of Particles
+
+Likewise, some rigid polymers might be able to produce differently textured surfaces, depending on the strength of pressure applied. If they are lightly squeezed, they could form one texture. Squeeze them a little harder, though, and it could cause the polymers to rotate relative to one another, creating a different surface. Other polymers could swell or shrink.
+
+The polymers used by Guttag and Boyce to print and test their code measured about a centimeter in diameter, while the bed of soft material was closer to a meter in length. They believe the printing process could be scaled up or down depending on what the material will be used for. "The main thing is the relative sizing of particles and relative spacing of them, as opposed to the absolute size," Guttag said.
+
+The team also discovered that their modifiable surfaces could make objects more or less aerodynamic, reflective or water-repellent. These surfaces might also be useful for controlling fluid flow. Transformable plastics might well be the next big thing for many new and exciting industries.

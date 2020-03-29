@@ -1,0 +1,47 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Caltech_Prototype_Toilet_Room_View_1.jpg" />A group of students in California are working with bathroom product company Kohler to reinvent the toilet.
+
+This might lead you to laugh. Don't. It's not funny, and the fact that nice people don't talk about human waste makes an enormous problem even worse.
+
+In India, for example, the United Nations estimates that more than 600 million people don't use toilets. They don't use pits, called latrines, either. They go on the ground.
+
+And that's just one country. There have been big improvements in the past 20 years, but an estimated 1 billion people worldwide still go out in the open. Another 700 million use unclean types of bathrooms. Some use "hanging latrines" that dump directly into streams, or buckets that are simply emptied in the streets.
+
+When the waste is disposed in that way, it can get into water and make it dirty. When people drink the dirty water it can cause diarrhea, which kills as many as 1.5 million people each year. The majority of those deaths are from water made dirty by human waste. Most of the victims are under 5 years old.
+
+## The Challenge To Reinvent
+
+Can Kohler help? The company is mostly known for selling expensive sinks and faucets. Making toilets for the world's poor is not what made the company famous.
+
+But Kohler is one of the world's biggest makers of plumbing products. In 2011 the Bill &amp; Melinda Gates Foundation announced its "Reinvent the Toilet Challenge." The foundation was started by Microsoft billionaire Bill Gates and gives the most money of any foundation. That made Kohler take notice.
+
+It's been a long time since the toilet changed much. The modern flush toilet works in about the same way as the one invented in the late 1500s by Sir John Harington. He was a witty English writer who installed one of his toilets in a palace for Queen Elizabeth I.
+
+Improvements to the toilet were made over the next couple hundred years, and it has worked pretty well ever since. The toilet has helped reduce disease — when it's well-connected. But it's not much help unless it is attached to a system to treat the waste it swirls away. In much of the world, pipes and waste treatment plants haven't been built, because poor countries often don't have the money.
+
+"That's very, very expensive," said Doulaye Kone, an engineer who grew up in a village in Africa's Ivory Coast. He works at the Gates Foundation. "It will work in very few (developing world) cities."
+
+## The Plan To Redesign
+
+So the foundation called for off-the-grid designs that won't need to be hooked up to water, sewer or electrical lines. The foundation gave money to eight universities, one of which was the California Institute of Technology. Science professor Michael Hoffmann led Caltech's team to design the toilet.
+
+The plan: Develop a self-contained toilet and waste treatment system powered by a solar panel generating enough energy to store for use at night.
+
+Kohler contacted Caltech and offered to supply parts for the first design.
+
+The Caltech toilet went on to win the Gates challenge in 2012. Hoffmann and his students prepared to fine-tune the original model and get it ready for field testing in India, set to begin later this year.
+
+The Caltech effort is just one of several the Gates Foundation is supporting. Another toilet maker called American Standard Brands also received a grant. That company has plunged more deeply into the work than has Kohler.
+
+American Standard has taken a low-tech approach. The company developed a plastic toilet pan that uses a mechanical trap door and water seal. It's designed to close off holes beneath latrines from the open air and prevent flies from entering.
+
+## Is The Design Too Complicated?
+
+Last year, American Standard donated more than 500,000 of the devices to groups in Bangladesh, the company said. The firm now is working in Kenya on an effort to develop a similarly simple device for areas that lack abundant water. It's also being supported by the Gates Foundation.
+
+American Standard's approach is cheap. Caltech's toilet is not. Hoffmann estimates it will take $1,500 to $2,000 to build at first.
+
+The Caltech toilet has also been criticized as being too complicated with its solar panel and battery.
+
+Hoffmann says it's just a first model and can be simplified.
+
+"This can be done," he said. "Fifty years ago, computers were too costly and complicated for the average person. Today almost everyone carries a computer in their pocket."

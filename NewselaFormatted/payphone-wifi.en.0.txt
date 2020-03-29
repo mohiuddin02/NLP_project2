@@ -1,0 +1,56 @@
+Operator, won't you help me replace this call?
+
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Payphone-Wi-Fi_Edit_1.jpg"/> A 9-foot-tall, narrow structure installed this past week on a Manhattan sidewalk is signaling a plan to turn payphones into what's billed as the world's biggest and fastest municipal Wi-Fi network.
+
+The first of at least 7,500 planned hot spots are due to go online early next year, promising super fast and free Wi-Fi service, new street phones with free calling, ports to charge personal phones and a no-cost windfall for the city.
+
+With some cities nationwide making renewed pushes for public Wi-Fi after an earlier wave of enthusiasm faded, New York officials say their project is democratizing data access while modernizing outmoded street phones.
+
+For now, the first hot spot is still being tested and sits under a gray cover.
+
+But some passers-by like the sound of what's in store.
+
+"It's always helpful" to have Wi-Fi to reduce the bite that apps and Web-surfing take out of cellular data service, which is capped in many consumers' plans, Jack Thomas said recently while texting near the dormant kiosk.
+
+But others have qualms about New Yorkers linking their devices to a public network as they stroll down the street, though the city has said data will be encrypted and any information harvested for advertising will be anonymized.
+
+"I think it makes us all more vulnerable to wrongdoers," Bee Mosca said as she eyed the future hot spot.
+
+Payphones may seem like telecom relics when 68 percent of Americans own smartphones, according to the Pew Research Center on Internet, Science & Technology.
+
+But about 8,200 payphones still dot New York streets.
+
+Some were pressed into service amid outages after 2012's Superstorm Sandy, but their numbers and usage have declined overall, and 37 percent of those inspected last year were inoperable.
+
+The city experimented with providing Wi-Fi from a few payphones in 2012, then hatched the current, eight-year "LinkNYC" plan.
+
+A consortium of companies, including wireless technology player Qualcomm Inc., is to pay the estimated $200 million installation cost and take half the revenue from the kiosks' digital advertising, projected at $1 billion over 12 years.
+
+The city gets the other half, more than doubling the $17 million a year it gets from payphones now.
+
+Each hot spot covers about a 150-foot radius with what's pledged as 1-gigabit-per-second service, about 20 times the speed of average home Internet service.
+
+Officials have said the service is intended for outdoor use; it's not clear whether it might extend inside some businesses and homes.
+
+Though many Americans now carry Internet connectivity in their pockets, the network "can be a win for users who can save on their data plans, and it can be a win for (cellular) networks if they're really overtaxed," said Erik Stallman, general counsel of the Center for Democracy and Technology, a group that advocates for Internet liberties and access.
+
+Tourists without local cellular service also could benefit, noted John Breyault, a National Consumers League vice president.
+
+LinkNYC is not without opponents.
+
+A payphone company has sued the city, saying it created a monopoly for the new consortium.
+
+The city has said it believes the arrangement is legal.
+
+Many U.S. cities strove to cover themselves in Wi-Fi in the early 2000s.
+
+But a number of the plans foundered as home access proliferated, usage and ad revenues disappointed and some Internet service providers complained the city networks were unfair competitors.
+
+But some cities have recently recast and reinvigorated their efforts.
+
+Boston is working to expand a "Wicked Free WiFi" network with over 170 hot spots, and Los Angeles is encouraging private companies to provide free basic wireless to all homes and businesses, with outdoor coverage as a goal.
+
+Still, some question whether it's wise for city governments to get into offering Wi-Fi, rather than leaving it to businesses.
+
+But "New York is not a typical city," said Jeff Kagan, a telecommunications analyst and consultant.
+

@@ -1,0 +1,59 @@
+CHICAGO, Ill. — Computer programming is a skill that is increasingly seen as a ticket to the good life. Like most high school students, though, Wells Community Academy junior Darius Taplet does not know much about it.
+
+But the Chicago teen has one advantage that peers in wealthier school districts do not share: All Wells students, whether or not they seek out the opportunity, get the chance to code.
+
+## Building Games, Building Knowledge
+
+"They said you could build your own game and I said, great! Maybe I can do (game design) in the future," Taplet, 17, said recently after creating a simple "Star Wars"-themed program during a schoolwide coding event. "When I built it, it was amazing. I never realized it would come out like that."
+
+Computer science is one of the fastest-growing and well-paying job sectors of the American economy. And qualified workers are so scarce that half a million jobs remain unfilled, according to the federal government. Yet most students still go through school without any exposure to the subject.
+
+A survey commissioned by Google found that 3 out of 4 middle and high schools do not offer coding classes. Those that do usually end before the Advanced Placement (AP) level courses that prepare students to tackle the subject in college.
+
+## "About To Break Open"
+
+But some Chicago-area districts have vowed to change that. They are expanding the number of computer programming classes and incorporating coding lessons into other subjects. Chicago Public Schools has even announced its intention to make computing a graduation requirement for all students.
+
+Plenty of challenges stand in the way. These obstacles range from finding enough qualified teachers to convincing administrators to invest money in a subject that is not covered by standardized tests. But some say parent and student demand is growing so quickly that it could soon become a core subject alongside math and science.
+
+"We're starting to see more computer science in the schools, though it hasn't quite broken through yet," said Steve Svetlik, a Deerfield High School teacher who leads the suburban Chicago chapter of the Computer Science Teachers Association. "But it's about to break open, and in a really big way."
+
+## More Diversity Needed
+
+A measure of programming's place in education is the AP exam in computer science. The number of students who take the test has more than doubled since 2010\. It is growing faster than tests in most subjects, though the number of those taking the exam is still a fraction of students who take AP tests in subjects such as English and history.
+
+One concerning sign is that those taking the exam tend to be alike. Girls make up only 22 percent of those who take the AP computer science test, according to College Board data. Hispanics and blacks account for 9 percent and 3 percent, respectively.
+
+To get a more diverse group, a nonprofit called Code.org is trying to get the subject into every American school, starting in kindergarten. The 2-year-old organization has trained teachers, designed courses and urged state lawmakers to make computer science a subject that counts toward high school graduation.
+
+## "Everyone" Should Understand This Stuff
+
+Founder Hadi Partovi said one of the group's goals is to diversify the computer industry's workforce. However, another is to demystify technology that has become embedded in daily life.
+
+"Everyone should understand how the Internet works, what an algorithm is," he said. "For the majority of today's adults, this is all black magic."
+
+Code.org has established links with 90 of the nation's largest districts, but Partovi said that Chicago Public Schools have the most ambitious plan. The district has announced a plan to create a K-12 computer science program that ultimately will become a graduation requirement.
+
+So far, the district says, more than 100 schools have adopted the program, and the rest are on track to do so within the next four years.
+
+## "So Much Excitement"
+
+"I've never worked in any project where there's been so much excitement," said Brenda Wilkerson, the district's computer science program manager.
+
+One early adopter is Coonley Elementary on the city's North Side.
+
+Weekly coding lessons began in December in a computer language known as Scratch. It allows users to create programs by stacking colorful boxes that contain commands. When the user hits run, a character moves across the screen as directed by the program; mistakes are easily corrected by moving the boxes around.
+
+Scratch is how many students at Wells also got their introduction to coding.
+
+## "A Lot Of Jobs Out There"
+
+"The enjoyable part is just creating something that I want to create," said A.J. Moore, 17, a high school junior. "I've seen simple games like Flappy Bird make so much money, and all (their creators) did is learn how to code. There are a lot of jobs out there dealing with coding and computer science itself, but people don't know about" them.
+
+Wells' administrators say hundreds of elementary students have expressed interest in attending because of its computer science program.
+
+## "The Skills Are Important"
+
+"I think the hurdle (for some students) is believing they can be computer scientists — believing that the skills are important," said Shadia Daniels. She is the school's computer science teacher.
+
+"Coding is just blowing up all over the place," said Keith Bellof, a math and science teacher at Prospect High School. "We're trying to at least expose kids to what coding is, so when an employer might ask them their experience, they won't have to stare blankly."

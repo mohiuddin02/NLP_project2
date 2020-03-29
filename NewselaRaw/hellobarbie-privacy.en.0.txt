@@ -1,0 +1,49 @@
+WASHINGTON — In a recent demonstration of its Internet-connected doll, Hello Barbie, a Mattel official greeted the souped-up version of the iconic doll by saying, "Welcome to New York, Barbie."
+
+Thanks to voice-recognition technology, Barbie was able to analyze that remark and give a relevant, conversational response: "I love New York! Don't you? Tell me, what's your favorite part about the city? The food, fashion or the sights?"
+
+The company promises that the software will enable the doll "to listen and learn each girl's preferences and then adapt to those accordingly."
+
+The interactive doll is slated to hit shelves in the fall, and Mattel is likely hoping it will help revive sinking sales of its flagship brand.
+
+But a children's privacy advocacy group is calling for the company to cease production of the toy, saying Hello Barbie might more accurately be called "eavesdropping" Barbie. Because the doll works by recording children's speech with an embedded microphone and then sending that data over the Web, these advocates call the technology "creepy" and say it could leave children vulnerable to stealth advertising tactics. On Wednesday, the Campaign for a Commercial-Free Childhood launched a petition urging Mattel to keep the doll from hitting store shelves.
+
+"If I had a young child, I would be very concerned that my child's intimate conversations with her doll were being recorded and analyzed," Angela Campbell, faculty adviser at Georgetown University's Center on Privacy and Technology, said in a statement. "In Mattel's demo, Barbie asks many questions that would elicit a great deal of information about a child, her interests, and her family. This information could be of great value to advertisers and be used to market unfairly to children."
+
+Mattel and ToyTalk, the San Francisco-based startup that created the technology in the doll, say privacy and security have been their top focus in developing Hello Barbie. In an interview, ToyTalk Chief Executive Oren Jacob stressed that the audio files it captures will only be used to improve the product, such as, for example, by helping the company build better speech recognition models for children.
+
+"The data is never used for anything to do with marketing or publicity or any of that stuff. Not at all," Jacob said.
+
+In a statement, the company said that "Mattel is committed to safety and security, and Hello Barbie conforms to applicable government standards, including the Children's Online Privacy Protection Act. Additionally, Hello Barbie's technology features a number of safeguards to ensure that stored data is secure and can't be accessed by unauthorized users."
+
+The dispute underscores a tricky challenge for the toy industry, in which legacy brands are trying to figure out how to cater to children's affinity for technology and gadgets while meeting parents' expectations about privacy and security. Internet-connected toys mean that children are forging their digital footprint earlier than ever, leaving parents to make thorny decisions about what kinds of technology limits to put in place during playtime.
+
+To chat with Hello Barbie, kids must press a button on the doll. (The doll is still in prototype form, but at least for now the button is on Barbie's belt buckle.) The doll is only "listening" when that button is depressed. The audio recording then travels over a WiFi connection to ToyTalk's cloud-based servers, where that snippet of speech is recognized and processed. Barbie then makes an appropriate response.
+
+Before this capability is enabled in the doll, parents will likely have to sign into an app, create an account and indicate via email their consent for the data capture.
+
+But the Campaign for a Commercial-Free Childhood (CCFC) is not convinced that these steps keep children safe.
+
+"Kids using 'Hello Barbie' aren't only talking to a doll, they are talking directly to a toy conglomerate whose only interest in them is financial," Susan Linn, the group's executive director, said in a statement. "It's creepy — and creates a host of dangers for children and families."
+
+The criticism of Hello Barbie comes at a difficult time for Mattel. Bryan Stockton resigned as the toymaker's chief executive in January following a string of lousy earnings results. In the fourth quarter, Mattel saw its profit tumble 59 percent. Sales of Barbie sank 21 percent, and sales of its baby-oriented Fisher-Price brand declined 16 percent.
+
+The campaign against Mattel is not the first time the small advocacy group has taken on a major toymaker. The CCFC argued several years ago that Walt Disney's "Baby Einstein" videos did not live up to their claim of being "educational." Disney eventually offered refunds to people who had purchased the products. The CCFC also filed a complaint with the Federal Trade Commission that alleged that the maker of the "Your Baby Can Read" video series made false claims about the educational value of its offerings. That company, Infant Learning, and its creator, Robert Titzer, eventually reached a settlement with the FTC that included a $185 million fine.
+
+ToyTalk has said parents can opt to receive daily or weekly emails that allow them to access the audio files of their child's conversations with Hello Barbie. Linn said she finds that option "troubling."
+
+"Children confide in their dolls," she said. "When children have conversations with dolls and stuffed animals, they're playing, and they reveal a lot about themselves."
+
+But ToyTalk says that giving parents secure access to this information is part of its efforts to comply with regulations in the Children's Online Privacy Protection Act.
+
+"We want to make sure parents are in control of their family's data at all times," said Jacob, ToyTalk's chief executive.
+
+ToyTalk also says it is still working to develop a specific privacy policy for Hello Barbie, which is several months away from its debut. However, it calls a privacy policy currently displayed on its website "a decent model" for the policy for the doll. The CCFC has complained that the existing privacy policy is too vague.
+
+Mattel believes the doll will offer users a highly engaging play experience, in part because it will learn about its users over time. In a demonstration at a New York toy fair, a Mattel spokesperson chatted with Hello Barbie and mentioned that she liked being on stage. Later in the conversation, when the demonstrator asked Hello Barbie what she should be when she grows up, the doll responded, "Well, you told me you like being onstage. So maybe a dancer? Or a politician? Or how about a dancing politician?"
+
+Parents will also be able to program the doll with information such as a family pet's name, which would make for a more personalized conversation.
+
+The CCFC says this learning capability could pose a threat to children's privacy.
+
+"They're not very clear about what they're really collecting the information for (or) what they might be doing with it," Campbell said.

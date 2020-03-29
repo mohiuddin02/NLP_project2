@@ -1,0 +1,62 @@
+The drone, a powerful but controversial weapon against terrorism, is about to take on a new and seemingly inexhaustible enemy: the black salt marsh mosquito.
+
+Seeking a high-tech edge in the daily battle to beat back the swarms, the Florida Keys Mosquito Control District on Monday will begin testing a next-generation drone developed by a small Gainesville robotics company.
+
+The [drone](https://www.newsela.com/?tag=drone), about half the size of ospreys commonly seen in the Keys, won't be equipped to spray or blast bugs.
+
+It will be rigged with a thermal camera designed to survey difficult-to-access mangrove jungles that are breeding grounds for the marsh mosquito, the most prolific biter in the island chain.
+
+If the bird-size eye in the sky can accurately detect shallow pools where mosquitoes grow from tiny larval worms to buzzing blood-suckers in just days, it could save mosquito-fighters time, effort and money, said Michael Doyle, the district's executive director.
+
+"Our people on the ground have to walk an hour to a marsh and find out what's there,'' he said.
+
+"It's hard to cover all those places at once.
+
+If something like this could allow them to map where the water is, we could move a lot more quickly.''
+
+Whether or not the drone proves an effective mosquito hunter, the test shows how unmanned aerial vehicles or UAVs are quickly changing.
+
+Drones have revolutionized warfare and been adopted by law enforcement, raising muddy political and privacy questions not yet sorted out.
+
+But they also are being employed for an increasing number of commercial and research uses.
+
+They've helped track poachers in Africa, monitor wildfires in California and capture gases spewing from a volcano in Costa Rica.
+
+In coming years, researchers at the University of Florida hope to be able to dispatch squadrons of drones no bigger than paper airplanes to gather data from hurricanes, ice shelves or other extreme locations where manned aircraft can be at risk.
+
+"I would have laughed two years ago if you would have told me this could help with mosquito control," said Derek Lyons, vice president of sales for Prioria Robotics, a company, founded by University of Florida engineering and business students, that builds the Maveric drone being tested in the Keys.
+
+"You put it in people's hands and it becomes like the iPhone.
+
+You have no idea what the applications are going to be once you get it there.''
+
+In the Keys, the potential application is to help the largest and most challenging mosquito control operation in the state.
+
+Marsh mosquitoes aren't public health threats like Aedes aegypti — a carrier of dengue fever that readily breeds in developed areas — but they are the most common annoyance, fast and furious breeders that erupt with every rainstorm or tide change that floods mangrove thickets.
+
+The key to controlling them, Doyle said, is directing the district's helicopters to hit breeding areas with bacteria granules that kill developing larvae before they take wing.
+
+Doyle estimated the tactic eliminates about 80 percent of marsh mosquitoes.
+
+Those that escape are controlled by spraying but with increasing restrictions to protect vanishing tropical butterflies, areas for that option are shrinking, he said.
+
+"The noose is kind of tightening in terms of our ability to spray for adults," he said.
+
+"We have to improve the accuracy of killing them at the larval stage."
+
+The battery-powered drone weighs 2.6 pounds and has a wing span of just over 2½ feet.
+
+It can easily be launched by hand like a paper airplane or, thanks to wings made of flexible metal fabric, shot from a 6-inch-diameter carrying tube.
+
+The drone can fly for up to 70 minutes in a six-mile radius, cruising at about 30 miles per hour, with its rotating camera streaming live video to a laptop.
+
+The drone costs $65,000.
+
+Doyle stressed that the district hasn't yet decided whether to a drone.
+
+He questions whether the infrared cameras, which detect temperature variations, will be able to differentiate pools only a few inches deep from surrounding soggy soils.
+
+Fred Culbertson, who is piloting the test flights, acknowledged that mosquito hunting will be "a learning experience" for both sides.
+
+"But we feel that once we get down and work with them for a couple of days, we can probably tweak things to make it work."
+

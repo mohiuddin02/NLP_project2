@@ -1,0 +1,114 @@
+Islamic State militants and their followers have discovered an unnerving new communications and recruiting tool that has stymied U.S. counter-terrorism agencies: instant-messaging apps on smartphones that encrypt the texts or destroy them almost immediately.
+
+In many cases, U.S. intelligence and law enforcement agencies can't read the messages in real time, or even later with a court order, because the phone companies and the app developers say they cannot unlock the coded text and don't retain a record of the exchanges.
+
+"We're past going dark in certain instances," said Michael B. Steinbach, the FBI's top counterterrorism official.
+
+"We are dark."
+
+The hole in U.S. surveillance capabilities was not mentioned during the recent congressional battle over the National Security Agency's bulk collection of U.S. landline and cellphone data.
+
+Lawmakers ultimately agreed to scale back that program because of concerns that it violated Americans' privacy.
+
+FBI officials now want Congress to expand their authority to tap into messaging apps such as WhatsApp and Kik, as well as data-destroying apps such as Wickr and Surespot, that hundreds of millions of people — and apparently some militants — have embraced precisely because they guarantee security and anonymity.
+
+The FBI estimates that 200,000 people around the world see increasingly sophisticated "terrorist messaging" each day from Islamic State zealots via direct appeals, videos, instruction manuals and other material posted on militant Islamist social media sites.
+
+The group's recruiters then troll Twitter, Facebook and other sites to see who is re-posting their messages and invite them to text directly on encrypted or data-destroying apps.
+
+That's where FBI agents fear they will miss crucial clues about potential plots.
+
+Investigators have seen Islamic State recruiters increase their use of encrypted apps over the last several months, two senior law enforcement officials said.
+
+But details of cases in which the technology was used have been kept secret because investigators didn't want potential terrorists to know about the blind spot.
+
+The issue came to light in a congressional hearing last week.
+
+During recent terrorism prosecutions, FBI agents have taken steps to prevent information about the gap from being released publicly in court documents, said the officials, who spoke on condition of anonymity because they were not authorized to discuss the matter.
+
+The issue has created another tense standoff between national security officials and social media companies reluctant to change their software and provide more access to law enforcement and intelligence agencies.
+
+In a June 1 speech, Tim Cook, chief executive at Apple, fiercely defended his company's decision to encrypt the content of FaceTime and iMessage communications.
+
+He took aim at government officials who have asked Apple and other companies to create a backdoor key to encrypted messages.
+
+"Let me be crystal clear," Cook said.
+
+"Weakening encryption or taking it away harms good people that are using it for the right reasons.
+
+And ultimately, I believe it has a chilling effect on our First Amendment rights and undermines our country's founding principles."
+
+Cook spoke through a remote video feed at the annual awards dinner for the Electronic Privacy Information Center, a watchdog group based in Washington.
+
+At a congressional hearing Wednesday, Rep. Michael McCaul, R-Texas, chairman of the House Homeland Security Committee, said Kik, WhatsApp, Wickr and Surespot are among the messaging apps that extremists are using to avoid detection.
+
+Executives from those four companies did not respond to requests for a comment Friday.
+
+"These tactics are a sea change for spreading terror, and they require from us a paradigm shift in our counterterrorism, intelligence and our operations," McCaul said.
+
+He did not cite specific cases in which militants used those apps to evade investigators.
+
+Steinbach, the FBI's counterterrorism chief, said at the hearing that the FBI wants to be able to take a court order to a company and request access to either stored text messages or continuing communications in terrorism cases.
+
+"We're talking about going before the court, whether the criminal court or the national security court, with evidence, a burden of proof, probable cause, suggesting a crime has been committed or, in our case, that there's a terrorist," he said.
+
+"We're not looking at going through a back door or being nefarious," he said.
+
+"We are imploring Congress to help us seek legal remedies toward that, as well as asking the companies to provide technological solutions to help that," Steinbach said.
+
+Public demand for apps that guarantee security and anonymity is growing, in part in response to leaks by Edward Snowden, the former NSA contractor who disclosed the government's bulk collection of emails, phone records and other communications.
+
+Secure apps are popular with business executives concerned about the threat of corporate espionage, human rights activists operating in authoritarian countries, and teenagers simply seeking to evade their parents.
+
+Kik, based in Waterloo, Canada, claims more than 200 million users in 230 countries, including, it says, 40 percent of American youths.
+
+An eight-page "Guide to Law Enforcement" on Kik's website states, "The text of Kik conversations is ONLY stored on the phones of Kik users involved in the conversation.
+
+Kik doesn't see or store chat message text in our systems, and we don't ever have access to this information."
+
+Those features can frustrate law enforcement and intelligence authorities trying to track suspected terrorists and spies.
+
+"It is important for those who are providing the services to understand what the threats are and to be responsible ... in terms of taking action to prevent designated terrorist groups from using their services to try to get people to commit terrorist acts here," John Carlin, head of national security for the Justice Department, said in an interview.
+
+U.S. officials have racked up notable successes using less restrictive social media platforms to help identify and find terrorism suspects.
+
+The FBI has arrested nearly 40 alleged supporters and sympathizers of Islamic State since last summer on suspicion of seeking to join terrorist groups or giving them material support.
+
+The "vast, vast majority" had a connection to social media, Carlin said, and that trend is "continuing to increase."
+
+Two recent cases proved deadly.
+
+On June 2, an FBI agent and a Boston police officer shot and killed a 26-year-old former security guard in Roslindale, Mass., after he allegedly lunged at them with a knife.
+
+The FBI had been tracking his online communications with Islamic State for at least several days.
+
+A month earlier, two armed men were shot and killed as they sought to attack a Prophet Muhammad cartoon contest in Garland, Texas.
+
+The FBI had investigated one of the men for his online messages with the militant group.
+
+And in at least one recent case, a social media post exposed an Islamic State target to U.S. warplanes.
+
+Air Force analysts at Hurlburt Field, Fla., recently helped obliterate a command center in Syria after a militant revealed enough information online to give away his position.
+
+"The (airmen are) combing through social media and they see some moron standing at this command," Gen. Herbert "Hawk" Carlisle, head of Air Combat Command at Langley Air Force Base, Va., said in a speech on June 1, according to Air Force Times.
+
+"And in some social media, open forum, bragging about command and control capabilities for (Islamic State).
+
+And these guys go, 'Ah, we got an in.'
+
+"So they do some work.
+
+Long story short, about 22 hours later through that very building, three ('smart' bombs) take that entire building out.
+
+Through social media.
+
+It was a post on social media.
+
+Bombs on target in 22 hours," he said.
+
+"It was incredible work, and incredible airmen doing this sort of thing."
+
+Last fall, Islamic State leaders issued an order that forbids fighters to photograph attacks and locations without permission from the group's general council.
+
+The group also distributed a guide to removing geo-location and metadata from cellphone images.
+

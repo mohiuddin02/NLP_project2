@@ -1,0 +1,51 @@
+WASHINGTON — The Supreme Court said Thursday that genes found in the human body may not be patented. The decision could pave the way for researchers and companies to do more gene exploration.
+
+All nine judges agreed on the decision, which said there was a difference between genes found in the human body and those created in the lab. The ruling is a mixed bag for companies that use genes to make drugs and other treatments for diseases.
+
+"A naturally occurring DNA segment is a product of nature," Justice Clarence Thomas wrote for the court. It cannot be patented just because scientists found it.
+
+But Thomas and his fellow judges said that so-called "complementary DNA" can be patented because it is not found in nature. Complementary DNA is produced in a laboratory.
+
+The government awards patents to companies or individuals. The patents give the holder the sole right to make, use or sell an invention or discovery.
+
+## Company Cannot Patent Genes Found In Body
+
+A company called Myriad Genetics obtained patents on the exact location of two genes that pointed to a higher risk of developing breast or ovarian cancer. Having those patents gave Myriad a monopoly that earned profits for the company.
+
+But scientists who felt limited by Myriad's patents sued. American Civil Liberties Union attorney Sandra S. Park represented them.
+
+"We are thrilled," she said. "The question before the court was a simple one, but it had profound consequences."
+
+The ruling means that it will be easier for competing companies to develop cancer-testing tools that involve the genes on which Myriad had patents. Park said the ruling also could raise questions about patents that have been issued for about 4,000 other human genes.
+
+"As a result of this, the cost of genetic testing should come down significantly," said Dr. Harry Ostrer. "I think we will see a much more level playing field. It will drive down costs and improve quality."
+
+## Company Can Patent Genes Made In A Lab
+
+Myriad officials focused on the parts of the court's decision that it found favorable. The company stressed how the court agreed that genes made in a lab, called cDNA, still may be patented. The scientific methods used to single out genes also can be patented.
+
+Myriad's CEO Peter D. Meldrum said that "more than 250,000 patients rely upon" the company's genetic testing. Myriad's lawyer said that the ruling would not hurt its operations because of the company's other patents and inventions.
+
+A gene is a segment of DNA. It defines physical traits, such as eye color and sex. It can influence whether a person becomes [obese](https://www.newsela.com/?tag=obesity) or gets diabetes, Alzheimer's disease or something else.
+
+About 22,000 genes make up the human genome. Genes determine how traits are passed on from one generation to the next.  Genes must be removed from the body and singled out in order to be studied and used.
+
+Myriad used tools to find the genes that make women more likely to have certain cancers. Scientists called these the BRCA1 and BRCA2 genes.
+
+The average American woman has a 12 percent risk of developing breast cancer. Women with BRCA mutations face a risk of up to 85 percent. Actress Angelina Jolie recently decided to have surgery to remove her breasts after she tested positive for the BRCA genes.
+
+Myriad obtained a number of patents relating to the isolated BRCA genes.
+
+## The Court's Balancing Act
+
+Just because a discovery is "groundbreaking, innovative or even brilliant" does not mean it meets the requirements for a patent, Thomas said. "Myriad found the location" of the genes. But that did not mean that the genes were "new compositions of matter." Since they were not, they could not be patented, he said.
+
+Myriad has been able to charge about $3,300 for its genetic-based tests for breast cancer. The company said that insurance pays for the tests for most patients. Other scientists have been limited in their ability to work with the genes.
+
+Attorney Vernon Winters said that the court's decision is limited. Scientists can still try to get patents for specific ways of working with genes and DNA. They can also try to patent new ways of using DNA sequences, he said.
+
+Attorney Barbara Rudolph said that it was "hard to predict" how the decision would play out for companies and inventors. She did suggest that it was "a winner" for firms that specialized cDNA that is made in labs. That can still be patented. Rudolph added that the court wanted to balance whether patents are a reward for invention or a roadblock.
+
+Justice Antonin Scalia underlined how scientifically complicated the case was. He wrote a one-paragraph  opinion in which he noted the "fine details of molecular biology" in the court's decision.
+
+"I am unable to affirm those details on my own knowledge or even my own belief," Scalia said.

@@ -1,0 +1,23 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/sat-vs-aerial-photo.jpg" />A satellite orbiting Earth has spotted 55 southern right whales hanging out in the shallow waters off Argentina.
+
+It turns out that these particular whales are quite easy to spot from space, said Peter Fretwell of the British Antarctic Survey. They got the name right whales because they were once considered the "right" whales to hunt. They are large and slow, and they spend a lot of time lolling near the surface of calm ocean waters.
+
+For this reason, their numbers dropped from a pre-whaling population of 55,000-70,000 to just 300 by the 1920s.
+
+"The same reason they are the right whales to catch makes them the right whales to look for by satellite," said Fretwell.
+
+In a paper published Wednesday in the journal PLOS One, Fretwell argues that tracking the southern right whale population by satellite is not only possible but efficient.
+
+The traditional way to track whale populations is standing on a bridge of a ship and looking out into the ocean, or gliding over the water in an airplane. But these methods are expensive and time-consuming, said Fretwell, and also often inaccurate.
+
+"Satellite imagery provides much more accurate and wider coverage," he said. "If this works, we can take it out to many other species as well."
+
+For this study, Fretwell and his colleagues purchased a single, massive image taken in September 2012 by the WorldView2 satellite. The image covers 70 square miles including Golfo Nuevo, a circular gulf off the Argentine coast and an area where southern right whales are known to breed and raise their young from July through November.
+
+By looking at the same image in different wavelengths—including one able to penetrate 50 feet beneath the ocean—the researchers were able to spot 55 probable whales and 22 possible whales in the gulf as well as 13 whale-shapes underwater.
+
+As you can see in the gallery above, the satellite images of whales are far from crystal clear. The authors admit that the satellite system is not perfect. After all, it is possible that a flock of birds or a large rock could be mistaken for a whale—or that what looks like a single whale is actually a mother whale with a calf.
+
+But these uncertainties should go away with time, scientists say. New satellites will have higher quality imagery and will allow scientists to identify whales with greater confidence, Fretwell and his coauthors write.
+
+Scientists already have used satellite imagery to count populations of penguins in Antarctica, and Fretwell said similar work was being done with seals. The key to using satellites to track animals is not the size of the animal but how much it stands out from its environment, he said.

@@ -1,0 +1,41 @@
+Scientists are coming up with new ways to prevent people from getting sick from their food. They are using DNA.
+
+DNA holds the information that tells all living things how to grow and work. Every creature's DNA is different.
+
+Each year, 48 million Americans get sick from tiny living things in their food. These living things are called pathogens. About 128,000 people end up going to hospitals every year. Three thousand die, U.S. health officials say.
+
+That could soon change.
+
+Scientists are working to put together information about pathogens. They are also trying to map the pathogens' DNA. It is called sequencing.
+
+Using DNA could make it quicker to track diseases spread by food.
+
+## Take The Map
+
+Genome Trakr is one program. It wants to map the DNA of 100,000 types of pathogens found in food.
+
+The DNA maps allow scientists to tell one type of microbe from another. A microbe is a tiny living thing. If microbes can be told apart from each other, disease outbreaks can be stopped faster. The DNA maps will be put online. Scientists and health workers will use them for free.
+
+It has already helped stop serious disease outbreaks. In 2012, scientists found DNA of salmonella in tuna sushi. Salmonella, a type of bacteria, made 258 people sick. The tuna was handled at a factory in India. The U.S. government investigated. It found 10 cleanliness problems at the factory.
+
+Genome Trakr's list of pathogens would be huge. It should speed up this kind of detective work. China has joined in. Scientists there will map DNA for another 10,000 different types of living things.
+
+## DNA Library Of Life
+
+There is also another large project. It is called the International Barcode of Life (iBOL). The project is building a DNA library of all life on Earth. It offers a global online listing of DNA labels. The labels are sort of like the lines on food packaging. These are called bar codes. Bar codes hold information that can be read by computers.
+
+The project has already created more than 2.6 million bar-code records. They cover almost 200,000 types of plants and animals. It is aiming to reach 500,000 species by the end of 2015.
+
+Scientists are also using barcodes to keep track of food. They want to make sure the food we buy is what the label says it is. This prevents tricks called food fraud.
+
+They want to be able to trace food from the farm to when we eat it.
+
+A 2015 report used bar coding to identify imported poisonous puffer fish. The fish were being sold in the United States. The people who sold them said they were puffer fish types that were not poisonous.
+
+## Bar Codes On Bananas
+
+Finally, there is a new company called DNATrek. It is creating bar codes for food items. The technology consists of DNA information from plants. The bar codes are odorless, colorless and tasteless. They can be mixed with waxes and oils already used on foods. Then the bar codes are sprayed on foods. The DNA information are like invisible bar codes. It can be added when food is moved. It can be added at the farm, the shipper, the packer and even the store.
+
+Anthony Zografos started DNATrek. He says the tags can be read in about 20 minutes. The food can then be tracked back to where it came from immediately, he said. Right now this takes weeks or months, he said.
+
+Zografos thinks that cellphones may one day have apps to read the bar codes. The app could also find bad bacteria in a food. Then we can make sure of what we are eating by holding our phones over it.

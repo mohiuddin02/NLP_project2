@@ -1,0 +1,33 @@
+A team of astronomers peering deep into the heavens has discovered the earliest, most distant galaxy yet. A galaxy is a system of millions or billions of stars, combined with gas or dust, held together by gravity. This one was spotted a record-breaking 670 million years from the Big Bang. Since objects in space are so far away, distance is measured in light years.
+
+The findings are described in a magazine for scientists called Astrophysical Journal Letters. They reveal a surprisingly active, bright galaxy near the very beginning of the cosmos. This could shed light on what the universe, now 13.8 billion years old, was really like in its young, formative years.
+
+"We're actually looking back through 95 percent of all time to see this galaxy," said study coauthor Garth Illingworth, an astronomer at the University of California, Santa Cruz. "It's really a galaxy in its infancy ... when the universe was in its infancy."
+
+## Through The Light-Year Looking Glass
+
+Capturing an image from a far-off light source is like looking back in time. When we look at the sun, we are seeing a snapshot of what it looked like eight minutes ago. The same principle applies for the light coming from this galaxy, known as EGS-zs8-1. However, our snapshot of this distant galaxy is extremely old — roughly 13.1 billion years old.
+
+EGS-zs8-1 is so far away that the light coming from it is particularly faint. And yet, compared with other distant galaxies, it is surprisingly active and bright at the time we are seeing it. It was forming stars at roughly 80 times the rate the Milky Way does today. This advanced galaxy had built up about 8 billion suns' worth of mass. That's more than 15 percent of the mass of the Milky Way, even though it had been around for no more than a few hundred million years — a mere fraction of the Milky Way's more than 13 billion years in business.
+
+If it were a galaxy near the Milky Way today, it would be a vivid blue color because it is forming so many stars, Illingworth said.
+
+## Ever-Expanding Universe
+
+There are many challenges when looking for such faint galaxies. It's hard to tell if they are bright and far, or dim and near. Astronomers can usually figure out which one it is by measuring how much that distant starlight gets stretched, or "redshifted." They measure how far it goes from higher-energy light such as ultraviolet, down to visible and then infrared wavelengths. The universe is expanding faster and faster, so the farther away a galaxy is, the faster it's going, and the more stretched, or "redder," those wavelengths of light will be.
+
+The astronomers studied the faint light from this galaxy using NASA's Hubble and Spitzer space telescopes. But EGS-zs8-1 seemed to be too bright to be coming from the vast distances that the Hubble information suggested.
+
+To narrow in, they used the MOSFIRE infrared spectrograph at the Keck I telescope in Hawaii to search for a fingerprint of hydrogen in the starlight known as the Lyman-alpha line. This fingerprint lies in the ultraviolet part of the light spectrum, the light visible to the human eye. It has been shifted to redder, longer wavelengths over the huge distance between the galaxy and Earth.
+
+It is a dependable line on which to base redshift (and distance) estimates, Illingworth said. With that settled, the team could put restrictions on the star mass, star formation rate and formation period of this galaxy.
+
+## More Is Better In Space
+
+The telltale Lyman-alpha line is used for identifying galaxies. It also reveals the process through which the universe's haze of neutral hydrogen cleared up, a period called the epoch, or period, of reionization. As stars formed and galaxies grew, their ultraviolet radiation eventually ionized the hydrogen and ended the "dark ages" of the cosmos.
+
+Early galaxies — such as EGS-zs8-1 — are "probably the source of ultraviolet radiation that ionized the whole universe," Illingworth said.
+
+Astronomers are doing more research and waiting for NASA's James Webb Space Telescope to be finished in 2018. Scientists may soon find more of these galaxies even closer to the birth of the universe than this new record breaker.
+
+"You don't get to be record holder very long in this business," Illingworth said, "which is good because ultimately we are trying to learn about the universe. So more is better."

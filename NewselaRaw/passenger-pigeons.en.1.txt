@@ -1,0 +1,41 @@
+The last lonely bird of a species that once numbered 3 billion died in 1914. Martha, as she was known, had been the last passenger pigeon since her mate George died in 1910. The last living member of a social species, she lived out her days alone in a cage in the Cincinnati Zoo. Her preserved corpse can now be seen at the Smithsonian Institution.
+
+But what if the passenger pigeon could be brought back?
+
+After all, specimens of long-dead animals still contain DNA, genetic material that can be thought of as a set of instructions on how to form a particular species. Packets of DNA combine to form genes associated with a particular trait. If enough of those genes can be recreated, perhaps a long-gone species could be brought back to life.
+
+That's the idea behind something called de-extinction.
+
+It works like this: Take DNA harvested from specimens stuffed in museum drawers, like Martha. Figure out which genes matter and then use genetic engineering to edit the DNA of a closely related species into some version of the extinct species. If all goes well, a copy of the long-lost Martha could be born and, one day, flocks of passenger pigeons could be restored.
+
+## Getting The Genes To Fit
+
+Ben Novak is doing pioneering work to make this exact scenario come true. Novak's effort is focused on acquiring genetic information from stuffed passenger pigeons, while simultaneously studying the genetic makeup of the closely related band-tailed pigeon.
+
+So far, 32 passenger pigeon samples have had their genomes sequenced. "Genome" is simply the word for the complete set of genes found in an individual animal, while "sequencing" refers to the process of figuring out the order of the genome's parts — that is, the order of its DNA bases. Just as the words in a sentence need to be in a certain order to make sense, so too do DNA bases need to be ordered in a particular way for genetic information to be conveyed. A unique sequence is what creates an animal's particular genetic profile.
+
+All of Novak's passenger pigeon samples come from birds killed between 1860 and 1898. "That's right in the range when the bird was going extinct," he notes.
+
+Novak has also been helped by outside efforts, including the nearly complete sequencing of three passenger pigeons. The genes of those three individuals show that passenger pigeons have been through population booms and busts before — their numbers have grown and shrunk at different times.
+
+Passenger pigeons have gone through times in their evolutionary history when their numbers were quite small, geneticist Beth Shapiro said. That suggests that scientists make be able to create a small population of pigeons that can grow on its own.
+
+## Birds Of A Feather
+
+"All of our birds," Novak adds, "are all very, very similar to each other — like everybody being cousins, essentially — which is the effect of this recent rapid population expansion." Novak and his team are interested in figuring out when that population expansion happened.
+
+To figure out when the last boom occurred will require finding DNA from fossil samples thousands of years old. Novak has already begun to examine a few such samples. If the population explosion happened more than 400 years ago, then it is unlikely that the European arrival in North America caused the boom that produced billions of birds, as some have suggested.
+
+With ancient samples and those from the 19th century, Novak and others could begin to figure out how the bird lived in the wild. Understanding how the passenger pigeon existed makes it more likely people could bring the bird back and have the species thrive in the woods available today. There is "nothing in the data so far to shout at us to turn back now and not bring back the passenger pigeon," Novak says.
+
+Novak's team has not yet completed the band-tailed pigeon sequencing required to begin resurrecting the passenger pigeon. However, experiments with cells from the band-tailed pigeon may begin as soon as next year. The work would be similar to experiments now being done to see if the woolly mammoth can be resurrected, brought back to life, through its still-living relative, the Asian elephant.
+
+## Early Birds Have To Learn
+
+If the de-extinction works, the only remaining challenge would be to teach the new birds how to be passenger pigeons. Doing that would likely be even more challenging than the genetic work itself. To understand the difficulty, look at similar efforts — such as attempts to raise California condors with puppets or to teach cranes to migrate by using ultralight airplanes.
+
+Still, if everything goes well, birds that carry the genes of the passenger pigeon could be flapping around by the end of the decade.
+
+The project may prove too ambitious, however. Similar efforts that stretch back 30 years have so far failed to produce a quagga, an extinct species of zebra. Likewise, the 2003 experiment that resurrected a bucardo for seven minutes has yet to be repeated. Nevertheless, conservationists are examining how the science used for de-extinction might be used to preserve endangered animals and plants or bring them back if they die out.
+
+There are advantages, however, to working with an animal that is already extinct. The scientists don't exactly have to hurry. After all, Martha died 100 years ago. "If we succeed, the world gets a new" kind of bird, Novak says. "If we fail, we learn things that are valuable and the world isn't left with another extinct species."

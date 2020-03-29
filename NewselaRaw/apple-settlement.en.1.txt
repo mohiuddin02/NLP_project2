@@ -1,0 +1,43 @@
+WASHINGTON — When Jackie Nussbaum opened her credit card statement, she saw a bunch of charges from Apple, totaling $600 in one day.
+
+Nussbaum knew her son liked playing "DragonVale," a colorful game where kids raise adorable dragons, on the family iPad. What she didn't realize was that he was buying virtual gems — with real money — to build his dragon park.
+
+"I thought it was a mistake, that someone had stolen my credit card," said Nussbaum, the mother of two children in Westerville, Ohio. Apple told her the charges were real purchases from the game "DragonVale."
+
+"I almost choked," she said in an interview. "It was shocking."
+
+## A 15-Minute Clock For Passwords
+
+Tens of thousands of people who received similar shocks complained to the Federal Trade Commission (FTC), the federal agency that protects consumers against fraud and unfair business practices. On Wednesday, the agency announced that Apple had agreed to refund at least $32.5 million to unsuspecting parents.
+
+"You cannot charge consumers for purchases they did not authorize," said Edith Ramirez, the commission chairwoman.
+
+Too often, the FTC said, parents were unaware that their children were making in-app purchases --purchases made within an app to buy things like special prizes, higher levels or extra points. And Apple didn't do enough to make it clear that children were buying gems, coins, or treats for their virtual pets, according to the FTC. Parents also were not told that entering their password to buy a single app started a 15-minute clock. During that time, kids could make unlimited purchases without entering the password again.
+
+As part of the settlement, Apple also must change its billing to make it more obvious that a purchase is connected to a game or app.
+
+Apple CEO Tim Cook said the Cupertino, Calif.-based company gave in to the FTC because the agreement reached by Apple and the FTC "does not require us to do anything we weren't already going to do. So we decided to accept it rather than take on a long and distracting legal fight."
+
+Apple has taken steps to ensure its app store is a "safe place for customers of all ages," Cook said in a memo sent to company employees Wednesday.
+
+In Nussbaum's case, she called Apple right away and the company refunded her the $600 that her son, Andrew, had racked up. Nussbaum said Andrew, who was 10 at the time, had no idea he was buying gems with "real money." He felt so bad, she said, he was going to sell his old toys to pay her back. The refund spared him that.
+
+Nussbaum also said Apple helped her set up password protections for in-app purchases. She hasn't had a problem since.
+
+## Free Games But Pricey Apps
+
+Others haven't been so lucky. One parent told the FTC her daughter had spent $2,600 in "Tap Pet Hotel," in which children can build their own pet lodging. The game is free to download and play, but it requires in-app purchases to buy bowls of treats and sacks of coins.
+
+Others parents reported unauthorized purchases by their children totaling more than $500 in "Dragon Story" and "Tiny Zoo Friends."
+
+The FTC settlement addresses the same issue raised in a class-action lawsuit that Apple resolved last year. A class action lawsuit is a suit brought on behalf of a large number of people. In that case, Apple agreed to contact 28 million of its app customers. Apple offered them a $5 store credit or a $30 cash refund if their children had spent at least that much money without their parents' permission. The deadline for filing a claim was Monday.
+
+About 37,000 people filed claims for refunds, according to Cook's memo to employees.
+
+"It doesn't feel right for the FTC to sue over a case that had already been settled," Cook wrote. "To us, it smacked of double jeopardy." Double jeopardy, which is illegal, is trying someone in court twice for the same crime.
+
+Apple's app store is a gold mine for independent software developers, as well as for the company. Apple charges a 30 percent commission on app purchases. Apple says its customers spent more than $10 billion on app purchases last year. That figure includes the price charged by some apps for the software, as well as income from purchases made while playing a game or for other extra services.
+
+Children's apps sold in Apple's store brought in about 44 percent of its income from purchases made while using the software during November, according to the research firm App Annie. The remaining money came from fees required to download some children's apps from Apple's store.
+
+In the FTC case, the $32.5 million payout is a minimum. As part of the settlement, Apple must pay full refunds to consumers for kids' unauthorized purchases, so that payout figure could rise. If the refunds don't reach $32.5 million, the difference would be paid to the FTC.

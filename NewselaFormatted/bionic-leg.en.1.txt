@@ -1,0 +1,98 @@
+Walking may not seem like it takes a lot of agility, balance, strength and brainpower.
+
+But lose a leg, as Zac Vawter did after a motorcycle accident in 2009, and you will appreciate the myriad calculations that go into putting one foot in front of the other.
+
+A team of software and biomedical engineers, neuroscientists, surgeons and prosthetists took on the challenge and designed a prosthetic limb that can communicate seamlessly with Vawter's brain.
+
+Now Vawter has a full range of tricks when it comes to using his legs to move around.
+
+The team fit Vawter with a prosthetic leg.
+
+The leg has learned — with the help of a computer and some electrodes — to read his intentions from a bundle of nerves that end above his missing knee.
+
+A report published Wednesday in the New England Journal of Medicine describes their efforts.
+
+Roughly 1 million Americans have lost a leg or part of one due to injury or disease.
+
+Vawter and his robotic leg offer the hope that future prosthetics might return the feel of a natural gait.
+
+Amputees may be able to kick a soccer ball or climb into a car without hoisting an unresponsive artificial limb into the vehicle.
+
+Vawter's prosthetic is a marvel of 21st century engineering.
+
+But it is Vawter's ability to control the prosthetic with his thoughts that makes the latest case remarkable.
+
+If he wants his artificial toes to curl toward him, or his artificial ankle to shift so he can walk down a ramp, all he has to do is imagine such movements.
+
+The work was done at the Rehabilitation Institute of Chicago under an $8 million grant from the Army.
+
+The military hopes to use the findings from such studies to care for roughly 1,200 service men and women who have lost a lower limb in the wars in Iraq and Afghanistan.
+
+"We want to restore full capabilities" to people who have lost a lower limb, said Levi J. Hargrove, lead author of the new report.
+
+"While we're focused and committed to developing this system for our wounded warriors, we're very much thinking of this other, much larger population that could benefit as well."
+
+The report describes advances across a wide range of disciplines: in orthopedic and peripheral nerve surgery, neuroscience, and the application of pattern-recognition software to the field of prosthetics.
+
+The leg weighs just over 10 pounds.
+
+It has two independent engines that power movement in the ankle and knee.
+
+And it bristles with sensors, including an accelerometer and gyroscope, each capable of detecting and measuring movement in three dimensions.
+
+Most prosthetics in use today require the physical turn of a key to transition from one movement to another.
+
+But with the robotic leg, those transitions are effortless, Vawter said.
+
+"With this leg, it just flows," said the 32-year-old software engineer.
+
+"The control system is very intuitive.
+
+There isn't anything special I have to do to make it work right."
+
+Vawter spends most of his days using a typical prosthetic but travels to Chicago several times a year from his home in Yelm, Wash., to work with the bionic leg.
+
+Before Vawter could strap on the bionic lower limb, engineers in Chicago had to "teach" the prosthetic how to read tiny muscle contractions in his right thigh.
+
+Those contractions told the leg what Vawter wanted it to do.
+
+Vawter spent countless hours with his thigh wired up with electrodes.
+
+He imagined making certain movements on command with his missing knee, ankle and foot.
+
+Engineers broke down those recorded electrical signals to catalog an entire range of movements using pattern recognition software.
+
+The prosthetic could thus be programmed to recognize the subtlest contraction of a muscle in Vawter's thigh as a specific motor command.
+
+Given surgical practices still in wide use, the prospects for such a connection between a patient's prosthetic and his or her peripheral nerves are generally dim.
+
+In most amputations, the nerves in the thigh are left to languish or die.
+
+Dr. Todd Kuiken, a neurosurgeon at the rehabilitation institute, pioneered a practice called "reinervation" of nerves severed by amputation.
+
+Vawter's surgeon at the University of Washington Medical Center was trained to conduct the delicate operation.
+
+Dr. Douglas Smith rewired the severed nerves to control some of the muscles in Vawter's thigh.
+
+The muscles would be used less frequently after the amputation.
+
+Within a few months of the amputation, those nerves had recovered from the shock of the injury.
+
+They began to regenerate and carry electrical impulses.
+
+When Vawter thought about flexing his right foot in a particular way, the rerouted nerve endings would consistently cause a distinctive contraction in his hamstring.
+
+When he pondered how he would position his foot on a stair step and ready it for the weight of his body, the muscle contraction would be elsewhere — but equally consistent.
+
+The bionic leg performs better than standard prosthetics, according to the report.
+
+The robotic leg programmed to follow Vawter's commands reduced the kinds of errors that cause unnatural movements, discomfort and falls by as much as 44 percent.
+
+Vawter said he had "fallen down a whole bunch of times" while wearing his everyday prosthetic.
+
+He has not fallen once while moving around on his bionic leg.
+
+He said he could move a lot faster too — which would be helpful for keeping up with his 5-year-old son and 3-year-old daughter.
+
+But first, Vawter added, he needs to persuade Hargrove's team to let him wear it home.
+

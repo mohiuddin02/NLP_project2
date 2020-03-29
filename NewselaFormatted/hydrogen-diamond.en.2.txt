@@ -1,0 +1,96 @@
+At room temperature, hydrogen is normally a gas.
+
+But when crushed between two diamonds, it can change into a totally different, previously unknown state of matter, according to a team of physicists.
+
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-sci-sn-solid-metallic-hydrogen-diamond-2016-001.png"/> The discovery is a significant step toward finding what's been called the holy grail of high-pressure physics: solid metallic hydrogen.
+
+The experiment was described in the journal Nature, a magazine for scientists.
+
+Hydrogen is the most common element in the universe — stars are made almost entirely out of the stuff.
+
+Stars also contain a little helium and traces of heavier chemicals as well.
+
+It is an essential ingredient in the building blocks of life, and it is necessary to make water.
+
+It's extremely lightweight, often found as hydrogen gas, in the form of two hydrogen atoms bonded together.
+
+Made up of a single proton and electron, hydrogen is also the most basic atom in the universe.
+
+In spite of all this, not much is known about how hydrogen behaves at extreme conditions, said study coauthor Philip Dalladay-Simpson, a physicist at the University of Edinburgh.
+
+He studies how matter and energy interact across the universe, and he is an expert in how materials behave under high pressure, high temperature and high strain.  Little is known about hydrogen gas because it is pretty rare in Earth's atmosphere.
+
+At Earth's temperatures and pressures, it remains a gas.
+
+It never becomes a solid or liquid.
+
+That's not the case with other planets such as Jupiter.
+
+The gas giant contains enormous amounts of hydrogen under extreme pressures and temperatures, and hydrogen can be found as a gas in its atmosphere and as both a liquid and solid inside the planet.
+
+So, if we want to fully understand the stars and planets around us, we have to have a better understanding of hydrogen.
+
+We know a little bit about how hydrogen changes under different conditions.
+
+Hydrogen can become a liquid at extremely cold temperatures, and it has long been used as liquid rocket fuel.
+
+At high temperatures like those found in the outer atmosphere, or corona, of the sun, the atom's electrons are stripped from the protons.
+
+It then forms a gas known as plasma.
+
+Since 1935, scientists have predicted that hydrogen could become solid under extreme pressures but at mild temperatures.
+
+To do this, scientists would have to break the bonds holding two hydrogen molecules together.
+
+Then its electrons would roam free.
+
+The normally clear gas would become a shiny, grayish metal.
+
+Actually making solid hydrogen, however, has been far more difficult than scientists ever thought, Dalladay-Simpson said.
+
+At first, scientists figured hydrogen would become a solid if it was put under 25 billion pascals, a unit of pressure.
+
+It is equal to 25 gigapascals (GPa), of pressure.
+
+Dalladay-Simpson called this an unimaginable amount of pressure for that time.
+
+Since then, scientists have put hydrogen under more than 10 times the pressure and nothing happened.
+
+To solve this question, Dalladay-Simpson and other scientists took hydrogen molecules and squeezed them between diamonds.
+
+They kept the temperature a comfortable 80 degrees Fahrenheit but raised the pressure to 325 gigapascals.
+
+"These experiments are highly technically demanding," Dalladay-Simpson said.
+
+To reach the needed pressure, they used the same kind of diamonds found in diamond rings.
+
+But their tips were polished to a very fine point – about 8 microns, the width of a human hair.
+
+The scientists crushed the hydrogen using more pressure than found at the center of the earth.
+
+The amount of hydrogen was about the size of a single human red blood cell.
+
+The scientists found that at such high pressure, the structure of hydrogen started to change in significant ways.
+
+Though it is hard to say what a chunk of hydrogen in this state would look like, it might resemble layers of molecular hydrogen interspersed with layers of atomic hydrogen.
+
+It would be like hydrogen gas sandwiched between layers of metallic hydrogen.
+
+Scientists think they might have made the first stage of solid hydrogen, in which all molecular bonds are broken down.
+
+The next step is to raise the pressure up by a few tens of gigapascals to see if they can actually make solid hyrogen.
+
+Dalladay-Simpson said that should not be too hard.
+
+Dalladay-Simpson said that one day, it's possible solid metallic hydrogen could be made in large quantities.
+
+If this ever happens, it could be a game-changer for technology.
+
+For example, the magnets in Magnetic Resonance Imaging (MRI) machines need to be kept super cold.
+
+MRI machines are used to take pictures of organs and other structures inside the body, somewhat like X-rays.
+
+Using room-temperature solid hydrogen would reduce the size of these machines significantly.
+
+It would also increase the efficiency of all electronics, he said.
+

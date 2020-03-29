@@ -1,0 +1,63 @@
+WASHINGTON — An old television. A first-generation iPhone. The free printer that came with a new computer.
+
+These once novel items are among the millions of tons of technology pitched into the trash or taken to recycling centers each year. Though states have been trying to get manufacturers to help pay for electronics recycling since the early 2000s, half do not have statewide recycling programs and those that do are evaluating how to make their programs work as the size, volume and value of recycled electronics change.
+
+Many electronic devices should not be thrown away with regular trash because they contain hazardous materials, such as mercury and lead, which can seep into soil and groundwater. And much of the metal, plastic and glass in devices can be recycled.
+
+California became the first state to pass a law mandating "e-cycling" — electronic recycling or recycling e-waste — in 2003. Under its program, consumers pay a fee that supports e-cycling when they buy a product. The remaining 24 states and Washington, D.C., put the cost of e-cycling programs on manufacturers, often by requiring them to pay for the collection and processing of a certain amount of e-waste based on how much they sell within the state.
+
+Five states — Connecticut, Maine, Oregon, Vermont and Washington — have "centralized" or "convenience-based" programs requiring electronics makers to help pay for local drop-off centers.
+
+This patchwork of laws, coupled with a variety of registration and reporting requirements, makes compliance difficult for manufacturers, said Walter Alcorn, a vice president at the Consumer Electronics Association (CEA).
+
+States with recycling quotas can see unanticipated costs when a manufacturer meets its annual goal and stops paying for local programs.
+
+Initially, the CEA, which represents retailers and manufacturers, lobbied for laws requiring consumers to bear recycling costs, as they do in California. Now the group is working with states to make existing laws similar across states and more agreeable to the industry.
+
+"We want to see recycling incorporated into these corporate business models," Alcorn said. "That's where they can thrive and companies can get creative in getting their customers to bring back their used products."
+
+State laws that require manufacturers to pay for a set amount of e-cycling can backfire when annual recycling goals are met before the end of the year and manufacturers stop participating, said Resa Dimino, a senior adviser at the Product Stewardship Institute (PSI).
+
+When that happens, nonprofits and state and local governments are left to either pay for recycling efforts themselves or shut them down, she said.
+
+PSI provides technical and policy support to states with e-cycling laws and Dimino said that modifying programs so producers are required to keep paying for recycling collection, even after they've met their quota, is one way states could maintain manufacturer financing.
+
+Manufacturers in Washington and Oregon pay for municipalities to have collection sites, Dimino said. Access to recycling centers makes it easy for residents to recycle and, without quotas, the states don't have to worry about suddenly losing manufacturers' funding. E-cycling in those states is more stable as a result.
+
+Washington and Oregon have some of the highest rates of e-cycling per capita in the country, but experts warn against state comparisons because the products designated for recycling vary from state to state.
+
+As electronic devices become smaller and people hold on to them longer, there is sometimes a different problem: it may be difficult for electronics companies to collect enough recycled materials to meet the state-imposed quotas, said Allison Schumacher, a policy manager with CEA.
+
+She points to recent reforms of an e-cycling law in South Carolina to give antitrust protection to electronics makers so they can collaborate on financing strategies, selecting vendors and partnering with local governments.
+
+Schumacher said the reforms, which are in their first year, will give manufacturers the flexibility to meet state recycling requirements. She hopes other states will be able to use it as a model.
+
+"We've always been concerned with the idea of having these arbitrary targets, they don't necessarily mean anything," Schumacher said.
+
+Manufacturers' ability to meet recycling quotas also might decline because there are fewer cathode ray tubes (CRTs) in the recycling stream. CRTs, a component of bulky older televisions and computer monitors, usually containing leaded glass, have largely faded out of production since 2010.
+
+Heavy CRT devices helped manufacturers meet their recycling weight requirements, but at this point fewer of them are entering the waste stream. Once they are gone, meeting recycling goals will be harder, Schumacher said.
+
+"I would say that we're probably now peaking on the return for CRTs," Schumacher said. "We're past the halfway point."
+
+Some states, such as Washington, have leveled off in CRT recycling, Dimino said, but the real impact on e-cycling of the demise of CRTs and the upswing of smaller and longer-lasting handheld devices is yet to be seen.
+
+Alcorn predicted it would be more difficult to get rid of CRT devices in coming years because they are not valuable to manufacturers, even though they contribute significantly to weight quotas.
+
+When electronics are recycled they are either refurbished for resale or broken down to have their commodities, such as plastic and metal, sold by manufacturers or recycling companies.
+
+"You have to use a lot of energy to get the lead out of this glass," Alcorn said. "It's better if you find something where the leaded glass is useful (and) the demand has faded considerably."
+
+States without formal e-cycling programs are not without recycling opportunities. Programs in those states are supported by companies that host electronics buyback programs as well as nonprofit and local government initiatives, said Jason Linnell, director of the National Center for Electronics Recycling (NCER).
+
+"States that don't have the laws tend to be the ones that don't have a number of other environmental laws on the books anyway," he said.
+
+Instead of advocating for more state laws, NCER helps states implement existing laws more efficiently. Linnell said he does not expect more statewide laws to pass in coming years.
+
+In Massachusetts, where CRTs have been banned from landfills and trash incinerators since 2000, no statewide program exists and the burden of recycling falls to municipalities, said Brooke Nash, who manages recycling for the state's environmental agency.
+
+Initially the state provided grants to municipalities so they could afford e-cycling, but that has since ceased. Lawmakers have made several unsuccessful attempts to pass a statewide law, and they are expected to try again in 2016.
+
+But Massachusetts does benefit in some ways from being surrounded by other states that force manufacturers to support e-cycling, Nash said. Because electronics makers and third-party recycling vendors come to Massachusetts to collect e-waste, the cost of recycling has actually come down in that state.
+
+"We are riding the coattails of the regional market," she said.

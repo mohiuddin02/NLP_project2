@@ -1,0 +1,57 @@
+PORTLAND, Ore.  — For more than four years, Idaho farmer Robert Blair has used an unmanned aircraft outfitted with a camera to monitor his 1,500 acres.
+
+Less than 10 pounds and 5 feet long nose to tail, the flying [drone](https://www.newsela.com/?tag=drone) is the size of a turkey. Blair uses it to get a bird's-eye view of his cows and fields of wheat, peas, barley and alfalfa.
+
+"It's a great tool to collect information to make better decisions. And we're just scratching the surface of what it can do for farmers," said Blair, who built the drone with a friend. He lives in Kendrick, Idaho, about 275 miles north of Boise.
+
+Americans may be abuzz about Amazon's plans to use self-guided drones to deliver packages. But many future unmanned aircraft may operate far from the nation's large population centers.
+
+## Survey, Spray And Scare
+
+Experts point to agriculture as the most promising commercial market for drones. The technology is a perfect fit for large-scale farms and vast rural areas where privacy and safety issues are less of a concern.
+
+Already, farmers, researchers and companies are developing unmanned aircraft systems equipped with cameras and other sensors. The drones will survey crops, monitor for disease and spray pesticides and fertilizers on farm fields.
+
+Drones, also known as UAVs -- unmanned aerial vehicles -- are already used overseas in agriculture, including Japan and Brazil. They are piloted either by computers on board or remotely by a person on the ground.
+
+And the possibilities are endless: Flying gizmos could be used to scare off birds from fields, pollinate trees, forecast water supply based on snowfall, and monitor irrigation. They can also  plant and harvest crops.
+
+The technology could revolutionize agriculture, farmers say. It can increase the health of crops, improve field management practices, reduce costs and increase the amount of crops that can be harvested.
+
+So far, drones have been used mainly by the military. Interest is booming in finding other uses for them. But the possibilities are limited because of current regulations on the use of airspace and concerns about privacy. Drones can watch people from the air without them knowing.
+
+## Laws Limiting Law Enforcement Passed
+
+The Federal Aviation Administration (FAA) does not allow using drones for business. Businesses and researchers can only apply for a special, experimental certificate to fly them for research and development, flight demonstrations or crew training.
+
+The FAA does allow public agencies — including law enforcement and other governmental departments — to get a certificate of authorization to operate unmanned aircraft in civil airspace. About a dozen sheriff's offices, police and fire departments, as well as U.S. Customs and Border Protection, have been allowed to use drones.
+
+The move has raised concerns about privacy and government monitoring of individuals. This has lead to drone privacy bills being introduced in most states this year. Already about a dozen states have passed laws, most often to limit law enforcement from tracking people from the sky with drones.
+
+Those concerns, in turn, have reduced interest by drone manufacturers in developing unmanned aircraft technology for police and other crime-fighting agencies. Instead, they are focusing on agricultural uses for drones, said Josh Brungardt, the director of unmanned systems at PARADIGM, a drone research company based in Bend, Oregon.
+
+"A small UAV flying over a field with nothing around it doesn't create a privacy issue," he said.
+
+Last year, Congress directed the FAA to grant unmanned aircraft access to U.S. skies by September 2015. The agency is in the midst of developing guidelines for drone use. But FAA officials said the process would take longer than Congress expected.
+
+Next year, the agency plans to propose a rule for drones, but it declined to give any information. In the meantime, the FAA is working to choose six drone test sites across the country.
+
+Blair's drone, built in 2008, is not breaking the law, because his aircraft is essentially a model airplane. Model aircraft are allowed by the FAA as long as they are flown below 400 feet above ground level, far from populated areas and no one is paid for the flight.
+
+Blair said the UAV gives him a complete, aerial view of his crops. He said he also uses it to gather data on his crops over time. This data can help prove crop loss or animal damage when applying for government programs like crop insurance.
+
+## Research Race In Drone Tech
+
+Companies large and small, as well as universities, are also racing to develop the technology.
+
+University of Oregon researchers flew drones this summer over potato fields to monitor for disease. Oregon nurseries have teamed up with researchers to test unmanned technology to count potted trees.
+
+In Florida, farmers and researchers have used small unmanned helicopters equipped with infrared cameras to monitor orange trees for citrus greening, a deadly bacterial disease that kills the trees.
+
+And at the University of California, Davis, professors have teamed up with Yamaha Motor Corp. USA to fly unmanned remote-controlled helicopters to spray vineyards and orchards.
+
+Some farmers fear environmental groups could use the technology to spy on them. The organization PETA, People for the Ethical Treatment of Animals, recently announced plans to purchase drones to monitor factory farms.
+
+But Blair said the use of unmanned aircraft would have the opposite effect.
+
+"We're talking surgical agriculture, which allows us to be more environmentally friendly," he said, "because we can be even more precise in how we apply fertilizer, water or pesticides."

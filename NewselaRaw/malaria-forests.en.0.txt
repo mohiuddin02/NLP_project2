@@ -1,0 +1,37 @@
+A surprising factor may be contributing to the spread of malaria in Malaysia, new research has found. In a new study, published Friday in the journal Emerging Infectious Diseases, scientists argue that deforestation is causing environmental changes that have upped transmission of a form of the infectious disease usually found only in monkeys.
+
+Much research in recent years has focused on how environmental disturbances— particularly the effects of climate change — might affect the spread of disease. Warmer temperatures, poorer water quality and forced migration of human populations in the future are all expected to help increase disease transmission.
+
+Cutting down forests, on the other hand, might not be the most obvious risk factor when it comes to infectious disease — but it's one that scientists are paying more and more attention to. Studies are beginning to show that deforestation can cause changes in the way humans interact with the landscape, and with the animals that call it home, making them more susceptible to contracting certain types of diseases.
+
+In Malaysian Borneo over the past few years, scientists started to suspect that's what was happening when they noticed an uptick in a form of malaria, caused by the parasite Plasmodium knowlesi, historically found mainly in macaques. In the last decade, research has shown that P. knowlesi has become the leading cause of human malaria in the region.
+
+Scientists started to wonder what was causing the increase in human transmission. While P. knowlesi is found heavily in macaques, it's actually transmitted to humans via mosquitoes, in the same way that other forms of malaria are spread. The scientists guessed that some environmental disturbance was bringing humans and macaques closer together, and that's what was behind the increase in human malaria.
+
+"That's when we started looking at deforestation," said the new study's lead author, Kimberly Fornace, a research fellow at the London School of Hygiene and Tropical Medicine. She said she and her colleagues had an idea that "forest clearing and development are actually causing people and mosquitoes and macaques to be in much closer contact than before."
+
+To investigate the link between deforestation and disease transmission, Fornace and her colleagues examined data on malaria prevalence from health clinics in Malaysia's Kudat and Kota Marudu districts between 2008 and 2012, taking note of where each patient was from. Then, they looked at satellite data from the same time period to track patterns of deforestation in the area.
+
+They found that areas with a high historical rate of deforestation — in other words, the amount of deforestation that had occurred in the years leading up to an incidence of human malaria — were associated with higher rates of infection. However, they also found that areas that still had more than 65 percent of their forest cover were also tied to high infection rates.
+
+The explanation has to do with a phenomenon known as the edge effect, which is when ecosystems experience high degrees of environmental change right at the edges of a habitat. These effects tend to be most pronounced in areas where humans have left certain parts of the ecosystem standing, but have sliced them into fragments through activities such as logging and clearing.
+
+Fornace said she and her colleagues believe that areas most critical for malaria transmission are the edges of a forest, where humans and macaques are probably coming into contact with each other. This proximity increases the likelihood of disease transmission between macaques and humans via mosquitoes, which carry the parasite from one host to another. But, naturally, there has to be a substantial amount of forest left in order for this to be possible.
+
+"If you have a large area that's completely cleared, there's probably not a huge chance that you'd get any malaria," she said.
+
+At the same time, the researchers suspect that as their habitat becomes increasingly fragmented, the macaques are being forced to crowd into smaller areas and even make forays out of the forest to forage for food, Fornace said. These behaviors are likely helping to increase disease transmission and help spread the malaria parasite to nearby humans.
+
+"These findings are consistent with other studies emphasizing the importance of deforestation in the transmission of malaria and the need for investment in health care infrastructure to protect vulnerable populations that migrate into these transmission hotspots," said Margaret Kosek , an assistant professor of global disease epidemiology and control at the Johns Hopkins Bloomberg School of Public Health, in an email to The Post.
+
+Kosek herself has conducted research on malaria transmission in the Peruvian Amazon. In an interview, she said that deforestation has been tied to malaria transmission on other parts of the world besides Malaysia — but how much of a factor it is, if at all, tends to depend on the setting.
+
+In many cases, she said, increased transmission as a result of landscape changes is also compounded by other issues. For instance, people living in zones where rapid deforestation is taking place might also not have adequate access to diagnosis or treatment, factors that can increase transmission in an area.
+
+It's not just malaria that scientists are worrying about, either. Research has suggested that the spread of other infectious diseases, including dengue fever, yellow fever, certain tick-borne illnesses and Ebola, has also been influenced by human land use.
+
+In this particular case, Fornace said the research presents an opportunity for scientists to gain a better handle on which regions are experiencing the highest rates of disease transmission so they can start to draw up better risk maps and hopefully start cutting down on infection in that way.
+
+But the findings also underscore the idea that human actions don't just alter the environment — they can have a big impact on human health as well, a fact that should help policymakers create plans for land use that are more responsible when it comes to public health.
+
+"I think ultimately what would be really good is to start factoring this into environmental planning," Fornace said. "To actually consider this the same way they do with some conservation [concerns], where they're really considering how — if they're using the land in different ways — how that would potentially impact disease transmission."

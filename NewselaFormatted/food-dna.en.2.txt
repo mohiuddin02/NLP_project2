@@ -1,0 +1,102 @@
+Scientists are coming up with ways to use DNA to help protect people from diseases in food.
+
+They are also aiming to make sure the food we buy is what it is supposed to be.
+
+Foodborne illnesses sicken 48 million Americans every year.
+
+About 128,000 people end up in the hospital and 3,000 die, according to the U.S. Centers for Disease Control and Prevention (CDC).
+
+Food fraud is also increasing.
+
+In 2014, Oceana, an international conservation group, published a study that found that one-third of the fish it sampled was not labeled properly.
+
+That could soon change.
+
+Scientists worldwide are working to create databases of tiny living things found in food.
+
+They are also trying to map, or sequence, the most common bacteria or other tiny disease-causers called pathogens.
+
+Scientists have been coming up with ways to use DNA to tag food so it can be traced back to the source.
+
+The new methods promise to speed investigations and reduce foodborne illnesses and deaths.
+
+They could also spot fake food.
+
+Genome Trakr is one project.
+
+It is a collaboration of the University of California, Davis; the company Agilent Technologies, and the U.S. Food and Drug Administration.
+
+The program promises to sequence the genetic material of 100,000 types of pathogens spread through food.
+
+The technology maps the DNA sequence.
+
+It allows scientists to distinguish one type of microbe, or tiny living thing, from another.
+
+This can allow earlier elimination of outbreaks around the world.
+
+The database will be available online and for free to researchers and public health officials.
+
+The program will make it possible to pick out different strains of a microbe that cannot be told apart any other way.
+
+This will let scientists trace back a small outbreak before it spreads all over.
+
+Right now that kind of trace-back is difficult without detailed information about people becoming sick.
+
+A recent study from Cornell University suggests the new technology will be faster and more effective.
+
+Using whole genome sequencing, researchers were able to find double the number of cases in a 2010 outbreak of salmonella at a medical center in New York City.
+
+Whole genome sequencing has already helped stop serious food outbreaks.
+
+In 2012, researchers picked out salmonella in tuna sushi that made 258 people sick.
+
+The salmonella was tracked to a processing plant in India.
+
+The U.S. Food and Drug Administration investigated the plant and found 10 cleanliness problems.
+
+The gigantic Genome Trakr database should speed up this kind of detective work.
+
+It would provide an enormous volume of information that has already been analyzed.
+
+"We've just extended the project to China, and they will map another 10,000 genomes and deposit them," the project's director, Bart Weimer, said.
+
+The group also has other global partnerships in the works.
+
+Sequencing a whole genome is only one of the new approaches to food safety.
+
+Food fraud prevention is also benefiting from a large project called the International Barcode of Life (iBOL).
+
+The project is building a genetic library of all life on Earth.
+
+It offers a global online database of DNA labels.
+
+The labels are sort of like the bar codes on food packaging.
+
+The project has already created more than 2.6 million bar-code records.
+
+Those cover almost 200,000 species of plants and animals.
+
+The project hopes to reach 500,000 by the end of 2015.
+
+The iBOL can already tell the difference between wild salmon and salmon raised on farms because they are two different species.
+
+A 2015 report from the CDC used bar coding to identify imported poisonous puffer fish.
+
+The fish were being sold in the United States as nonpoisonous varieties.
+
+Finally, inspired by the bar-coding idea, one new company, DNATrek, is creating bar codes for food items.
+
+It uses DNA from plants to make an odorless, colorless and tasteless material that can be mixed with waxes and oils already used on foods like oranges or apples.
+
+It is sprayed on food.
+
+The DNA sequences are like invisible bar codes and can be applied at different points where food is moved: the farm, the distributor, the packer and even the seller.
+
+"When an outbreak occurs," company founder Anthony Zografos said, the tags can be read in about 20 minutes.
+
+The food can then be traced back to where it came from immediately, not in weeks or months like before, he said.
+
+Zografos believes that cellphones may one day have apps that can actually spot bacteria or viruses.
+
+Then we can hold our phones over our food to make sure we know exactly what we are eating.
+

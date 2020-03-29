@@ -1,0 +1,86 @@
+For now, North Carolina State University's newest — and strangest — library exists mainly in 98,000 glass vials and slim envelopes of cloth samples.
+
+But chemistry students have begun the painstaking work of turning the huge collection of dyes, test swatches and documents, all donated by the Tennessee-based Eastman Chemical Company, into an online resource.
+
+When they're done, crime-scene investigators and a host of other kinds of researchers around the world will be able to search through files of three-dimensional models of the thousands of unique molecules and information about their attributes.
+
+The university hopes to fund the Max A. Weaver Dye Library with a $785,000 grant it's seeking from the National Institute of Justice, which already was paying for the development of a smaller dye database.
+
+The library is part of N.C. State's emerging role as a national leader in forensic science research; the university has created a multidisciplinary Forensic Sciences Institute and has several forensics projects underway involving about 30 faculty members across several colleges and departments.
+
+It's also planning the state's first master's program in forensic science.
+
+The idea behind the library was to create a powerful tool for forensic investigators to find the sources of dyed fibers from clothing or other sources such as car interiors, furniture and carpeting.
+
+It will be similar to a well-known database of automotive paints started by Canadian law enforcement officials, said David Hinks, a professor of textile chemistry and the director of the Forensic Sciences Institute.
+
+It also will be open to all researchers and is expected to become an important tool for scientists working in a host of other disciplines.
+
+"The intention is basically advancing science for the common good in forensics and other areas, too, including some we can't even foresee," Hinks said.
+
+"It's an amazing array of compounds, and we haven't even begun to understand its full potential."
+
+Likely users include chemists seeking new dyes for textiles and paper that are friendly to the environment; medical researchers interested in dyes for use in treating cancer, and even engineers trying to create more efficient solar panels by making them more effective at absorbing the energy from sunlight.
+
+Also, some of the dyes could be used by the military to develop camouflage that's more effective in darkness by absorbing infrared light so that the wearers are harder to see through night-vision devices, said Nelson Vinueza, an N.C. State analytical chemist who is the first of a group of several scientists that the university is hiring to bolster the cross-discipline forensic science efforts.
+
+For cancer therapy, substances in the collection may turn out to perform well at tinting cancer cells so that surgeons can better see whether they have removed an entire tumor, Hinks said.
+
+Others may also dye cancer cells and kill the cells by absorbing the energy from lasers aimed at the cells.
+
+Eastman's donation came after Hinks found himself at a formal lunch on campus with Stewart Witzeman, then director of Eastman's research division.
+
+The meticulously organized collection of dyes, which dates to the 1940s, was legendary among textile insiders.
+
+But after the U.S. textile industry waned in the 1980s and Eastman eventually got out of the dye business, it languished.
+
+Several universities asked the company for the material, but none had a proper plan for using it until Hinks made his pitch, said Witzeman, who is now director of the Eastman Innovation Center, a research collaboration with NCSU.
+
+The library may actually improve Eastman's access to what was its own material, since it will be easier to use the digital version, Witzeman said.
+
+And it illustrates why it's such a good idea to put business and academia together on the university's Centennial Campus.
+
+"It's not part of the partnership NCSU and Eastman have, officially, but that's what happens when we get people together and have conversations," he said.
+
+The samples of dye and of patches of cloth that they were tested on are housed at N.C. State's College of Textiles on Centennial Campus.
+
+There are so many dyes, Hinks said, that NCSU gave up on counting all of them and instead counted part of the collection and estimated the rest.
+
+The glass vials are lined up in rows in the drawers of a long wall of filing cabinets in a range of hues that go well beyond the rainbow.
+
+Some are powders, some tiny crystals or nuggets.
+
+Most have small, fading labels that bear hand-drawn diagrams of the dye molecules inside.
+
+Undergraduate students have begun digitizing each dye molecule.
+
+That information is then put into a database that can be searched by chemical compounds or fragments of compounds and by other attributes, such as how they perform when heated or exposed to light.
+
+The ability to search by component will make it easier once a compound is found with a desired characteristic to locate others that do, too, and may be better for a given application, Hinks said.
+
+And what is known about these dyes and their performance can be used by existing software to design dyes that haven't been created yet and predict their characteristics.
+
+The students have only digitized about 1,000 of the dyes so far, and the rest are expected to take a couple of years, even with a small army of 20 undergraduate students working on the task during the school year, and half dozen or so in summer.
+
+The library of molecule structures will be open and free, but N.C. State might charge a membership for access to all but forensic investigators for the rest of the data, such as how each dye performs in sunlight.
+
+The fees could help pay the operating costs of the library, Hinks said.
+
+Once it's all published online, he said, the long-term plan is to have it grow by approaching other chemical companies to see if they have any dyes in storage they're willing to donate, too.
+
+The multihued collection represents the life's work of Max Weaver, a gentle and deeply religious chemist from Ashe County who worked for Eastman for 29 years beginning in 1958, back when the company was called Eastman Kodak Company.
+
+He was a huge figure in an obscure profession, one of those unassuming stalwarts of the postwar industrial boom in the United States.
+
+A family man who for many years served as the pastor of his church even while working full time with Eastman, he was the company's most prolific inventor and known for being unusually meticulous in his methods of storage and documentation, Hinks said.
+
+He learned how to invent while on the job.
+
+For much of his career, he worked side by side with chemists who, unlike him, held doctorates, but he more than held his own, Witzeman said.
+
+He was the first person to win the top two awards of the American Association of Textile Chemists and Colorists in the same year, and by the time of his death in 2012, he held more than 260 patents related to dyes, plastics and compounds that absorbed ultraviolet or infrared light.
+
+Weaver created the single largest portion of the dye library, though more than a dozen other chemists — many of them mentored by Weaver — also contributed, Witzeman said.
+
+Now, once it's online, their work will become all but permanently preserved.
+

@@ -1,0 +1,88 @@
+The National Hurricane Center (NHC) hopes to improve tropical predictions up to 15 percent this season.
+
+To meet this goal, it's arming itself with a juiced-up weather model and a supercomputer ready to run 213 trillion calculations per second.
+
+The two powerful forecasting tools should allow the center to better determine how storms are structured.
+
+Knowing the structure of a storm helps to better predict where it might be headed and how strong it might get.
+
+"If you don't have the structure of the storm right, it's hard to tell how it will interact with its environment," said James Franklin.
+
+He is the NHC's top hurricane expert.
+
+A primary goal will be to improve forecasting how strong a hurricane will become.
+
+The Hurricane Center has struggled in this area for decades.
+
+A math-based computer program called The Hurricane Weather Research and Forecasting model, or HWRF, should help to make it easier.
+
+The model has been used for the past six years.
+
+But this season, it has been improved to accept massive amounts of atmospheric information.
+
+The change has already paid off.
+
+The upgraded model has shown a slight improvement over its previous version in predicting the strength of the four storms so far this season, said NHC spokesman Dennis Feltgen.
+
+The machines using the model also have improved a great deal.
+
+The problem-solving power of a supercomputer in Virginia nicknamed "Tide" and a backup in Orlando named "Gyre" has been more than doubled.
+
+The machines now make 213 trillion calculations per second, up from 90 trillion.
+
+The combination of HWRF and Tide alone should significantly sharpen strength forecasts, Franklin said.
+
+But the quest doesn't end there.
+
+The HWRF also has been programmed to take in Doppler radar information from a National Oceanic and Atmospheric Administration (NOAA) aircraft.
+
+The Hurricane Center is a division of NOAA.
+
+The radar should capture a three-dimensional view of how a storm is structured.
+
+Then the HWRF should be able to determine how much thunderstorm activity is around the core and whether a system might weaken or burst with strength, Franklin said.
+
+"Hurricanes are about arrangements of thunderstorms, how they interact with each other, how they distribute heat," he said.
+
+"If you can put that kind of structure into the model" you can better forecast a hurricane's strength.
+
+Better forecasts are very important.
+
+Forecasters still are unable to predict when a system might rapidly get bigger.
+
+If it does so just before landfall, coastal residents could be caught by surprise as they were in 2004.
+
+Then, Hurricane Charley jumped from Category 2 to 4 in the five hours before striking southwest Florida.
+
+That's the difference between a hurricane with extremely dangerous winds and a major hurricane that will cause catastrophic damage, according to a widely used hurricane scale.
+
+The NHC has also overestimated a system's power.
+
+In 2006, Ernesto was predicted to hit South Florida as a hurricane.
+
+It arrived as a weak tropical storm.
+
+The Hurricane Center has steadily improved its track forecasts.
+
+Five-day forecasts are as accurate as three-day forecasts were in 2000.
+
+But the combination of HWRF and the supercomputer should improve path forecasts between 5 and 15 percent this year, Franklin said.
+
+The upgraded HWRF and supercomputer should also improve other types of predictions.
+
+Forecasts from heat-wave warnings in South Florida to blizzards in North Dakota should be better, NOAA officials said.
+
+The forecasting improvements were spurred by Superstorm Sandy, which devastated the U.S. East Coast last October.
+
+Congress allotted $24.3 million after that storm as part of a disaster relief bill.
+
+Additional funds are to be spent for another massive upgrade by 2015.
+
+Then the supercomputers are expected to be able to conduct almost 2,000 trillion calculations per second.
+
+"This is historic in terms of capacity increase," said Louis Uccellini.
+
+He is the director of the National Weather Service which is a part of NOAA.
+
+"I believe we will have more accurate forecasts, especially for extreme events."
+

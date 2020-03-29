@@ -1,0 +1,100 @@
+The Internet is already incredibly fast.
+
+It's so fast that the San Francisco Bay Area can connect with New York City quicker than you can finish this sentence.
+
+That's a blistering speed — but not quite fast enough for musicians, who dream of a day when notes travel at the speed of light.
+
+If that were possible, then the entire globe could play together in a single orchestra, via the Internet.
+
+Right now, problems arise when musicians in distant locations attempt to perform together.
+
+"The delays are devastating," said sound engineer Elizabeth Cohen.
+
+"Thirty milliseconds?
+
+That's an echo — an eternity."
+
+Music is "shared communication" — and a kind of communication that depends on immediate feedback, said Cohen.
+
+So hopes are pinned on an attempt to make computers so much faster that they approach light speed.
+
+Light travels at about 186,000 miles per second, the fastest anything in the universe can go.
+
+The new effort was launched in October by a team led by computer research scientist Brighten Godfrey.
+
+Their mission has been named "Networking at the Speed of Light."
+
+It challenges scientists to create an Internet with speeds as fast as physically possible.
+
+They imagine instant-messaging chats that don't oddly slow down, and cat videos that don't stop, start, lag, then freeze.
+
+They also imagine musicians in Hawaii and Antarctica being able to perform a seamless Beethoven quartet together.
+
+The problem now is the time delay that occurs when a signal travels across a computer network — a group of computers that are linked together.
+
+A computer signal contains coded information that is seen or heard on the other end as text, image or sound.
+
+Signals travel the Internet about 10 times slower than the speed of light — often 100 times slower.
+
+On a typical computer network, a San Francisco–New York connection takes about one second, even longer.
+
+If traveling at the speed of light, it would take just 27 milliseconds — a millisecond being one-thousandth of a second.
+
+The relative crawl frustrates musicians.
+
+Right now, networked musicians in the same town can jam together online, but it's far tougher if great distances separate them.
+
+Delays are a big problem for Internet companies, as well, as slow speeds can lead to millions of dollars in lost revenue.
+
+The speed-of-light campaign "represents a significant contribution to our understanding of what causes poor performance on the Internet," said Google's Maggie Johnson.
+
+"We'd like to minimize the delay between our services and our users."
+
+Technology is already changing the way music is made — for example, lessons and auditions are now being held via YouTube.
+
+Composer Eric Whitacre's "Virtual Choir" mixed 2,052 voices from around the world onto one track.
+
+However, real-time collaboration remains the final frontier.
+
+"A faster Internet could allow me to receive better audio that I could monitor in my control room," said Joe Weed, a Los Gatos-based producer, engineer and musician.
+
+With faster speeds Weed could "make decisions about even subtle musical elements, including fine tonal or spatial differences," he said.
+
+A recent performance at Stanford showed the promise of using Internet speed to build cultural bridges through music.
+
+The concert featured 13 musicians in different locations, all linked together by Stanford scientist-musician Chris Chafe and the university's high-speed Internet connection.
+
+The various players were at Stanford, UC Santa Barbara, Virginia Tech and Mexico's University of Guanajuato.
+
+Hearing each other as if playing in the same concert hall, they wove together a textured tapestry of music.
+
+The performance, called "Imagining the Universe," blended classical, folk and electronic music.
+
+Microphones sent music through a desktop computer, which put the audio onto the network.
+
+The sounds zipped through the network to distant computers and then into loudspeakers.
+
+It took 46 milliseconds for Virginia Tech's bass and piano notes to land at Stanford, and another 46 milliseconds for Chafe's cello to be heard in Virginia.
+
+Speeds were similar for Mexico's lilting flute.
+
+Santa Barbara, closer, was only 7 milliseconds away.
+
+The high-tech event had its glitches.
+
+Explosive sounds punctuated the performance, startling the audience and causing a musician to leap from his seat to crank down the volume.
+
+Still, the show seemed miraculous, and the crowd applauded appreciatively.
+
+The performance was possible only because Stanford's Internet connection is fast enough — and the music slow enough, said Chafe.
+
+"If we were to play a locked rhythm together, we would not have as easy a time."
+
+The first mission of the challenge is to find what causes delays.
+
+Factors at every layer of the Internet will be measured.
+
+"We couldn't have dreamed, 30 years ago, that we'd be where we are," said Godfrey.
+
+"Now we are trying go beyond where we are, to truly bring the whole world together."
+

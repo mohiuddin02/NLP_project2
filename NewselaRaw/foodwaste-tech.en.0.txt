@@ -1,0 +1,41 @@
+<img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/food-6e6e972a-9c79-11e5-a3c5-c77f2cc5a43c.jpg"/>One of the most profound contradictions of modern America is that more than 45 million Americans don't have enough to eat, but the country wastes an estimated 40 percent of its food.
+
+The forces fueling this paradox are complex: Grocery stores think they'll assume legal liability in donating food. Farmers allow edible, but homely fruit to rot in fear it won't sell. Bananas blacken on all our shelves.
+
+But the reasons behind this waste didn't feel so complex to a teenage girl named Maria Rose Belding on a chilly Iowa day five years ago.
+
+The whole thing felt simple. It felt wrong. It felt like something had to change.
+
+Belding, then a volunteer at a local food pantry in Pella, had just thrown out hundreds of boxes of expired mac and cheese in front of numerous people lining up outside to collect food.
+
+"We were throwing away all of this food just because we couldn't communicate," Belding, then a freshman in high school, remembers venting that day. That frustration would ultimately lead the American University sophomore to develop a groundbreaking innovation in the long - and often inefficient - war on hunger.
+
+After years of research, Belding, 20, has founded a sprawling online network that connects thousands of food pantries in 24 states, allowing them to quickly share surplus food that might have otherwise gone to waste. Pantries simply post their excess food to the program - and someone else in the network picks it up and puts it to use. So far, the database has saved an estimated two tons of food.
+
+L'Oréal Paris has since lauded the program, last week naming Belding one of its 10 women of worth. So has Arianna Huffington. And experts agree programs like the interactive MEANS website, which stands for Matches Excess and Need for Stability, can close lapses in communication between pantries and chip away at the country's colossal problem with chronic waste.
+
+Food waste "needs to be addressed on multiple levels," said Mathy Stanislaus, a senior official with the Environmental Protection Agency who works on ending food waste. "Part is wider knowledge of the problem, but also tools [like this] to reduce waste."
+
+The stakes couldn't be higher. Food production accounts for around 10 percent of the national energy budget, uses half of the country's land and consumes around 80 percent of all the freshwater used in the United States, according to a paper published in 2012 by the National Resources Defense Council.
+
+That means, the study noted, Americans squander $165 billion every year on food destined for landfills where the decomposition of organic matter emits 16 percent of the country's methane - a greenhouse gas that's 25 times more potent than carbon dioxide.
+
+Even people who donate to their local pantries are contributing, to some degree, to the problem. Emergency food centers have long been the last stop for whatever's lurking in the back of America's cupboards. And so, people donate an endless supply of near-expired creamed corn, beans and Honeybuns. The excess of product often does one of two things. It expires on the shelf and gets thrown out. Or it clutters the pantry so much that non-profits can't accept premium donations that could immediately service a community.
+
+"It's very common for grocers to give poorly selling products in bulk to emergency food providers," Belding said. "That's just fine. But when you get 400 jars of peanut butter and you have two weeks to get rid of them and serve 100 people a month, total, and only distribute four times a month, that rapidly becomes a problem."
+
+When Belding started researching the concept behind the MEANS database while in high school, she was sure someone had beat her to it. But she soon realized that the emergent technologies that had already upended so many industries - tools to discern opportunity in unlikely places - hadn't yet found their way to the nation's non-profit food pantries. Around half of the phone numbers listed under food pantries, she said, didn't even work.
+
+Belding thought she might be onto something. In her mind, there was clear need for a network. And so, at the beginning of her freshman year, she arrived at a friend's house and got to talking with his 24-year-old brother, Grant Nelson. Nelson, now a third-year law student at George Washington University and program co-founder, had experience with building programs. So she asked him if he could help.
+
+He wasn't sure he wanted to. "This struck me as a changing-people's-behavior problem, rather than providing a tool to fulfill a need," he said. "I said, 'Phones exist. Emails exist. Twitter exists. Facebook exists. What could we possibly build that would be slicker for all of the food banks and food pantries to communicate with each other that isn't already solved by something else?'"
+
+In the end, he helped anyway. It took more than a year. A year of planning, researching and building program after program. Then in February, the website launched.
+
+Months passed. In May, Belding was sitting in class when she saw one of their nascent users had posted an item to the site. This was the moment, she realized, when the project would either succeed or fail. A sense of panic seized her when she saw someone was giving away assorted varieties of canned beans. "They're like the off-brand Mountain Dew in the food world," Belding said. "You'll take it only if you have no other option. . . . So we were all anxiously sitting by our computers hitting refresh, and I said, 'Please, someone take this.' And then, it's gone. It just disappeared. . . . The beans had moved."
+
+"We were kind of desperate," said Stephanie Shallah, an official with the District's So Others Might Eat who had posted the item. "Beans come so often to me that I didn't think anyone would want them. So I said, 'I'm going to just post it and see what happens.' I said, 'I have nothing to lose.'" She said a Landover pantry servicing a large Hispanic population took the goods.
+
+Things then happened very quickly for MEANS. The organization now commands a staff of several programmers paid through grant money and even a few interns whom Belding concedes are older than she. The number of members on the site has grown from around 50 larger food banks in June to more than 200, opening up a network of thousands of smaller-shop pantries that work under the umbrella of those banks.
+
+But there's still a lot of work to do, Belding said. There are still 26 states that remain untapped. There's still the world. Belding said she had more calls to make. More connections to forge.

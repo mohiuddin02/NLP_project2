@@ -1,0 +1,59 @@
+If you sneeze when flowers bloom in the spring and tear up in the presence of a cat, your Neanderthal DNA may be to blame.
+
+About 2 percent of the DNA in most people alive today came from trysts between ancient humans and their Neanderthal neighbors tens of thousands of years ago, recent studies have shown. Now, scientists are trying to determine what, if any, impact that Neanderthal genetic legacy has on our contemporary lives.
+
+In a pair of papers published this week in the American Journal of Human Genetics, two research teams report that in many people, a group of genes that govern the first line of defense against pathogens was probably inherited from Neanderthals.
+
+These same genes appear to play a role in some people's allergic reaction to things like pollen and pet fur as well, the scientists said.
+
+"It's a bit speculative, but perhaps this is some kind of trade-off," said Janet Kelso, a researcher at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, and senior author of one of the new studies. "Increased resistance to bacterial infection was advantageous but may have resulted in some increased sensitivity to non-pathogenic allergens."
+
+About 50,000 years ago, the modern humans who left Africa encountered Neanderthal settlements somewhere in the Middle East, scientists believe. On some occasions, these meetings led to couplings whose legacy is apparent in the genomes of people with ancestors from Europe and Asia.
+
+Not everyone with Neanderthal DNA inherited the same genes. But the immunity genes appear to be more popular than others.
+
+Among some Asian and European populations, the researchers found that these particular Neanderthal genes can be found in 50 percent of people.
+
+"That's huge," said Lluis Quintana-Murci, an evolutionary geneticist at the Pasteur Institute in Paris and senior author of the other study. "It came as a big surprise to us."
+
+The findings imply that these Neanderthal genes must have served our ancestors well if they are still hanging out in our genome today, and especially at such high frequency, said Peter Parham, a professor of microbiology and immunology at Stanford School of Medicine. If the DNA weren't valuable, it would have been flushed out of the human gene pool.
+
+"It suggests there was a benefit for the migrating modern human and the archaic human to get together," said Parham, who wasn't involved in the research. "What has survived is a hybridization of those populations."
+
+Both of the research groups report on a cluster of three genes — known collectively as TLR6-TLR1-TLR10 — that make up part of the body's innate immune response to invading bacteria and viruses.
+
+The innate immune response is different from the acquired immune response that we get through exposure to pathogens, either through vaccines or simply getting sick. Innate immunity kicks in first, and if it's successful, it can destroy a pathogen in a few hours, before we even know we are sick.
+
+Because this innate immune response is so useful, it has been a strong site of positive selection over time, Quintana-Murci said.
+
+Though both groups of researchers came to the same conclusion that Neanderthal DNA plays an important role in immunity, the teams were asking different questions at the outset of their studies.
+
+Quintana-Murci's group is trying to understand how microscopic pathogens have influenced the human genome as our species has evolved.
+
+Because infectious diseases have killed so many people throughout human history, it makes sense that genes involved in immunity would spread through natural selection.
+
+For their new study, Quintana-Murci and his colleagues examined 1,500 innate immunity genes in people and matched them up with a previously published map of the Neanderthal DNA in the human genome.
+
+The team calculated the percentage of Neanderthal DNA in innate immunity genes as well as in other genes. When they compared them, they saw that innate immunity genes had much higher proportions of Neanderthal sequences.
+
+Kelso's group, on the other hand, is interested in ancient genomes like those of Neanderthals. In particular, her team aims to uncover the functional consequences of long-ago interbreeding between modern humans and Neanderthals.
+
+The Max Planck Institute scientists analyzed the genomes of thousands of present-day people from all over the world, looking for evidence of extended regions with high similarity to the DNA of Neanderthals. Then they checked how often they saw those Neanderthal-like DNA sequences in humans alive today.
+
+"What emerged was this region containing three genes involved in the innate immune system," she said.
+
+Both research groups said there is still much work to be done to determine exactly how this Neanderthal DNA helped humans survive.
+
+However, they are already certain that interbreeding with Neanderthals aided early humans as they faced new dangers after leaving Africa.
+
+"The things we have inherited from Neanderthals are largely things that have allowed us to adapt to our environment," Kelso said. "This is perhaps not completely surprising."
+
+Because Neanderthals had lived in Europe and western Asia for about 200,000 years before modern humans got there, they were probably already well adapted to the local climate, foods and pathogens.
+
+"By interbreeding with these archaic people, modern humans could then acquire some of these adaptations," Kelso said.
+
+Parham of Stanford said the results are convincing, especially since they were made by two independent groups that essentially confirmed each other.
+
+The results add to a growing body of work that highlights our debt to our Neanderthal relatives.
+
+"We're right in the beginning," Parham said. "This type of work has really lit a fire beneath archaeologists to try to find more and more samples of Neanderthals so geneticists can do more population studies."

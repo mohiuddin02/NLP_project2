@@ -1,0 +1,102 @@
+From their office window, Rajiv Maheswaran and Yu-Han Chang can see Staples Center.
+
+Both the Los Angeles Lakers and Clippers basketball teams play there.
+
+To see the future of the NBA, they can just turn their heads.
+
+Whiteboards inside their office are filled with step-by-step instructions to solve different problems.
+
+Programmers sit around computers typing in lines of code.
+
+It might not make sense to anyone without a degree in computer science.
+
+But these numbers could help NBA teams find the best ways to improve their play.
+
+For the first time this season, cameras that track motion will placed in every arena.
+
+Maheswaran and Chang have made software that can sort through all the numbers.
+
+"It's 1,000 times more information than anyone had before," said Maheswaran.
+
+On his laptop screen, Maheswaran displayed visual tools that teams could use to tweak lineups and position players.
+
+One showed a basketball court covered with green squares.
+
+The darkest squares show the most likely spots where a ball would fall depending on the shot taken.
+
+Even the biggest supporters of this new system said that it should be only one part of a how a team makes decisions.
+
+Traditionally, teams looked at video of games and evaluations of players.
+
+But the system Maheswaran and Chang have licensed to four NBA teams could change the way basketball is played.
+
+The Golden State Warriors used a system like this last season from a different company.
+
+Kirk Lacob works for the Warriors.
+
+He said the team used the system's analysis of its defense, lineups and how tired players were.
+
+Then they made tweaks.
+
+It worked: teams no longer shredded the Warriors' outside defense.
+
+Lacob said he doesn't know how much the information helped.
+
+"The most important thing is it did help us identify a problem and then eventually correct it," he said.
+
+Six NBA teams used the cameras, starting with the 2010-11 season.
+
+Last season, 15 teams used them.
+
+The NBA recently decided to pay for every team to have the system.
+
+That would allow the whole league to have the information.
+
+It all starts with six tiny cameras placed in each NBA arena.
+
+They will record the movement of every player, referee and the ball 25 times a second.
+
+The information is electronically sent to a company to be put into categories such as passes, dribbles and shots.
+
+Teams can get information such as the number of passes while games are in progress.
+
+More complicated information is available after the game once more numbers are processed.
+
+Several teams have also hired people to make sense of all that information.
+
+But, coaches may only pass on a handful of the information to their players.
+
+"You can't give players a boatload of information," Los Angeles Lakers assistant Kurt Rambis said.
+
+Players are conflicted about the value of this info: like, which players shoot after just two dribbles.
+
+Clippers player Chris Paul is one of them.
+
+"If I just guard him and after two dribbles I stop, and he takes a third and I say, 'Hey, man, you're only supposed to take two dribbles,' then what?"
+
+Paul said.
+
+All those numbers can be a bit much.
+
+Lakers center Chris Kaman said he was often overloaded with stats last season when he played for Dallas.
+
+"It got a little bit annoying," he said.
+
+"Points per possession, per second half, per first quarter … this guy guarding this guy in this game or these five guys did good against these guys but not these guys."
+
+The numbers can also track injuries.
+
+The Lakers will be able to see how Kobe Bryant recovers from a torn Achilles tendon.
+
+That could help the team's trainers make practice plans that keep him healthy for the rest of the season.
+
+This new information can also be used by teams when they decide how much to pay players.
+
+Maheswaran, 39, and Chang, 35, hope more teams leave the number crunching to them.
+
+The two have worked together since 2005.
+
+They have worked on projects for the military involving the movement of vehicles.
+
+Chang says that it's great that they can go from "detecting enemy targets and tracking them to tracking our favorite players on the court."
+

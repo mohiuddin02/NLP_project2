@@ -1,0 +1,94 @@
+When 911 dispatchers get a call that someone has collapsed and stopped breathing, they quickly notify emergency workers.
+
+In hundreds of communities across the U.S., they now also send out a smartphone app alert summoning citizens trained in CPR.
+
+These people can start life-saving efforts until the professionals get there.
+
+The mobile app is called PulsePoint.
+
+It was made to aid victims who have suffered cardiac arrest.
+
+It's one of a number of apps that rescue workers, hospital staffers and patients themselves are using to try and improve responses to health emergencies and help save lives.
+
+PulsePoint has helped save lives in cities such as Cleveland, Ohio.
+
+In the last year, about 4,000 people there have downloaded the app and 36 citizens have responded to almost three dozen calls.
+
+An emergency services manager who coordinates PulsePoint in Cleveland said that these apps give regular people a way to help in emergencies.
+
+Some of the emergency apps that have been developed in recent years help people alert authorities if they're having a health crisis.
+
+Others make important information about a patient available to emergency responders.
+
+This information includes the name of the patient's doctor, emergency contacts, allergies, medications and medical condition.
+
+A software developer in Virginia, for example, created 911HelpSMS.
+
+This free app informs a user of where he is located before he calls 911 in a medical emergency.
+
+It also instantly texts family members and gives them the person's GPS location.
+
+Another free app called EMNet finderER was developed for Massachusetts General Hospital.
+
+It allows users, including sick people, EMTs, doctors and caregivers, to quickly locate the nearest hospital in an emergency.
+
+Dr. Carlos Camargo is a professor of emergency medicine at Mass General and Harvard Medical School.
+
+He said emergency medical technicians (EMTs) have given the app good reviews, as have parents of children with food allergies.
+
+Camargo said his team has been thanked by these parents for "creating the app that saved their child's life."
+
+The PulsePoint app was the brainchild of Richard Price, a former fire chief in San Ramon Valley, California.
+
+PulsePoint works through crowdsourcing.
+
+This means it reaches out to a large number of people in order to find someone nearby to help a patient who has suffered cardiac arrest.
+
+During cardiac arrest, the heart suddenly stops beating.
+
+Blood stops flowing to the brain and other vital organs, and the victim is unconscious.
+
+If not treated within minutes, it usually results in death, according to the National Institutes of Health.
+
+Sudden cardiac arrest is different from a heart attack.
+
+In a heart attack, the blood flow is blocked, but the heart usually doesn't stop beating and the person remains conscious.
+
+Every year, more than 326,000 people who were not in a hospital experience cardiac arrest, according to the American Heart Association.
+
+Ninety percent of them die.
+
+But if effective CPR is administered within three to five minutes, it can double or triple a victim's chance of survival.
+
+The association recommends that bystanders try to provide "hands-only" CPR — which involves chest compressions without mouth-to-mouth breaths — if they see a teen or adult collapse suddenly.
+
+The group says that any attempt is better than none.
+
+PulsePoint was first released in 2010, and more than 1,100 cities in 22 states have signed on, according to spokeswoman Shannon Smith.
+
+Here's how it works: Once emergency dispatchers get a call about a suspected cardiac arrest in a public place, they activate an alert to PulsePoint app users at the same time they send out first responders.
+
+Users are notified if they're within a certain distance, generally about a quarter of a mile, and if the victim is in a public location.
+
+The app also directs citizen responders to the place where they can find the nearest publicly accessible defibrillator, a device that sends an electric shock to the heart to try to restore its normal rhythm.
+
+The app is free for users, but public safety agencies initially pay fees depending on the size of the area's population.
+
+Smith said that so far, PulsePoint has been activated more than 4,000 times and more than 10,000 citizens have responded.
+
+Among the success stories was that of a 56-year-old Oregon man who collapsed in his car outside his gym, and a 5-week-old baby with an enlarged kidney in Washington state, who went into cardiac arrest at a ballet shop where his sister was getting a tutu.
+
+"Being able to arm CPR-trained citizens with a tool to locate someone in distress, as well as the nearest defibrillator, strengthens the person's chance of survival," Smith said.
+
+Jeff Helm, the chief of emergency response in Sioux Falls, South Dakota, said that when his department first launched PulsePoint more than two years ago, some residents raised questions about how to keep people's health information private, and who will be held responsible if something goes wrong.
+
+But Helm said neither turned out to be a problem because citizen responders who assist during a medical emergency are protected from being held responsible under Good Samaritan laws.
+
+Every state has these laws in place to protect people who help victims in public places.
+
+Helm said that the app has gotten a lot of positive feedback from his community, where more than 10,000 people have downloaded it.
+
+"It keeps the public engaged," he said.
+
+"Everyone has a smartphone nowadays, and now we have an avenue to get them to the right place at the right time."
+

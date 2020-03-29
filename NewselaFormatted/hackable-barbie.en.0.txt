@@ -1,0 +1,66 @@
+Toys that talk back are one of the hottest holiday gifts this year.
+
+And they may soon be a hot item for hackers, too.
+
+Cybersecurity researchers uncovered a number of major security flaws in systems behind Hello Barbie, an Internet-connected doll that listens to children and uses artificial intelligence to respond.
+
+Vulnerabilities in the mobile app and cloud storage used by the doll could have allowed hackers to eavesdrop on even the most intimate of those play sessions, according to a report released Friday by Bluebox Security and independent security researcher Andrew Hay.
+
+Mattel did not immediately respond to a request for a comment on the report.
+
+Martin Reddy, co-founder and chief technology officer of ToyTalk — the company behind the voice features in Hello Barbie — told The Washington Post that the company has been working with BlueBox and has "already fixed many of the issues they raised."
+
+The researchers say they informed ToyTalk about the issues in mid-November and the company was very responsive.
+
+But the news comes on the heels of a major breach at VTech, a Hong Kong-based seller of toys for toddlers and young children, which exposed profiles on more than 6 million kids around the world.
+
+And Hello Barbie's security issues are yet another sign that Internet-connected devices are making their way into kids' hands with problems that leave privacy at risk.
+
+"It's really important that if you want to use these connected toys, no matter if it's a doll or a tablet, you be really careful about what information are being sent to and from the servers, and how it's secured," said Andrew Bleich, the lead security analyst at Bluebox.
+
+"Once data is out of your control, that's it — there's no taking it back, essentially."
+
+Consumer advocates raised alarm bells about Hello Barbie before the security flaws were uncovered.
+
+In fact, even before Hello Barbie was released, they circulated a petition that called the doll "creepy."
+
+The doll's talking features work by recording a child when it presses a button on its stomach and sending the audio file over the Internet to a server, where it is processed.
+
+The doll then responds with one of thousands of prerecorded messages.
+
+Parents must consent to the doll's terms of use and set it up via a mobile app.
+
+But the researchers say they discovered that the app contained a number of security problems, including that digital certificates, which are supposed to confirm that the connection between the doll and the app is legitimate, used a "hardcoded" password.
+
+That meant that every app used the same password as part of this verification process — so if an attacker figured out that password, he or she could create a fraudulent app that could potentially steal data, including audio recordings, that passed between the doll and ToyTalk's servers.
+
+And during the setup process, the researchers say the app would connect the phone to any unsecured Wi-Fi network with the word "Barbie" in its name.
+
+That would make it easy for an attacker to create a Barbie-labeled Wi-Fi hub and to steal data.
+
+"It's important to note that this attack is only possible during the few minutes that a user takes to connect the doll to their Wi-Fi network and, even after circumventing this feature, the attacker gains no access [to] Wi-Fi passwords, no access to child audio data, and cannot change what the doll says," ToyTalk's Reddy said.
+
+The researchers also say that the secure connection between the doll and the server was vulnerable to a highly publicized attack disclosed last year.
+
+The attack, known as POODLE, allows an attacker to trick servers into using a weak form of encryption that he or she could easily crack after intercepting the data, according to Hay.
+
+The company has now fixed this problem, Reddy said.
+
+Mattel and ToyTalk have both gone to great lengths to assure customers that they take privacy seriously.
+
+ToyTalk has even started a "bug bounty" program that rewards independent researchers who come forward with problems they've found and work with the company to fix them.
+
+But the doll's own privacy policy says that even though the companies take "reasonable measures" to protect the information it collects, it can't promise to keep it safe: "(D)espite our efforts, no security measures are perfect or impenetrable and no method of data transmission ... can be guaranteed against any interception or other type of misuse."
+
+However, even with that caveat, experts say the security problems in the doll may open the companies up to action from the Federal Trade Commission, which cracks down on when companies violate their privacy promises, because consumers likely expect that reasonable measures include protecting against well-known security flaws such as POODLE.
+
+The agency also has special powers to go after companies that fail to adequately protect the personal information of children 12 and under — including voice recordings — under the Children's Online Privacy Protection, or COPPA.
+
+The FTC declined to comment specifically on the Hello Barbie incident because it neither confirms nor denies potential investigations.
+
+But David Vladeck, a former director of the agency's Bureau of Consumer Protection and current Georgetown University law professor, says the issue is likely on its radar.
+
+"It has always taken its responsibility to protect children very seriously," he said.
+
+"This is very much in the core of what the FTC is concerned about, and I assume they are taking a very hard look this."
+

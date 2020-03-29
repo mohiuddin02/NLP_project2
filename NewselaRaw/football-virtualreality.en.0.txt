@@ -1,0 +1,95 @@
+STANFORD, Calif. — Trent Edwards, who played quarterback for Stanford a decade ago, is back in the huddle again. Or so it seems. He's actually standing on the stage of a campus lecture hall and showing an audience of leading Silicon Valley sports minds the future of football.
+
+Edwards is wearing a virtual-reality headset and everything he sees through his goggles is projected onto a big screen. A wave of "whoas" and "no ways" ripples through the crowd as the quarterback turns to his right and his left. Improbably, it looks and sounds as if Edwards is in the middle of a live Stanford practice.
+
+The quarterback scans the defensive formation, pauses as the tight end goes in motion and swivels behind to see — "cool!" — a running back lined up in the backfield.
+
+Something quavers in Edward's voice. He's a college passer again.
+
+"I'm feeling it right now," he says. "I'm feeling the juices."
+
+Edwards gets so immersed in this alternate universe that he forgets where he is. He takes an ill-advised step forward and nearly tumbles off the stage. Jeremy Bailenson, a Stanford professor and the world's leading authority on virtual reality, rescues the awkward moment by quipping that someone could strike it rich by inventing airbags to go with the headset.
+
+But it's clear from the demonstration that the next big thing has already arrived.
+
+After a quiet trial run last year, the virtual-reality football technology born at Stanford could begin revolutionizing football this fall. A number of college and NFL teams, including the 49ers and Dallas Cowboys, have already signed contracts to use the whiz-bang product that reveals things Vince Lombardi never could have dreamed.
+
+For players, especially quarterbacks, using the software is a way to stand amid complex schemes they otherwise see only on game days. For coaches, it's a way to allow backup players to take repetitions even without playing time. For the football community, it is a way to minimize contact — i.e. concussions — in an era of increased fear over player safety.
+
+The 49ers are among a growing list of NFL believers. They signed a two-year agreement in July, when General Manager Trent Baalke said: "We are constantly searching for methods to better prepare us for game day."
+
+Stanford coach David Shaw said he has been rejecting technology like this for 20 years because every previous incarnation was "terrible, terrible." They were mostly video-game caliber representations rather than a 3-D reality.
+
+But when Bailenson and a pair of his ex-players, Edwards and kicker Derek Belch, brought him this breakthrough, Shaw not only embraced it for Stanford practices, he fronted the money to help found the company. No one actually throws a pass while wearing the headset, but for Shaw it was way to bring his playbook to life.
+
+It's especially helpful in college, where the NCAA cracks down on contact hours.
+
+"We're cutting our practice time, which means we don't have to pull them away from their studies," Shaw said. "We can say, 'When you guys have time, come back. It's available to you.'
+
+"These guys, by their class schedule, will come by and put the headset on and actually have their own individualized practice. Less body contact. Less concussions. Less time on the field. That's just phenomenal."
+
+This venture began with, of all things, a Stanford master's thesis. In 2005, Belch took Bailenson's "Virtual People" class, which is heavy on how the brain functions in a virtual environment. The kicker approached the professor after class and said, "Wouldn't it be great if we could use this to train football players?"
+
+Bailenson told him it was a brilliant idea, but warned him how often previous attempts had flopped. "So Derek goes away and starts collecting master's degrees," the professor said.
+
+Belch's continued research in the field led to the creation of STRIVR Labs. (The ST is for Stanford, the VR for virtual reality.) The company uses GoPro cameras strapped to the player, usually the quarterback, to record drills at a 360-degree angle. The programmers stitch together the images for a complete picture.
+
+In the end, coaches and players wind up with something exponentially more instructive than traditional game film. Quarterbacks can look into the faces of oncoming blitzers or, say, recognize how linebackers disguise an exotic coverage scheme.
+
+The software can be used with any commercial head-mounted display, such the Oculus Rift. It can also work without a headset.
+
+STRIVR ran a small experiment at Stanford last year. They put three quarterbacks — a senior, junior and a freshman — into a virtual environment. The quarterbacks watched a series of plays. Then Belch tested their reaction time and recall. Then the QBs used the headsets for a month before STRIVR came back and ran the tests over again. Reaction times were down; recognition recall was way up.
+
+Starting quarterback Kevin Hogan mostly left the technology to his backups last season, since he was getting real-time action in practice. But he was curious enough to run through plays on the headset before each of his last three games. Hogan's completion percentage in those games jumped from 63.8 percent to 76.3 percent, and the Cardinal beat all three opponents — Cal, No. 10 UCLA and Maryland — by an average of 22 points.
+
+"His decision-making was faster. Everything was quicker," Shaw said. "He saw things happening and could make those decisions and anticipate the ball coming out of his hands.
+
+"I'm not saying there is a 1-to-1 correlation, but it was along those lines. He played extremely well. He was always big, fast and strong and a heck of a quarterback, but we got him to think a little bit quicker. I think this virtual reality immersion and going through these plays (helped him)."
+
+Hogan, in an interview conducted before his shaky performance in Stanford's opener at Northwestern, said he finds the technology useful — if only to underscore his old-school preparation. He said he used the headset at the end of a practice week to reaffirm the things he'd learned.
+
+"If you're studying from the QB's perspective, going through reads, looking at the depth of the linebackers, how quickly the windows close, (the virtual reality) is beneficial," Hogan said. "It's a good complement."
+
+Across football, the first wave of teams is hoping their quarterbacks can make a similar jump. STRIVR already counts Arkansas, Auburn, Clemson, Dartmouth, Georgetown, Rice and Vanderbilt among its NCAA clients.
+
+In the NFL, the 49ers, Cowboys, New York Jets, Arizona Cardinals, New Orleans Saints and Minnesota Vikings are aboard with the company. The Tampa Bay Buccaneers, meanwhile, began using a competing virtual-reality system, created by EON Sports VR.
+
+That football simulation program called SIDEKIQ, uses computer-generated graphics that can be used to custom-tailor a virtual-game scenario. The Bucs bought it in part as a teaching tool for rookie quarterback Jameis Winston, the No. 1 overall draft pick.
+
+The 49ers, too, have a quarterback under the microscope. The knocks on Colin Kaepernick are his inability to read defenses and his struggles to keep the offense on pace with the play clock.
+
+Geep Chryst, the 49ers offensive coordinator, said watching the clips from Stanford practices made him optimistic.
+
+"Because it's not CGI generated, it's real people, and watching Stanford last spring one of the guys broke the huddle and dropped his mouth guard," Chryst said. "Now, you wouldn't write that as a script. Things like that happen all the time. And (the quarterback) has to kind of look down and wait for him to pick up his mouth guard and put it back in.
+
+"That kind of trips you up if you're trying to stay within a rhythm … All of those little things are great to practice. You have to solve it on your own. You can't call a 30-second timeout or reset the play clock just because of that."
+
+During a break at the Innovation Conference, Bailenson took members of the Atlanta Falcons staff, including head coach Dan Quinn and Assistant General Manager Scott Pioli, on a tour of the lab.
+
+To show how powerfully the brain could be duped, the professor had Quinn, the 49ers former defensive line coach, strap on the virtual-reality headset. Again, a screen projected what Quinn saw — in this case, a rickety plank extending across a 10-meter pit. Bailenson asked Quinn to take a few steps on the plank. Then he asked Quinn to step off and plunge into the ominous looking pit.
+
+"Step off?" the coach asked, nervously, as if to buy time.
+
+The front of his brain was telling him it wasn't real. But the back of his brain was not so sure. Quinn eventually took the leap of faith, but not everyone does. Bailenson said about one-third of the participants are too scared to step off the plank. There was also the time a 280-pound judge lost his footing while walking across the virtual board.
+
+"And gravity kicked in, and so he fell virtually," Bailenson said. "How does he save his life? If this were real, the way to save his life would be to dive at a 45-degree angle and catch the lip on the other side. So that's what this gentleman did."
+
+The ability to rehearse such perilous situations is part of what appeals to football coaches. It's also why it resonated with Edwards, a former national sensation as a quarterback at Los Gatos High. He spent his Stanford career getting pummeled behind a shaky supporting cast, and then endured further beatings over eight seasons in the NFL.
+
+Virtual-reality training might have preserved his body for the stardom that once looked inevitable.
+
+"When I met with Derek for the first time, I literally said to him, 'I can't join fast enough. I can't be here fast enough,'" Edwards said. "Tell me how much money I need to put into this, tell me how much time I need to put into this, and I'm there."
+
+Besides giving players a tool for studying game strategies, STRIVR can program, say, noise or other conditions that might otherwise catch a team unprepared on game days. Heading for the raucous sounds of Seattle's CenturyLink Field? It can be recreated in headset.
+
+"Absolutely. We can make it dark. We can make it rain. If it exists, we can create it," said Tracy Hughes, the founder and CEO of Silicon Valley Sports Ventures, and an adviser to STRIVR. "We can pump in crowd noise. We can make it evening. Dusk.
+
+"You know how some fans do a 'white out' or wear red? That makes a difference. We could create that backdrop."
+
+For now, the cost is likely prohibitive for anything but the NFL or major college teams. High schools and youth league teams will have to wait. Financial terms of their contracts have not been disclosed, but Belch has said that the $250,000 price tag floated elsewhere is inaccurate.
+
+Whatever the cost, Shaw envisions a day soon when virtual-reality training is a part of every top program regimen.
+
+"In this world, I get to see what my quarterback sees," he said. "I get to see which way he's looking. And I don't have to guess: I actually see which way he turns and can see exactly in his field of view.
+
+"And that kind of speeds up the conversation. And it also doesn't let him lie to me. We talked about eye-tracking? To pinpoint exactly where they should be looking, that's huge for us. And that's going to be huge for our team."

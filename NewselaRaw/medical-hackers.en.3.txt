@@ -1,0 +1,55 @@
+WASHINGTON — More and more medical devices are getting hooked up to the Internet these days. Others are hooked up to private networks.
+
+These devices include pumps that deliver drugs to the body. X-rays and defibrillators – which regulate the heart – are also linked to networks.
+
+This connection can be a security risk. The devices can fall prey to criminals, or hackers who want to show of their technical skills.
+
+Chris Carroll remembers the first time he saw someone hack into an insulin pump. They made it deliver a deadly dose of insulin.
+
+The pump wasn't connected to anyone, but Carroll got the point: The danger was real.
+
+It hit home, too. Carroll has Type 1 diabetes. He wears a pump that delivers insulin directly into his body. The insulin helps people with diabetes keep their blood sugar at healthy levels.
+
+## Information Sharing Part Of The Problem
+
+"The health care industry is not technically prepared" to fight the basic ways that cyber criminals break in online, an April FBI report said. It also said banks and retailers are more prepared for these attacks.
+
+Experts also are worried that deaths could happen accidentally. People are becoming more dependent on medical devices that share information. This increases the chance for problems.
+
+Frank Painter is a health care expert. He said we most have to worry about "an unsecure system being able to be violated by accident."
+
+The technology magazine Wired published a report in April. It said that an official from Essentia Health found that cyber intruders can change how drug pumps work. They can do the same thing to X-rays and defibrillators, which give a shock to the heart. They can even change temperature settings on medical refrigerators that store drugs and blood.
+
+## Hackers Can Make Cash
+
+The security official is Scott Erven. His study was conducted in the Midwest over two years. Eyren couldn't be reached to comment for this article.
+
+Hospitals are moving patient records to computer networks. The change means hackers can make a lot of money. The FBI report notes that even partial electronic health records are illegally selling for $50 each. Social Security cards and credit card numbers only fetch $1 apiece.
+
+Electronic health records contain detailed patient information. This allows all the patient's health care providers to share that information. These records are attractive targets to hackers. They can be used to sell drug prescriptions.
+
+## Pay Attention!
+
+Michael Carome is the director of health research at Public Citizen, a consumer rights group in Washington. He said it was hard to say how big the risk of private medical information leaks was. But public health officials should be paying attention, he said.
+
+The FBI report mentions research from the SANS Institute. SANS is a private company that specializes in Internet protection training. It concluded that some systems and devices could be broken into for extended periods. Companies, when notified of the problems, did not repair them, SANS said.
+
+"The time to act is yesterday," the report says.
+
+Carroll is familiar with device makers' indifference to security concerns. After he saw the insulin pump hacking demonstration, he contacted his own pump provider.
+
+"Both of the people I talked to had no idea this was possible, and had no answer regarding plans to fix the issue," he said. "They tried the whole, 'Well, even if it's possible, no one would do it.'"
+
+So far Carroll's pump maker has been right. The Food and Drug Administration (FDA) says the agency isn't aware of any patient injuries or deaths related to hacking.
+
+## The Risks Are Real
+
+Still, at least some users think the risks are real. Dick Cheney was vice president from 2001 to 2009. In 2007, he had the wireless function on his heart defibrillator disabled. He feared it made him more at risk of a terrorist attack. But most people don't face the same level of personal risk.
+
+Typically, problems with medical devices are identified by or reported to the FDA. But the quickly growing number of new devices calls into question the FDA's capacity to monitor them.
+
+"The FDA really can't legislate down to the line and code of security for every situation," said Painter.
+
+Painter also said the FDA's general standards were sufficient. The responsibility for ensuring device protection belongs to the manufacturers, he said. "Good designers can build good, safe, secure designs in the first place, pretty simply." If they did that, it would stop "somebody from doing something bad," he said.
+
+Like Painter, the FDA maintains that ultimately it is the manufacturers' responsibility to find risks associated with medical devices. This includes "risks related to cyber security."

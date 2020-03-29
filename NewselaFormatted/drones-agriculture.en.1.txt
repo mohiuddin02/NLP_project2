@@ -1,0 +1,90 @@
+With a small aerial drone, Zach Fiene can receive detailed pictures of hundreds of acres of corn on his iPad.
+
+From the images, or a live video, he can see exactly what parts of the field are struggling with plant disease, insects or a lack of water.
+
+In a matter of minutes, he can gather as much information as someone could get in several hours walking through the crops.
+
+"You can basically point the camera to where you want it to go," said Fiene, co-owner of DMZ Aerial and a trained crop scout.
+
+The Association for Unmanned Vehicle Systems International is a trade group for drone manufacturers and users.
+
+It says agriculture could account for 80 percent of all commercial drone use as the technology matures and gains acceptance from farmers.
+
+Small and affordable aerial drones can gather information about crops that helps farmers put pesticides and fertilizers precisely where the chemicals are needed.
+
+That saves farmers money in chemical costs, and it is better for the environment.
+
+With advancements in technology, 3-D images and temperature readings from drones could be tied with other data.
+
+The information could give farmers even more information about growing conditions.
+
+On foot, it can take hours to "scout" a field, and you can still miss something, according to Fiene.
+
+"You might walk past a problem area, not see it, and three weeks later the corn is dead because disease has spread," he said.
+
+The Federal Aviation Administration (FAA) is crafting rules and safety standards to allow aerial drones to be used regularly for business.
+
+Some aviation professionals, such as crop-duster pilots, have concerns about the risk of midair collisions.
+
+"We can't see them," Andrew Moore of the National Agricultural Aviation Association, said about small drones.
+
+Moore's group has advocated for lights and tracking systems on drones to help airplane pilots spot them.
+
+"Every time there's a report of a drone almost hitting a plane, that's not good for us because the regulations aren't finalized yet," Fiene said.
+
+There are privacy issues, too, and questions about who owns the data gathered from a drone flying over someone's property.
+
+"Nothing is really private anymore, from the air.
+
+I have told farmers to look up their address on Google Earth, and they would be amazed at the pictures out there," said Casey Langan, spokesman for the Wisconsin Farm Bureau Federation.
+
+This year, the FAA has approved dozens of permits for agricultural drone businesses.
+
+"There's huge potential for it, not just in our area but all over the world," said Chris Hibben, CEO of Snap 180 Media, an aerial photography and video business.
+
+Drones can identify especially dry areas of a field, directing irrigation systems to those spots without wasting water elsewhere.
+
+The aerial robots also can spot predators in livestock herds, and direct gunmen to those locations.
+
+DMZ Aerial was started three years ago by Fiene and his cousin, Mitch Fiene.
+
+Now they have drones in 15 states, including California and Texas.
+
+Before they started the business, the two covered fields on foot or with all-terrain vehicles.
+
+"We always thought there has to be a more efficient way of doing this," Zach Fiene said.
+
+At first, the Fienes strapped cameras on radio-controlled airplanes, which was one of their hobbies.
+
+Some of their first drones were limited to about seven minutes of flight time, before the batteries had to be recharged, and they could not fly more than 300 feet from the operator.
+
+Now they have drones that fly 50 miles per hour and can be controlled remotely more than a mile from the operator.
+
+By FAA rules, though, drones have to remain in sight of the person at the controls.
+
+The drones are programmed to return to their starting point if batteries run low or they have lost the wireless connection with the operator.
+
+"There are a lot of fail-safes that help avoid most crash situations, and if a drone does go down, you can find it based on the last GPS location," Fiene said.
+
+The flight technology has advanced rapidly.
+
+Brian Luck, an assistant professor of biological systems engineering at the University of Wisconsin-Madison, has an aerial drone that someone could fly safely with little practice or training.
+
+"The take-home message is that these devices can be very useful in identification of crop needs during the growing season," Luck said.
+
+Better sensors are needed to gather more information from the leaves of plants as the drones pass overhead.
+
+The sensor technology exists, but it is expensive, Luck said.
+
+Landmark Cooperative Services uses aerial drones to supplement walks through a field.
+
+When a problem is spotted from the air, the crop scout can go to the specific location for a closer look.
+
+"What normally would take a couple of hours, in scouting time, can be done in minutes," said Chase Sellnow, who is with Landmark.
+
+Drones also break up the monotony of field work.
+
+"It's a blast.
+
+I think everybody wants to fly," Sellnow said.
+

@@ -1,0 +1,57 @@
+WASHINGTON — The Islamic State extremist group has discovered a disturbing new way to communicate and recruit new members. They are using instant-messaging apps on smartphones that disguise text messages or destroy them almost immediately.
+
+In many cases, intelligence and law enforcement agencies can't read the messages. The phone companies and the app developers say they cannot unlock the coded text and do not keep a record of the messages.
+
+"We're past going dark in certain instances," said Michael B. Steinbach, the FBI's top counterterrorism official. "We are dark." In other words, the FBI has no way of knowing what suspects are telling people.
+
+## Apps Keep Identities Hidden
+
+FBI officials now want Congress to allow it to tap into messaging apps like WhatsApp and Kik, as well as apps that destroy data. Hundreds of millions of people — and apparently some fighters — use the apps to keep their identities hidden.
+
+Islamic State is an extremist group that wants to start its own country governed by Islamic law. The group's fighters have captured parts of Syria and Iraq.
+
+The FBI estimates that 200,000 people around the world see messages each day from Islamic State. The extremists post videos, instruction manuals and other material on Islamist social media sites.
+
+The group's recruiters then look at Twitter, Facebook and other sites to see who is re-posting their messages. They then invite supporters to text directly on encoded or data-destroying apps. FBI agents fear they will miss important clues about potential plots because they do not have access to the messages.
+
+## Use By Islamic State Recruiters Grows
+
+Islamic State recruiters have been using these kinds of apps more over the last several months, officials said.
+
+But details of cases in which the technology was used have been kept secret. Investigators didn't want terrorists to know they are unable to read the messages.
+
+During recent terrorism cases, FBI agents have stopped information from being released publicly, said the officials.
+
+Social media companies have not been very cooperative. They have been reluctant to change their software and provide the information to law enforcement and intelligence officials.
+
+Last week, Tim Cook, the CEO at Apple, defended the decision to keep FaceTime and iMessage private.
+
+"Let me be crystal clear," Cook said. "Weakening encryption or taking it away harms good people that are using it for the right reasons." He said it has a chilling effect on the constitutional right of freedom of speech, as well as the country's founding principles.
+
+## Congress Learns About Militants' Tactics
+
+At a congressional hearing Wednesday, Republican Representative Michael McCaul of Texas spoke about Kik, WhatsApp, Wickr and Surespot. He said extremists are using the apps to avoid detection. Executives from those four companies did not respond to requests for a comment.
+
+"These tactics are a sea change for spreading terror," said McCaul, who is the chairman of the House Homeland Security Committee. He said the United States must completely change its way of thinking if it wants to keep up.
+
+Steinbach, the FBI's counterterrorism chief, wants social media companies to make the information available if a court orders it.
+
+Public demand for apps that guarantee security and secrecy is growing, in part because of Edward Snowden. The former National Security Agency worker made public the fact that the government was collecting emails, phone records and other communications.
+
+The apps are popular with business executives concerned about the threat of corporate spying. Human rights activists also use them to avoid police in countries that have bad human rights records. Some teenagers use them simply to evade their parents.
+
+Kik claims more than 200 million users in 230 countries. This includes, it says, 40 percent of American youths. A "Guide to Law Enforcement" on Kik's website states that the text of Kik conversations is stored only on the phones of Kik users. Kik does not see or store chat messages and cannot get the information.
+
+## FBI Uses Social Media To Find Suspects
+
+U.S. officials have successfully found terrorism suspects using other social media sites.
+
+Since last summer, the FBI has arrested nearly 40 people. They were suspected of seeking to join terrorist groups or help them.
+
+The "vast, vast majority" had a connection to social media, said John Carlin, head of national security for the American Justice Department. That trend is "continuing to increase."
+
+On June 2, an FBI agent and a Boston police officer shot and killed a man who they said tried to stab them. The FBI had been tracking his online communication with Islamic State for at least several days.
+
+Not long ago, the Air Force destroyed a command center in Syria. Experts discovered the location after an extremist revealed his position online.
+
+Last fall, Islamic State leaders issued an order that forbids fighters to photograph attacks and locations without permission. The group also distributed a guide. It tells them how to remove information about where cellphone pictures were taken.

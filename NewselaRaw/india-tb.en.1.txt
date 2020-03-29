@@ -1,0 +1,51 @@
+MUMBAI, India — On a drizzly Monday afternoon, a crowd of patients at Hinduja Hospital was waiting to see lung specialist Dr. Zarir Udwadia.
+
+Many of them, like 19-year-old engineering student Nisha, have tuberculosis (TB). Nisha had already been treated elsewhere for more than a year when she learned treatment errors had pushed the disease into overdrive rather than curing it. "My doctors kept on changing the drugs," Nisha said.
+
+## India's Home-Grown Epidemic
+
+By exposing Nisha's TB to various drugs without wiping it out, her doctors just made it stronger. Udwadia - the doctor who first identified extreme drug resistance in TB bacteria in India - and other health experts say that problem is becoming increasingly widespread in the country. India has too few laboratories, too many poorly trained health workers and thousands of infected people living in crowded unsanitary conditions. All this has made India home to the world's largest epidemic of drug-resistant TB.
+
+More than 2 million Indians get the highly contagious disease every year, and a patient dies every two minutes. Around 62,000 of these people harbor TB that is immune to at least four types of drugs. As many as 15,000 may have an even more dangerous type of the disease called "extensively drug-resistant TB" (XDR TB) that fights off almost every antibiotic in the medical arsenal.
+
+## Traveling With A Deadly Disease
+
+Now difficult-to-kill TB is no longer just India's nightmare. In June, U.S. health authorities confirmed that an Indian patient with the extreme form of the infection, called XDR TB, had visited Chicago, Tennessee and Missouri. Health officials in several states are tracking down everyone with whom the patient had prolonged contact.
+
+Tuberculosis, which typically attacks the lungs, can be transmitted from person to person via coughing. The typical symptoms of a TB lung infection include fever, night sweats and a hacking cough.
+
+Ordinary infections are cured through a mix of antibiotics. However, if the patient fails to complete the treatment or the TB bacilli are already immune to one of the antibiotics, then some of the germs will survive, adapt and grow stronger. Some of the hardier germs that survive pass on drug-resistant traits to their offspring, and those traits then spread to a wider group of descendants.
+
+Drug-resistant TB is defined as a strain of bacteria immune to one of the first-line drugs used to treat the disease. Multidrug-resistant TB, or MDR TB, does not respond to the two most powerful drugs, isoniazid and rifampicin. Finally, XDR TB is resistant to those two drugs and a host of others as well.
+
+## A Formula For Treatment Failure
+
+In Nisha's case, her doctors never tested her for drug resistance. As a result, she underwent treatment for more than a year with drugs that were doomed to fail and her infection grew stronger.
+
+What concerns TB specialists like Udwadia is that India has been creating thousands of Nishas this way. Although it has begun to respond to the problem, so far the reaction is too small and too slow, experts say.
+
+India has less than one doctor per 1,000 people and very few laboratories that can test for TB resistance. As recently as 2008, fewer than 1 percent of high-risk patients were tested to see if they were resistant to various anti-TB drugs. As a result, frontline antibiotics were overused, and overuse is the classic recipe for developing drug-resistant TB.
+
+## A Doctor Sounds The Alarm
+
+In December 2011, Udwadia decided that he had seen enough and the time had come to act. His laboratory had identified a fourth patient infected with TB that was immune to all 12 of the first-line, second-line and last-resort drugs the hospital had at its disposal. In response, he announced an outbreak of what he called "totally drug-resistant TB."
+
+Though resistant at first, the government did eventually boost the budget dramatically for the national tuberculosis control program. Authorities began turning to molecular testing with new GeneXpert machines that can identify drug-resistant strains of TB. The machines allow doctors to detect resistance to first-line drugs within two hours, rather than weeks.
+
+However, there are still only 120 GeneXpert machines nationwide — not enough to test all patients suspected to have MDR TB. The machines are expensive to use, so most hospitals conduct GeneXpert tests only on patients who have failed to respond to the first two months of standard treatment.
+
+Udwadia and other physicians voice a bigger concern. The GeneXpert test can confirm resistance only to rifampicin, they note. India does not have enough laboratories to conduct further drug-susceptibility tests, so all patients flagged by the machines are immediately put on the same treatment course, one recommended nationally for MDR TB.
+
+Yet this one-size-fits-all treatment does not account for additional cases of stronger TB drug resistance that have already spread in Mumbai. Udwadia estimates such treatment would now cure only a third of the drug-resistant TB patients in the city. The rest would receive three or more useless drugs and their TB would become even more resistant.
+
+## Calculating Risk, Giving Hope
+
+At this point, it is not clear how big the resistance problem really is, but if there are indeed many people with drug-resistant TB, it increases the chances of those bacteria leaving the country and spreading to the rest of the world. Nearly a million Indians traveled to the United States in 2014.
+
+Dr. Neil Schluger, an American TB specialist, said the United States has the resources to cope with an outbreak. Still, the worldwide migration of drug-resistant TB strains worries him.
+
+"Potentially it is a huge public health problem," Schluger said, though it is one that is likely to creep along rather than explode.
+
+In India, the troubling situation is not without hope, as Udwadia has found that some XDR-TB strains can be treated successfully with a cocktail of powerful drugs.
+
+Patients with a totally drug-resistant strain of TB always have some chance of beating the disease, Udwadia said. "'Total' never means 'totally doomed.'"

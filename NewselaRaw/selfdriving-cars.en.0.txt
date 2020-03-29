@@ -1,0 +1,39 @@
+WASHINGTON — A General Motors Co. executive said technology that could lead to autonomous vehicles is improving steadily, but that drivers will remain integral to the operation of motor vehicles for many years to come.
+
+Mike Robinson, GM's vice president of sustainability and global regulatory affairs, told the U.S. House's Highways and Transit Subcommittee that for the "foreseeable future" drivers will "still need to be engaged and in control."
+
+"For the most part, people assume than an autonomous vehicle will take you to your destination without any personal involvement," said Robinson. "These types of driverless systems are a significant distance into the future."
+
+The subcommittee called the hearing to discuss the technical advances that have led to the belief that self-driving vehicles could be a market reality in the near future, as well as the concerns that come with that belief. The committee noted that Google Inc. has said it had logged hundreds of thousands of accident-free miles in autonomous vehicles, though it has announced no plans to sell self-driving vehicles.
+
+Nissan Motor Co. CEO Carlos Ghosn has said he wants the company to produce an "affordable, autonomous-drive vehicle" by 2020, said the carmaker's Andrew Christensen, senior manager of technology planning at Nissan Technical Center in Farmington Hills, Mich.
+
+Christensen acknowledged that the company hasn't determined what the exact goals would be for that vehicle but that it would have "some level of clear autonomous capability with the driver."
+
+As the subcommittee noted in a report, function-specific automation — including automatic brakes and parallel parking — is already available in some cases. Integration of those technologies with throttle and steering control "will begin to reduce the need to driver control of the vehicle."
+
+Ultimately, autonomous vehicles will navigate the road without human input, using electronic sensors and optical cameras to react to well-defined lane and curb markers. Officials said vehicles could move more smoothly and maintain a constant distance between vehicles, potentially resulting in a traffic system that is less congested and safer. It could also reduce fuel costs.
+
+"This is technology that is going to be liberating," said Robinson.
+
+Earlier this year, the National Highway Traffic Safety Administration issued plans for research on autonomous vehicles, including proposals to look into connected-vehicle technology that would allow self-driving cars to communicate via wireless radio signals, transmitting information on speed, lane departure and other data.
+
+NHTSA head David Strickland said that, while his agency is looking closely at self-driving vehicle technology, a fully autonomous vehicle is "far off in the future."
+
+Several of the officials said one issue to getting self-driving vehicles on the road will be "social acceptance." Will customers be willing to buy expensive automobiles that don't require as much interaction with a driver?
+
+Robinson said some autonomous technology, such as helping a vehicle maintain lane control, could be "brought to market before the decade ends." Congress should continue to let automakers develop new features to compete for customers, he said, and should work to block any move to create state-by-state "patchwork" requirements for vehicles.
+
+Kirk Steudle, director of Michigan's Department of Transportation, also testified on behalf of the American Association of State Highway and Transportation Officials, saying there is a need to accelerate testing across the country and not one state at a time.
+
+Last week, Michigan's state Senate approved legislation — still awaiting approval in the House — that would allow for testing of autonomous vehicles on public roads, mirroring measures taken in a handful of other states.
+
+At the hearing Tuesday, there were also suggestions that the federal government could help protect automakers from frivolous lawsuits while the technology is developing.
+
+Asked about how much autonomous vehicles could cost consumers, Robinson said that's not GM's concern at this point.
+
+"We're not looking at what we're going to price 10 years from now. We're looking at what we do today that can add value," he said.
+
+Strickland said as the research continues, federal regulators will have to work on processes to make sure the technology is safe.
+
+While the first headline, he said, is about what any technological leap promises, "the second headline is if one of these technologies doesn't perform as expected."

@@ -1,0 +1,100 @@
+Anand Mariappan is a software expert who works at Microsoft.
+
+He spends his days at work building data-analysis tools designed for people like him.
+
+That is, office workers who are used to high-resolution computer monitors, quick Internet and the comforts of a modern office building.
+
+But in January, the 31-year-old software developer spent three weeks working hard to help a different kind of client: new companies trying to launch in Kampala, Uganda.
+
+In Africa, Mariappan had to shift his focus and priorities.
+
+Things that were important in his regular work in Seattle were not as important to his customers in Africa.
+
+Things like making sure an app would operate smoothly on the iPhone did not have quite the same importance as making sure software could just work.
+
+Internet regularly shuts down in Africa, which creates a new challenge for people working in technology.
+
+"Here, you have so many resources.
+
+Engineering talent, easily available Internet," Mariappan said.
+
+"In developed countries, you don't consider some of those factors."
+
+Mariappan's trip to Africa was part of Microsoft's MySkills4Afrika initiative.
+
+The program has been around for two years.
+
+So far, MySkills4Afrika has sent about 400 Microsoft employees to the country for two- to three-week projects.
+
+During their time abroad, staff work closely with customers around Africa countries to share their particular skills, from software development to marketing.
+
+The initiative serves a few different purposes.
+
+It is in part a business-development effort, helping to increase Microsoft's role in the global technological space.
+
+It is a way for employees to learn leadership skills through working with news types of customers in different settings.
+
+It also helps Microsoft's brand as a company.
+
+Microsoft says that the program is designed to increase the technological potential of the companies and government agencies in Africa.
+
+It also improves Microsoft's reputation and expands the number of clients the company in Africa.
+
+"It's not philanthropy, it is not a charity," said Fernando de Sousa, Microsoft's human resources chief for the Middle East and Africa and the program's founding manager.
+
+De Sousa said Microsoft invests in Africa to support economic development.
+
+Microsoft's work in Africa started in South Africa, which has long been the continent's largest and most advanced economy.
+
+Many other U.S. companies also target investments in South Africa.
+
+De Sousa joined Microsoft in South Africa in 1992 and he was on the team in 2005 that helped develop an important strategy for Africa.
+
+The project focused on how technology could help fulfill the United Nations' development goals for the continent.
+
+The U.N.'s goals were aimed at improving the economy and state of Africa.
+
+Party because of this strategy, in 2013 Microsoft announced a three-year MySkills4Afrika initiative.
+
+"In the background there was the understanding that we needed to think about Africa in a different way," said de Sousa, who was born in Mozambique.
+
+Like most major international aid programs, the initiative has not run perfectly.
+
+While some projects have succeeded, others have flopped.
+
+In the program's early days, Microsoft pushed African customers to adopt a low-cost, Windows-powered smartphone.
+
+According Winnie Karanu, a program manager with Microsoft in Kenya, Africa, the attempt "did not go so well."
+
+To make matters more challenging, during the time Microsoft was pushing the African smartphone, it was falling far behind Google and Apple as a leader in the smartphone industry.
+
+It could not keep up with either company anywhere in the world.
+
+But even with those setbacks, Microsoft has made a positive impact in Africa.
+
+The company has launched successful training programs, internships for youth, and the MySkills4Afrika program.
+
+Mariappan's work in Uganda has focused on teaching others about Power BI, which is Microsoft's new tool that helps customers analyze different types of data.
+
+He spent time teaching companies how to use information about sales from farm goods to make better business decisions.
+
+He also helped a startup company build mobile-payment tools.
+
+"My goal was to teach," he said.
+
+"But I learned a lot."
+
+Eileen Chou, a manager in Microsoft's information technology support group, had the opportunity to participate in the program as well.
+
+She spent three weeks in Kenya last October, where she worked with a few other Microsoft employees to train the Kenya Red Cross' IT department.
+
+They focused on improving the ways that employees work with technology.
+
+They also helped Africans become familiar using Microsoft software.
+
+Chou said that while working in Africa, the team realized that companies all over the world face similar challenges during their work.
+
+"You always feel like you never have enough people to do everything; you always wear multiple hats," she said.
+
+"We all would do it again in a heartbeat," Chou added.
+

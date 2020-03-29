@@ -1,0 +1,43 @@
+LIVERMORE, Calif. — Soon, doctors will know what's making you sick within just a few minutes.
+
+Imagine this: Your head aches and your nose is stuffed up. Just getting out of bed is hard. You visit your doctor, and within minutes he knows exactly which virus or bacteria is making you sick. This allows him to give you the right medicine right away.
+
+How does he find out so quickly and easily what is wrong with you? First, he uses something like a Q-tip. He rubs it inside your mouth. Then he places it in a tiny box. A few minutes later, he knows what's giving you the sniffles.
+
+Sure, it sounds like something from "Star Trek." But it may be common within 10 years, says scientist Elizabeth Wheeler.
+
+## "Like You're Xeroxing It"
+
+Wheeler heads up a team of other scientists. They are developing a faster way to recognize bacteria and viruses. These can causes diseases by infecting cells in your body. Then they multiply and spread through the body.
+
+Wheeler's team recognizes diseases like this: First, they take some of the DNA of the bacteria or virus. DNA holds the code to every cell in your body. And it tells cells what to do.
+
+Wheeler's team quickly copies the DNA. That way, there's enough DNA to tell what's causing your illness.
+
+"It's basically like you're Xeroxing it," Wheeler said. Once they've got enough of it, they can tell what it is.
+
+They copy the DNA through something called polymerase chain reaction (PCR). It was first discovered in 1983. It was much slower then, though.
+
+PCR takes several steps. First, a special enzyme is added to a DNA sample. Then the DNA is heated up to 202 degrees. DNA has two strands, or sections. The heat causes these strands to break apart. When this happens, the enzyme "fills in" the other strand. A new piece of two-stranded DNA is formed.
+
+Instead of one piece of DNA, there are now two.
+
+The sample is then cooled down, and heated up all over again. Each time this happens, the amount of DNA is doubled. The heating and cooling is repeated 30 times. By then, the DNA sample is large enough to be identified.
+
+Growing DNA this way takes around three minutes. The device used is about the size of two toasters.
+
+## PCR Getting Quicker
+
+Wheeler hopes Fast PCR devices will someday be in every doctor's office. Patients could have a sample looked at during their checkup. And doctors would know how to treat them before the exam was over.
+
+"Everyone's been frustrated when you go in and it's like, 'is it a virus or a bacteria,'" Wheeler said. You could run this and doctors would know right away, she says.
+
+They could say, "Yep, you have a bacterial infection, here's the antibiotic."
+
+Or, instead, "It's a virus, go home and rest."
+
+Dr. Stephen Bustin is an expert on PCR. It used to take hours, but now it is done in tens of minutes, he said.
+
+Growing the DNA takes only three minutes. But the preparations before that slow things down. Bustin says that within a year or two, PCR should take less than 10 minutes.
+
+Soon doctors will be able to find out very quickly what's making you sniffle. And that means you'll get better a lot faster too.

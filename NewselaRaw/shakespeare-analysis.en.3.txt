@@ -1,0 +1,31 @@
+For 300 years, people have been trying to decide who wrote a play called "Double Falsehood."
+
+Most people thought that it was written by William Shakespeare, the famous writer who lived in the 1500s. But they were not sure. New research now says it is almost certainly the work of Shakespeare.
+
+A writer named John Fletcher seems to have helped write the play. Experts think that Fletcher co-wrote three plays with William Shakespeare late in Shakespeare's life. One of those plays was similar to "Double Falsehood."
+
+Still, the authors of the new study said it was very likely that the play was written by Shakespeare.
+
+## Computer Learned Shakespeare's Style
+
+The findings came after two professors used computers to study the play's language. Ryan L. Boyd and James W. Pennebaker used a way of studying literature called "stylometry." They had computers go through millions of sentences of text.
+
+The computers were programmed to quickly "learn" types of language that show up often. The repeated language becomes an author's "signature." When there is an argument about who wrote a book or play, stylometry can compare authors' "signatures" to that of the work being questioned. It is a scientific way to decide who the author was.
+
+In the end, the two professors from the University of Texas in Austin decided that Shakespeare wrote "Double Falsehood." It was not written by Lewis Theobold, a devoted follower of Shakespeare, they said.
+
+## Who Was Theobold?
+
+Theobold studied and collected Shakespeare's work, and was the one who published the play in 1728. Theobold claimed it came from three original pieces written by Shakespeare. Those pieces, however, were said to have burned in a library fire. There was no physical proof that Shakespeare wrote the play. Instead, scholars became suspicious that Theobold was only pretending that the play was written by Shakespeare.
+
+The computers studied 54 plays. There were 33 by Shakespeare, nine by Fletcher and 12 by Theobold. The machines figured out each play's average sentence-length and how difficult the writing was. The computers also figured out how frequently unusual words were used.
+
+Boyd and Pennebaker said the study showed evidence that the work was not a fake by Theobold.
+
+## Shakespeare Is Still A Mystery
+
+The professors said that being able to create a writer's signature provides new ways of proving who wrote a book or play. It can also be used to give us a "better understanding" of who a person was and how they thought, they said.
+
+Boyd and Pennebaker pointed to research that has been around for a while. It shows that the way writers use language, and even the length of their sentences, shows things about how a writer thinks and acts. A deep study of a writer's verbal output can "paint a very rich picture of who that person is, how he or she thinks, and what he or she thinks about," they wrote.
+
+Much of Shakespeare's life is a mystery. The study offers a bit of information. The way he wrote shows he was very educated in grammar. It also shows he cared more about how people in society acted than the way they thought or felt, the authors wrote.

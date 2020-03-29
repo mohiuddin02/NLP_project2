@@ -1,0 +1,35 @@
+The Disklavier looks like just a normal piano. What makes it special is the way it can record the music piano players make. It doesn't record the music as sound. Instead, it uses sensors to record a piano player's hand movements as tiny bits of information.
+
+Those bits of information are called data. Once they're recorded, they can be sent over the Internet. Then, other pianos thousands of miles away can play back the music almost exactly as the first piano player played it.
+
+It could change how we experience music. Russian pianist Osip Nikiforov, 19, is recording a classical song on the Disklavier. But if you played what he is recording, you would not hear anything. He is recording his movements.
+
+"These pianos are fantastic teaching tools," said Nikiforov. "You can correct things based on just listening to yourself. While you could do that with any recording, this one is even closer." And it's more accurate, he says.
+
+## Recording In One Place ...
+
+Nikiforov plays a Disklavier owned by Stella Sick. She teaches music at Hamline University in St. Paul, Minn.
+
+Sick says Nikiforov could use the piano to try out to get into another music school. It would save him the cost of traveling there to try out in person. But Disklaviers aren't cheap. They cost $40,000 to $240,000. The Disklavier is made by the Yamaha company. Yamaha has simplified how recorded tryouts can be sent over the Internet.
+
+Last year, the company created a website to store tryout recordings. The website allows Disklavier performances to be shared among 18 U.S. universities. There are also 28 general tryout websites. This year, that should increase to 50 universities and 40 to 50 tryout sites.
+
+Nikiforov has already benefited from Internet tryouts. At age 13 he was living in Russia. He made a recording on an older Disklavier. Then he sent it to try out for a music competition in Minnesota. He won third place. The experience brought him there to study.
+
+Like Nikiforov, Sick was born in Russia. She is a professor of music. The way she teaches has changed because of the Disklavier.
+
+She listens to the Disklavier playing back a student's song. At the same time she watches a video of the player's hands. By doing so, she can help students correct their mistakes.
+
+## ... Playing Back Far Away
+
+Sick does some work for Yamaha. She recently demonstrated the Disklavier at St. Olaf College in Minnesota. The school is trying to decide whether to use it as a way for music students to try out.
+
+Disklaviers came out in the U.S. in 1987. In those days, they recorded piano information, or data, on computers. Now the information can be sent on the Internet. So, university music teachers are taking another look at them.
+
+The Disklavier records music in a special way. It was been wired with sensors. They measure how the piano moves. For example, when a piano key is struck, it causes a hammer to strike a piano string. A sensor measures the hammer strike. Then it can record the speed of that hammer. It stores the result as information.
+
+Then, that information can be used to strike a hammer at the same speed on another Disklavier. The sound it makes is practically the same as the original piano.
+
+Universities are interested in the Disklavier for teaching. Universities also wonder if being able to get tryout recordings from people who live far away will make them more diverse. They hope it will let students from all over the world try out.
+
+"The more competitive schools want students auditioning from Asia and Europe," says George Litterst. He's a pianist who also works for Yamaha. Wayne State College in Nebraska recently listened to a try out from a high school junior who lives in Alaska.

@@ -1,0 +1,53 @@
+The scientists in this basement laboratory are all looking at a smartphone. They aren't on break, this is their work.
+
+Their computer science professor is holding the phone. He is walking through the University of Minnesota's Walter Library.
+
+A 3-D map of a nearby hallway is appearing on the phone's screen as he walks. The phone's camera and motion sensor work together to collect information that becomes a 3-D image.
+
+Graduate students at the University of Minnesota are working with Google Inc. to make smartphones that can create 3-D maps anywhere. Google gave the university  $1.35 million to develop this technology.
+
+## Map Making In 3-D
+
+Smartphones that can easily create 3-D maps would be a huge breakthrough.
+
+The smartphones will soon be able to give directions within a building, computer science professor Stergios Roumeliotis said. They could help you to find your classroom in a huge school or find a coffee shop in an airport.
+
+There are other uses as well. Homeowners could create a digital tour of their houses when selling them. The software could also help blind people walk through a building or aid military aircraft.
+
+The software is being designed to work on an upcoming Google smartphone. The scientists hope it will also work on existing smartphones.
+
+Professor Roumeliotis has been working on map technology since 1995. He says this new technology could be as important as Google Maps, which revolutionized maps and directions.
+
+"This new software could become the Google Maps of the indoor world," Roumeliotis said. "This is where we spend most of our time."
+
+## "Augmented Reality"
+
+3-D mapping could have a huge impact in the near future, according to business analyst Scott Strawn.
+
+Google has recently begun testing Google Glass, a wearable computer built in to a pair of glasses. This mapping software could help make Google Glass more useful.
+
+One key feature of Google Glass is "augmented reality." This allows you to see the real world, but with helpful information added by the computer. For example, you could see user reviews of restaurants while walking down the street.
+
+The University of Minnesota's software is important for two reasons. First, it creates a map almost instantly. Second, it does this without slowing down the phone or using too much battery power.
+
+To do that, the University of Minnesota team had to try some creative design ideas.
+
+The new software doesn't use global positioning satellite (GPS) signals. Instead, the software uses the phone's camera and built-in motion sensor.
+
+The University of Minnesota scientists previously worked with NASA to create software to navigate Mars landing vehicles. They are building on that work for the 3-D mapping project.
+
+## A New Frontier
+
+Roumeliotis said the software that his group is developing for Google "will be ready within less than a year."
+
+Google probably won't offer the new software to the public for years, Strawn said. That would give developers time to come up with 3-D apps that use the new technology.
+
+Google often spends years testing a new product before releasing it to the public.
+
+It's not unusual for Google to reach out to universities for help in creating new technology, according to Strawn.
+
+There is a lot of brainpower at universities, Strawn said. That's what Google needs to move these projects forward.
+
+Mapping the Mall of America today would take many computers and a lot of time, Roumeliotis said.
+
+"Our plan is to do that on a cellphone in almost real time," he said. "We're on the frontier of this kind of mapping."

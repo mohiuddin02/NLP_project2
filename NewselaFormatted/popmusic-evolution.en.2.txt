@@ -1,0 +1,102 @@
+group of engineers and biologists studied 17,000 songs from Billboard's Hot 100.
+
+What they found may surprise some music fans.
+
+Forget the Beach Boys, Michael Jackson and Madonna.
+
+The most important cultural change in American pop music began with the explosion of rap in the early 1990s.
+
+The Beatles and the Rolling Stones didn't spark the mid-1960s British Invasion, when rock and pop groups from across the Atlantic Ocean took over U.S. radio.
+
+But they did make rock music more popular.
+
+And don't buy the snobs' complaints that pop music all sounds the same.
+
+Except for a brief period in the 1980s, there's been plenty of different kinds of pop music over the years.
+
+The team used computers to study and organize songs into different styles, much as scientists categorize dinosaur fossils, said Armand Leroi.
+
+He is an evolutionary biologist at Imperial College London who helped oversee the research.
+
+He studies how life evolves, or how it has grown and changed over time.
+
+"Culture can — and should — be studied scientifically," Leroi said.
+
+Evolutionary biology, with its focus on the diversity of life, offers a perfect way to study the arts, he said.
+
+"Why are there so many creatures?"
+
+he mused.
+
+"Why are there so many songs?"
+
+The results of the study were published Wednesday, May 6 in Royal Society Open Science, a magazine for scientists.
+
+To trace how pop changed over time, Leroi and his co-authors used 30-second snippets of 17,904 songs.
+
+The songs appeared on the Billboard Hot 100 list from 1960 to 2010.
+
+The researchers decided not to use the kind of categories listeners might for their favorite songs — "hard rock," "folk" or "electronic," for example.
+
+Instead, they classified songs according to features that could be scientifically measured, such as chords, rhythms and tone.
+
+They put each song into one of 13 style groups, based on the patterns they found.
+
+To double-check their results, they looked at how users of Last.fm, an online music discovery service, had labeled the tracks.
+
+For the most part, the judgments of the computer and the humans matched up.
+
+Songs that the computer classified as Style 2, for example, had received Last.fm tags such as "hip-hop," "rap" and "old school."
+
+Songs sorted into Style 8 had been described by listeners as "new wave," "dance" and "electronic."
+
+Once they had everything organized, Leroi said, the researchers started asking interesting questions about the songs.
+
+Like evolutionary biologists examining the differences among species, they wondered about diversity in pop music.
+
+Are there many styles on the charts, or does pop music all sound the same?
+
+Older music fans often complain that the music people now listen to is like kiddie pop compared to the great music of the past, Leroi said.
+
+However, the team found that generally music didn't all sound the same, except for one stretch of time around 1986.
+
+Everyone went nuts for synthesizers and drum machines.
+
+Another question inspired by evolutionary biology was whether music styles evolved slowly or in large leaps.
+
+To find the answer, the team calculated rates of change between songs over time.
+
+They found three years of rapid change — 1964, 1982 and 1991.
+
+The largest and most important of the three was the explosion of hip-hop in 1991.
+
+"That surprised me," Leroi said.
+
+"I would have guessed it was 1964," the year of the British Invasion.
+
+Then the researchers decided to take a closer look at the Beatles and the Rolling Stones.
+
+Surprisingly, they discovered that those key bands didn't start the new style of music of their era.
+
+Rather, they helped speed up those musical changes by making new styles more popular.
+
+Leroi said it was exciting to get a glimpse of music history that didn't depend on people's memories.
+
+"You can say, 'This is really when it happened,'" he said.
+
+The study authors included experts from the very different worlds of biology and music.
+
+In the paper, they wrote that they would like to extend their study further back.
+
+They'd like to look back "at least the 1940s, if only to see whether 1955 was, as many have claimed, the birth date of Rock and Roll."
+
+He said the research team could have focused on many subjects.
+
+They chose the Billboard Hot 100 in large part because it is so popular.
+
+"I guess we could have done a couple of centuries' worth of novels.
+
+But somehow it's not as exciting as 50 years of pop music," he said.
+
+"It's wonderful to be able to look at it in a scientific way."
+

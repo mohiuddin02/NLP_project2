@@ -1,0 +1,58 @@
+Ebola outbreaks in the past few decades have consistently "burned out" in relatively isolated and rural areas in Central Africa where ill patients did not come into contact with many individuals.
+
+Without new patients to infect, the virus eventually had nowhere to go.
+
+The current outbreak in West Africa, however — taking place at the intersection of several countries' porous borders — helped this outbreak boom into an epidemic which has a global reach.
+
+What will it take to quash the ongoing Ebola epidemic and keep it from becoming part of the fabric of life in West Africa?
+
+New attempts to answer the question suggest that in order to halt the calamitous chain of transmission at least 50 percent of all infectious Ebola patients in West Africa — and perhaps 70 percent — would need to be isolated and kept from infecting other individuals.
+
+Those figures come from two new mathematical projections, one by the U.S. Centers for Disease Control and Prevention (CDC) and a separate analysis published in Eurosurveillance.
+
+Short of that level of containment, the outbreak could still be reduced but it will fail to be extinguished and may continue to spread, perhaps for years.
+
+Right now every ill patient with Ebola during this outbreak typically makes about two more people ill.
+
+The World Health Organization (WHO) tally suggests there are 7,178 cases of Ebola and 3,338 deaths so far.
+
+And already devastating projections from the WHO and the CDC suggest that the death toll could soon climb to the tens of thousands if efforts to contain the epidemic are not substantially increased.
+
+In a worst-case scenario the CDC projected that by mid-January, Sierra Leone and Liberia alone could have up to 1.4 million cases.
+
+But that figure is not inevitable.
+
+The massive scale-up in resources provided by international forces could lessen that disease burden.
+
+But short of getting to that 50 percent control figure the virus will not be contained.
+
+Smaller reductions in the number of Ebola patients will buy communities some time to scale-up their facilities and perhaps, develop a vaccine.
+
+Yet the longer the response takes, the greater the possibility that areas that are now Ebola-free or that become Ebola-free could flare up again with the importation of new cases.
+
+"This is also about how long it takes to stop the disease," says Alessandro Vespignani, professor of physics at the Northeastern University who has been working on Ebola modeling there.
+
+"If it's a more minimal response and it takes nine months, that means more deaths, many more hiccups along the way and the cases in the region could spin out of control."
+
+The incubation period for the disease can last from two to 21 days and only then do people become symptomatic and contagious.
+
+Yet it's evident that the disease can be contained.
+
+Already Senegal and Nigeria appear to have quelled the spread of Ebola.
+
+But other factors could exacerbate the threat if the disease is not completely contained soon: No one has studied how long Ebola immunity lasts, so although the assumption has been that immunity will last for several years it's possible that, for example, recovered patients may get ill again next year.
+
+It's undeniable Ebola is a formidable virus but it is not as readily passed between individuals as some other potent pathogens, and there is no sign it is changing to become more virulent.
+
+The 1918 Spanish flu that killed more than 30 million people worldwide, for example, reportedly had a reproductive rate between two and five — meaning each ill person infected between two and five people depending on the location and environment, says Gerardo Chowell, a mathematical epidemiologist at Arizona State University.
+
+He produced the first Ebola modeling in 2004, which calculated prior Ebola reproductive rates from outbreaks in Central Africa and concluded those outbreaks led to an average of 1.3 to 1.8 secondary cases.
+
+In September, he published projections in Eurosurveillance that suggest the reproductive rate has not changed much between those historical cases and this epidemic in West Africa.
+
+And the CDC puts the figure even higher than Chowell's 50 percent containment estimate: In its findings published in Morbidity and Mortality Weekly Report on Sept. 23, it reported that perhaps 70 percent of patients would need to be placed in Ebola treatment centers or otherwise isolated to alter the course of the epidemic.
+
+The second case of Ebola diagnosed in the U.S. recently only underscores the global threat of the virus and how vital it is to contain it.
+
+"We can't make the risk zero until the outbreak is controlled in West Africa," CDC Director Tom Frieden says.
+

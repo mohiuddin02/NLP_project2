@@ -1,0 +1,31 @@
+Emergency-response robots are a great idea, but they have many problems in the real world. They have difficulty getting from one place to another and they are about as coordinated as a 1-year-old child. In addition, they are typically able to perform just one task at a time.
+
+Nowhere was this more painfully obvious than in Japan four years ago, after a small team of robots was sent to help workers at the Fukushima Daiichi nuclear plant. The buildings had been hit by a tsunami, or massive sea wave. It was triggered by an underwater earthquake. The waves wrecked the power plant, allowing dangerous radioactive material to be released. During the emergency, the robots were of little use. Humans were left to do the most hazardous work.
+
+## Competing In A Realistic Disaster Zone
+
+Soon, the world will see just how far robots have advanced since then. The Defense Advanced Research Projects Agency (DARPA) is a U.S. government department that is hosting a robotics competition. It is aimed at building robots that can step — or roll — in when disasters strike. Some 25 international teams will compete June 5-6 to win cash prizes totaling $3.5 million.
+
+The winning robots will complete eight different tasks on an obstacle course in the shortest amount of time. The course is designed to look like a disaster area that is too dangerous for humans to enter. As an added challenge, DARPA will make sure robots and their operators have a difficult time communicating with each other. This will create a scenario closer to the one responders experienced in Japan.
+
+When robots arrived in Fukushima in March 2011, they found the plant contaminated with radiation and filled with tons of damaging seawater. The water destroyed the emergency generators. Without the generators, there was no electricity to cool the nuclear reactors. Over the next three weeks, there were nuclear meltdowns, gas explosions and radiation leaks. All of these things made a bad situation even worse.
+
+Responders soon realized the robots needed something to protect them from radiation. The radiation shielding they added to the robots made it hard for the machines to communicate with operators. Robots eventually were able to examine some of the damage and help with cleanup. But they were not very useful during the emergency when it was at its most dangerous.
+
+## The Robot Is On Its Own
+
+A previous DARPA competition required robots to press an emergency shutoff switch, get up from a reclined position and travel 10 meters (about 33 feet) without falling. They also had to pass over a barrier and rotate a valve in a complete circle. The competition will feature similar — but not the same — challenges. This will ensure that teams demonstrate some flexibility and creativity under pressure.
+
+Robots may not be recharged while competing. Teams are also not allowed to rig them with safety ropes to prevent falls. If a robot falls and cannot get up, the team will have to sit out for 10 minutes and then try again with a new machine.
+
+During the competition, each team will operate out of a garage area far from the test course. The only information they will have about their robot will come from the machine's own onboard sensors.
+
+## Still A Long Way To Go
+
+Gill Pratt, who works at DARPA, says Fukushima made researchers realize they had to come up with better robots. "We know that we have to develop technology to help us to address these kinds of disasters."
+
+But there is still a long way to go before machines will be able to make a big difference during events like Fukushima.
+
+"The robots that you're going to see at the challenge are very far from" ones that could be sent into situations like the recent earthquake in Nepal, Pratt said.
+
+The development of machines that can serve as fully functioning responders will take many years. In the meantime, DARPA's competition gives robot makers a reason to keep moving in that direction.

@@ -1,0 +1,106 @@
+Six-year-old Lauren Meek moves her finger over a laptop.
+
+She is dragging over a block of computer code to build a set of instructions.
+
+She clicks the "run" button.
+
+Then Lauren watches as the character in her video game moves through a maze.
+
+She pumps her fist excitedly.
+
+"Yes!
+
+This is so easy," says the kindergartner at Marshall Elementary, near Seattle, Washington.
+
+This fall, most elementary school students in her school district are getting 40-minute weekly computer science lessons.
+
+The lessons are part of a growing effort in the United States to teach computer science to more public school children, even kindergartners.
+
+The idea is backed by technology leaders, companies and other groups.
+
+With their support, schools in New York, San Francisco and other cities have agreed to offer computer science to students in all grades.
+
+Supporters say it is not just about learning how to code.
+
+Students are also learning how computers work.
+
+They say computer science teaches kids to think logically and be creative.
+
+It also gives them an early introduction to the technology that will drive their future, supporters say.
+
+Computer science is just as important now as biology and chemistry, said Hadi Partovi, CEO of Code.org.
+
+The group works to give more students a chance to try computer science.
+
+It wants to increase participation by women and minorities.
+
+Code.org is also behind a campaign to get millions of students to take part in an "Hour of Code."
+
+That program takes place next week.
+
+Teaching computer science in schools ensures that everyone has an opportunity to understand technology, said Yasmin Kafai, a professor at the University of Pennsylvania.
+
+Learning about computers is a necessary skill, Kafai said.  Computer science knowledge and skills also help people get jobs.
+
+By 2020, half of the 9.2 million science, technology, engineering and math jobs will be in computing, according to the U.S. government.
+
+Jim Taylor wrote a book called "Raising Generation Tech."
+
+He says there is no evidence that coding works.
+
+Kids do not need to learn how to use digital technology at such a young age either, he added.
+
+Computer science is different from other subjects.
+
+There are no rules for teaching it or strong tests to measure learning, said Jeanne Century of the University of Chicago.
+
+Still, the argument to teach computer science is the same as the argument for teaching science and math, she said.
+
+More jobs require computer science, Century noted.
+
+Computing is also "everywhere in our lives," she said.
+
+One of the challenges is finding enough well-prepared teachers.
+
+Among other efforts, the National Science Foundation wants to have 10,000 well-trained computer science teachers in thousands of high schools.
+
+Currently, computer science is taught in only about 1 in 4 high schools nationwide.
+
+Even fewer lower middle and elementary schools teach computer science.
+
+Only 27 states allow a computer science course to be counted as a math or science class needed to graduate, according to Code.org.
+
+Still, there has been a recent jump in interest.
+
+In 2015, nearly 49,000 students took the Advanced Placement exam in computer science.
+
+The exam is a test high schoolers can take that counts for college.
+
+The number was up from about 40,000 in 2014.
+
+Colleges say there is a demand for students who know computer science, Terry Redican said.
+
+He is a vice president at The College Board, which develops the AP classes.
+
+A new AP computer science course debuts next fall.
+
+It will focus on real-world ways of using computer science.
+
+It is also aimed at increasing the number of women and minorities in computer science.
+
+At Marshall Elementary, more than half the students are from low-income families.
+
+Principal Kelly Sheward sees computer science as an opportunity to make sure that poorer students there are as well prepared as kids at other schools.
+
+Teacher Sheena York asks a class of fifth-graders to identify the pattern in the computer puzzle and solve it using the fewest steps.
+
+She urges them to try different ideas, test their work as they go along, and ask each other for help.
+
+"I'm figuring this out piece by piece to see if this works," said Isiah Gibbs, 10.
+
+"That doesn't work.
+
+So I'll try something else."
+
+Computer science is "almost as important as reading and math," fifth-grade teacher Hank Palmer said.
+

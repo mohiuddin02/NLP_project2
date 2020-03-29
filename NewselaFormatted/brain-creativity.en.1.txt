@@ -1,0 +1,96 @@
+Most of us have experienced writer's block at some point, sitting down to write, paint or compose only to find we can't get the creative juices flowing.
+
+Most frustrating of all, the more effort and thought we put into it, the harder it may become.
+
+Now, at least, neuroscientists might have found a clue about why it is so hard to force that creative spark.
+
+Researchers at Stanford University recently set out to explore the origins of creativity in the brain and came up with surprising findings.
+
+Their study, published May 28 in Scientific Reports, suggests the cerebellum, the brain region typically associated with movement, is also involved in creativity.
+
+If so, the discovery could change our understanding of the neurological mechanisms behind some thought processes.
+
+The cerebral cortex is the brain's outer layer of tissue.
+
+There is a scientific belief that it's the part of the brain that "makes us human."
+
+Scientists believe it allows us to be aware and conscious, remember things and learn languages.
+
+It is also believed that the two hemispheres of the cortex set apart creative thinkers (the "right-brained") from logical thinkers (the "left-brained").
+
+This has fostered the view that "neurological processes can be divided into "higher" cognitive functions and "lower" basic sensory-motor, functions," says Robert Barton, an evolutionary biologist at Durham University in England who was not involved in this study.
+
+The new study calls that understanding into question.
+
+Three and a half years ago, Grace Hawthorne, a professor of design at Stanford University Institute of Design, known as the d.school, approached Allan Reiss, a behavioral scientist at Stanford's School of Medicine.
+
+Hawthorne wanted to find a way to objectively measure whether or not her design class improved students' creativity.
+
+Reiss, inspired by the game Pictionary, developed an experiment.
+
+Participants in the study were placed into a functional magnetic resonance imaging machine, or fMRI.
+
+This machine can produce images of the brain.
+
+While inside, they were asked to draw a series of pictures on a tablet based on action words (for example, vote, exhaust, salute) with 30 seconds for each word.
+
+They also drew a zigzag line to establish baseline brain activity for the task of drawing.
+
+This was used for comparison — a typical tool used in experiments known as a "control."
+
+The participants later ranked each word picture based on its difficulty to draw.
+
+The tablet transmitted the drawings to researchers at the d.school who scored them on a 5-point scale of creativity.
+
+Then researchers at the School of Medicine analyzed the fMRI scans for brain activity patterns.
+
+The results were surprising: the prefrontal cortex, traditionally associated with thinking, was most active for the drawings the participants ranked as most difficult; the cerebellum was most active for the drawings the participants scored highest on for creativity.
+
+Essentially, the less the participants thought about what they were drawing, the more creative their drawings were.
+
+Manish Saggar, a psychiatrist at Stanford and the study's lead author, summarized the findings: "The more you think about it, the more you mess it up."
+
+If the cerebellum plays a role in creativity, it could alter our understanding of how the brain functions.
+
+The traditional belief that the cerebellum is involved only in motor control stems from studies in monkeys.
+
+The studies indicate that it is separate structure at the base of the brain that is not connected to the rest of the brain.
+
+Recent studies in human brain anatomy, however, have indicated that over the course of human evolution the cerebellum established connections with a wide array of brain regions.
+
+According to Lisa Azziz-Zadeh, a cognitive neuroscientist at the University of Southern California who was not involved in the study, the findings are "representative of the interconnectivity of the different regions of the brain."
+
+They demonstrate the need to develop new neurological models of higher cognition, including creativity.
+
+In particular, the study provided evidence for the "practice-makes-perfect" mechanism of brain function.
+
+We know, for instance, that the cerebrum's motor cortex is active when we are learning new movements.
+
+Then, the cerebellum assumes responsibility for coordinating the movement.
+
+This frees up the brain's motor cortex for further learning.
+
+The fact that cerebellar activity decreased when study participants faced a cognitively challenging task but increased when the task required little conscious thought, supports the theory that the cerebellum functions in cognition in much the same way it functions in motor control.
+
+If so, according to Reiss, "it's likely the cerebellum is the coordination center of the brain, allowing other regions to be more efficient."
+
+The study did have a number of limitations, however.
+
+First, there is little agreement in the scientific community about how to define creativity.
+
+So, to objectively measure it researchers must develop a working definition.
+
+Second, because the cerebellum is associated with motion "the creativity of the drawings could have been correlated to the complexity of the physical movements required to draw them," says John Kounios, a cognitive neuroscientist at Drexel University.
+
+He was not involved in the study.
+
+The control used in the experiment, drawing a zigzag, likely involved less complexity than the drawings of the words, so future experiments should attempt to match the creative tasks more closely with the control.
+
+Finally, the study measured only visual creativity.
+
+To better understand specific brain regions' involvement in creativity, future research will have to examine brain activity patterns associated with other forms of creativity, such as verbal or musical.
+
+Hopefully the Stanford experiment can be replicated and refined.
+
+Then it will have advanced our understanding of the cognitive neuroscience of creativity and other forms of higher cognition.
+

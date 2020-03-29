@@ -1,0 +1,61 @@
+WASHINGTON — The Islamic State extremist group has discovered a disturbing new communications and recruiting tool that has confounded U.S. counterterrorism agencies. They are using instant-messaging apps on smartphones that hide the texts or destroy them almost immediately.
+
+In many cases, U.S. intelligence and law enforcement agencies cannot read the messages when they are sent, or even later with a court order. The phone companies and the app developers say they cannot unlock the encoded text and do not retain a record of the messages.
+
+"We're past going dark in certain instances," said Michael B. Steinbach, the FBI's top counterterrorism official. "We are dark."
+
+The problem was not mentioned during the recent battle over a federal agency's collection of phone and cellphone data. The National Security Agency (NSA) has been secretly collecting millions of phone calls, but lawmakers scaled back the program because of concerns it violated Americans' privacy.
+
+## Permission From Congress Would Be Needed
+
+FBI officials now want Congress to allow it to tap into messaging apps like WhatsApp and Kik, as well as data-destroying apps like Wickr and Surespot. Hundreds of millions of people — and apparently some fighters — have embraced them precisely because they guarantee security and anonymity.
+
+The Islamic State is an extremist group attempting to set up its own country governed by Islamic law. It has also been called Islamic State of Iraq and the Levant (ISIL) and Islamic State of Iraq and Syria (ISIS). The group's fighters have captured parts of Syria and Iraq.
+
+The FBI estimates that 200,000 people around the world see "terrorist messaging" each day from Islamic State. The extremists post direct appeals, videos, instruction manuals and other material on Islamist social media sites.
+
+The group's recruiters then troll Twitter, Facebook and other sites to see who is re-posting their messages and invite them to text directly on encrypted or data-destroying apps.
+
+## Extremists Use Apps For Recruiting
+
+Islamic State recruiters have increased their use of encrypted apps over the last several months, senior law enforcement officials said.
+
+But details of cases in which the technology was used have been kept secret because investigators didn't want potential terrorists to know about the blind spot. The issue came to light in a congressional hearing last week.
+
+Social media companies have been reluctant to change their software and provide more access to law enforcement and intelligence agencies.
+
+In a June 1 speech, Tim Cook, the CEO at Apple, fiercely defended his company's decision to encrypt the content of FaceTime and iMessage communications. He took aim at government officials who have asked Apple and other companies to create a key to encrypted messages.
+
+"Let me be crystal clear," Cook said. "Weakening encryption or taking it away harms good people that are using it for the right reasons. And ultimately, I believe it has a chilling effect on our First Amendment rights and undermines our country's founding principles."
+
+Cook made his comments at a dinner for the Electronic Privacy Information Center.
+
+## Terror Tactics Changing, Congressman Warns
+
+At a congressional hearing Wednesday, Republican Representative Michael McCaul of Texas said Kik, WhatsApp, Wickr and Surespot are among the messaging apps that extremists are using to avoid being found out. Executives from those four companies did not respond to requests for a comment Friday.
+
+"These tactics are a sea change for spreading terror," said McCaul, the chair of the House Homeland Security Committee. He said the United States must completely change its way of thinking and acting.
+
+Steinbach said the FBI wants to be able to obtain a court order to force social media companies to disclose messages in terror cases.
+
+Public demand for apps that guarantee security and anonymity is growing, in part in response to leaks by Edward Snowden. The former NSA contractor disclosed the government's bulk collection of emails, phone records and other communications.
+
+Secure apps are popular with business executives concerned about the threat of corporate spying and with human rights activists operating in authoritarian countries. Some teenagers use them simply to evade their parents.
+
+Kik, based in Canada, claims more than 200 million users in 230 countries, including, it says, 40 percent of American youths. A "Guide to Law Enforcement" on Kik's website states that the text of Kik conversations is stored only on the phones of Kik users. "Kik doesn't see or store chat message text in our systems, and we don't ever have access to this information."
+
+U.S. officials have successfully identified and found terrorism suspects using other social media sites.
+
+## Social Media Already Used In FBI Arrests
+
+The FBI has arrested nearly 40 alleged supporters and sympathizers of Islamic State since last summer. They were suspected of seeking to join terrorist groups or giving them material support.
+
+The "vast, vast majority" had a connection to social media, said John Carlin, head of national security for the U.S. Justice Department. That trend is "continuing to increase," he said.
+
+Two recent cases proved deadly. On June 2, an FBI agent and a Boston police officer shot and killed a 26-year-old former security guard in Roslindale, Massachusetts, after he allegedly lunged at them with a knife. The FBI had been tracking his online communications with Islamic State for at least several days.
+
+A month earlier, two armed men were shot and killed as they sought to attack a cartoon contest that was encouraging artists to draw the Muslim Prophet Muhammad in Garland, Texas. The FBI had investigated one of the men for his online messages with a militant group.
+
+Recently, the Air Force destroyed a command center in Syria after an extremist gave away his position online.
+
+Last fall, Islamic State leaders issued an order that forbids fighters to photograph attacks and locations without permission. The group also distributed a guide to removing geo-location and metadata from cellphone images.

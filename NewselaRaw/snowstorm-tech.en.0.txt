@@ -1,0 +1,69 @@
+WASHINGTON, D.C. — As state transportation officials across the U.S. prepare for this season's onslaught of winter blizzards and ice storms, many of them will be using technology in new ways to help clear the roads and make them safer for drivers.
+
+From Pennsylvania to Nevada, states will be battling the elements by using tools such as road sensors, tracking gear on snowplows and onboard cameras that upload photos of current conditions.
+
+"Technology has changed winter services across the board," said Rich Roman, maintenance and operations director for the Pennsylvania Department of Transportation. "Look inside a plow truck — it almost looks like the cockpit of an airplane, with knobs and controls and radio communication."
+
+Rick Nelson, who coordinates the American Association of State Highway and Transportation Officials (AASHTO) winter maintenance program, said states are increasingly devoting time and money to research and technology to ensure that people can get where they need to go, despite the weather.
+
+"So many people think there isn't anything you can do about the winter — it snows and you just accept it," Nelson said. "But as a country, we are so dependent on our mobility. There's a lot of pressure on states to maintain mobility 24/7, 365 days a year, regardless of what the weather throws their way."
+
+State transportation departments are usually responsible for maintaining highways, state roads and bridges. In many states, that means paying millions of dollars for trucks, salt and staff time.
+
+An AASHTO survey of 23 states found they spent about $1.13 billion between October 2014 and April 2015 treating and plowing roads. For many that represented a large portion of their year-round maintenance budget. Maryland, for example, spent nearly a third of its budget. New Hampshire spent 55 percent.
+
+One of the worst-hit states last winter was Massachusetts, which was struck by 31 storms, two of which brought among the heaviest snowfalls on record. The state ended up shelling out more than $153 million to treat and plow roads.
+
+In states susceptible to cold weather, transportation officials say clearing snow and removing ice quickly and efficiently is one of their biggest challenges.
+
+Nelson said the National Weather Service and meteorologists do a good job forecasting the weather. However, they said, a winter storm can be very different once it hits the ground. That's why states are turning to snow-fighting technology.
+
+Many agencies, for example, have installed their own weather stations that use sensors in the pavement to notify them about the road's temperature, whether it's wet or dry, even if it has been treated with de-icer. That helps them determine when to apply more, or fewer, chemicals.
+
+Nelson said states are more proactive than in the past, when they would say, "It started snowing, I plowed and put my salt on the road."
+
+Some states use tracking gear on plow trucks to feed headquarters instantaneous data on each vehicle's location. A few also use the gear to track weather, road conditions, and the amount of salt being used. This alerts transportation supervisors to changing conditions and helps them get a better handle on the use of materials, trucks and overtime.
+
+Roman, of Pennsylvania's transportation department, said the 728 or so trucks that cover the state's interstates and expressways will be mounted with sophisticated tracking gear this winter as part of a $1 million pilot project. "We're hopeful this will make our truck routes more efficient and help us manage our materials a lot better, such as figuring out that we used this much salt but it turned out to be 34 degrees and sunny, so we didn't need to use so much," he said.
+
+Roman said the state spent nearly $74 million on salt last year and estimated that the pilot project would result in at least $700,000 in savings this winter.
+
+Saving on salt means states can spend more on routine maintenance the rest of the year, such as filling potholes, paving and mowing.
+
+Some state transportation officials also are using technology to analyze their performance during particular storms, such as how quickly they returned roads to bare pavement enabling motorists to drive at normal speeds. They're also trying to determine whether crashes were reduced.
+
+About 1,500 people a year, on average, are killed in crashes involving snow, sleet or ice, said Paul Pisano, acting director of the Federal Highway Administration's research and development office.
+
+"I absolutely believe that these technologies are helping states better manage the roads and provide a safer driving environment and a more effective and efficient system," Pisano said.
+
+Iowa has been out front in using snow-fighting technology and in sharing information with the public.
+
+Craig Bargfrede, who runs winter operations for the Iowa Department of Transportation, said about half the state's 900 snowplows are equipped with forward-facing iPhones, which are mounted inside the trucks and take photos of the road every five to 10 minutes. The photos are posted on an in-house website so supervisors can see the actual conditions, along with the truck's GPS coordinates.
+
+"During a major event, our supervisors would have to go out and check on the roads in person, riding around in their trucks, seeing how the treatment was working," Bargfrede said. "Now they can sit in their office or at home and pull up the internal website and quickly see what's going on. It saves money and time by not having these guys out on the road."
+
+Bargfrede's agency also developed a website, Track-A-Plow, where the public can view, on a statewide map, the photos taken from the snowplows, along with icons showing where the plows are located, which direction they're traveling, and whether they're applying salt or chemicals.
+
+"The public just loves this," Bargfrede said. "They can say, 'OK, there are 250 trucks out — here's where they're at, here are the conditions I can expect to see.' It's a public safety tool. It's going to help them determine which roads have been plowed and whether to travel."
+
+In Minnesota, about two-thirds of the state's 850 plow trucks are equipped to compile data on atmospheric conditions, up-to-the-minute weather information, and air and road surface temperatures. The technology takes the data and uses algorithms to come up with recommendations on which chemicals to spread, how much to apply, and how frequently to plow. The driver has that information at his or her fingertips — on a computer screen, in the cab.
+
+"We take snow seriously. It's a battle. We like to call our drivers snow fighters," said Steven Lund, maintenance engineer for the state transportation department. "It's been a cultural change for some of them to embrace this. It's a balance between using computer-generated technology and having years of experience."
+
+In Michigan, which uses plows equipped with cameras and sensors, the technology, and a more judicious use of salt, could help save 5 to 10 percent a year on salt costs, said Steve Cook, operations and maintenance engineer for the state transportation department.
+
+Michigan also has developed a pilot project, Truck Smart Parking, which can help truckers during snow or ice storms. When driving conditions get bad, truckers often pull over onto the shoulder and wait out the storm if they don't know where parking is available. Officials say that's dangerous for passing motorists and makes it harder for snowplows.
+
+But the technology tracks the number of truck parking spaces at seven private truck stops and five state rest areas, and posts information on websites, electronic billboards and a mobile app, showing where spaces are available and at which exit.
+
+State officials aren't just worried about tackling inclement weather. They're also concerned about the impact of using salt and anti-icing chemicals, which can be hazardous in some environmentally sensitive areas. In years' past, a plow truck operator would simply turn on the spreader and distribute salt over and over. The new strategy is to use just the amount needed to do the job and no more. And officials say technology helps make that happen.
+
+In Nevada, for example, remote weather stations give officials a better understanding of actual road temperatures. If it's warm on the pavement, even if it's snowing, plow operators don't apply salt.
+
+Nevada also is using a special system to help deal with ice on bridges, which tend to freeze quicker than roads because of the cold air underneath and around the structures.
+
+Thor Dyson, a district engineer for the Nevada Department of Transportation, said an anti-icing spray system was installed on four bridges: Nozzles built into the pavement shoot anti-ice chemicals onto the roadway if sensors detect a freeze coming on. The entire system cost $1.5 million to build, and his agency budgets $300,000 a year for the liquid spray, Dyson said. Because the bridges are near environmentally sensitive areas, the drainage is collected when the chemicals melt — and kept out of creeks and rivers.
+
+Dyson said not only is the system environmentally safe, but it's efficient and it makes bridges safer.
+
+It's a time-saver because it eliminates the need for someone to patrol the bridges as well as apply sand and salt to them, Dyson said. "And if we can keep injuries and accidents to a minimum," he said, "we win and the public wins."

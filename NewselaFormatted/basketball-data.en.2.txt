@@ -1,0 +1,106 @@
+For their recent first-round playoff matchup with the Golden State Warriors, the Los Angeles Clippers had a little help on defense.
+
+They used to have to send a scout to games or watch film if they wanted to figure out how to defend Warriors star Steph Curry.
+
+Now they can use computers to find that answer.
+
+This year every NBA team can use advanced tracking data from a company called SportVU.
+
+SportVU cameras are installed in every NBA arena.
+
+They collect large sets of small tidbits of information about the position of the ball and every player on the court for every second of every game of the season.
+
+The data from the cameras is starting to revolutionize professional basketball.
+
+It is influencing everything from game strategy and player conditioning to how fans interact with the sport.
+
+"It's a real game changer," said Ben Alamar, a professor of sport management, who also works for the NBA's Cleveland Cavaliers.
+
+"It's allowing us to ask questions that we really couldn't ask before."
+
+Thanks to advances in technology, scientists and companies can explore everything from outer space to individual consumer desires.
+
+The possible uses for the NBA's new camera system is the latest example of the trend known as big data.
+
+All sports are at the point where they're using a lot of data to make better decisions, said Brian Kopp, a senior executive at Stats, a Chicago-based sports data company.
+
+"Basketball is pushing the front edge of that conversation."
+
+SportVU was founded in Israel in 2005 by technicians who had worked on optical missile-tracking systems for that country's military.
+
+After Stats acquired SportVU in 2008, it redesigned the system to track basketball.
+
+The system's cameras are arranged in an oval in the rafters of the arenas.
+
+The linked cameras collect location data 25 times a second.
+
+They track the two-dimensional position of each player on the court and the three-dimensional position of the ball.
+
+Computer "vision technology" keeps tabs on individual players by the number and color on their jerseys.
+
+The player-tracking data is fed from the cameras to a computer workstation in each arena.
+
+Then it's uploaded to SportVU's servers, and from there it's fed into an Oracle database.
+
+The database matches it up with the play-by-play data from human scorekeepers.
+
+Teams can get reports based on the combined data 60 seconds after something has happened on the court, according to Kopp.
+
+The technology was first embraced by individual NBA teams, rather than by the whole league.
+
+Four teams installed the camera system before the 2010-2011 season.
+
+Before the start of this season, the league formally adopted the technology and made sure all NBA teams could use it.
+
+The SportVU system can determine how fast players move, how often they change direction and how much they run during a game.
+
+It can track how well players shoot from particular spots on the court.
+
+The system also helps track defense.
+
+Users can learn how well a particular player guards another or how well a team does against a certain defense.
+
+The data reinforces what coaches already know in many cases, experts say.
+
+It is especially helpful in scouting opponents.
+
+Coaches can know their rivals as well as they know their own team.
+
+According to data from the NBA's website, Clippers star Blake Griffin takes the vast majority of his shots at or near the basket.
+
+He's an excellent shooter there.
+
+He also takes a lot of long 2-point shots in the arc around the foul stripe.
+
+Despite favoring that area, he's a relatively poor shooter there.
+
+"You can make adjustments based on that," Sammy Gelfand, the Warriors' coordinator for data, said in an interview.
+
+"At the end of the day, you want to take away what they do well."
+
+SportVU helped teams determine that the 3-point shot is one of the most efficient ways to score points.
+
+It also recommended taking uncontested shots, said Steve Hellmuth, the NBA's director of operations and technology.
+
+That led to a lot of passing and games where the ball moves rapidly around, Hellmuth said.
+
+Teams also use SportVU to help identify players they want to add and to gauge players' fitness.
+
+The system can help the training staff know if a player is suffering from fatigue.
+
+Fans can see some of the SportVU data on the NBA's website.
+
+They can see diagrams showing how well and how often players shoot from particular spots on the court.
+
+Fans can also find data on how well certain players shoot when guarded by particular members of a rival team.
+
+In the near future, the NBA and its teams may be doing a lot more with the data.
+
+It could allow coaches to make real-time in-game adjustments to their play calling.
+
+The data could also allow the NBA's TV partners to quickly broadcast the same images and analysis that now is available only after the game.
+
+The league might be able to automate some of the calls now made by human referees and scorekeepers with the camera system.
+
+"This data will become more valuable, more powerful just as time goes on," said Stats' Kopp.
+

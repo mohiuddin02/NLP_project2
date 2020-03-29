@@ -1,0 +1,102 @@
+When people turn on their smartphone to play "Angry Birds," spies may be watching.
+
+Top secret papers suggest that spy groups can collect information from smartphones across the globe.
+
+The secret papers were leaked by Edward Snowden.
+
+He used to do work for the National Security Agency (NSA).
+
+He took the papers from the U.S. spy agency and gave them to a newspaper.
+
+They show that the NSA tracks Americans' phone calls and emails.
+
+The newest papers were published Monday by The New York Times.
+
+The British newspaper the Guardian and ProPublica also published the secret papers.
+
+Apps are common on the world's roughly 1 billion smartphones.
+
+People download map apps, games, and social networking apps, like Facebook.
+
+The leaked papers show that America's NSA and Britain's GCHQ spy agency have worked together.
+
+They're both trying to gain information from the apps.
+
+Some apps are considered "leaky."
+
+Those apps may be feeding huge amounts of information to the spy agencies.
+
+A person's location can be found.
+
+What groups a person joins can be found out too.
+
+The size of the spying program isn't known.
+
+Yet, the reports suggest that the spy agencies can easily collect information from apps.
+
+Two of the biggest apps mentioned in reports are "Angry Birds" and Google Maps.
+
+The NSA says that it watches phones for good reason.
+
+Often, they are used in planning terrorist attacks like bombings.
+
+The NSA says it is not interested in "everyday Americans."
+
+The agency says it only collects information "that we are authorized by law to collect."
+
+GCHQ said its activity was legal and "necessary."
+
+It's no surprise that spy groups are interested in tracking cellphones.
+
+Snowden's other leaks have shown that.
+
+However, the interest in apps is new.
+
+"Angry Birds" was one of the most eye-catching examples.
+
+The game has been downloaded more than 1.7 billion times worldwide.
+
+In the addictive game, birds attack pigs.
+
+The Times and ProPublica said a 2012 British intelligence report explained how to gather information on "Angry Birds" players.
+
+Another document published to the Web was a 14-page-long NSA slideshow.
+
+It listed several other apps.
+
+Facebook, photo sharing site Flickr, and the film app Flixster were watched.
+
+It wasn't clear what information can be collected.
+
+And from which apps.
+
+A cellphone's settings, where it connected to, and which websites it had visited could be tracked.
+
+Also, which documents it had downloaded.
+
+The names of a cellphone users' friends can be found.
+
+Google did not comment on the reports.
+
+Neither did the maker of "Angry Birds."
+
+The Times briefly posted a secret U.S. document to the Web Monday.
+
+Computer experts said it revealed some information.
+
+The experts were able to discover the name of an NSA worker in the documents.
+
+They also picked out the name of a Middle Eastern terror group the NSA was targeting.
+
+Details about the types of computer files the NSA considered useful were also found.
+
+Snowden began leaking secret NSA papers in June.
+
+His supporters say they have been careful not to give away the names of any spies.
+
+They claim they have not put ongoing spying at risk.
+
+A Times spokeswoman said the information had been posted by accident.
+
+The material has since been removed.
+

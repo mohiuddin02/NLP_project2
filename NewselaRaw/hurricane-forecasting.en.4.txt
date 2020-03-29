@@ -1,0 +1,37 @@
+ORLANDO, Fla. — The National Hurricane Center (NHC) has two improved tools to do its job this year. And that job is very important. The Center is the government agency that forecasts hurricanes and tropical storms. Better forecasts can help keep more people safe when extreme weather strikes.
+
+Now the NHC is running an improved computer program to help make those forecasts more accurate. The computer that runs the program is more than twice as fast. It can make up to 213 trillion calculations per second.
+
+The faster supercomputer and improved program should allow the Center to better figure out how the storms are constructed. Forecasters need that information. It helps show where a storm is headed and how strong it might get.
+
+A main goal will be to get better at telling how strong a hurricane is. The center has struggled at this for many years. Now it has the Hurricane Weather Research and Forecasting model. Call it HWRF.
+
+## What's Going On Up There?
+
+The model has been used for the past six years. It is like a long math problem. But this year, it can accept a lot more information about what's going on up in the atmosphere.
+
+The change has already paid off. There have been four storms so far this hurricane season. The predictions about the storms have been slightly better than predictions were last year, said NHC spokesman Dennis Feltgen. Hurricane season in the Atlantic runs from June 1 to the end of November.
+
+The computers using the model are also a lot better. Those machines are called "Tide" and "Gyre." Tide is located in Virginia. Gyre, its backup, is in Orlando. The machines now make 213 trillion calculations per second. They used to make "only" 90 trillion.
+
+Just having HWRF and Tide alone should make the forecasts a lot better, said James Franklin. He is the NHC top hurricane expert. But there is another tool, too. The HWRF model also has been programmed to use radar information from a government weather airplane that flies around the storms.
+
+## How Big Will The Storm Get?
+
+The radar should capture a 3D view of how a storm is constructed. Then the HWRF should be able to figure out how much thunderstorm activity is around the center of the storm. It should be able to tell whether the storm will get weaker or stronger, Franklin said.
+
+Better forecasts are very important.  Forecasters still are unable to tell when a system will get bigger in a hurry. People who live near the coast could be caught by surprise if a storm gets stronger quicker than anyone thought.
+
+They were surprised in 2004. Hurricane Charley got much bigger in the five hours before striking southwest Florida.
+
+The NHC has also overestimated a system's power. In 2006, Ernesto was predicted to hit South Florida as a hurricane. It arrived as a weak tropical storm.
+
+## Where Will The Storm Hit?
+
+The Hurricane Center has gotten better at saying where a hurricane will go. Five-day forecasts are as accurate as three-day forecasts were in 2000. But the combination of HWRF and the supercomputer should improve those forecasts this year, Franklin said.
+
+Other types of predictions will be helped too. Those include blizzard forecasts and warnings of excessive heat.
+
+The forecasting tools are the result of Superstorm Sandy. The storm hammered the U.S. East Coast last October. Congress approved $24.3 million after that storm. More money is to be spent for another big upgrade by 2015. Then the supercomputers are expected to be able to conduct almost 2,000 trillion calculations per second.
+
+"This is historic in terms of capacity increase," said Louis Uccellini. He is the head of the National Weather Service. The NHC is one of its divisions.

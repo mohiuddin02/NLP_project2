@@ -1,0 +1,90 @@
+As a virus travels from person to person it evolves and, sometimes, it becomes a better and more efficient killer.
+
+But researchers still do not know if that is what happened with the Ebola virus currently circulating in West Africa.
+
+So far there is no indication that this strain is inherently more virulent or more transmissible than when Ebola appeared in other areas of Africa in the past.
+
+But that question has not been truly answered by the science.
+
+What researchers do know, thanks to new findings published March 26, is that the virus is not mutating particularly quickly.
+
+Despite an earlier analysis that suggested the virus currently roiling West Africa may be mutating at a rate twice as fast as in the past, this new more comprehensive snapshot of the virus implies that, fortunately, Ebola is not evolving at a rate that would automatically upend the bevy of targeted vaccines and therapies in clinical trials.
+
+Such studies of the virus's mutation rate are essential because researchers racing to find therapies and vaccines for the virus are preparing to combat the pathogen in its current form.
+
+If the virus were to dramatically change, its alterations would mean researchers no longer had an accurate understanding of the species against which they were building an arsenal.
+
+The new findings are published in Science.
+
+For this work, researchers analyzed full-length genome sequences from several disease clusters of Ebola.
+
+They compared the genomes of several virus samples collected in Guinea in March 2014 with dozens of samples from Sierra Leone in June 2014 and newer sequences from Mali collected in October and November 2014, scouring them for overall variation.
+
+They found that there were surprisingly few differences between the genomes despite the fact that they were sampled months apart and had likely passed between many individuals.
+
+Based on current knowledge of the virus, the mutations mostly appear to be minor.
+
+Notably, the researchers calculated that the apparent mutation rate seemed to match that of earlier Ebola virus outbreaks in Central Africa in years past.
+
+The new study tracked genetic changes in Ebola over a longer period in 2014 than anyone had examined previously, so it gives a fuller picture of the virus and its changes, says lead study co-author Heinz Feldmann, a virologist with the National Institute of Allergy and Infectious Disease.
+
+"We did not see the doubling in the evolution rate that we may have expected from earlier findings," he says.
+
+In contrast, the earlier work he referenced, also published in Science, compared all the genomes of the virus that were available at the time — those sampled over several weeks in May and June 2014 in Sierra Leone and in March 2014 from Guinea.
+
+One explanation for the fewer genetic changes found in the newest work may be that certain mutations occurring in the earlier study period — a snapshot of a shorter time — disappeared as the virus continued to mutate and are now undetectable, Feldmann says.
+
+But the important public health conclusions from the newest finding, he adds, are that it's "less likely than we thought that vaccines and treatment options will fail."
+
+Still, it may not be the final word — more genomes of the virus sampled in 2015 from elsewhere in West Africa will provide a clearer picture of the virus's mutations in future studies, he says.
+
+The Feldmann team finding, coupled with other new results out March 26 in Science that detail the successes of a candidate for an Ebola vaccine tested in macaque monkeys, provide much-needed good news in the fight against the virus that has killed more than 10,000 people in the past year.
+
+Although there is no scientifically proven vaccine to prevent Ebola from sickening people, several candidate formulations are currently in the early stages of human trials.
+
+The newest results bring another potential candidate drug into view.
+
+A vaccine made from a chemically inactivated whole Ebola virus was found to be successful at preventing disease in macaque monkeys, a stand-in test subject for humans.
+
+The vaccine was also still effective at preventing disease after it was exposed to hydrogen peroxide as an additional safety precaution to ensure the inactivated virus would not be able to replicate.
+
+"Findings in nonhuman primates are always significant," says Thomas Geisbert, a virologist in the Department of Microbiology and Immunology at the University of Texas Medical Branch at Galveston.
+
+Yet in a field that has quickly become crowded with candidates to combat Ebola, "it remains to be seen how it will compare with the vaccines that are already in human trials and what this other vaccine's timeline will be," he says.
+
+On a more general level, he also notes that, although unlikely to occur, it is possible that a few mutations in important locations could substantially affect Ebola virus properties and render all the candidate vaccines ineffective—even if the overall mutation rate is relatively slow.
+
+"The availability of a good and safe vaccine would make an immense difference.
+
+We are going to see future outbreaks of Ebola.
+
+Once this one is over we have it in animal reservoirs so there will be additional outbreaks in the future," says Keiji Fukuda, the assistant director general for health security at the World Health Organization (WHO).
+
+Even if one drug does get approval, he says, that does not mean progress on other formulations should stop.
+
+"If we have the luxury of having multiple products to look at and evaluate, then so much the better.
+
+There are safety considerations, effectiveness, cost—all of these things are important," he says.
+
+The findings come even as researchers and international responders alike are starting to think about how to combat Ebola and other future threats after this outbreak draws to a close.
+
+At an Institute of Medicine conference devoted to Ebola on March 24 and 25, where presenters sometimes became choked up by tears, the institute's president, Victor Dzau, said that his organization is now planning to bring together 15 international experts tasked with addressing how to better combat such future threats.
+
+The international group will discuss what governance should look like in the future and how to better mobilize dollars, create resilient health systems and engage the private sector.
+
+The findings will be especially important, given that the international community took several months to mount a response to the current outbreak and it has been critically underfunded.
+
+The result of their discussions, he says, will be published in a report that the group will likely put out in late 2015.
+
+Ebola disease transmission has undeniably slowed in West Africa.
+
+In total, 79 new cases of Ebola were reported to WHO for the week as of March 22, the lowest weekly total in 2015 so far, according to figures from that organization.
+
+Yet even as health planners are hoping for a future where Ebola is stamped out in West Africa, active disease transmission still remains an important issue in and around two major urban areas in Sierra Leone and Guinea.
+
+In Liberia, too, a new case of Ebola was discovered last week, derailing plans to declare the country Ebola-free in April.
+
+As Ebola wanes and the international focus may move on to other problems, "I am terrified Ebola will evaporate from our collective memories," Fukuda says.
+
+And that, he adds, would be tragic.
+

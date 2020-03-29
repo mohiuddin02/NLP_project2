@@ -1,0 +1,76 @@
+The view from the basement laboratory is breathtaking.
+
+Not the one out the tiny windows of the half-underground office.
+
+It's on a smartphone that computer science Prof. Stergios Roumeliotis is using while walking around the depths of the University of Minnesota's Walter Library.
+
+On the screen, a three-dimensional map of a nearby hallway has taken shape.
+
+The map was made by holding the smartphone's camera while moving.
+
+The camera and the phone's motion sensor worked together to create a grid of data points that became a 3-D image.
+
+It's a radical new ability for smartphones and promises to enable consumers to create 3-D maps on the fly.
+
+The software development is being handled by UM grad students who are funded by $1.35 million grant from Google Inc.
+
+The work is part of the company's recently announced Project Tango, a cellphone optimized for 3-D mapping.
+
+"We will soon be able to get smartphone directions for how to go from one place to another in a building, such as how to go from the entrance to my classroom," Roumeliotis said.
+
+"We'll also be able to ask the phone questions, such as, 'Where is the closest place within the airport where I can get coffee?'
+
+" In addition, homeowners could use the software to create a virtual tour of their houses before putting them up for sale, Roumeliotis said.
+
+The software could also help the blind walk through a building or aid a [drone](https://www.newsela.com/?tag=drone) aircraft in navigating.
+
+While the software is being designed to work on a prototype of the new Google smartphone, it will also work on existing smartphones.
+
+Notably, it doesn't use much processing power, about as much as the game "Angry Birds," Roumeliotis said.
+
+"I think this is as big a revolution as when Google Maps first came out or even bigger," said the professor, who is 43 and has been working on map technology since 1995.
+
+"It has the potential to become the Google Maps of the indoor world, and this is where we spend most of our time."
+
+Scott Strawn, senior Google analyst for Massachusetts research firm IDC, said Roumeliotis may be right about the significance of 3-D mapping.
+
+Besides its use on smartphones, the University of Minnesota software is likely to play a major role in 3-D imaging for Google Glass, the company's wearable computer that has a tiny display above the right eye, Strawn said.
+
+For Glass, the software could create much better 3-D "augmented reality," a name used today for overlaying a camera image with explanatory information.
+
+One of the key features of the University of Minnesota software is that it creates a map almost instantly without slowing down the phone's other operations or drawing much battery power, Roumeliotis said.
+
+To do that, the University of Minnesota team had to try some novel design ideas.
+
+For example, unlike most smartphone maps, the new software doesn't rely on global positioning system data because satellite signals aren't typically available inside buildings.
+
+It also does more with less by combining data from the phone's built-in motion sensor with just a fraction of the images produced by the phone's camera.
+
+"We pick which information to process," Roumeliotis said.
+
+"That way we don't choke the phone's processor chip or drain the battery."
+
+The technology is built on some of the university's earlier work with NASA to create navigational software for Mars landing vehicles, Roumeliotis said.
+
+His group got involved in Google's Project Tango after one of his former students went to work at the company and recommended the U researchers.
+
+The university signed a contract with Google last spring.
+
+Roumeliotis said the software that his group is developing for Google "will be ready within less than a year."
+
+But Strawn thinks Google won't offer the University of Minnesota software as a mainstream product for several years.
+
+That would give app developers time to come up with 3-D applications that can take advantage of the technique.
+
+"It will be introduced in the same way that Google released Glass, years before it anticipated the product would be broadly distributed," Strawn said.
+
+It's not unusual for Google to reach out to universities for help in creating new technology, Strawn said.
+
+"There's a lot of valuable brainpower in the university system, and that's what Google needs to move these projects forward," he said.
+
+"We're on the frontier of this kind of mapping," Roumeliotis said.
+
+"You could map the inside of the Mall of America today using a computing center with a lot of processing power and a lot of time.
+
+Our plan is to do that on a cellphone in almost real time, with the time lag getting smaller and smaller."
+

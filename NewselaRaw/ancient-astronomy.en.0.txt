@@ -1,0 +1,59 @@
+The shoebox-size chunk of bronze didn't attract much attention when divers retrieved it from an ancient shipwreck off the Greek island of Antikythera in 1901. Archaeologists on the expedition had their hands full with far more impressive finds, including life-size statues of warriors and horses, delicate glass bowls and scores of ceramic vessels called amphorae.
+
+Decades would pass before scientists realized that the nondescript bronze — now called the Antikythera Mechanism — was the biggest treasure of all.
+
+The device consisted of a series of intricate, interlocking gears designed to predict eclipses and calculate the positions of the sun, moon and planets as they swept across the vault of the sky.
+
+The machine exhibited a level of technological sophistication no one dreamed was possible when it was built, at least 2,000 years ago. Europe produced nothing to equal it until the geared clocks of the Medieval period, more than a thousand years later. Some scholars describe the Antikythera Mechanism as the world's first analog computer.
+
+"The amazing thing is the mechanical engineering aspect," says James Evans, a physicist and science historian at the University of Puget Sound in Tacoma, Washington. He is part of an international group working to crack the puzzle of the device's origins and purpose. Evans recently added a new twist with an analysis that suggests it dates to 205 B.C. — as much as a century earlier than previously believed.
+
+If he's right, it is more likely that the Antikythera Mechanism was inspired by the work of the legendary Greek mathematician Archimedes. It would also mean the device was built at a time when scientific traditions from multiple cultures were coming together to create a new view of the cosmos.
+
+"Pushing the date back is exciting," Evans said. "We think it would be highly significant because it could change the picture of the development of Greek astronomy."
+
+While excitement over ancient astronomy might not be widespread, the mechanism's discovery and the mystery that surrounds it are so steeped in drama it inspired a popular science book and an episode of "Nova."
+
+Greek sponge divers stumbled across the wreck of the Roman galley in 1900, after being blown off course and taking shelter in the lee of the tiny island north of Crete. During underwater excavations the next year, they hauled up one of the richest bounties of Greek artifacts ever uncovered — but one diver died and two others were crippled from working at depths of up to 200 feet.
+
+French explorer Jacques Cousteau visited the site in the 1950s and 1970s, using an underwater vacuum to suck up sediment and reveal buried objects.
+
+Scientists think the ship was a merchant vessel that foundered around 60 B.C.
+
+Archaeologists eventually identified more than 80 corroded fragments believed to be part of the Antikythera Mechanism, including the shoebox-size piece with dials and gears clearly visible on the surface.
+
+The real breakthrough in understanding came in 2005, when a team of scientists used X-ray tomography to peer through the encrusted metal and reveal the layers of gears inside. Digital techniques yielded the first sharp images of the inscriptions on the dials and casings.
+
+The studies revealed at least 30 interlocking gears, and researchers believe the device held at least two dozen more.
+
+The assembly was housed in a wooden box and operated by a hand crank. Elaborate dials traced the movement of heavenly bodies, while ingenious gearing mimicked the fluctuating speeds at which the moon crosses the night sky, even though the ancient Greeks had no understanding of the elliptical orbit responsible for the effect.
+
+One dial plotted the four-year cycle of Olympic Games. Another predicted the timing of solar and lunar eclipses, apparently down to the hour.
+
+That was the dial that Evans and Christian Carman, of the University of Quilmes in Argentina, focused on for their new analysis, published in the Archive for History of Exact Science.
+
+Based on the style of Greek lettering on the Antikythera Mechanism, previous estimates of its construction date ranged between 150 and 100 B.C. But Evans and Carman took an astronomical approach, comparing eclipse dates on the mechanism to Babylonian eclipse records and a NASA eclipse catalog.
+
+They concluded that the "start date" for the eclipse predictor was 205 B.C.
+
+That doesn't prove the device was built then, but Evans thinks it was. "For us, it seems most likely that it was built close to the period for which it would have worked best," he said.
+
+Science historian Alexander Jones, who was not involved with the analysis, called it "a really remarkable piece of work."
+
+Evans and Carman clearly establish the oldest possible age for the device, said Jones, of New York University's Institute for the Study of the Ancient World. But he's still not convinced it was manufactured that long ago. It's possible that 205 B.C. was a historic date, chosen by the maker as the starting point for his dial, Jones pointed out.
+
+The 205 B.C. date is tantalizing because it would bring the device closer to the lifetime of Archimedes. The genius who revolutionized geometry and invented compound pulleys was killed in 212 B.C. during the Roman conquest of the Greek city state of Syracuse, on the island of Sicily.
+
+A story later told by the Roman orator Cicero claimed that the general who sacked Syracuse brought back to Rome a mechanical brass sphere created by Archimedes that modeled the movements of heavenly bodies.
+
+But the famous inventor died seven years before 205 B.C., and there's no way to link him to the Antikythera Mechanism.
+
+"People should be leery of trying to associate it with any one particular person," Evans said. "But you would have to think that whoever built this must at least have made use of what Archimedes had done, or came out of a tradition that started with Archimedes."
+
+If the date holds up, it would also mean that the device was built before the invention of trigonometry, a branch of mathematics long linked to the golden era of Greek astronomy.
+
+"I think that would make it much more interesting, because it would come from a more formative period of Greek astronomy," Evans said.
+
+Future revelations about the device may hinge on the discovery of additional fragments. A new series of underwater excavations started last year and will resume in the spring.
+
+This time, divers will be able to spend hours instead of minutes on the bottom, using a pressurized robotic suit developed in Vancouver, British Columbia, and originally used to inspect New York City's water system.

@@ -1,0 +1,106 @@
+The promise of virtual reality is that it will transport you to new worlds: Putting on a headset is like stepping into a portal to the unknown.
+
+That portal has opened wider this month, as two of the major players in the field offered fresh glimpses of their tech.
+
+Oculus VR unveiled more information about its headset earlier this month, and Sony provided more details on the launch of Project Morpheus at E3, the video game trade show that ended last week.
+
+When consumer versions of these devices land in 2016, they will help define the next level for video games.
+
+But the technology still faces doubts and uncertainties as it closes in on a long-awaited consumer debut.
+
+The roots of virtual reality lay partly in the Bay Area.
+
+Inventor Jack McCauley said his lab here was the ground floor where Oculus, a VR leader that was purchased by Facebook for $2 billion last year, started in 2012.
+
+It was where the Kickstarter video for the device was filmed, and the former Oculus vice president of engineering said McCauley had a hand in the design of the prototypes and the production of the development kits that went out to the crowdfunding backers.
+
+McCauley ushered along the development of the headset and solved issues with head tracking and the LCD screens they used in the device.
+
+But some of the major issues with virtual reality, namely motion sickness, remain.
+
+"It's a mismatch of what your eyes are seeing and your ears are feeling" that makes players feel queasy, he explained.
+
+When done right, virtual reality can produce a sense of speed and vertigo.
+
+In "EVE: Valkyrie" on Project Morpheus and Oculus Rift, players are in a spaceship engaged with other crafts.
+
+Peering over the cockpit, they get a deep sense of the vastness around them.
+
+When it's done wrong, virtual reality can produce nausea.
+
+That can happen in first-person experiences such as the indie game "Narcosis," in which players explore an undersea facility.
+
+Part of the reason for that is the choppy and blurry motion that users see, McCauley said, but he believes Oculus will resolve the issue.
+
+There's also an issue with pixels.
+
+Because the headset screen is so close to a player's face, they can see the dots that make up an image, ruining the sense of immersion.
+
+It's akin to looking at the world through a screen door.
+
+Oculus and other companies are resolving these issues by improving the hardware in the headsets, but the other half of the solution lies in the software.
+
+Developers have to learn new game-making techniques to reduce motion sickness and improve the experience.
+
+"We haven't figured out the grammar of VR storytelling," said Nick Whiting, a senior programmer at Epic Games working on VR integration.
+
+"We're adding presence and interactivity to a virtual world.
+
+We don't have the rules" on what makes a good virtual reality experience yet, he said.
+
+That will take some experimentation as developers figure out what impresses players and what makes them hurl.
+
+In Epic's "Showdown" demo, Whiting said his team discovered that it's best to have an object near the user because it gives them a frame of reference.
+
+That could be soldiers being shot down by a robot or it could be a trash can flipped in the air.
+
+A focus on how a camera moves and how studios stage a scene becomes more important.
+
+Richard Marks, senior director of research and development at Sony Computer Entertainment America, compares the change in mindset between flat-screen gaming and virtual reality in terms of film and theater.
+
+"With a movie, you always know where someone is going to be looking," he said.
+
+"With theater, they may be looking at the wrong side of the stage when something important happens."
+
+Developers will have to think of ways to guide a player into seeing pivotal scenes or vital clues.
+
+Spatial 3-D audio along with tactile feedback from controllers will be a vital component, Marks said.
+
+The audio acts as the backbone, letting users know what's going on beyond their peripheral vision while feedback from controllers reinforces the immersion.
+
+Just a rumble from a controller can convince players' brains that their hand did bump a table or fire a gun.
+
+The advent of virtual reality also means some popular video game genres face an upheaval, while long-forgotten ones will be reinvigorated and new types of games could emerge.
+
+Flight simulators and racing games lend themselves to the experience well because players are in the same position as their avatar in the virtual world.
+
+The same can't be said for first-person shooters, which Marks said will have to change.
+
+"I don't think those genres will be cut off from VR, but they'll have to be reinvented," he said.
+
+Shooters will have to slow down from the frenetic "Call of Duty" pace.
+
+Then there's the possibility of new genres and twists to old ones.
+
+Marks brought up the idea of a tower defense game in which players can see the action from above and bend down to create a better gauntlet.
+
+Meanwhile, Whiting sees potential in horror games that are truly terrifying.
+
+Beyond gaming, there's the potential to bridge the gap between people who live long distances.
+
+One of the overlooked benefits of virtual reality is that it gives players a sense of presence.
+
+Two people can be hundreds of miles away, but in the virtual world, they can feel like a friend is next to them, Marks said.
+
+Whiting and McCauley see promise in architecture and virtual concerts, respectively.
+
+Instead of firms showing clients mock ups of buildings, the customer can don a headset and go on tours, showing what the space would look like.
+
+They can easily change the texture of a floor from wood to carpet, and clients can offer feedback.
+
+There's even the possibility of seeing concerts in virtual reality so viewers can feel as though they were at the venue.
+
+"A lot of VR is being in those cool spaces," Marks said.
+
+"You can be instantly enraptured."
+

@@ -1,0 +1,102 @@
+When you email someone, your message travels across the Internet with amazing speed.
+
+Suppose you were in San Francisco, and the other person was in New York City.
+
+Your message would take only around a second to travel across the country.
+
+However, such speeds aren't quite fast enough for musicians.
+
+Sounds too can travel from computer to computer, but not fast enough for musicians to play together from very far away.
+
+Musicians dream of a day when notes will be able to travel across the Internet at super-fast speeds.
+
+People all over the world would then be able to play music together just as if they were in the same room.
+
+Right now, there are big problems when musicians in far-apart places try to perform together online.
+
+Musicians in one place have to wait to hear the notes musicians in another place have played.
+
+Playing together naturally is very difficult.
+
+So musicians are excited by a new effort to make computers much faster.
+
+The plan is to make them so fast that they approach light speed.
+
+Light travels at about 186,000 miles a second, the fastest anything in the universe can go.
+
+The new effort was launched in October.
+
+It is led by scientist Brighten Godfrey.
+
+The goal is a smoother, faster Internet.
+
+Godfrey's team imagines instant-messaging chats that don't slow down.
+
+They imagine videos that don't slow down or freeze.
+
+They also imagine musicians in Hawaii and Antarctica performing together perfectly.
+
+The problem right now is the time delay that happens when a signal travels across a computer network.
+
+A computer network is simply a group of computers linked together.
+
+A computer signal contains coded information.
+
+The information is seen or heard on the other end as words, pictures or sound.
+
+Signals travel the Internet about 10 times slower than the speed of light.
+
+Often, they are 100 times slower.
+
+Right now, a signal takes a second or even longer to travel from San Francisco to New York.
+
+If it were traveling at the speed of light, it would take just 27 milliseconds.
+
+A millisecond is one-thousandth of a second.
+
+Right now, musicians in the same town can jam together online.
+
+However, it's far tougher if great distances separate them.
+
+A concert last month at California's Stanford University suggests what might be possible.
+
+It made use of the university's high-speed Internet connection.
+
+Thirteen musicians took part, performing in different places.
+
+The players were at Stanford, and in Santa Barbara, California; Virginia and Mexico.
+
+All were linked together by Stanford scientist-musician Chris Chafe.
+
+Microphones sent music into a computer.
+
+The sounds then zipped through the network to distant computers.
+
+From there, they went into loudspeakers and were heard almost immediately far from where they were played.
+
+When musicians in one place heard sounds from far away, they answered with their own sounds.
+
+It took 46 milliseconds for the bass and piano notes from Virginia to reach Stanford.
+
+It took another 46 milliseconds for Chafe's cello to be heard back in Virginia.
+
+Speeds were around the same for the flute sounds coming from Mexico.
+
+Santa Barbara is much closer to Stanford than the other two places.
+
+It took only 7 milliseconds for sounds from there to reach Stanford.
+
+The show seemed like a miracle.
+
+Chafe said the concert was possible for two reasons: because Stanford's Internet connection is fast enough — and the music was slow enough.
+
+Other kinds of music might be very difficult to play.
+
+Godfrey's team will try to figure out what is slowing down computer signals.
+
+They will look closely at everything that happens when a signal travels across a network.
+
+"We couldn't have dreamed, 30 years ago, that we'd be where we are," said Godfrey.
+
+"Now we are trying go beyond where we are, to truly bring the whole world together."
+

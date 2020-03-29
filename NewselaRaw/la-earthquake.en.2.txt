@@ -1,0 +1,41 @@
+LOS ANGELES — Scientists who study earthquakes often find that ocean waves get in the way, especially in California. As the water hits the coast, it creates tiny seismic waves that interfere with researchers' efforts to listen for the bigger waves created by quakes. Seismic waves are waves of energy that move through the Earth.
+
+Now scientists at Stanford University and Massachusetts Institute of Technology have figured out a way to use ocean waves to recreate the ground motion that occurs in real earthquakes. They have also confirmed that Los Angeles is particularly at risk if there is a quake along the southern San Andreas Fault. The San Andreas Fault is where two pieces of the earth's crust meet under California. The two pieces push against each other. That sometimes causes earthquakes.
+
+A big earthquake could create shaking in Los Angeles that is three times stronger than in surrounding areas, the team reported. That's because the city sits atop a soft piece of the Earth, they said.
+
+They published their findings Friday in the journal Science.
+
+## Think Of A Shaking Bathtub
+
+The new technique is being used to better understand the effect of shaking on cities that have not had a large earthquake in recent years, said Marine Denolle. She is the lead author of the Science study. Scientists are not trying to predict when an earthquake will happen. Instead, they are trying to predict how the shaking will occur and how it will affect structures, especially tall buildings.
+
+Ocean waves create seismic waves. But those waves are billions of times weaker than the seismic waves produced by earthquakes. Scientists have a word for the effect of the ocean waves: noise.
+
+Denolle and other researchers are starting to see this noise differently.
+
+"There's a push toward using this noise and turning that into information that you would not have had otherwise," she said. "We're using that signal in a very different way." They use it to try to predict how the ground will move in an earthquake.
+
+The weak seismic waves move through the same earth that stronger earthquake waves move through. Scientists have been getting better at picking out the weaker waves. They can study how those waves move underground.
+
+For the Science study, Denolle installed seismometers along the San Andreas Fault in the spring of 2010. The seismometers are devices that were used to measure the weak seismic waves. The waves acted as substitutes for seismic waves created by earthquakes. They showed that seismic waves from the southern San Andreas Fault will become bigger when they reach the soft earth beneath Los Angeles.
+
+The effect, Denolle said, can be compared to shaking a bathtub with water in it. In this case, the water represents the soft ground. The tub represents the solid rocks around it. If you shake the tub, she said, the bathtub itself will not shake much, but the water will. So would anything on top of it.
+
+## Now Think Of Shaking Soft Ground
+
+Donelle was a grad student at Stanford during the study. She is now continuing her research at the University of California.
+
+Other cities rest atop sedimentary basins, too. Those include Tokyo and Mexico City, said Denolle.
+
+These cities all have an extra threat if earthquakes hit because the shaking can be worse, said Greg Beroza. He is a professor at Stanford and co-wrote the study. The research group plans to test this new method in other parts of Southern California and in other cities around the world, he said.
+
+The new method is known as the virtual earthquake technique. It was developed as a way to test computer models of Southern California earthquakes, Beroza said. And indeed, the virtual earthquakes confirmed the results from computer models. They showed that Los Angeles will shake more strongly than surrounding areas.
+
+"The earthquake threat is real for Southern California," Beroza said. "Sometime in the future we'll have a big earthquake in Southern California, and these sorts of studies can help us anticipate the reach of these earthquakes." This can motivate the public and governments to prepare for them, he said.
+
+The new study "reinforces the need for earthquake preparedness," said Robert Graves. He works for a government program that keeps track of the dangers from earthquakes.
+
+The research independently backs some ideas that have been around for years. The new research is attractive in that it uses real seismic waves and "gives us some confidence that we're on the right track with the computer models," he said.
+
+"We live in earthquake country in Southern California," Graves said. "It's virtually certain that we will have a damaging earthquake in the future." He says that the study is useful because it will allow people to design buildings that will be safer during an earthquake.

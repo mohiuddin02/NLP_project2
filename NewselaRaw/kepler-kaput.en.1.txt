@@ -1,0 +1,53 @@
+SAN JOSE, Calif. — Crippled in space, the Kepler spacecraft's planet-hunting days are likely over. But its discoveries may be yet to come.
+
+Scientists have only begun to dig through its vast trove of data, where proof of another Earth-like planet may be hiding like a needle in a haystack.
+
+"The signals are there, in the data we have now — we have to search for them," said William Borucki, a space scientist at NASA's Ames Research Center in Mountain View, California, and the Kepler mission's principal investigator.
+
+For the past four years, the $600 million Kepler has been a prolific planet detector from its lonely orbit, fixing its meter-wide lens on stars to detect the subtle dimming that occurs every time a planet passes in front of its sun.
+
+The project has been a stunning success, changing our view of the universe. Before Kepler, we knew little about other solar systems in the Milky Way galaxy. Now we have a huge inventory; it has taught us that planets orbit virtually every star in the sky, spurring the field of planetary science.
+
+The spacecraft lived as long as it was supposed to, but scientists had hoped it would survive far longer. That is because planet hunting proved to be tougher than anticipated. For instance, other astrophysical signals can masquerade as a transiting planet, and stars naturally fluctuate in brightness.
+
+## Working With Data They Have
+
+If the spacecraft and program funding had lasted until it ran out of fuel - in 2019 - it would have collected so much data that signs of an Earth-like planet would have been easily confirmed, the researchers said. The Kepler program has paved the way for two more planet-seeking missions.
+
+"We'll work with what we have," said co-investigator Alan Gould at the University of California, Berkeley. "We need to make the most of the data that it has already gotten and is still in the pipeline." Since last July, two of Kepler's four gyroscopes have broken, making it unable to take a steady photographic aim at distant stars.
+
+Engineers will try to bring the failed devices back into service, or find other ways to salvage the spacecraft.
+
+So far, Kepler's first 22 months of data have found planets that are quite obvious, but most are in the wrong neighborhoods to sustain life - either too close, or too far away, from their suns. Or they are very big and gaseous, like Jupiter or Saturn.
+
+Kepler identified more than 2,700 candidate planets and confirmed 132 since its 2009 launch. Its telescope revolutionized scientists' appreciation of the number and variety of so-called exoplanets, the bodies that orbit other stars, said Geoff Marcy, an astrophysicist and co-investigator on the Kepler mission.
+
+Most recently, it revealed some planets circling in the right orbit — the "habitable zone" — around stars Kepler 62 and 69. To be in a habitable zone, a planet must be where temperatures and conditions are suitable for a planet to hold liquid water, which is very important for sustaining life.
+
+## Similarities And Differences With Earth
+
+NASA first disclosed that those planets had been found in April. Researchers noted that the conditions on the planets were still different than those on Earth, but with some similarities. For example, the illumination on one was said to be similar to that of walking on Earth on a cloudy day even though the sun it orbited would appear larger than our sun. One planet was said to possibly be rocky, with polar regions, land mass and seas.
+
+By using sophisticated methods of analysis and calculation, astronomers can work out the size and position of the passing planet. Two years of data await study.
+
+"We haven't seen the most interesting data," said Natalie Batalha, deputy science team leader for the Kepler mission and a professor at San Jose State.
+
+"The most important discoveries are yet to come. They're in our back pocket," she said. "If true Earth-sun analogs exist, they're lurking there just waiting to be pulled out."
+
+More years of study would have given scientists the chance to see more transits, confirming an orbit like the Earth's. They also could have better estimated the planets' mass, size and other properties — and ruled out errors.
+
+"It's so frustrating. It's such a nail-biter," said Laurance R. Doyle of the SETI Institute. "We are almost there. We really wanted to go the next mile to nail down an Earth and to tell if there are moons," he said. "The extended mission, with extra transits, would have told us that."
+
+Added UC Berkeley's Gould: "The longer you go ... the more certain you are that it is a planet."
+
+Because Kepler's data flow has stopped, it is even more important to understand the data received and look more closely for subtle patterns that might suggest an Earth-like planet.
+
+## Keeping Kepler's Memory Alive
+
+The pressure is on such computer experts as Erik Petigura, a UC Berkeley astronomy graduate student who works with Kepler scientist Geoff Marcy to process the data. "We will extend and improve the software. There are more improvements to be made," Petigura said.
+
+"But all the simple and easy things have already been implemented," he cautioned. "Eventually we'll hit a limit."
+
+While lamenting what could have been, the scientists said they are excited by what remains. "It could have all ended on the launchpad," Gould said. "We are delighted to have been a part of such a beautiful and almost perfect mission."
+
+Scientists also have two more missions to look forward to. The Transiting Exoplanet Survey Satellite, or TESS, will use a similar method to Kepler to find nearby exoplanets after its scheduled launch in 2017; and the James Webb Space Telescope, set to launch in 2018, will use its infrared vision to scan TESS's  finds for signs of organic molecules.

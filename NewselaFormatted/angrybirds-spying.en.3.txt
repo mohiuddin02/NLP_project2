@@ -1,0 +1,112 @@
+New government documents suggest that spy agencies can collect personal information from smartphones across the globe.
+
+They get the information when people play games or use apps on their phones.
+
+The documents were leaked by Edward Snowden.
+
+He used to do work for the National Security Agency (NSA), a U.S. spy agency.
+
+These aren't the first documents he's leaked.
+
+Over the past several months he's released other documents and given them to a newspaper.
+
+The documents show how the NSA watches Americans' phone calls and emails.
+
+The newest documents were published Monday by The New York Times.
+
+The British newspaper the Guardian and ProPublica also published the documents.
+
+Apps are common on the world's roughly 1 billion smartphones.
+
+People download map apps, games, and social networking apps like Facebook.
+
+The leaked documents suggest that America's NSA and Britain's GCHQ spy agency have worked together to gain information from the apps.
+
+Some apps are considered "leaky."
+
+The apps can feed huge amounts of personal information to the spy agencies.
+
+A person's location can be found.
+
+Even details such as a person's political or romantic interests can be discovered.
+
+The size of the program isn't known.
+
+Yet, the reports suggest that U.S. and British intelligence can easily collect information from apps.
+
+Two of the biggest apps mentioned in reports are "Angry Birds" and Google Maps.
+
+A 2008 document from the GCHQ describes the spying program.
+
+It says that the program "effectively means that anyone using Google Maps on a smartphone is working in support of a GCHQ system."
+
+The NSA did not directly comment on the reports.
+
+The NSA says that it is not interested in "the smartphone or social media communications of everyday Americans."
+
+The agency says it collects "only those communications that we are authorized by law to collect."
+
+The agency says that it monitors phones for good reason.
+
+Often, they are used in planning terrorist activities like bombings.
+
+GCHQ said it does not comment on spying.
+
+It insisted, however, that all of its activity was legal and "necessary."
+
+It's been known for a while that spy groups are interested in cellphones and the networks they use.
+
+Several of Snowden's previous leaks said as much.
+
+The interest in apps, however, is new.
+
+It shows how even harmless-looking pieces of software can be used for spying.
+
+"Angry Birds" was one of the most eye-catching examples.
+
+The addictive game has been downloaded more than 1.7 billion times worldwide.
+
+The game lets players fling birds at pigs to destroy them.
+
+The Times and ProPublica said a 2012 British spy report laid out how to gather "Angry Bird" users' information from phones.
+
+Another document published to the Web was a 14-page-long NSA slideshow.
+
+It listed a host of other apps.
+
+Ones made by Facebook, photo sharing site Flickr, and the film app Flixster were being monitored.
+
+It wasn't clear precisely what information can be collected.
+
+And from which apps.
+
+One of the slides gave the example of a user who uploaded a photo using a social media app.
+
+A phone's settings, where it connected to, and which websites it had visited could be looked at.
+
+Also, which documents it had downloaded and who its users' friends were could all be found.
+
+Google did not immediately comment on the reports.
+
+Neither did Rovio Entertainment, the maker of "Angry Birds."
+
+The Times briefly posted a secret U.S. document on the smartphone spying to the Web Monday.
+
+It contained material that appeared to publish the name of an NSA employee.
+
+Computer experts said they were able to discover the name of the employee.
+
+They also picked out the name of a Middle Eastern terror group the NSA was targeting.
+
+Details about the types of computer files the NSA considered useful were also found.
+
+Snowden began leaking documents in June.
+
+His supporters have claimed they have been careful not to release the names of any spies.
+
+They claim to have kept quiet any details that could put ongoing spying at risk.
+
+A Times spokeswoman said the information had been posted by error.
+
+The material has since been removed.
+

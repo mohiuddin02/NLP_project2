@@ -1,0 +1,39 @@
+Fire ants may be famous for their vicious sting. But they're also remarkable builders, able to quickly assemble a working raft out of their own bodies and sail through dangerous flood waters. Until recently, their secrets have remained hidden from view.
+
+Now, scientists are able to peer into the heart of fire-ant rafts. They have discovered how the individual insects link their bodies together to create these remarkably strong yet lightweight structures. This knowledge, described in a paper in the Journal of Experimental Biology, may one day help engineers build self-healing buildings and bridges.
+
+The towers, bridges and boats that ants build are remarkable. They're strong and light and adapt to their surroundings. Ants are both the construction workers and the raw materials. They use their bodies like the beams in a building, but instead of screwing or nailing those beams together, they reach out and touch each other.
+
+"It's like their bodies are covered in Velcro," said study co-author David Hu, a mechanical engineer at the Georgia Institute of Technology.
+
+## The Ants Get A Grip
+
+Researchers are just beginning to probe the complexity of ant architecture. A recent study found that ants place their babies at the bottom of a raft to make it better able to float.
+
+But it's hard for researchers to see how the rafts are put together with all those ant bodies blocking the view. They could use a CT scanner, which uses X-rays to look through the structure, but the medical device is built on a scale for humans. And the ants' legs are so thin that they don't show up.
+
+Instead, researchers at Georgia Tech managed to capture its complex structure using a micro CT scanner, which is typically used to image the tiny 3-D structure of bones. Scientists put 110 live ants in a beaker of water and swirled it around so the ants would start to form tiny rafts. They then flash-froze the ants and examined them under the scanner. They did this four times, for a total of 440 ants and 2,640 legs, since each ant has six limbs.
+
+They found, to their surprise, that 99 percent of the legs were linked together, while only 26 remained unconnected. These ants sure knew how to get a grip on each other.
+
+"We were surprised at how effective they are at finding links," Hu said. "We thought oh, maybe half the ants would be linked."
+
+## Reach Out, But Not Too Close
+
+The scientists also found that the ants positioned themselves on a 90-degree angle to each other. Doing this makes the raft more adaptable, allowing it to expand and contract when needed.
+
+Not all ants were created equal. While most of the ants could have a maximum of five connections, some ants were about three times larger and could connect up to 20 legs. With "more parking spots for little legs," as Hu put it, their enormous bodies acted as hubs for limbs, like a tiny bicycle wheel hub connecting the spokes. In buildings, the point where many beams intersect is a key area of strength.
+
+Even though the ants were reaching out to each other, they didn't huddle. The ants purposely kept each other at arms' length. By creating these big spaces between each connected ant, the insects were making their raft more porous, and thus less dense. So even though an ant's body is denser than water, the rafts are only one-fifth as dense and thus can easily float on the surface.
+
+## Tiny Ancient Architects
+
+"In some ways they're building a whole new kind of material," Hu said. "The individuals are just ants but how they're arranged affects its material properties."
+
+Hug said the structure was quite a bit like bone in that way — very porous and light, but still very strong.
+
+Next, researchers want to explore much larger ant clumps and towers, which can include 10,000 to 100,000 ants, Hu said.
+
+Self-healing buildings and ships, able to quickly respond to changes in the environment, may sound like technology from the future. Or, they may seem just straight out of science fiction.
+
+But "from the ants' perspective, this is an ancient thing," Hu said.

@@ -1,0 +1,76 @@
+Anyone who's ever learned music probably remembers reaching a point when they just played without "thinking" about the notes.
+
+It turns out that a little bit of disconnect goes a long way in learning motor tasks, according to a study published online Monday in the journal Nature Neuroscience.
+
+The findings could lend insight into why children learn some tasks faster than adults, and could point toward ways to help adults learn faster and to make classrooms more conducive to learning, according to the authors.
+
+Brain researchers at UC Santa Barbara repeatedly scanned the brains of volunteers as they spent several weeks practicing and learning six 10-note sequences.
+
+Then they looked at the evolution of how certain "modules" appeared to work together or became disengaged from each other.
+
+Not surprisingly, motor and visual modules did a lot of talking to each other, as slow sight-reading eventually became speed-playing.
+
+Subjects recruited other regions of the brain to work out the problem, too.
+
+That was true for fast learners and slow learners, according to the study.
+
+But what appeared to set the fast learners apart from the slow learners was how soon they let go of those other parts of the brain, particularly areas that have to do with strategies and problem solving.
+
+"Any athlete will tell you this: If you're competent at something and you start thinking about it, especially at a detailed level, you're just dead in the water," said UC Santa Barbara systems neuroscientist Scott Grafton, who has puzzled over motor learning for two decades.
+
+"Golfers talk about this all the time.
+
+It's OK for practice, but not for performance conditions."
+
+This time, Grafton collaborated with a physicist — and now a MacArthur Fellow — who specializes in complex systems theory.
+
+Danielle Bassett, now at the University of Pennsylvania's bioengineering department, broke up the brain images into 112 nodes and reorganized them into complicated matrices to reveal the equivalent of social networks.
+
+Then she analyzed how these evolved over time, and how that predicted differences in learning.
+
+That reshuffling revealed a more dynamic map of the brain, characterized by recruitment, integration and shifting allegiances over time.
+
+"If people are learning and changing their behavior, then there must be something that's changing in their brain," Bassett said.
+
+"The brain can't be constant.
+
+It has to be changing in some way."
+
+Motor and visual modules, they found, were well integrated across all subjects and for much of the early practice sessions.
+
+But soon, they became more autonomous.
+
+"That actually makes a lot of sense," Bassett said.
+
+"The task required motor-visual integration at the beginning, because you see a set of musical notes and then you have to play them with your fingers....
+
+But then, as people learned the sequences over and over again, they seemed to not necessarily need that coupling anymore."
+
+Still, that change in integration didn't explain differences in learning among the volunteers.
+
+"It's just consistently seen across everybody," said Bassett.
+
+"But this disconnection of the rest of the brain is very strong in good learners and very weak in poor learners.
+
+That seems to be really important."
+
+The disconnection that appeared to be driving the difference in learning came mainly from the frontal and anterior cingulate cortex.
+
+Those are associated with cognitive control — such as identifying strategies.
+
+"These are important probably early on in learning, but you actually need to get them offline and disconnected if you want to complete learning," Bassett said.
+
+That result might offer an explanation for why children consistently learn certain tasks faster — music among them.
+
+Areas of the brain involved in executive function are not fully developed and integrated in children, research has shown.
+
+Bassett said she would like to extend the research to younger subjects — the UC Santa Barbara volunteers were college-aged — and to other types of learning that are more complex.
+
+And among adults, it could be possible to force these areas to disengage, through such tools as magnetic stimulation, Bassett said.
+
+Eventually, the study's techniques could help figure out what kind of classroom environment encourages children to learn faster, she added.
+
+Even more fundamentally, the mathematical modeling used in the study could transform the way neuroscientists map the brain.
+
+"What complex systems theory does is it allows you to look at the entire data set, the entire system — all of its parts and all of its connections — at once, and look for a salient feature," Bassett said.
+

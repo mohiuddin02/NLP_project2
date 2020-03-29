@@ -1,0 +1,94 @@
+After 36 years of space travel and months of heated debate among scientists, NASA confirmed Thursday that Voyager 1 left our solar system and indeed entered interstellar space more than a year ago.
+
+"Voyager has boldly gone where no probe has gone before, marking one of the most significant technological achievements in the annals of the history of science," said John Grunsfeld, NASA's associate administrator for the Science Mission Directorate.
+
+At a Thursday news conference in Washington, officials said the belated confirmation was based on new key evidence involving space plasma density.
+
+The evidence was outlined in a paper published online Thursday in the journal Science.
+
+Lead author Don Gurnett, an Iowa State plasma physicist and a Voyager project scientist, said the data showed conclusively that Voyager 1 had exited the heliopause — the bubble of hot, energetic particles that surrounds our sun and planets — and entered into a region of cold, dark space called the interstellar medium.
+
+"When we got that data, I and my colleagues just looked at each other and said, 'We're in the interstellar medium.'
+
+It was just that clear to us," Gurnett said.
+
+Gurnett calculated that Voyager crossed the edge of the heliosphere, or heliopause, at or around Aug. 25, 2012.
+
+Scientists had begun to debate Voyager's whereabouts earlier this year, when it was clear that the probe was being bombarded by an increasing number of galactic cosmic rays and that the number of high-energy particles from inside the heliosphere had plummeted.
+
+However, NASA scientists said they could not be certain Voyager had left the solar system until surrounding magnetic fields changed direction.
+
+After waiting for that change for more than a year, however, officials conceded that the magnetic field change was not a necessary indicator.
+
+"It's a big surprise, and it's another mystery," said Ed Stone, a Voyager project scientist at Caltech.
+
+"This is not what our models were telling us.
+
+We have to address this issue, but right now ... we don't understand."
+
+Confusion over Voyager's whereabouts has a lot to do with the failure of one specific piece of equipment, the spacecraft's plasma science experiment, or PLS.
+
+The device, which was developed at MIT, measures the electron density of space plasma: ionized gas that is ejected from our sun as well as other stars.
+
+Cool plasma, the product of stars that exploded millions of years ago, populates interstellar space and is very dense.
+
+It has about 100,000 electrons per cubic yard of space.
+
+Super-heated plasma, like the solar wind that flows from our sun, fills the heliosphere.
+
+It is much less dense, with only about 1,000 electrons per cubic meter, Gurnett explained.
+
+A functioning PLS would have been able to sense the rising density change as Voyager exited the heliosphere.
+
+"The instrument failed in 1980, so the spacecraft is sort of instrument-challenged," Gurnett said.
+
+"That's really one of the major failures we've had.
+
+There really aren't that many."
+
+Voyager does, however, have two plasma wave antennas that stretch from its base in a wide V shape.
+
+The antennas, which are connected to a radio transmitter, detect the vibration of plasma particles.
+
+The device will convert the oscillations into an audible noise that is recorded on Voyager's vintage eight-track tape recorder.
+
+The frequency of the noise is associated with a specific density of plasma.
+
+The higher the frequency, the denser the plasma.
+
+The only trouble is that something has to excite the plasma for it to "ring," something like a large solar flare.
+
+Waiting for a solar flare can take years during a period when there is not a lot of solar activity.
+
+Also, when a flare does occur, it can take as long as a year for the shock wave to reach Voyager 11.6 billion miles away.
+
+Fortunately for Voyager scientists, the antennas picked up two long-lasting vibrations.
+
+The first was in October and November of 2012 and the second was in April and May of this year.
+
+In both cases, the frequency suggested that the plasma was cold and dense.
+
+Voyager was in interstellar space.
+
+"It was key evidence," Stone said.
+
+"We really needed to measure plasma to know if we were inside or outside the heliosphere."
+
+Gurnett and his colleagues arrived at the crossing date of Aug. 25 by extrapolation.
+
+Plasma density was increasing in a straight line as Voyager moved farther from the heliosphere and into the interstellar medium.
+
+The frequency measured in the fall of 2012 was 2.2 kilohertz, and by the spring of 2013 it had risen to 2.6 kilohertz.
+
+Previous research told Gurnett that the frequency of the radio signal at the crossing point should be 2 kilohertz, and so by plotting each point on a line, he was able to arrive at a date.
+
+Scientists are hoping that many gaps in our understanding will be filled in by Voyager 2.
+
+The sister spacecraft, which was also launched in 1977, is nearing the edge of the heliosphere.
+
+It is traveling a different path and is expected to reach interstellar space sometime within the next several years.
+
+Unlike Voyager 1, however, Voyager 2 has a fully functioning plasma science instrument and has been sending back density readings throughout its journey.
+
+"I think it's going to teach us even more about this region," Stone said.
+

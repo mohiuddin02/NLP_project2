@@ -1,0 +1,106 @@
+From baby boomers fearing memory loss to college students wanting a mental boost, interest in brain-training products is soaring.
+
+Yet among leading scientists, there is persistent scrutiny and skepticism.
+
+Last year 70 cognitive researchers signed a statement speaking out against computer-based games that promise better cognitive performance, citing a lack of scientific evidence to back such claims.
+
+Within this morass of hype and hope, at least two companies have committed to rigorous testing of their digital products to treat specific health conditions before making them available on the market.
+
+Boston-based Akili Interactive Labs and Posit Science in San Francisco are preparing to conduct controlled clinical trials in order to have their therapeutic games approved by the U.S. Food and Drug Administration—a requirement for medical devices that doctors prescribe.
+
+The road to FDA approval is long and expensive but promising preliminary studies have encouraged both companies to move forward.
+
+The games under development at the two companies emerged from neuroscience and aging research at the University of California, San Francisco (U.C.S.F.).
+
+At the annual meeting of the American Academy of Child & Adolescent Psychiatry on Wednesday, Akili Interactive Labs presented data from a pilot study of its video game, Project: EVO, that showed some positive results in children with attention-deficit hyperactivity disorder (ADHD).
+
+Approximately 6.4 million in the U.S. and one-tenth of children worldwide suffer from the condition and struggle with paying attention and controlling their impulses.
+
+The company paid scientists at Duke University School of Medicine and Florida Clinical Research Center to run a four-week study involving 80 children ages eight to 12—40 with ADHD who were not taking medications and 40 neurotypical, or those whose functions were within a normal range.
+
+Participants played the game 30 minutes a day for five days a week.
+
+Based on research by U.C.S.F.
+
+neuroscientist Adam Gazzaley, the adventure game has modern graphics and immersive features.
+
+Players tilt their tablet devices to steer a raft down a winding icy river and tap their screens to catch aliens and other objects while avoiding distractors.
+
+As the players improve, the game gets harder.
+
+According to the game's developers, by having players manage quick decision-making on top of a continuous motor task, Evo's software is designed to strengthen neural circuits responsible for key cognitive functions, such as attention and working memory, which typically become impaired in those suffering from ADHD.
+
+These circuits "enable us to properly assimilate multiple streams of information to control and prioritize sensory inputs," says Akili co-founder Eddie Martucci.
+
+The hope is that "when you engage in the game pretty intensely for long periods of time, it actually reconditions how the brain processes information."
+
+But the primary aims of the pilot study—typical for initial studies—were not intended as a definitive test of the game's effectiveness.
+
+"We had to make sure the game is safe and well tolerated—to see that kids wouldn't get bored and throw the iPad against the wall," says psychologist Scott Kollins, who directs Duke's ADHD program and helped run Akili's pilot study.
+
+Participants did not get sick of the game.
+
+Nor did it make anyone sick—some action games can make players nauseous.
+
+Furthermore, certain measures of attention, working memory and impulse control improved in the ADHD group.
+
+The benefit seen was comparable to what might be encountered for nonstimulant ADHD drugs such as atomoxetine (Strattera).
+
+The impact was larger in a subgroup of 22 ADHD kids who were more impaired at the start of the study, Martucci says.
+
+Because the cognitive and behavioral analyses were not specified before the study, however, those findings are considered preliminary until confirmed in more rigorous trials.
+
+ADHD experts who were not involved in the study warn the improvements observed in these tests might not carry over into improved functioning in daily life.
+
+Although promising effects were seen in a laboratory measure of attention, Lawrence Scahill says, "what that means in the real world is anyone's guess."
+
+Scahill is a pediatrics professor at Emory University who studies children with specialized forms of ADHD seen with autism and Tourette's syndrome.
+
+Kollins, too, is cautious about Akili's claims.
+
+"What we can say conclusively is that the findings warrant further testing in larger, better-controlled studies," he says.
+
+"Beyond that, you're starting to get speculative."
+
+In the coming months Akili plans to launch a larger ADHD trial with some participants playing a placebo game.
+
+In addition, the company is testing its video game on people with Alzheimer's disease, autism, depression and traumatic brain injury (TBI)—conditions believed to share a common weakness in the brain system that integrates sensory inputs.
+
+Posit Science, co-founded by pioneering neuroscientist Michael Merzenich, has completed a small, randomized trial of its computerized training program for ADHD.
+
+The study, recently submitted for publication, was conducted in India by U.C.S.F.
+
+neurobiologist Jyoti Mishra with funding from the John E. Fogarty International Center, an arm of the National Institutes of Health (NIH) focused on global research.
+
+Based on Mishra's research in collaboration with Merzenich and Gazzaley, Posit's ONTRAC program targets neural circuits responsible for ignoring distraction.
+
+The ONTRAC (Online Neuroplasticity Training for Remediation of ADHD in Adolescent Children) study enrolled 31 children with ADHD in New Delhi.
+
+About half were taking commonly prescribed stimulant medications.
+
+Twenty-one children were randomized to an ONTRAC group and 10 to a placebo group playing nontherapeutic games.
+
+Subjects completed three to five half-hour training sessions per week totaling about 30 hours within six months.
+
+Compliance was not as good as it was for Akili's game; 10 of 21 ONTRAC study participants completed less than half of the training.
+
+Nevertheless, ONTRAC's effects on cognition and behavior, judged by different measures, had the same modest effects as Akili's ADHD group, and persisted when measured six months later.
+
+The ONTRAC trial assessed ADHD symptom severity using a parent rating scale, and measured cognitive performance on tests of attention, response inhibition and working memory.
+
+Mishra has applied for NIH funding for a larger multisite U.S. study of ONTRAC in ADHD.
+
+Posit has ongoing trials for FDA consideration of its brain-training programs in schizophrenia and TBI as well as spatial neglect, a common syndrome following stroke.
+
+The training programs consist of selected cognitive exercises from the company's collection of games.
+
+Posit, for instance, already has products on the market that purport to enhance cognition.
+
+But, to make a claim about treating a specific disease, the company needs FDA approval.
+
+Clinicians who treat ADHD are taking a wait-and-see attitude.
+
+Lawrence Diller, a behavioral pediatrician in the San Francisco Bay Area who wrote the bestseller Running on Ritalin: A Physician Reflects on Children, Society and Performance in a Pill, is a skeptic but commends the companies' attempts to seek regulatory approval.
+
+"They're going about it in a proper fashion," he says.
+

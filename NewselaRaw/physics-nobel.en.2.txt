@@ -1,0 +1,33 @@
+This year the highest award in science went to a discovery that benefits us all: lightbulbs. The 2014 Nobel Prize in physics was given to Isamu Akasaki, Hiroshi Amano and Shuji Nakamura for their discovery of blue light-emitting diodes (LEDs). The lights have enabled bright, energy-efficient lamps and screens like the ones used on flat-screen TVs, computers and cellphones.
+
+"Something like a fourth of our electricity consumption goes to illumination," Nobel Prize committee member Professor Olle Inganäs of Sweden said during a press conference on Oct. 7, announcing the award. "Having much more light for much less electricity is really going to have a big impact."
+
+The new Nobel award winners worked for years to achieve blue LEDs. When combined with red and green LEDs, they can create white light. Red and green LEDs have been around since the 1960s, but the blue LEDs were not discovered until the 1990s.
+
+"A lot of big companies really tried to do this and they failed," said Nobel committee member Per Delsing in Sweden. "But these guys persisted and they tried and tried again and eventually they actually succeeded."
+
+## This Is How It Gives Off Light
+
+The achievement required the growth of high-quality crystals, used as semiconductors. The team grew the crystals from gallium nitride, a semiconductor that produces blue light. Semiconductors allow electricity to flow between a conductor, such as copper, and an insulator, like glass.
+
+Inside semiconductors, electrons and "holes," or spaces without electrons, can move around the crystal structure to allow electrical current to flow. When the right voltage is applied to the semiconductor, electrons and holes will join and give off light. The wavelength of the light—the color — can be different depending on the type of semiconductor and amount of electrical current used. The amount of energy needed for these gallium nitride crystals creates ultraviolet and blue light.
+
+## Bright Light, No Heat
+
+LED bulbs are brighter, last much longer and require much less energy than traditional incandescent lightbulbs. Incandescent bulbs use electricity to heat a thin metal strand called a filament. It wastes energy by giving off both heat and light. Instead, LEDs convert energy into light, without the heat.
+
+LEDs also avoid problems of fluorescent lights, the long, thin lights that light office ceilings. Florescent lights rely on mercury, which pollutes the environment when it is thrown away.
+
+LED technology now lights our smart phone screens and phone flashlights, as well as many household lights. Even the twinkling lights put on Christmas trees are LEDs. And because ultraviolet light kills bacteria, blue LEDs could potentially be used to purify drinking water in the future, Delsing said. "I really think that Alfred Nobel would be very happy about this prize. He wanted his prize to be given for inventions that benefited mankind."
+
+## Team Of Winners
+
+Akasaki and Amano worked together at the University of Nagoya in Japan to make the discovery. Nakamura worked independently at the Nichia Chemicals company in Japan. He improved on the earlier discovery by Akasaki and Amano.
+
+Nakamura is now a professor of engineering at the University of California, Santa Barbara. He learned of his award in the middle of the night and phoned into the press conference to describe the feeling of winning. "It's unbelievable," Nakamura said. "It's amazing. Unbelievable."
+
+Akasaki was also informed by phone. Yet, the Nobel Prize committee had not yet reached Amano when it made the announcement, because he happened to be flying from Japan to France.
+
+Every year, likely winners wait near their telephones hoping for a call notifying them that they are Nobel Prize winners. The award is the highest one in science. In addition, each winner, or team of winners, receives a $1.1 million prize.
+
+"I think actually they were not prepared for it," said Staffan Normark, of the Royal Swedish Academy of Sciences, which runs the Nobel Prize committee. "They had not been waiting all day or all night for this call."

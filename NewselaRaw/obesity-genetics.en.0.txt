@@ -1,0 +1,43 @@
+Scientists have finally figured out how the key gene tied to obesity makes people fat, a major discovery that could open the door to an entirely new approach to the problem beyond diet and exercise.
+
+The work solves a big mystery: Since 2007, researchers have known that a gene called FTO was related to obesity, but they didn't know how, and could not tie it to appetite or other known factors.
+
+Now experiments reveal that a faulty version of the gene causes energy from food to be stored as fat rather than burned. Genetic tinkering in mice and on human cells in the lab suggests this can be reversed, giving hope that a drug or other treatment might be developed to do the same in people.
+
+The work was led by scientists at MIT and Harvard University and published online Wednesday by the New England Journal of Medicine.
+
+The discovery challenges the notion that "when people get obese it was basically their own choice because they choose to eat too much or not exercise," said study leader Melina Claussnitzer, a genetics specialist at Harvard-affiliated Beth Israel Deaconess Medical Center. "For the first time, genetics has revealed a mechanism in obesity that was not really suspected before" and gives a third explanation or factor that's involved.
+
+Independent experts praised the discovery.
+
+"It's a big deal," said Dr. Clifford Rosen, a scientist at Maine Medical Center Research Institute and an associate editor at the medical journal.
+
+"A lot of people think the obesity epidemic is all about eating too much," but our fat cells play a role in how food gets used, he said. With this discovery, "you now have a pathway for drugs that can make those fat cells work differently."
+
+Several obesity drugs are already on the market, but they are generally used for short-term weight loss and are aimed at the brain and appetite; they don't directly target metabolism.
+
+Researchers can't guess how long it might take before a drug based on the new findings becomes available. But it's unlikely it would be a magic pill that would enable people to eat anything they want without packing on the pounds. And targeting this fat pathway could affect other things, so a treatment would need rigorous testing to prove safe and effective.
+
+The gene glitch doesn't explain all obesity. It was found in 44 percent of Europeans but only 5 percent of blacks, so other genes clearly are at work, and food and exercise still matter.
+
+Having the glitch doesn't destine you to become obese but may predispose you to it. People with two faulty copies of the gene (one from Mom and one from Dad) weighed an average of 7 pounds more than those without them. But some were obviously a lot heavier than that, and even 7 pounds can be the difference between a healthy and an unhealthy weight, said Manolis Kellis, a professor at MIT.
+
+He and Claussnitzer are seeking a patent related to the work. It was done on people in Europe, Sweden and Norway, and funded by the German Research Center for Environmental Health and others, including the U.S. National Institutes of Health.
+
+Obesity affects more than 500 million people worldwide and contributes to a host of diseases. In the U.S., about one-third of adults are obese and another one-third are more modestly overweight.
+
+The FTO gene turns out to influence obesity indirectly, as a master switch that affects two other genes that control thermogenesis, or burning off energy. It's long been known that brown or beige fatty tissue — the so-called "good fat" — burns calories, while the more common white fat stores them. The body constantly makes fat cells, and the two genes determine whether they become brown or white ones.
+
+In one experiment described in the medical journal, researchers blocked the faulty gene's effect in mice and found they became 50 percent leaner than other mice despite eating a high-fat diet, and burned more energy even when asleep.
+
+In other tests on human cells, blocking the gene's effect increased energy burning in fat cells. Editing out the problem gene in human cells in the lab also restored normal metabolic function.
+
+Researchers don't know the impact of having just one faulty copy of the gene but think it has less of an effect than having two copies.
+
+Several companies are trying to develop treatments to stimulate brown fat, and the new research suggests a novel approach.
+
+"It's a potential target" for drug development, said Dr. Sam Klein, an obesity researcher at Washington University in St. Louis. He called the work "an amazing study" and "a scientific tour de force."
+
+Dr. Rudolph Leibel, an obesity expert at Columbia University in New York, used the same term — "tour de force." Still, some earlier research suggests the FTO gene may influence other aspects of obesity such as behavior and appetite.
+
+"It's possible there are several mechanisms being affected," and that fat-burning is not the whole story, he said.

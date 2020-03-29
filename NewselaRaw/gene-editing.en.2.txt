@@ -1,0 +1,55 @@
+A highly anticipated scientific conference happened last week in Washington, D.C. Leading scientists gathered together to discuss the promise and possible problems of gene editing.
+
+Gene editing involves changing, or editing, the body's genome — its collection of genes. Scientists can edit genomes by adding, removing or altering genes. 
+
+## When Should Genes Be Edited?
+
+Until recently, human gene editing was more of an intriguing idea than anything realistically doable. Now, however, new technological advances are making it increasingly possible. Scientists at the week's conference are considering the possible repercussions of its use, and are trying to reach an agreement on when and how it should be used.
+
+"We are close to be being able to alter human heredity," scientist David Baltimore said. Heredity is the set of traits that genes pass down from parent to child.
+
+"When will we be prepared to say we are justified to use gene editing for human enhancement purposes?" Baltimore asked.
+
+## When Will It Be Needed?
+
+An enhancement is an improvement, but it may not always be necessary, or even important. Baltimore said it is time to begin figuring out which enhancements are important enough to call for gene editing.
+
+For example, are enhancements like boosting muscle tone or achieving perfect musical pitch important enough? Or should gene editing be reserved for preventing disease? 
+
+Scientists at the conference disagree over whether certain types of gene-editing would be important for helping patients. One prominent researcher claimed the technology would not often be needed. Another described serious medical needs for it. 
+
+## Lowering The Risk Of Disease
+
+Baltimore led the three-day conference. He believes the determining factor in deciding whether gene editing is appropriate is whether a particular change would improve a patient's health.
+
+Making a change to the PCSK9 gene, for example, would lower the risk of cardiovascular disease. For someone with high LDL — the bad kind of cholesterol — it could be the difference between life and death, he says. In that case the intervention would be clearly worth doing, and not simply a medically unnecessary enhancement. 
+
+Whether or not to pursue "improvements" that are more optional is a question that remains murky, however. Such enhancements have not been attempted yet, but could happen very soon.
+
+## Technology Is Getting Better And Cheaper
+
+Take the DEC2 gene. Altering it could make a person into one of those rare individuals who are able to get by with just a few hours of sleep. The trait is not necessary for most people, but it could be useful for a soldier in the battlefield, for example. 
+
+Ultimately, enhancements of many kinds will "definitely" happen in the future, says Fyodor Urnov of Sangamo BioSciences, a company that is now working on gene editing. The only question, he says, is when they will happen.
+
+The development of cheaper and more accurate gene editing technologies is forcing researchers to consider these questions quickly. Most notably, researchers are eyeing a powerful technology known as CRISPR. It allows scientists to edit many genes at once. 
+
+CRISPR could provide a greater understanding of the human body and help patients in need of medical care. Possible problems with the method have already been uncovered, however. Chinese scientists who recently experimented with CRISPR observed unexpected changes to parts of the genome that had not been intentionally gene edited.
+
+## Afraid Of Unforeseen Results
+
+The week's conference may provide some guidelines on the use of both CRISPR and older gene editing technologies. 
+
+At issue is when and how to use gene editing on humans. Gene editing could involve altering genes in one person, either to treat a disease or to introduce some perhaps unnecessary improvement. More controversially, it could also include making changes that would then alter the genome for an individual's children, grandchildren and the following generations. This second kind of gene editing is known as germ line editing. Many feel it is risky, as it could lead to unforeseen results. 
+
+## Guidelines Needed
+
+Most scientists at the week's meeting are enthusiastic about using gene editing to cure diseases in individual patients. However, they remain more wary of making changes that would affect future generations.
+
+Yet, one prominent scientist argued that there is a real and medically sound need for germ line editing. There are patients who it could help immensely, he said.
+
+Considering the range of opinions, the need to establish some set of standard practices is undeniable.
+
+There is currently no international organization that would be able to enforce regulations on gene editing. Scientists and others can only look for some set of widely agreed-upon guidelines. 
+
+Many people will be carefully watching what comes next.
